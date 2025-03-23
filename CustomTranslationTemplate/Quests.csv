@@ -1,0 +1,188 @@
+ID,Key,String
+38923046912,CLEAR_QUEST_DESCRIPTION,Defeat {AMOUNT} enemy encounters.
+638876291072,COLLECT_PROMPT,Collect
+729003495424,COLLECT_QUEST_DESCRIPTION,Collect {AMOUNT} {ITEM}
+1194118254592,COLLECT_QUESTITEM,Collect Quest Item
+1938676976095232,GAMEOBJECTIVE0,Alissa's Fate
+1938677001261056,GAMEOBJECTIVE1,Talk to Eden
+1938677001261057,GAMEOBJECTIVE2,Talk to the grieving girl
+1938677001261058,GAMEOBJECTIVE3,Wait for Alissa to make a decision.
+1938677001261059,GAMEOBJECTIVE4,Anniversary Present
+1938677001261060,COMPLETE_QUEST_OBJECTIVE,"Complete Quest: ""{QUEST}"""
+1938677001261061,GAMEOBJECTIVE6,Astrid's Past
+1938677001261063,GAMEOBJECTIVE8,Craft an Item
+1938677001261064,GAMEOBJECTIVE9,Craft a Potion
+1938677001261065,GAMEOBJECTIVE10,Create an Adventuring Party
+1938677001261066,GAMEOBJECTIVE11,Defeat Bai in a duel
+1938677001261067,GAMEOBJECTIVE12,Dragon Trouble
+1938677001261069,GAMEOBJECTIVE14,Eden and Nora
+1938677001261071,GAMEOBJECTIVE16,The Flower Of Eternity
+1938677001261072,COMPLETE_ASSIGNMENT_OBJECTIVE,"Complete Assignment: ""{ASSIGNMENT}"""
+1938677001261073,GAMEOBJECTIVE18,Keep Searching
+1938677001261075,GAMEOBJECTIVE20,"Start the Story-Quest ""{QUEST}"""
+1938677001261076,GAMEOBJECTIVE21,Convince the Paladin to join
+1938677001261079,GAMEOBJECTIVE24,Luana's Worries
+1938677001261081,GAMEOBJECTIVE26,Talk with Fiola
+1938677001261082,GAMEOBJECTIVE27,Visit the Tavern and have at least 4 Adventurers.
+1938677001261083,GAMEOBJECTIVE28,"Have the following items:
+2 Bandages, 2 Antidotes, 2 minor Health Potions and 2 minor Mana Potions"
+1938677001261084,GAMEOBJECTIVE29,Visit the Temple
+1938677001261085,GAMEOBJECTIVE30,Accept your first Quest
+1938677001261086,GAMEOBJECTIVE31,Visit the Blacksmith
+1938677001261087,GAMEOBJECTIVE32,Visit the Training Ground
+1938677001261088,GAMEOBJECTIVE33,End the Day
+1938677001261089,REACH_REPUTATION_OBJECTIVE,"Reach Reputation ""{REPUTATION}"""
+1938677001261091,GAMEOBJECTIVE36,Meet Fiola at the Tavern
+1938677001261092,GAMEOBJECTIVE37,Visit Emily at the Alchemist Workshop
+1938677001261094,COMPLETE_RANK_QUEST,"Complete the Quest ""{QUEST}""
+(Required for next Reputation Rank)"
+1938677001261102,GAMEOBJECTIVE47,Locate the Witch through Assignments
+1938677001261106,GAMEOBJECTIVE51,Defeat the Emperor and the Guild will reach the pinnacle of Glory.
+1938677001261107,GAMEOBJECTIVE52,Majika's Son
+1938677001261109,GAMEOBJECTIVE54,Misasa's Failures
+1938677001261110,GAMEOBJECTIVE55,Talk with the Divine Messenger about Misasa
+1938677001261112,GAMEOBJECTIVE57,A letter from the Past
+1938677001261114,GAMEOBJECTIVE59,Have at least 10 adventurers
+1938677001261115,GAMEOBJECTIVE60,Find Rogue's friend
+1938677001261116,GAMEOBJECTIVE61,The Lich
+1938677001261118,GAMEOBJECTIVE63,Ask Emily about the plant
+1938677001261119,GAMEOBJECTIVE64,Teach an Adventurer a Skill
+1938677001261120,GAMEOBJECTIVE65,Weapon of Death
+1938677001261122,GAMEOBJECTIVE67,The Talking Sword
+1938677001261123,GAMEOBJECTIVE68,Upgrade Ferdinand
+1938677001261124,GAMEOBJECTIVE69,Keep upgrading Ferdinand
+1938677001261127,GAMEOBJECTIVE72,Improve Ferdinand one last time
+1938677001261128,GAMEOBJECTIVE73,Swordmaster
+2234421998424064,EXPLORE_QUEST_DESCRIPTION,Explore {AMOUNT}% of the map.
+2254375707643904,HUNT_QUEST_DESCRIPTION,Find the {BOSS} and defeat them!
+2257732644016128,LIMITEDTYPE_PERREST_TEXT,Per Rest
+3694584198500352,QUEST_DIFFICULTY_TEXT,Difficulty: {RANK}
+3696182995881984,QUESTMAP_DURATIONTYPE_ENCOUNTERS,Encounters
+3696321483411456,QUESTMAP_DURATIONTYPE_TURNS,Turns
+3696444867252224,QUESTMAP_STATUSEFFECT_TEXT,"For {DURATION} {DURA_TYPE} or until next camping:
+{EFFECT_DESCRIPTION}"
+3696877039947776,QUESTMAP_STATUSEFFECT_UNTILENDOFQUEST_TEXT,"Until end of quest:
+{EFFECT_DESCRIPTION}"
+3707449055809536,SHOVEL_AVAILABLE,"You can use a shovel to remove the obstacle.
+(Difficulty: <color=red>{DIFFICULTY}</color>, Current Highest Modifier: <color=#2aa136>{MODIFIER}</color>)"
+3708542573776896,SHOVEL_AVAILABLE_TITLE,Shovel available
+3712049011920896,START_EVENT_PROMPT,Start Event
+3712157547925504,STATGAIN_TEXT,The following adventurers gain: {STAT_GAINS}
+3713306170658816,SURVIVAL_QUEST_DESCRIPTION,Survive {AMOUNT} waves of enemies
+3990929509617664,STORY_QUEST1,The missing son
+3990929513811968,STORY_QUEST1_DESCR,"An old couple has made a request to find their son, an adventurer unaffiliated with the Guild, who has gone missing after accepting a Quest to collect herbs."
+3990929513811969,STORY_QUEST2,A Village in Need
+3990929513811970,STORY_QUEST2_DESCR,A village is threatened by the men of the bandit king. Help the villagers by protecting them from the bandits.
+3990929513811971,STORY_QUEST3,Defeat Bai
+3990929513811972,STORY_QUEST3_DESCR,"Bai has agreed to teach her martial arts to the adventurers in the Adventurers Guild. However, only on the condition that one of the adventurer is able to win against her in a one-on-one fight."
+3990929513811973,STORY_QUEST4,Rogue's friend
+3990929513811974,STORY_QUEST4_DESCR,Rogue wants the Adventurers Guild's help to find her friend before her old enemies do so. She wants the adventurer to check one of the possible hideouts while she checks the other.
+3990929513811975,STORY_QUEST5,Necromancer Lair
+3990929513811976,STORY_QUEST5_DESCR,"Zoldak, the Paladin, has asked the Adventurer Guild to defeat a necromancer who has made a lair near the village he's protecting. If you manage to do so, he will consider joining the Adventurer Guild."
+3990929513811977,STORY_QUEST6,A Simple Task
+3990929513811978,STORY_QUEST6_DESCR,"Fiola has asked you to collect some rainbow flowers. Surely a harmless task, right?"
+3990929513811979,STORY_QUEST7,The Routed Army
+3990929513811980,STORY_QUEST7_DESCR,Cecillia Greyhorn's elder brother Gilbert Greyhorn has gone missing since their clash with the Bandit King. You are tasked to find him and bring him back home. If he is still alive.
+3990929513811981,STORY_QUEST8,The Bandit King
+3990929513811982,STORY_QUEST8_DESCR,House Greyhorn has hired the Adventurer Guild to support their forces against their fight with the Bandit King. It's time to put an end to the Bandit King's reign of terror.
+3990929513811983,STORY_QUEST9,Lost Expedition
+3990929513811984,STORY_QUEST9_DESCR,"Majika's son and his research team set out to explore the ancient ruins of an empyrean stronghold. However, no news of their well-being has reached anybody since their depature. Concerned about her son's safety, Majika has asked the Guild to help her in finding him."
+3990929513811985,STORY_QUEST10,The Road Slasher
+3990929513811986,STORY_QUEST10_DESCR,Barret has asked you to put an end to the Road Slasher's indiscriminate killing of travelers and the only way to lure the Road Slasher is for an adventurer to travel alone along the path he has been last seen.
+3990929513811987,STORY_QUEST11,An Epic For The Ages
+3990929513811988,STORY_QUEST11_DESCR,Vincent has brought to our attention that a dragon has been spotted nearby. A dangerous beast like that can not be left alone.
+3990929513811989,STORY_QUEST12,Past Glory
+3990929513811990,STORY_QUEST12_DESCR,"A grand tournament is being held in the town of Cragmond and Falken's former party are participating in it, believing that they'll win. Rain on their parade by letting our adventurers join the tournament and best them."
+3990929513811991,STORY_QUEST13,The Wandering Swordsman
+3990929513811992,STORY_QUEST13_DESCR,"Rumors have spread that a wandering swordsman has been challenging reputable swordmasters and defeating them. Bai, who has taken an interest in the mysterious swordsman, wants to meet them and challenge them to a duel."
+3990929513811993,STORY_QUEST14,First Love
+3990929513811994,STORY_QUEST14_DESCR,Astrid's former lover has joined hands with cultists and has been last spotted in a cave. Find him and make him pay for his crimes against the Adventurer Guild.
+3990929513811995,STORY_QUEST15,The Flower Of Eternity
+3990929513811996,STORY_QUEST15_DESCR,The Elder from Hopi's tribe seems to have a lead regarding the Flower of Eternity. Accompany Emily during her meeting with the Lephoz Elder and make sure she stays safe.
+3990929513811997,STORY_QUEST16,From The Shadows
+3990929513811998,STORY_QUEST16_DESCR,Rogue has snuck away from the Adventurer Guild without saying anything. Find her and bring her back!
+3990929513811999,STORY_QUEST17,Misasa's Soul
+3990929513812000,STORY_QUEST17_DESCR,"Belephegor the Slothful is willing to negotiate with Misasa about her pact with him. But is there anything they could do to annul it?
+<b><color=orange>(Misasa needs to be part of the adventurer team.)</b>"
+3990929513812001,STORY_QUEST18,Third Disciple
+3990929513812002,STORY_QUEST18_DESCR,"It appears that one of the Witch's disciples has been seen with a powerful vampire known as ""The Mistress."" This vampire is known to reside in an ancient castle, which is likely where the Witch's disciple can be found."
+3990929513812003,STORY_QUEST19,Test Quest
+3990929513812004,STORY_QUEST19_DESCR,Test Quest to test encounters.
+3990929513812005,STORY_QUEST20,Father And Daughter
+3990929513812006,STORY_QUEST20_DESCR,Eden requested the company of some adventurers to accompany him to his daughter's grave. You and Nora decided to join him to pay your respect.
+3990929513812007,STORY_QUEST21,The First Disciple
+3990929513812008,STORY_QUEST21_DESCR,We have reasons to believe that one of the disciple of the witch has been making contact with a Lephoz tribe trying to win them for their cause. Finding the disciple will surely bring us closer to the Witch.
+3990929513812009,STORY_QUEST22,The Second Disciple
+3990929513812010,STORY_QUEST22_DESCR,A disciple of the Witch has been spotted working with the goblins. They are amassing an army to attack a nearby town. They have to be stopped.
+3990929513812011,STORY_QUEST23,Sins Of The Past
+3990929513812012,STORY_QUEST23_DESCR,The Church of the Divines has enlisted the Guild's help in defeating a lich. Find it and put an end to its unnatural existence.
+3990929513812013,STORY_QUEST24,Snow White
+3990929513812014,STORY_QUEST24_DESCR,A ghost seems to be hunting jotun travelers and the Guild was tasked to put an end to it. You received a tip where the presence of the ghost seem to be the strongest. Investigate the area and put an end to the ghost's killing spree.
+3990929513812015,STORY_QUEST25,The Spider Queen
+3990929513812016,STORY_QUEST25_DESCR,"The population of giant spiders in a cave has gone out of control due to the presence of a Spider Queen. Slay the beast, so that the cave can be finally cleared."
+3990929513812017,STORY_QUEST26,Troll Hunt
+3990929513812018,STORY_QUEST26_DESCR,Kill the troll and put an end to the abductions of humans.
+3990929513812019,STORY_QUEST27,Scholarly Pursuits
+3990929513812020,STORY_QUEST27_DESCR,"The last parts of an ancient ruin is being guarded by undead soldiers. The clients want those undead eliminated, so that they can study the remaining ruins."
+3990929513812021,STORY_QUEST28,An Unnatural Storm
+3990929513812022,STORY_QUEST28_DESCR,"The existence of a Storm Talon is causing a storm in a nearby area, devastating the landscape and causing damage to nearby villages and cities. Find and kill it to put an end to the storm."
+3990929513812023,STORY_QUEST29,The Divine Hunt
+3990929513812024,STORY_QUEST29_DESCR,Rescue the captives that have been captured during a raid by jotuns.
+3990929513812025,STORY_QUEST30,The Emperor
+3990929513812026,STORY_QUEST30_DESCR,"It's time to finally put an end to this age old conflict.
+<color=orange>(This is the last battle and will end the game.)"
+3990929513812027,STORY_QUEST31,The Siege
+3990929513812028,STORY_QUEST31_DESCR,The Guild is under siege! Try to survive it!
+3990929513812029,STORY_QUEST32,Burn the Witch
+3990929513812030,STORY_QUEST32_DESCR,The location to the Witch has finally been revealed. It is now time to put an end to the Witch and her cult.
+3990929513812031,STORY_QUEST33,The Beginnings
+3990929513812032,STORY_QUEST33_DESCR,"You're currently on your way to Adventurer Guild. You're accompanied by several young adventurers who have been sent to bring you back to the Guild safely. From what you can tell, they're not very experienced."
+3990929513812033,STORY_QUEST34,Vorathax The Terror
+3990929513812034,STORY_QUEST34_DESCR,"Zephyrion, a man who seems to have a special connection to Ferdinand, was last seen on his way to challenge the red dragon Vorathax the Terror. Find him and confirm his current status, whether he still draws breath or has already met his fate."
+4311277253857280,STORY_QUEST_GOAL01,Find the lost son. Time matters!
+4321368476651520,STORY_QUEST_GOAL02,Protect the village
+4321473778847744,STORY_QUEST_GOAL03,Defeat Bai
+4321543618203648,STORY_QUEST_GOAL04,Check the Hideout
+4321683863146496,STORY_QUEST_GOAL05,Defeat the Necromancer
+4321802641641472,STORY_QUEST_GOAL06,Collect Rainbow Flowers
+4321925685743616,STORY_QUEST_GOAL07,Find Gilbert
+4322007428534272,STORY_QUEST_GOAL08,Gilbert has to survive
+4322113678643200,STORY_QUEST_GOAL09,Defeat the Bandit King
+4322309590388736,STORY_QUEST_GOAL10,Find Majika's son.
+4322465572360192,STORY_QUEST_GOAL11,Find and defeat the Road Slasher
+4322904032317440,STORY_QUEST_GOAL12,Defeat the Dragon
+4323070424551424,STORY_QUEST_GOAL13,Win the Tournament
+4323153887006720,STORY_QUEST_GOAL14,Defeat the Swordmaster
+4323263127654400,STORY_QUEST_GOAL15,Defeat the Cultists
+4323349303824384,STORY_QUEST_GOAL16,Find the Flower Of Eternity
+4323493768237056,STORY_QUEST_GOAL17,Catch Up to Rogue
+4323639809708032,STORY_QUEST_GOAL18,Negotiate with Belephegor
+4323759066353664,STORY_QUEST_GOAL19,Defeat the vampires and the cultists
+4323917652987904,CLEAR_QUEST_GOAL,Defeat enemies({ENEMY_COUNTER})
+4324098846920704,COLLECT_QUEST_GOAL,Collect all requested items({COLLECTION_COUNTER})
+4324394109145088,TEST_QUEST_GOAL,Test the Encounter
+4324524904321024,Explore the area(#EXPLORATION),Explore the area({EXPLORATION})
+4324701606154240,STORY_QUEST_GOAL20,Escort Eden and Nora and keep them safe
+4324936214548480,STORY_QUEST_GOAL21,Defeat the Witch Disciple
+4325122055770112,HUNT_QUEST_GOAL,Eliminate {BOSS}
+4325256130891776,STORY_QUEST_GOAL22,Defeat the goblins and the cultists
+4325357922455552,STORY_QUEST_GOAL23,Defeat the Lich
+4325491175493632,STORY_QUEST_GOAL24,Put the spirit to rest.
+4325702820073472,STORY_QUEST_GOAL25,Kill the Spider Queen
+4325808457814016,STORY_QUEST_GOAL26,Eliminate the Troll
+4325886778052608,STORY_QUEST_GOAL27,Defeat the undead soldiers
+4325990452858880,STORY_QUEST_GOAL28,Kill the Storm Talon
+4326083285389312,SURVIVAL_QUEST_GOAL,Survive {AMOUNT} waves of enemies
+4326252835934208,STORY_QUEST_GOAL29,Find and defeat the Jotuns and Cultists
+4326445333516288,STORY_QUEST_GOAL30,The Divine Messenger has to survive.
+4326530461110272,STORY_QUEST_GOAL31,Free the Goddess
+4326609200779264,STORY_QUEST_GOAL32,Survive the Siege
+4326689450397696,STORY_QUEST_GOAL33,Put an end to the witch
+4326814071558144,TUTORIAL_QUEST_GOAL,Reach the Adventurer Guild
+4326929066790912,STORY_QUEST_GOAL34,Save Zephyrion
+4335094172913664,MASOCHIST_EFFECT,Character recovers BP whenever they get hit in battle but suffers {POTENCY}% more damage.
+4373919737745408,EMPEROR_FIGHT_INTRO_LINE,Bend the knee or suffer the consequences.
+4374175938416640,EMPEROR_CHAMPION_FIGHT_INTRO_LINE,...Kill...Them...
+4374386530226176,VORATHAX_FIGHT_INTRO_LINE,"Let me hear you scream, little mice!"
+4374614570340352,DEMONIC_WITCH_INTRO_LINE,"This place will become your grave, adventurers!"
+10206219836043264,QUEST_EXPIRE_TEXT,{DURATION} {DURATION:cond:=1?Day|Days} remaining

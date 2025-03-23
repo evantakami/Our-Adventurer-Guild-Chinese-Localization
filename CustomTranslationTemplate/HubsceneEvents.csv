@@ -1,0 +1,204 @@
+ID,Key,String
+868035871019008,HUBSCENE_EVENT1,A day with a pessimist
+868035904573440,HUBSCENE_EVENT_DESCR1,{CHARACTER2} had the unfortunate opportunity to spend some time with {CHARACTER1}. Unfortunately for {GENDER2:cond:=1?him|=0?her} this was one of {CHARACTER1}'s darker days and {CHARACTER1} couldn't help but spout depressing thoughts. {CHARACTER2} wasn't a saint so it was only natural that at some point {GENDER2:cond:=1?he|=0?she} snapped at {CHARACTER1}. 
+868035908767744,HUBSCENE_EVENT2,A Job well done
+868035908767745,HUBSCENE_EVENT_DESCR2,After their success in their latest quest the adventurers of the party {PARTY} celebrated at the tavern with a grand feast. This will definitely improve everyone's mood.
+868035912962048,HUBSCENE_EVENT3,{CHARACTER1} fell ill
+868035912962049,HUBSCENE_EVENT_DESCR3,"Things got a little hectic today when {CHARACTER1} suddenly collapsed. {GENDER1:cond:=1?he|=0?she} was immediately brought to Eden in a hurry and everyone expected the worst whe {GENDER1:cond:=1?he|=0?she} started to cough blood.
+ 
+It was very surprising to hear that {CHARACTER1} just got a cold and only has to stay in bed for a while."
+868035912962050,HUBSCENE_EVENT4,Alissa
+868035912962051,HUBSCENE_EVENT_DESCR4,"Alissa always struggled with the memories of her family's death. She joined the Guild in hope to find strength and no one knew if she would find what she was looking for.
+
+However, since her Quest with the Bandit King, Alissa seemed to be more at peace. To say that she has become a cheerful girl would be an overstatement but people were able to see her smile more often than she used to.
+When someone commented on her change in behaviour, she replied:
+
+""I guess it's because after a long time, I suddenly feel hopeful about the future again."""
+868035912962052,HUBSCENE_EVENT5,Arguments in the Tavern
+868035912962053,HUBSCENE_EVENT_DESCR5,"Some of our Adventurers got into an argument with travellers. It seems like they made fun of the Guild and adventurers in general. Tavi was able to stop the adventurers before anything could happen but needless to say it left the adventurers in a sour mood.
+As long the Guild doesn't prove itself we'll have to endure being looked down upon."
+868035912962054,HUBSCENE_EVENT6,{CHARACTER1} annoys everyone
+868035912962055,HUBSCENE_EVENT_DESCR6,{CHARACTER1} has always been acting somewhat arrogant so most adventurers learned to live with it. But today {CHARACTER1} seemed to be in a great mood which in turn made {GENDER1:cond:=1?him|=0?her} even more insufferable to those unlucky enough to be close to {GENDER1:cond:=1?him|=0?her}.
+868035912962056,HUBSCENE_EVENT7,{CHARACTER1} is being looked down upon
+868035912962057,HUBSCENE_EVENT_DESCR7,{CHARACTER1} and {CHARACTER2} had an argument today after {CHARACTER2} tried to make {CHARACTER1} {GENDER2:cond:=1?his|=0?her} gofer for the day just because {CHARACTER1} was of a lower rank than {GENDER2:cond:=1?him|=0?her}. We probably should remind {CHARACTER2} that lower ranked adventurers aren't {GENDER2:cond:=1?his|=0?her} personal servants.
+868035912962058,HUBSCENE_EVENT8,{CHARACTER1} visits the tavern.
+868035912962059,HUBSCENE_EVENT_DESCR8,{CHARACTER1} decided to spend the day in the tavern to cheer {GENDER1:cond:=1?himself|=0?herself} up. {GENDER1:cond:=1?he|=0?she} won't do anything else for today.
+868035912962060,HUBSCENE_EVENT9,{CHARACTER1} takes time off
+868035912962061,HUBSCENE_EVENT_DESCR9,"{CHARACTER1} has been in a bad mood lately and decided that {GENDER1:cond:=1?he|=0?she} will take some time off to relax.
+No matter what others might say."
+868035912962062,HUBSCENE_EVENT10,Bai Brawl
+868035912962063,HUBSCENE_EVENT_DESCR10,"Bai has found herself a new victim with {CHARACTER1}. After a short unpleasant exchange, followed by an onesided fist fight, {CHARACTER1} was on {GENDER1:cond:=1?his|=0?her} face, now with less gold in {GENDER1:cond:=1?his|=0?her} pocket and definitely in a worse mood."
+868035912962064,HUBSCENE_EVENT11,Fistfight
+868035912962065,HUBSCENE_EVENT_DESCR11,"Today Falken had to break up a fight between a big group of our Adventurers. When asked why they started to brawl, none of them could really tell what started it. When the injured adventurers were all brought to Eden, he could do nothing but sigh.
+At least it doesn't seem like there were any hard feelings after the fight. For now we should just consider this incident as them letting out some aggression."
+868035912962066,HUBSCENE_EVENT12,Black Cats 
+868035912962067,HUBSCENE_EVENT_DESCR12,"Adventurers aren't usually the superstitious type but when the Guild seems to suddenly harbor black cats in every corner you look, they can't help but to wonder if this was a sign from the gods that something bad was close to happening."
+868035912962068,HUBSCENE_EVENT13,{CHARACTER1} sees blood
+868035912962069,HUBSCENE_EVENT_DESCR13,{CHARACTER1} and {CHARACTER2} weren't exactly friends but this time they nearly got into a serious fight if people around them didn't stop them. Apparently {CHARACTER1} was feeling bloodthirsty and was hoping to provoke {CHARACTER2} into a fight. I doubt they actually wanted to kill each other but we might need to keep an eye on their Relationship before things really escalate.
+868035912962070,HUBSCENE_EVENT14,{CHARACTER1} tells a story
+868035912962071,HUBSCENE_EVENT_DESCR14,"{CHARACTER1} and {CHARACTER2} have been seen talking with each other. Or at least {CHARACTER1} was talking. {CHARACTER2} couldn't get a word in and was just listening the whole time. From what people could tell, it wasn't a very exciting story but {CHARACTER2} still sat there and listened to it.
+
+For three hours."
+868035912962072,HUBSCENE_EVENT15,Bravery and Cowardice
+868035912962073,HUBSCENE_EVENT_DESCR15,It seems like {CHARACTER1} and {CHARACTER2} got into an argument when they both discussed about the value of bravery in a battle. {CHARACTER1} believes that only if they conquer their fears will they be able to overcome their enemies while {CHARACTER2} is of the opinion that only fear is what will keep them alive and let them make the smart decision. In the end neither of them saw the other's point and the discussion only resulted in a lower opinion for each other.
+868035912962074,HUBSCENE_EVENT16,{CHARACTER2} loses Dumb Trait
+868035917156352,HUBSCENE_EVENT_DESCR16,Lately {CHARACTER1} and {CHARACTER2} have been seen spending a lot of time together.  Surprisingly it seems like {CHARACTER1} was teaching {CHARACTER2} basic arithmetic and literacy. Most would have probably thought that {CHARACTER2} is incapable of learning such things but apparently {CHARACTER1} thought otherwise. More surprisingly is the fact that it seems like {CHARACTER2} actually has become smarter. Maybe {GENDER2:cond:=1?he|=0?she} was never as dumb as people believed {GENDER2:cond:=1?him|=0?her} to be.
+868035917156353,HUBSCENE_EVENT17,Gift of Gratitude
+868035917156354,HUBSCENE_EVENT_DESCR17,A gift was sent to the Adventurer Guild. Apparently all the captives the adventurers have rescued in their last Quest have pooled their money together to purchase an exceptional gift for the Guild.
+868035917156355,HUBSCENE_EVENT18,Gift of Gratitude
+868035917156356,HUBSCENE_EVENT_DESCR18,A gift was sent to the Adventurer Guild. Apparently the few captives the adventurers managed to rescure in their last Quest have sent a gift for the Adventurer Guild.
+868035917156357,HUBSCENE_EVENT19,Accident
+868035917156358,HUBSCENE_EVENT_DESCR19,{CHARACTER1} has gotten into another accident and injured {GENDER1:cond:=1?himself|=0?herself}. Fortunately the injury isn't as bad as it could be because {CHARACTER2} was close by and shared some of the pain. Much to {GENDER2:cond:=1?his|=0?her} dismay.
+868035917156359,HUBSCENE_EVENT20,Scary Bandits
+868035917156360,HUBSCENE_EVENT_DESCR20,Travellers have been telling more and more stories about the rise of Brutality amongst bandits. The kind of stories that would freeze your blood in terror. {CHARACTER1} who has been listening to all the stories couldn't help but be even more scared than usual now to get sent to another quest.
+868035917156361,HUBSCENE_EVENT21,A reason to live
+868035917156362,HUBSCENE_EVENT_DESCR21,{CHARACTER2} used to be the kind of crazy person where you wondered how {GENDER2:cond:=1?he|=0?she} was able to survive until now. But it seems now that that craziness has been curbed by {CHARACTER1}. {CHARACTER2} now wants to spend {GENDER2:cond:=1?his|=0?her} remaining life with {CHARACTER1} and now tries {GENDER2:cond:=1?his|=0?her} hardest to stay alive to have as much of that time as possible.
+868035917156363,HUBSCENE_EVENT22,The Egg Hatches
+868035917156364,HUBSCENE_EVENT_DESCR22,"Excitement started to spread amongst the people in the Guild when the supposed dragon egg the adventurers brought back with them surprisingly started to hatch. The egg wobbled, and small cracks appeared on its outer shell. The adventurers formed a tight circle around it to see what would come out of it.
+
+As the egg cracked open, a tiny creature crawled out of the shell. It really seemed like a dragon, except for one detail—it had no wings. Majika, present at the scene, remarked that the creature seemed to be a basilisk, not a dragon.
+
+A collective groan of disappointment rose from the adventurers, quickly silenced as the little hatchling fixed its big green eyes on them. Wobbling towards them on tiny feet, it unexpectedly hugged the leg of one adventurer, seemingly mistaking them for family. The adventurers, touched by this gesture, turned to the Guild Master with pleading eyes.
+
+In response, the Guild Master simply sighed and told the adventurers that they could keep it."
+868035917156365,HUBSCENE_EVENT23,Drunken harassment
+868035917156366,HUBSCENE_EVENT_DESCR23,"Today {CHARACTER1} made an very crude remark about {CHARACTER2}'s appearance. A remark that {CHARACTER2} took more than personally. Needless to say, {CHARACTER1} was drunk as usual when {GENDER1:cond:=1?he|=0?she} made that remark."
+868035917156367,HUBSCENE_EVENT24,Drink till you die
+868035917156368,HUBSCENE_EVENT_DESCR24,"It seems like {CHARACTER1} couldn't handle the stress and has been drowning {GENDER1:cond:=1?himself|=0?herself} in booze to ease {GENDER1:cond:=1?his|=0?her} sorrow. Most of the time you could find {GENDER1:cond:=1?him|=0?her} at the tavern no matter the time of day, drinking by {GENDER1:cond:=1?himself|=0?herself} or with anyone who wouldn't be to grossed out by {GENDER1:cond:=1?him|=0?her}. But sometimes at {GENDER1:cond:=1?his|=0?her} lowest {GENDER1:cond:=1?he|=0?she} could be found lying in some alley drenched in {GENDER1:cond:=1?his|=0?her} own vomit, slightly weeping."
+868035917156369,HUBSCENE_EVENT25,{CHARACTER1} is drunk
+868035917156370,HUBSCENE_EVENT_DESCR25,{CHARACTER1} has been drinking again and passed out in the tavern. It looks like we can't rely on {GENDER1:cond:=1?him|=0?her} for today.
+868035917156371,HUBSCENE_EVENT26,{CHARACTER1} encourages {CHARACTER2}
+868035917156372,HUBSCENE_EVENT_DESCR26,"It's apparent to anybody that {CHARACTER2} has been feeling down lately. Especially to {CHARACTER1} who is a close friend. {CHARACTER1} took {CHARACTER2} aside and spent some time with {GENDER2:cond:=1?him|=0?her} to cheer {GENDER2:cond:=1?him|=0?her} up. Whatever {CHARACTER1} did or said, it seems to have worked."
+868035917156373,HUBSCENE_EVENT27,Those left behind
+868035917156374,HUBSCENE_EVENT_DESCR27,"{CHARACTER1} is still struggling with the loss of {GENDER1:cond:=1?his|=0?her} friend {CHARACTER2}. While it isn't unusual for adventurers to experience the deaths of comrades, it's still not easy for {CHARACTER1} to simply move on."
+868035917156375,HUBSCENE_EVENT28,{CHARACTER1} got to the supplies
+868035917156376,HUBSCENE_EVENT_DESCR28,"Last night {CHARACTER1} has ""accidentally"" wandered into our supply room and made {GENDER1:cond:=1?himself|=0?herself} a ""midnight snack"". Needless to say, {CHARACTER1} is lying in {GENDER1:cond:=1?his|=0?her} room with a stomach ache and won't be available for today."
+868035917156377,HUBSCENE_EVENT29,Hangover
+868035917156378,HUBSCENE_EVENT_DESCR29,The adventurers we bought drinks for last night went a bit too far with their drinking. For today we can't expect much from them. At least they seemed to have fun together.
+868035917156379,HUBSCENE_EVENT30,Hidden Talent
+868035917156380,HUBSCENE_EVENT_DESCR30,"During training Majika sensed an unexpected magical potential in {CHARACTER1}. If this talent were to be nurtured, {CHARACTER1} could easily become a powerful mage."
+868035917156381,HUBSCENE_EVENT31,Hidden Talent
+868035917156382,HUBSCENE_EVENT_DESCR31,During training Falken has found an unexpected talent for swords in {CHARACTER1}. {CHARACTER1} had no trouble imitating the sword techniques that was shown to {GENDER1:cond:=1?him|=0?her} and easily handled swords like an extension of {GENDER1:cond:=1?his|=0?her} body.
+868035917156383,HUBSCENE_EVENT32,A hot blooded argument
+868035917156384,HUBSCENE_EVENT_DESCR32,"{CHARACTER1} and {CHARACTER2} had a simple conversation with each other until they ran into a topic that was dear to {CHARACTER1}. We don't know what was said but it turned into an argument. {CHARACTER2} tried to drop the subject but {CHARACTER1} wasn't willing to let it go. In the end {CHARACTER2} had to walk out of their conversation after {GENDER2:cond:=1?he|=0?she} lost {GENDER2:cond:=1?his|=0?her} patience.
+
+It took days until {CHARACTER1} finally stopped bringing the issue up."
+868035917156385,HUBSCENE_EVENT33,{CHARACTER1} is jealous
+868035917156386,HUBSCENE_EVENT_DESCR33,Talented people like {CHARACTER2} always attract some jealousy from other people so it isn't too surprising that an arrogant person like {CHARACTER1} would feel the same way.  {CHARACTER1} took every chance {GENDER1:cond:=1?he|=0?she} got to belittle {CHARACTER2} in front of others for any fault {GENDER1:cond:=1?he|=0?she} could find. 
+868035917156387,HUBSCENE_EVENT34,{CHARACTER1} helps the injured
+868035921350656,HUBSCENE_EVENT_DESCR34,{CHARACTER1} has helped tending the injured. With {GENDER1:cond:=1?his|=0?her} help the injured have recovered even faster.
+868035921350657,HUBSCENE_EVENT35,{CHARACTER1} breaks a table
+868035921350658,HUBSCENE_EVENT_DESCR35,"While playing cards with some other adventurers, {CHARACTER1} accidently broke a table, due to {GENDER1:cond:=1?his|=0?her} strength. Despite being a huge person with bulking muscles, {CHARACTER1} is also a kind-hearted person and hates the idea of causing problems for others. 
+
+As the other adventurers started to help {GENDER1:cond:=1?him|=0?her} pick up the broken pieces, they reassured {GENDER1:cond:=1?him|=0?her} that it's not a big deal and that accidents happen. But despite their best efforts, {CHARACTER1} was still ashamed by the whole ordeal and left the game early to not cause any more problems."
+868035921350659,HUBSCENE_EVENT36,{CHARACTER1} can't be found
+868035921350660,HUBSCENE_EVENT_DESCR36,{CHARACTER1} is nowhere to be found. Lately {GENDER1:cond:=1?he|=0?she} has been acting even more lazy than usual and complained a lot about work. Some people close to {GENDER1:cond:=1?him|=0?her} believed that {GENDER1:cond:=1?he|=0?she} went into hiding to skip on work and should be back eventually.
+868035921350661,HUBSCENE_EVENT37,{CHARACTER1} has left the Guild
+868035921350662,HUBSCENE_EVENT_DESCR37,Unsatisfied with the current circumstances {CHARACTER1} has left the guild. Maybe we could have done something to prevent that.
+868035921350663,HUBSCENE_EVENT38,Weak no more
+868035921350664,HUBSCENE_EVENT_DESCR38,{CHARACTER1} used to be a weak person who seemed unfit for the life of an adventurer. That person is no more. {CHARACTER1} has been with us long enough to get rid of any weakness and softness {GENDER1:cond:=1?he|=0?she} used to have. Now {GENDER1:cond:=1?he|=0?she} is a hardened adventurer who has proven {GENDER1:cond:=1?himself|=0?herself} more than once.
+868035921350665,HUBSCENE_EVENT39,Love Triangle
+868035921350666,HUBSCENE_EVENT_DESCR39,"It seems like {CHARACTER1} and {CHARACTER2} got into an argument with each other but won't tell what the reason for the argument was. 
+However, some of the other adventurers are gossiping that both of them are fancying the same person, which lead to the argument."
+868035921350667,HUBSCENE_EVENT40,Uncomfortable Training
+868035921350668,HUBSCENE_EVENT_DESCR40,"Today {CHARACTER2} asked {CHARACTER1} to spar with {GENDER2:cond:=1?him|=0?her} and {CHARACTER1} agreed, not knowing what {GENDER1:cond:=1?he|=0?she} has gotten {GENDER1:cond:=1?himself|=0?herself} into. After exchanging a few strikes {CHARACTER1} realized that {CHARACTER2} hardly put up any defense. On the contrary it seemed like {CHARACTER2} intentionally made it easy to hit {GENDER2:cond:=1?him|=0?her} and with every hit, {GENDER2:cond:=1?he|=0?she} gave out a little moan.
+It didn't take long until {CHARACTER1} decided to stop because the whole situation became too uncomfortable for {GENDER1:cond:=1?him|=0?her}. {CHARACTER2} seemed a bit disappointed but {GENDER2:cond:=1?he|=0?she} still seemed happy that {GENDER2:cond:=1?he|=0?she} got what {GENDER2:cond:=1?he|=0?she} wanted."
+868035921350669,HUBSCENE_EVENT41,Perfect Sparring Partner
+868035921350670,HUBSCENE_EVENT_DESCR41,"Today {CHARACTER2} asked {CHARACTER1} to spar with {GENDER2:cond:=1?him|=0?her} and {CHARACTER1} agreed. After exchanging a few strikes with the training weapons {CHARACTER1} realized that {CHARACTER2} hardly put up any defense. On the contrary it seemed like {CHARACTER2} intentionally made it easy to hit {GENDER2:cond:=1?him|=0?her} and with every hit, {GENDER2:cond:=1?he|=0?she} gave out a little moan.
+Some people would be bothered by this but {CHARACTER1} didn't care. Quite the opposite {GENDER1:cond:=1?he|=0?she} enjoyed how much of an easy target {CHARACTER2} was. {CHARACTER1} exploited any openings {GENDER1:cond:=1?he|=0?she} was given and did nothing to hold back.
+After a while {CHARACTER2} was lying on the ground, completely beaten up while {CHARACTER1} was standing next to {GENDER2:cond:=1?him|=0?her} with some blood dripping from the training weapon. For some reason both of them were smiling."
+868035921350671,HUBSCENE_EVENT42,Medicine Donation
+868035921350672,HUBSCENE_EVENT_DESCR42,Me'can brought with him a stockpile of valuable medicine saying that he felt a sudden urge of generosity.  We're free to use the medicine without having to give anything in return. With this our adventurers should be able to recover faster for a while.
+868035921350673,HUBSCENE_EVENT43,{CHARACTER1} disappeared
+868035921350674,HUBSCENE_EVENT_DESCR43,"{CHARACTER1} disappeared from the Guild without any notice. No one knows where {GENDER1:cond:=1?he|=0?she} went, and no one knows why.
+However, some of the adventurers believe that {GENDER1:cond:=1?he|=0?she} left to do what Belephegor asked of {GENDER1:cond:=1?him|=0?her} to save {GENDER1:cond:=1?his|=0?her} own soul."
+868035921350675,HUBSCENE_EVENT44,Seeding Conflict
+868035921350676,HUBSCENE_EVENT_DESCR44,Several of the adventurers have made accusations against each other for things the other has supposedly done. Everyone of them deny any misdeeds they've been accused of and the whole situation reeks of somebody purposedly trying to create conflicts between the adventurers.
+868035921350677,HUBSCENE_EVENT45,{CHARACTER1} is motivated
+868035921350678,HUBSCENE_EVENT_DESCR45,"{CHARACTER1} has shown unusual motivation lately. {GENDER1:cond:=1?he|=0?she} wakes up earlier than anyone else, goes training even if {GENDER1:cond:=1?he|=0?she} hasn't been assigned to it and tries to learn anything {GENDER1:cond:=1?he|=0?she} can from the more experienced adventurers. "
+868035921350679,HUBSCENE_EVENT46,A heavy loss
+868035921350680,HUBSCENE_EVENT_DESCR46,{CHARACTER1} is overcome with grief because of the death of {CHARACTER2}. Sometimes you'd see {GENDER1:cond:=1?him|=0?her} sitting lonely at the memorial sobbing while touching {CHARACTER2}'s name. It will be impossible to sent {CHARACTER1} to another quest for a while.
+868035921350681,HUBSCENE_EVENT47,The Egg Hatches
+868035921350682,HUBSCENE_EVENT_DESCR47,"Excitement started to spread amongst the people in the Guild when the mysterious egg the adventurers brought back with them, suddenly started to hatch. The egg wobbled, and small cracks appeared on its outer shell. The adventurers formed a tight circle around it to see what would come out of it.
+
+As the egg cracked open, a tiny creature crawled out of the shell. It really seemed like a dragon, except for one detail—it had no wings. Majika, present at the scene, remarked that the creature seemed to be a basilisk.
+
+The tiny creature fixed its big green eyes on them. Wobbling towards them on tiny feet, it unexpectedly hugged the leg of one adventurer, seemingly mistaking them for family. The adventurers, touched by this gesture, turned to the Guild Master with pleading eyes.
+
+In response, the Guild Master simply sighed and told the adventurers that they could keep it."
+868035921350683,HUBSCENE_EVENT48,Suddenly Gone
+868035921350684,HUBSCENE_EVENT_DESCR48,"{CHARACTER1} mysteriously disappeared this morning, leaving only a note saying that {GENDER1:cond:=1?he|=0?she} had to confirm something and will not be back for days. This is only another one in a series of strange events surrounding {CHARACTER1} who seemed to have trouble remembering who {GENDER1:cond:=1?he|=0?she} is."
+868035921350685,HUBSCENE_EVENT49,Deadly Duel
+868035921350686,HUBSCENE_EVENT_DESCR49,"It seems like {CHARACTER1} and {CHARACTER2} decided to secretly settle their score in a duel...with real weapons. When people found the two of them and forcibly ended the duel, both of them were already covered with serious wounds and lost a lot of blood. No one knows how far they might have gone if no one intervened."
+868035921350687,HUBSCENE_EVENT50,Nightwalk
+868035925544960,HUBSCENE_EVENT_DESCR50,Something strange happend to {CHARACTER1} last night. Some of our Adventurers spotted {CHARACTER1} wandering aimlessly around at night and not reacting to any of their attempts to talk to {GENDER1:cond:=1?him|=0?her}. When later asked about {GENDER1:cond:=1?his|=0?her} weird behaviour {GENDER1:cond:=1?he|=0?she} denied that ever happening and instead got angry that people were spreading weird rumors about {GENDER1:cond:=1?him|=0?her}.
+868035925544961,HUBSCENE_EVENT51,Party Exercise
+868035925544962,HUBSCENE_EVENT_DESCR51,{PARTY} has been seen doing some group training. It seems like they decided that they needed to work on their teamwork. Can't say it's a bad idea.
+868035925544963,HUBSCENE_EVENT52,Anonymous Threat
+868035925544964,HUBSCENE_EVENT_DESCR52,"{CHARACTER1} found an anonymous letter inside {GENDER1:cond:=1?his|=0?her} room. {GENDER1:cond:=1?he|=0?she} was threatened to disappear from the Guild or else...
+No one has seen who has left the letter inside {CHARACTER1}'s room and some think it might be just a prank from someone who doesn't like {CHARACTER1}.
+For now {CHARACTER1} has chosen to ignore the threat but it's apparent that {CHARACTER1} has started to look over {GENDER1:cond:=1?his|=0?her} shoulder more often lately."
+868035925544965,HUBSCENE_EVENT53,{CHARACTER1} is feeling down
+868035925544966,HUBSCENE_EVENT_DESCR53,{CHARACTER1} is having another episode of depressing thoughts. {GENDER1:cond:=1?he|=0?she} keeps muttering that {GENDER1:cond:=1?he|=0?she} will surely die today and  that no one will remember {GENDER1:cond:=1?him|=0?her}.
+868035925544967,HUBSCENE_EVENT54,Lucky Cards
+868035925544968,HUBSCENE_EVENT_DESCR54,"Today some of the adventurers decided to play cards with each other and played a few rounds in the tavern. Unfortunately amongst them was also {CHARACTER1}. 
+Needless to say, that {CHARACTER1}, the lucky bastard that {GENDER1:cond:=1?he|=0?she} was, won every round. Even with hands that seemed impossible to win with. The whole thing wouldn't be so bad if they weren't also playing for money. It didn't take long until someone accused {CHARACTER1} of foul play but none of them could prove it.
+In the end they stopped playing but the feeling that {CHARACTER1} might have cheated, stayed with everyone."
+868035925544969,HUBSCENE_EVENT55,{CHARACTER1} the people person
+868035925544970,HUBSCENE_EVENT_DESCR55,"{CHARACTER1} is someone who's naturally charming enough for people to automatically flock to {GENDER1:cond:=1?him|=0?her}. Today again, {GENDER1:cond:=1?he|=0?she} spent time with several other adventurers and they all had a great time together."
+868035925544971,HUBSCENE_EVENT56,Puppy time
+868035925544972,HUBSCENE_EVENT_DESCR56,Lately {CHARACTER1} has been enjoying more time with the little wolf puppy {GENDER1:cond:=1?he|=0?she} has saved. It has done wonders for {GENDER1:cond:=1?his|=0?her} mood. 
+868035925544973,HUBSCENE_EVENT57,Young wolf recovers
+868035925544974,HUBSCENE_EVENT_DESCR57,The young wolf that {CHARACTER1} has brought back with {GENDER1:cond:=1?him|=0?her} seems to have finally recovered. It also seems to have taken a liking to {CHARACTER1} and started to follow {GENDER1:cond:=1?him|=0?her} everywhere {GENDER1:cond:=1?he|=0?she} goes. After talking it out {GENDER1:cond:=1?he|=0?she} was allowed to keep the wolf. A decision that seems to make them both happy.
+868035925544975,HUBSCENE_EVENT58,Who is to blame?
+868035925544976,HUBSCENE_EVENT_DESCR58,After they failed their last Quest {CHARACTER1} and {CHARACTER2} started to blame each other for dragging the other one down. It became a very heated argument to the point where they started to hurl personal insults at each other. The other adventurers had to intervene to prevent it escalating any further.
+868035925544977,HUBSCENE_EVENT59,Infighting
+868035925544978,HUBSCENE_EVENT_DESCR59,{CHARACTER1} and {CHARACTER2} have always gotten into arguments. Everyone has gotten used to it. Today however things escalated into a brawl when things were said that couldn't be taken back. Fortunately none of them had their weapons so the fight ended with broken noses and blue eyes when some of the other adventurers finally stopped them. 
+868035925544979,HUBSCENE_EVENT60,Harassment
+868035925544980,HUBSCENE_EVENT_DESCR60,"{CHARACTER2} has been in a bad mood lately because {CHARACTER1}, a rival of {GENDER2:cond:=1?his|=0?her} and someone who seemingly enjoys human suffering, has been harassing {CHARACTER2} for the whole day. "
+868035925544981,HUBSCENE_EVENT61,Sadist vs Kind
+868035925544982,HUBSCENE_EVENT_DESCR61,"{CHARACTER2} loves to hurt things. Luckily {GENDER2:cond:=1?he|=0?she} has enough sense not do anything to {GENDER2:cond:=1?his|=0?her} fellow adventurers. Unfortunately for some ants {CHARACTER2} had no problem venting {GENDER2:cond:=1?his|=0?her} bloodlust on them by pulling their legs.
+{CHARACTER1} who saw this immediately intervened, saying that, what {CHARACTER2} was doing, was barbaric. They both got into an argument but in the end {CHARACTER2} left the ants alone. Much to {GENDER2:cond:=1?his|=0?her} displeasure."
+868035925544983,HUBSCENE_EVENT62,Proof of Veterancy
+868035925544984,HUBSCENE_EVENT_DESCR62,The recent battles have left a permanent scar on {CHARACTER1}. With this injury {GENDER1:cond:=1?he|=0?she} has lost a bit of {GENDER1:cond:=1?his|=0?her} physical prowess but {CHARACTER1} doesn't mind it. Scars are only proof that an adventurer has survived long enough to become a veteran of their craft.
+868035925544985,HUBSCENE_EVENT63,{CHARACTER1} avoids {CHARACTER2}
+868035925544986,HUBSCENE_EVENT_DESCR63,"Lately {CHARACTER1} has openly refused to even interact with {CHARACTER2}, who has been feeling under the weather lately. {CHARACTER1} said that {GENDER1:cond:=1?he|=0?she} doesn't want to get sick and that it should be actually {CHARACTER2}'s responsibility to get out of everyone's way when {GENDER2:cond:=1?he|=0?she} is sick.
+{CHARACTER2} did not like that sentiment at all."
+868035925544987,HUBSCENE_EVENT64,Too nice
+868035925544988,HUBSCENE_EVENT_DESCR64,"{CHARACTER1} has recently begun exploiting the kindness of {CHARACTER2}. Known for being a genuinely amiable individual, {CHARACTER2} seldom declines any request—a trait that {CHARACTER1} has unabashedly leveraged for personal gain. Nevertheless, even someone as patient as {CHARACTER2} has their limits. This culminated in a heated argument between {CHARACTER1} and {CHARACTER2}."
+868035925544989,HUBSCENE_EVENT65,Shortsighted vs Tiny
+868035925544990,HUBSCENE_EVENT_DESCR65,{CHARACTER1} always had a hard time recognizing people immediately because of {GENDER1:cond:=1?his|=0?her} poor sight. This time {GENDER1:cond:=1?he|=0?she} mistook {CHARACTER2} with a child. {GENDER1:cond:=1?he|=0?she} loudly yelled for the parents of the lost child while dragging {CHARACTER2} behind {GENDER1:cond:=1?him|=0?her}. Most adventurers found the sight pretty funny. Not so much {CHARACTER2}.
+868035925544991,HUBSCENE_EVENT66,Sparring Accident
+868035925544992,HUBSCENE_EVENT_DESCR66,Today {CHARACTER1} and {CHARACTER2} were sparring on the training ground but due to a mishap {CHARACTER2} got injured. Falken believes it to be a honest accident on {CHARACTER1}'s part but {CHARACTER2} has trouble believing it.
+868035925544993,HUBSCENE_EVENT67,A thief among us
+868035925544994,HUBSCENE_EVENT_DESCR67,Several people have reported that some of their properties have been stolen. It's very likely that the thief is one of our adventurers given how few travellers we've had lately. Many of the victims accuse {CHARACTER1} of being the thief because of {GENDER1:cond:=1?his|=0?her} background but had no evidences to back their claims. {CHARACTER1} {GENDER1:cond:=1?himself|=0?herself} denies it of course. Without any real leads the matter was put to rest for now but the suspicion will most likely damage their Relationships with {CHARACTER1}.
+868035925544995,HUBSCENE_EVENT68,Strong vs Strong
+868035925544996,HUBSCENE_EVENT_DESCR68,Adventurers have always been a rough bunch of people. So it's not very surprising to learn that {CHARACTER1} and {CHARACTER2} wanted to know who is the stronger of the two of them and thought the easiest way to determine that was a brawl . It was only after exchanging several blows (and a very angry Falken appearing) that they finally stopped. Both of them were heavily bruised but for some strange reason their relationship got better. Adventurers are sometimes dumb like that.
+868035929739264,HUBSCENE_EVENT69,Short Joke
+868035929739265,HUBSCENE_EVENT_DESCR69,"{CHARACTER1} and {CHARACTER2} spent some time together today, trying to get along with each other. Things seemed to go really well but things got awkward when {CHARACTER1} accidentally made a joke about {CHARACTER2}'s height. After that they both remained in an awkward silence."
+868035929739266,HUBSCENE_EVENT70,Training Accident
+868035929739267,HUBSCENE_EVENT_DESCR70,During Training {CHARACTER1} accidentally injured {GENDER1:cond:=1?himself|=0?herself}. It's nothing too bad but {CHARACTER1} should take a break for now.
+868035929739268,HUBSCENE_EVENT71,Heartache
+868035929739269,HUBSCENE_EVENT_DESCR71,"Everyone knows that {CHARACTER2} is in love with {CHARACTER1} but unfortunately for {GENDER2:cond:=1?him|=0?her}, {CHARACTER1} does not feel the same way. Today {CHARACTER2} tried to ask {CHARACTER1} out but got rejected again. Better luck next time, {CHARACTER2}."
+868035929739270,HUBSCENE_EVENT72,Unsafe Roads
+868035929739271,HUBSCENE_EVENT_DESCR72,"With the recent rise of Banditry even the roads towards the Adventurer Guild have become far too risky to travel. Less and less travellers reach the Guild, leaving the Guild with less options to hire new hands."
+868035929739272,HUBSCENE_EVENT73,Wandering Performers
+868035929739273,HUBSCENE_EVENT_DESCR73,A group of wandering performers have arrived at the Guild. They were on their way to the City of Craigmond and asked if they could rest at the Guild for a few days before they continue travelling. In exchange they would perform for the adventurers free of charge.
+868035929739274,HUBSCENE_EVENT74,Well-known and Respected
+868035929739275,HUBSCENE_EVENT_DESCR74,Some of the adventurers were visited today by people who are fans of their exploits and it appears that they enjoyed the attention.
+868035929739276,HUBSCENE_EVENT75,A Hunter's Gift
+868035929739277,HUBSCENE_EVENT_DESCR75,"A package from an unknown sender arrived at the Adventurer Guild today. Inside, a message read:
+
+""A gift from one great hunter to another."""
+868035929739278,HUBSCENE_EVENT76,Vampiric Side Effects
+868035929739279,HUBSCENE_EVENT_DESCR76,"Something strange and horrifying occurred today. {CHARACTER1} suddenly attacked {CHARACTER2}, attempting to drink {GENDER1:cond:=1?his|=0?her} blood. Other adventurers witnessed the incident and intervened. It took several adventurers to subdue {CHARACTER1}. {CHARACTER2} sustained severe injuries and had to be rushed to the temple for treatment.
+
+Eventually, {CHARACTER1} regained {GENDER1:cond:=1?his|=0?her} senses and informed everyone that {GENDER1:cond:=1?he|=0?she} had no recollection of the event. It doesn't seem like {CHARACTER1} is making excuses, but convincing {CHARACTER2} otherwise will be challenging."
+868035929739280,HUBSCENE_EVENT77,The Divine Messenger's Gratitude
+868035929739281,HUBSCENE_EVENT_DESCR77,The Divine Messenger has given the Guild a gift as gratitude for saving the girl who was put in danger because of her. It's a robe that once used to belong to her predecessor.
+11332498287210496,THE_OLD_GRIMOIRE,The Old Grimoire
+11332595863498752,THE_OLD_GRIMOIRE_DESCR,"The old grimoire the adventurers brought back has gained an uneasy grip on the attention of everyone in the guild. 
+
+While most find its content rather disgusting, they cannot help but feel drawn to it. Despite the benefits it offers, many adventurers have expressed a desire to get rid of it."
+11336781162328064,THE_GRIMOIRE_IS_GONE,The Grimoire is gone
+11337008367775744,THE_GRIMOIRE_IS_GONE_DESCR,"The grimoire is gone, and with it, its benefits. However, the adventurers believe it's for the best."

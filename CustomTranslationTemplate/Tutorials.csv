@@ -1,0 +1,104 @@
+ID,Key,String
+9014297399296,TUTORIAL0,Tutorial: Assignments
+9014335148032,TUTORIAL0_PAGE1,"Sometimes assignments will be available for your adventurers to work on. Some are minor, while others are necessary to progress the main quest. To see all the available assignments, press the Assignment Button."
+9014339342336,TUTORIAL0_PAGE2,"Assignments will be automatically completed by the adventurers you send. The success chance of completing the assignment depends on the stats of your adventurers.
+
+Unlike with quests, adventurers cannot die on assignments. So do not worry about sending any adventurers you like on an assignment."
+9014339342337,TUTORIAL1,Tutorial: Basics
+9014343536640,TUTORIAL1_PAGE1,"To move on the Quest Map, press the movement keys (Standard: WASD) or click on an adjacent tile."
+9014343536641,TUTORIAL1_PAGE2,"Whenever you move, the enemies will also start moving. If you get too close to an enemy, they will start chasing you. If they catch you, you will have to fight them. You can try to outrun them if you do not wish for a confrontation."
+9014343536642,TUTORIAL1_PAGE3,"There will also be several interactable objects on the Quest Map, highlighted with a sparkle effect. To interact with them, get next to them and press the Interact-Button(Standard: E-Button) or click on the tile it standing on."
+9014343536643,TUTORIAL2,Tutorial: Battle
+9014343536644,TUTORIAL2_PAGE1,"Battles in <i>Our Adventurer Guild</i> are turn-based. Every round, characters will get a turn to act. The order(1) depends on their initiative value + a random number between 0-10. The higher the outcome, the earlier the character can act. On their turn, characters have a number of Action Points(AP)(2) to spend on actions(3)."
+9014343536645,TUTORIAL2_PAGE2,"To end your turn click on the ""End Turn"" option(5). Once per round you can also delay(4) your current character's turn and put them at the end of the turn order. However, this will give you a 50% penalty on your initative for the next turn order calculation."
+9014343536646,TUTORIAL2_PAGE3,"Every Character also starts with a Movement Action Point(1). This point is needed to move(2) the character on the battlefield. However, it can also be used as an Action Point for other actions if needed."
+9014343536647,TUTORIAL2_PAGE4,"You can initiate a movement action by either clicking the movement button(2), pressing the associated hotkey or simply clicking on a free tile."
+9014343536648,TUTORIAL2_PAGE5,There is a combat log you can toggle(1) on if you wish so. You can also change the visible height(2).
+9014343536649,TUTORIAL3,Tutorial: Bravery in Battle
+9014343536650,TUTORIAL3_PAGE1,"Sometimes you will find yourself in a situation which seem unfavorable to your adventurers. But by taking advantage of the bravery system, your adventurers can easily turn the tide of battle in key moments."
+9014343536651,TUTORIAL3_PAGE2,Each adventurer has an amount of bravery points(BP)(1) which can be spent on powerful temporary buffs(2). 
+9014343536652,TUTORIAL3_PAGE3,But be careful while spending your BP. Having too little BP gives minor debuffs to the adventurer and risks them getting the <i>Shaken</i> status when they reach zero BP. Meanwhile having high BP gives your adventurers minor buffs. Always consider the tradeoff when using BP.
+9014343536653,TUTORIAL3_PAGE4,"There are several ways to gain BP. Defeating an enemy, landing a crit or getting encouragement from allies with close relations. Likewise BP can be lost by getting too hurt or having allies die. High bravery adventurers gain BP faster than low bravery adventurers."
+9014343536654,TUTORIAL4,Tutorial: Death and Bravery
+9014343536655,TUTORIAL4_PAGE1,"When an adventurer's HP reaches zero, they will not always automatically die. Depending on their bravery stat, they might be able to survive the killing blow, instantly healing themselves. But with each killing blow the likelihood of surviving another one gets lower."
+9014343536656,TUTORIAL4_PAGE2,"When an adventurer's BP reaches zero, they will gain a <i>Shaken</i> status. This status will lower their Battle Prowess and reduce the max BP the adventurer can have. Additionally, a shaken adventurer will not survive a death blow. The shaken status will persist until the end of the quest."
+9014343536657,TUTORIAL5,Tutorial: Knockback
+9014343536658,TUTORIAL5_PAGE1,"Some skills allow you to push enemies in a direction. If they are pushed and a obstacle is in the way, they suffer collision damage. The damage depends on the distance they've been pushed and their level."
+9014343536659,TUTORIAL5_PAGE2,"When an enemy is pushed into another enemy, both of them will suffer collision damage. However, if an enemy is pushed into an ally, the ally will attack the enemy, causing the collision damage to increase. The ally, on the other hand, will not suffer any damage themselves.
+"
+9014343536660,TUTORIAL5_PAGE3,"The extent of damage increase depends on the relationship between the adventurer (the initiator) and the ally. It's important to note that if the ally has a negative or bad relationship with the initiator, instead of attacking the enemy pushed into them, they will suffer collision damage themselves."
+9014343536661,TUTORIAL6,Tutorial: Camping
+9014343536662,TUTORIAL6_PAGE1,"Travelling around the Quest Map and fighting enemies is an exhausting task for your adventurers. If the Stamina Bar gets depleted, your Adventurers will be in an ""Exhausted"" State(2), making them less combat efficient. To recover their strength you have to set up camp(1). 
+"
+9014343536663,TUTORIAL6_PAGE2,"While camping, adventurers have to consume supplies to heal. The amount of supplies needed depends on the numbers of adventurers and their traits, so plan accordingly."
+9014343536664,TUTORIAL6_PAGE3,"During Camp mode, adventurers can perform actions to heal or buff the party. However the actions are limited by the amount of Camping points available to them. Different classes have different Camping Actions to choose from."
+9014343536665,TUTORIAL7,Tutorial: Damage Calculation
+9014343536666,TUTORIAL7_PAGE1,"The following formula is used if the resistance is higher than 0: 
+<i>Total Damage = damage * (50/(50 + resistance))*(sum of any other multipliers)</i>
+
+The following formula is used if the resistance is lower than 0: 
+<i>Total Damage = damage*((100-resistance)/100)*(sum of any other multipliers)</i>"
+9014343536667,TUTORIAL8,Tutorial: Elite Encounter
+9014343536668,TUTORIAL8_PAGE1,"Sometimes, during a quest, monsters with a treasure symbol can be found. These encounters hold great treasures if you manage to defeat them.
+
+Beware though: These encounters are tougher than the normal encounters and have an Elite enemy who will, depending on the quest difficulty, have one or more random powerful skills."
+9014343536669,TUTORIAL9,Tutorial: Ending a Day
+9014343536670,TUTORIAL9_PAGE1,"Every quest you complete will advance the time by a day. However, you don't have to accept a quest every day. If you think your adventurers need more rest, then you can end the day with the End Day Button in the lower right corner. "
+9014343536671,TUTORIAL9_PAGE2,"Beware of the following though: Every 5 days you let pass will start a new week. At the start of the week, Me'can's merchandise will reset, new adventurers will arrive at the tavern, and you will have to pay your adventurers. If you are unable to pay them, they will be extremely unhappy."
+9014343536672,TUTORIAL10,Tutorial: Accepting Quests
+9014343536673,TUTORIAL10_PAGE1,"From this point on, your goal is to lead the Guild to ultimate fame! To do so, you have to build up your reputation by completing quests that have been sent to the Guild. To view the available quests click on the Quest Button."
+9014343536674,TUTORIAL10_PAGE2,"After you accept a quest, you will select the adventurers to send and choose what they take for the journey. Prepare carefully or your adventurers will have to pay the price. 
+Be aware that doing a quest will pass a day.
+"
+9014343536675,TUTORIAL10_PAGE3,While preparing your adventurers you will also be able to purchase supplies for the upcoming quest. The amount of supplies available to purchase depends on the Quest length.
+9014343536676,TUTORIAL11,Tutorial: Healing
+9014343536677,TUTORIAL11_PAGE1,"Adventurers who sustain injuries during a quest require time to recover. While it's still possible to send them on quests if necessary, injured adventurers will have reduced maximum hit points during a quest."
+9014343536678,TUTORIAL11_PAGE2,"The church can forcibly heal your adventurers, but this process is painful for them and will lower their mood."
+9014343536679,TUTORIAL12,Tutorial: Height
+9014343536680,TUTORIAL12_PAGE1,Height plays a big role in combat. Certain skills will not be able to reach your target if they're too high away from you. You can see in the skill tooltip how height affects the skill you're using under 'Height Tolerance'. The left number indicates the max height difference the targeted tile can have for the skill to be able to select it. The right number is relevant for skills that target several tiles. It indicates how big the height difference of the surrounding tiles can be to be affected by the skill.
+9014343536681,TUTORIAL12_PAGE2,Characters can also suffer falling damage if they get pushed down from a tile and the height difference is greater than 1.
+9014343536682,TUTORIAL13,Tutorial: Level up
+9014343536683,TUTORIAL13_PAGE1,"Occasionally, your adventurers will earn enough experience points to earn a Level Up. To level up a character, click on the arrow icon on the Character Overview Page."
+9014343536684,TUTORIAL13_PAGE2,"On a Level Up characters roll for their stat increases. The chances for those depend on their Stat Growths, which are primarily influenced by their classes. Traits and talents can also influence the stat growth of a character. 
+For every Level Up, a character can reroll their stat increases once. However, the character will have to take the stat increases from the second roll."
+9014343536685,TUTORIAL13_PAGE3,"You also have the ability to opt for a static Growth mechanic by choosing a custom difficulty in the options menu. In this system, attributes will gain points statically according to their growth stat."
+9014343536686,TUTORIAL13_PAGE4,"Additionally every 2 levels you will earn a skillpoint. Skillpoints can be used in the Training Ground to teach an Adventurer a new skill. When an adventurer has enough levels to gain a rank, they will gain an additional skillpoint. Adventurers will no longer gain skillpoints after level 24."
+9014343536687,TUTORIAL14,Tutorial: Party
+9014343536688,TUTORIAL14_PAGE1,"You now have the ability to create Adventurer Parties and assign adventurers to them.  Being part of a party has many benefits for an adventurer.
+E.g: adventurers in the same party interact more with each other and have an easier time developing positive relations with each other."
+9014343536689,TUTORIAL14_PAGE2,"Adventurers in a party also gain bonuses during quests, depending on their synergy. A party gains synergy by accomplishing quests together and having good relationships with each other. Replacing members will reset the synergy gained through accomplishing quests together. The synergy bonus only applies when the whole party is on the same Quest."
+9014343536690,TUTORIAL15,Tutorial: Proposals
+9014343536691,TUTORIAL15_PAGE1,"The people around you all have their own ideas on how to improve the Guild. It's your decision which of their ideas you want to implement and in what order. To start working on a proposal, you have to click on the Proposal Button."
+9014343536692,TUTORIAL15_PAGE2,Many of the proposals require you to spend time or gold or even both. Certain proposals will also only be available to you when you reach a high enough reputation. 
+9014343536693,TUTORIAL16,Tutorial: Relationships
+9014343536694,TUTORIAL16_PAGE1,"Over time, adventurers will form relationships with each other. These relationships can impact the adventurers during their quests in many ways. Adventurers who like each other will more easily follow up on a chain attack, have a higher chance to encourage each other during combat and etc. As a rule, you want adventurers to have positive relationships."
+9014343536695,TUTORIAL16_PAGE2,"When adventurers complete a quest or an assignment successfully together, they gain positive relationship points, while failing them will hurt their relationship. Additionally, over time adventurers will automatically gain or lose points with each other according to their relationship and traits. Adventurers in the same party will gain or lose points at a higher rate."
+9014343536696,TUTORIAL17,Tutorial: Attribute Checks
+9014343536697,TUTORIAL17_PAGE1,"There will be times when you have to do an Attribute Check. To succeed, you have to roll a number ranging from 1 to 20. If the rolled number combined with the modifier is greater or equal to the difficulty, you've succeeded the check. In some cases, failing the roll will have negative consequences for the party. Be aware that you'll always fail with a roll of 1 and always succeed with a roll of 20."
+9014343536698,TUTORIAL17_PAGE2,"If you fail the roll, you have the option to spend your Bravery Points on a reroll(1). But be careful: There will also be consequences when an adventurer runs too low on Bravery Points."
+9014343536699,TUTORIAL17_PAGE3,"Sometimes you can circumvent certain rolls by carrying the right items with you, like shovels to remove obstacles or keys to open chests."
+9014343536700,TUTORIAL18,Tutorial: Sneak Attacks
+9014343536701,TUTORIAL18_PAGE1,"Classes that wield daggers have the ""Sneak Attacker""-Skill that allows them to deal bonus damage against enemies in certain situations. Only skills that have the 'Concealed'-Tag can trigger sneak attacks."
+9014343536702,TUTORIAL18_PAGE2,"Sneak Attacks are triggered if:
+1. Another ally is engaged with the target.
+2. The enemy suffers certains debuffs(See tooltip)
+3. The Character is hidden"
+9014343536703,TUTORIAL19,Tutorial: Story Quest
+9014343536704,TUTORIAL19_PAGE1,"Story Quests are different from the usual quests you receive. Unlike normal quests, story quest have unique maps and unique events waiting for you. They will automatically unlock when certain conditions are met.
+Not all Story quests have to be completed but unique rewards will be awarded upon completing them.
+To select a story quest, go to Quest Overview and click on the ""Story Quests"" tab."
+9014343536705,TUTORIAL20,Tutorial: Titles
+9014343536706,TUTORIAL20_PAGE1,"Adventurers can earn titles in the Tavern. These titles can sometimes drastically change the playstyle of your adventurers, but many of them require your adventurer to satisfy certain requirements."
+9014343536707,TUTORIAL20_PAGE2,"Titles have three stages. If you assign a title to an adventurer, they will start at the lowest stage of the title. When completing quests, the adventurer gains renown for their current title. If they gather enough renown, they can progress their title to the next stage in the tavern."
+9014343536708,TUTORIAL20_PAGE3,"To reach the threshold for the 2nd stage, you need 25 total renown, and for the last stage, you need 75 total renown. Each star in a quest is equal to one renown. So, in this example, you need to complete a total of 15 5-star quests to reach the last stage."
+9014343536709,TUTORIAL21,Tutorial: Training Ground
+9014343536710,TUTORIAL21_PAGE1,The Training Ground is the place where you can work on improving your adventurers by teaching them skills or changing their classes.
+9014343536711,TUTORIAL21_PAGE2,Every class has their own set of Skill Trees available to them. Additional skill trees can also become available to an adventurer if they satisfy certain conditions. To learn a skill you will have to spend skill points. Skill points become available when you level up. Sometimes skill points can also be earned in another way.
+9014343536712,TUTORIAL21_PAGE3,There are many classes your adventurers can choose from. More classes can become available if more trainers join you. More trainers will become available to as you progress through the story.
+54005721435377664,TUTORIAL1_PAGE1_CONTROLLER,"To move on the Quest Map, you can use the the left thumbstick or the D-Pad."
+54766542776078336,TUTORIAL13_PAGE1_CONTROLLER,"Occasionally, your adventurers will earn enough experience points to earn a Level Up. To level up a character, press the left thumbstick on the Character Overview Page."
+57830360838213632,TUTORIAL0_PAGE1_CONTROLLER,"Sometimes assignments will be available for your adventurers to work on. Some are minor, while others are necessary to progress the main quest. To see all the available assignments, select the Assignment Button."
+57830773817774080,TUTORIAL9_PAGE1_CONTROLLER,"Every quest you complete will advance the time by a day. However, you don't have to accept a quest every day. If you think your adventurers need more rest, then you can end the day by selecting the End Day Button. "
+57832123435749376,TUTORIAL10_PAGE1_CONTROLLER,"From this point on, your goal is to lead the Guild to ultimate fame! To do so, you have to build up your reputation by completing quests that have been sent to the Guild. To view the available quests select the Quest Button."
+57835499472982016,TUTORIAL15_PAGE1_CONTROLLER,"The people around you all have their own ideas on how to improve the Guild. It's your decision which of their ideas you want to implement and in what order. To start working on a proposal, you have to select the Proposal Button."
+57843178778038272,TUTORIAL2_PAGE2_CONTROLLER,"To end your turn press the ""End Turn""-Button(5). Once per round you can also delay(4) your current character's turn and put them at the end of the turn order. However, this will give you a 50% penalty on your initative for the next turn order calculation."

@@ -1,0 +1,1527 @@
+ID,Key,String
+4443831439360,CAMP_DIALOGUE1CHARACTER1_LINE1,{CHARACTER2}...Who is currently responsible for the camp fire?
+4443844022272,CAMP_DIALOGUE1CHARACTER2_LINE2,I told {CHARACTER3} to take care of it.
+4443844022273,CAMP_DIALOGUE1CHARACTER1_LINE3,Wait... WHAT!? You know {GENDER3:cond:=1?he|=0?she} has two left hands!
+4443844022274,CAMP_DIALOGUE1CHARACTER2_LINE4,So what? What could possibly happen?
+4443844022275,CAMP_DIALOGUE1CHARACTER4_LINE5,AH!!! THE FIRE!!!!!!
+4443844022276,CAMP_DIALOGUE1CHARACTER3_LINE6,Oops...
+4443844022277,CAMP_DIALOGUE2CHARACTER1_LINE1,What if we get ambushed tonight?
+4443844022278,CAMP_DIALOGUE2CHARACTER2_LINE2,That's why we have night guards.
+4443844022279,CAMP_DIALOGUE2CHARACTER1_LINE3,What if they get tired and fall asleep?
+4443844022280,CAMP_DIALOGUE2CHARACTER2_LINE4,That's why we have shifts.
+4443844022281,CAMP_DIALOGUE2CHARACTER1_LINE5,But what if they sneak past the guards?
+4443844022282,CAMP_DIALOGUE2CHARACTER2_LINE6,Then hopefully they get to your ass first.
+4443844022283,CAMP_DIALOGUE3CHARACTER3_LINE1,"{CHARACTER1}, why is {CHARACTER2} doing your chores?"
+4443844022284,CAMP_DIALOGUE3CHARACTER1_LINE2,Oh that? I just told {GENDER2:cond:=1?him|=0?her} that doing my chore is so much fun that {GENDER2:cond:=1?he|=0?she} should give it a try.
+4443844022285,CAMP_DIALOGUE3CHARACTER1_LINE3,Quite surpised {GENDER2:cond:=1?he|=0?she} fell for it.
+4443844022286,CAMP_DIALOGUE3CHARACTER2_LINE4,{CHARACTER1}! When is the fun going to start? It's not really fun yet.
+4443844022287,CAMP_DIALOGUE3CHARACTER1_LINE5,Soon buddy! Soon!
+4443844022288,CAMP_DIALOGUE4CHARACTER1_LINE1,45...46...47...
+4443844022289,CAMP_DIALOGUE4CHARACTER2_LINE2,Could you please stop working out? Makes it hard for me to laze around.
+4443844022290,CAMP_DIALOGUE5CHARACTER1_LINE1,We will complete this Quest! Or die trying!
+4443844022291,CAMP_DIALOGUE5CHARACTER2_LINE2,So dying it is...
+4443844022292,CAMP_DIALOGUE6CHARACTER2_LINE1,"...then he said ""That's not my mother! That's a troll!"". Bwahahahaha!"
+4443844022293,CAMP_DIALOGUE6CHARACTER1_LINE2,...I don't get it.
+4443844022294,CAMP_DIALOGUE6CHARACTER2_LINE3,...I really should stop trying to tell you jokes.
+4443848216576,CAMP_DIALOGUE7CHARACTER1_LINE1,Hey..HEY! Don't pass behind me!
+4443848216577,CAMP_DIALOGUE7CHARACTER2_LINE2,What the hell are you paranoid about? Did you think I'd stab you in the back?
+4443848216578,CAMP_DIALOGUE7CHARACTER1_LINE3,Who knows with you. I already have a hard time sleeping with you around.
+4443848216579,CAMP_DIALOGUE7CHARACTER2_LINE4,"Believe me, if I come for you. You'll know it."
+4443848216580,CAMP_DIALOGUE8CHARACTER1_LINE1,"You know, {CHARACTER2}. I wish sometimes I was as tall as you."
+4443848216581,CAMP_DIALOGUE8CHARACTER2_LINE2,It's not that great. There's hardly a room a can stand straight or a bed I can really stretch.
+4443848216582,CAMP_DIALOGUE8CHARACTER1_LINE3,"But at least people take you seriously, while around me they act like I'm a child or something."
+4443848216583,CAMP_DIALOGUE8CHARACTER2_LINE4,I've always taken you seriously.
+4443848216584,CAMP_DIALOGUE8CHARACTER1_LINE5,I know...and thanks for that.
+4443848216585,CAMP_DIALOGUE9CHARACTER1_LINE1,"You know your kindness will kill you one day, do you?"
+4443848216586,CAMP_DIALOGUE9CHARACTER2_LINE2,Where did that suddenly come from?
+4443848216587,CAMP_DIALOGUE9CHARACTER1_LINE3,A few days ago I saw you helping some strangers and even followed them all by yourself. You're too trusting. What would you have done if something happened?
+4443848216588,CAMP_DIALOGUE9CHARACTER2_LINE4,There was nothing to worry about. After all it seems like a good friend was looking out for me. Someone who is also kinder than {GENDER1:cond:=1?he|=0?she} might think.
+4443848216589,CAMP_DIALOGUE9CHARACTER1_LINE5,*Blushing* W-what?! N-No. That wasn't why I followed...urgh...
+4443848216590,CAMP_DIALOGUE9CHARACTER2_LINE6,*Smile*
+4443848216591,CAMP_DIALOGUE10CHARACTER2_LINE1,Hey {CHARACTER1}!
+4443848216592,CAMP_DIALOGUE10CHARACTER1_LINE2,...
+4443848216593,CAMP_DIALOGUE10CHARACTER2_LINE3,{CHARACTER1}!!
+4443848216594,CAMP_DIALOGUE10CHARACTER1_LINE4,...w-What? Oh {CHARACTER2}! 
+4443848216595,CAMP_DIALOGUE10CHARACTER2_LINE5,What happened? I called for you several times but you just kept staring into the distance.
+4443848216596,CAMP_DIALOGUE10CHARACTER1_LINE6,I...I was just remembering something...
+4443848216597,CAMP_DIALOGUE10CHARACTER2_LINE7,And what would that be?
+4443848216598,CAMP_DIALOGUE10CHARACTER1_LINE8,...a woman...standing before a house on a green hill.
+4443848216599,CAMP_DIALOGUE10CHARACTER2_LINE9,Don't tell me you've been thinking of your sweetheart or something.
+4443848216600,CAMP_DIALOGUE10CHARACTER1_LINE10,...No...I have no idea who she is...
+4443848216601,CAMP_DIALOGUE11CHARACTER1_LINE1,Ferdinand: Hey Partner. I noticed you like to stab things...alot.
+4443848216602,CAMP_DIALOGUE11CHARACTER1_LINE2,Ferdinand:  ...It's frankly quite unsettling for me.
+4443848216603,CAMP_DIALOGUE11CHARACTER1_LINE3,Ferdinand: Maybe you could stop when they're already dead?
+4443848216604,CAMP_DIALOGUE11CHARACTER1_LINE4,...
+4443848216605,CAMP_DIALOGUE11CHARACTER1_LINE5,Ferdinand: *sighs*. I guess not.
+4443852410880,CAMP_DIALOGUE12CHARACTER1_LINE1,I wonder how much you'd be worth if were to sell you.
+4443852410881,CAMP_DIALOGUE12CHARACTER1_LINE2,Ferdinand: P-Partner! You wouldn't do that! Right?
+4443852410882,CAMP_DIALOGUE12CHARACTER1_LINE3,...Of course not...
+4443852410883,CAMP_DIALOGUE12CHARACTER1_LINE4,Ferdinand:Look me in the eyes when you say that!
+4443852410884,CAMP_DIALOGUE12CHARACTER1_LINE5,What eyes?
+4443852410885,CAMP_DIALOGUE13CHARACTER1_LINE1,"Ferdinand: You're too kind for your own good, Partner! I'm pretty sure the last beggar wasn't blind."
+4443852410886,CAMP_DIALOGUE13CHARACTER1_LINE2,Why do you think that?
+4443852410887,CAMP_DIALOGUE13CHARACTER1_LINE3,Ferdinand: He called out for you!
+4443852410888,CAMP_DIALOGUE13CHARACTER1_LINE4,Oh...
+4443852410889,CAMP_DIALOGUE14CHARACTER1_LINE1,"Ferdinand: Partner, I need to talk with you. I should have told you this much sooner..."
+4443852410890,CAMP_DIALOGUE14CHARACTER1_LINE2,What's the matter? You sound serious.
+4443852410891,CAMP_DIALOGUE14CHARACTER1_LINE3,Ferdinand: I don't have eyes.
+4443852410892,CAMP_DIALOGUE14CHARACTER1_LINE4,"Well, duh. I know that."
+4443852410893,CAMP_DIALOGUE14CHARACTER1_LINE5,Ferdinand: But I can still see...
+4443852410894,CAMP_DIALOGUE14CHARACTER1_LINE6,I know that too.
+4443852410895,CAMP_DIALOGUE14CHARACTER1_LINE7,"Ferdinand:...Do you? Because putting me away in a drawer, doesn't make me not see when you get visits at nights..."
+4443852410896,CAMP_DIALOGUE14CHARACTER1_LINE8,Wait....
+4443852410897,CAMP_DIALOGUE14CHARACTER2_LINE9,W-What did you see?!!
+4443852410898,CAMP_DIALOGUE14CHARACTER1_LINE10,Ferdinand:...Everything...
+4443852410899,CAMP_DIALOGUE15CHARACTER1_LINE1,Can't believe you aren't scared of ghosts.
+4443852410900,CAMP_DIALOGUE15CHARACTER2_LINE2,Why should I? People are scared of the unknown but we know for a fact that ghost exists.
+4443852410901,CAMP_DIALOGUE15CHARACTER1_LINE3,"...Isn't the fact that we know they exist,not a reasonable reason why we should fear them?"
+4443852410902,CAMP_DIALOGUE16CHARACTER1_LINE1,"So, do you have any plans after we finish this quest?"
+4443852410903,CAMP_DIALOGUE16CHARACTER2_LINE2,Not really. I'll probably just head back to the training ground and maybe try to learn a new skill or two.
+4443852410904,CAMP_DIALOGUE16CHARACTER1_LINE3,That sounds boring! You should come with me to the tavern and have a drink or two.
+4443852410905,CAMP_DIALOGUE16CHARACTER2_LINE4,"*Chuckle*. I think I'll pass. I don't want to end up like you, stumbling around and slurring your words."
+4443852410906,CAMP_DIALOGUE16CHARACTER1_LINE5,"Hey, I can hold my liquor!"
+4443852410907,CAMP_DIALOGUE16CHARACTER2_LINE6,Sure you can. Just don't expect me to carry you back to your room when you pass out.
+4443852410908,CAMP_DIALOGUE17CHARACTER1_LINE1,I'm exhausted. My legs feel like they're going to fall off.
+4443852410909,CAMP_DIALOGUE17CHARACTER2_LINE2,Maybe you should consider taking up yoga.
+4443852410910,CAMP_DIALOGUE17CHARACTER1_LINE3,Ha! You think yoga is going to help me carry this heavy backpack?
+4443852410911,CAMP_DIALOGUE17CHARACTER2_LINE4,"Well, it might help with the complaining."
+4443852410912,CAMP_DIALOGUE18CHARACTER1_LINE1,I hate sleeping on the ground. I miss my bed back home.
+4443852410913,CAMP_DIALOGUE18CHARACTER2_LINE2,"You'll get used to it. After a few more nights, the ground will feel just as comfortable as your bed."
+4443852410914,CAMP_DIALOGUE18CHARACTER1_LINE3,I doubt that. My bed doesn't have rocks and sticks poking me in the back.
+4443852410915,CAMP_DIALOGUE18CHARACTER2_LINE4,Just think of it as a free massage.
+4443852410916,CAMP_DIALOGUE19CHARACTER1_LINE1,Did you hear about that new ale Tavi got? It's supposed to be the best ale in the region.
+4443852410917,CAMP_DIALOGUE19CHARACTER2_LINE2,"I wouldn't know, I don't drink."
+4443852410918,CAMP_DIALOGUE19CHARACTER1_LINE3,What? How do you unwind after a long day of adventuring?
+4443852410919,CAMP_DIALOGUE19CHARACTER2_LINE4,I prefer a good book and some peace and quiet.
+4443856605184,CAMP_DIALOGUE19CHARACTER1_LINE5,"Huh, I never thought of it that way. Maybe I should give it a try sometime."
+4443856605185,CAMP_DIALOGUE20CHARACTER1_LINE1,"Hey, did you see that new sword I got? It's got a wicked edge!"
+4443856605186,CAMP_DIALOGUE20CHARACTER2_LINE2,"Yeah, it looks great. But can you actually swing it without falling over?"
+4443856605187,CAMP_DIALOGUE20CHARACTER1_LINE3,Ha! Very funny. I can swing it just fine. You're just jealous because your sword is tiny in comparison.
+4443856605188,CAMP_DIALOGUE20CHARACTER2_LINE4,"Hey now, I'll have you know that size doesn't matter. It's all about technique."
+4443856605189,CAMP_DIALOGUE20CHARACTER1_LINE5,"Sure, sure. Keep telling yourself that."
+4443856605190,CAMP_DIALOGUE21CHARACTER1_LINE1,"So, what do you think of the new recruit?"
+4443856605191,CAMP_DIALOGUE21CHARACTER2_LINE2,"I don't know, seems like a greenhorn to me."
+4443856605192,CAMP_DIALOGUE21CHARACTER1_LINE3,"Well, everyone starts somewhere. Remember when you were a greenhorn too?"
+4443856605193,CAMP_DIALOGUE21CHARACTER2_LINE4,"Hey, I was never a greenhorn! I was born for this! "
+4443856605194,CAMP_DIALOGUE22CHARACTER1_LINE1,I can't believe we're already out of supplies! How much longer until we complete the Quest?
+4443856605195,CAMP_DIALOGUE22CHARACTER2_LINE2,"Relax, we're making progress. And if we have to go hungry once, then that won't kill us."
+4443856605196,CAMP_DIALOGUE22CHARACTER3_LINE3,Speak for yourself! I'll start eating my shoes if that happens.
+4443856605197,CAMP_DIALOGUE23CHARACTER1_LINE1,"So, what do you think we'll find here?"
+4443856605198,CAMP_DIALOGUE23CHARACTER2_LINE2,I'm hoping for treasures. Enough to make m...I-I mean alll of us rich!
+4443856605199,CAMP_DIALOGUE23CHARACTER3_LINE3,You and your materialistic obsession. There's more to the world the gods have created for us than gold.
+4443856605200,CAMP_DIALOGUE23CHARACTER2_LINE4,"Maybe, but most of it can be bought with gold."
+4443856605201,CAMP_DIALOGUE23CHARACTER1_LINE5,{GENDER1:cond:=1?he|=0?she} got a point.
+4443856605202,CAMP_DIALOGUE23CHARACTER3_LINE6,...Shut up.
+4443856605203,CAMP_DIALOGUE24CHARACTER1_LINE1,I heard that sometimes there are powerful artifacts hidden in places like these.
+4443856605204,CAMP_DIALOGUE24CHARACTER2_LINE2,A-Aren't those dangerous? We probably should leave them alone.
+4443856605205,CAMP_DIALOGUE24CHARACTER3_LINE3,Or we could take and sell them to the highest bidder!
+4443856605206,CAMP_DIALOGUE24CHARACTER1_LINE4,That would be a great disservice to history. We should study and learn from them!
+4443856605207,CAMP_DIALOGUE24CHARACTER2_LINE5,I lean towards {CHARACTER3}'s plan. Better to get rid of them as fast possible.
+4443856605208,CAMP_DIALOGUE24CHARACTER3_LINE6,That's what I like to hear!
+4443856605209,CAMP_DIALOGUE24CHARACTER1_LINE7,*Sighs*. If we at least sell it to Majika then I guess it could be a fair compromise.
+4443856605210,CAMP_DIALOGUE25CHARACTER1_LINE1,Have you seen the prices on Me'can latest items?
+4443856605211,CAMP_DIALOGUE25CHARACTER2_LINE2,It's ludicrous. I know.
+4443856605212,CAMP_DIALOGUE25CHARACTER3_LINE3,At this rate I feel like the Adventurer Guild will send us to raid a dragon's hoard one day. Just to afford those prices.
+4443856605213,CAMP_DIALOGUE25CHARACTER1_LINE4,They wouldn't....would they?
+4443856605214,CAMP_DIALOGUE26CHARACTER1_LINE1,I don't trust you.
+4443856605215,CAMP_DIALOGUE26CHARACTER2_LINE2,"Good, because I don't trust you either."
+4443856605216,CAMP_DIALOGUE27CHARACTER1_LINE1,I can't believe we're stuck working together.
+4443856605217,CAMP_DIALOGUE27CHARACTER2_LINE2,"Believe me, the feeling's mutual."
+4443856605218,CAMP_DIALOGUE28CHARACTER1_LINE1,Why do you always have to be so difficult?
+4443856605219,CAMP_DIALOGUE28CHARACTER2_LINE2,Why do you always have to be so incompetent?
+4443856605220,CAMP_DIALOGUE29CHARACTER1_LINE1,"You're always trying to one-up me, aren't you?"
+4443856605221,CAMP_DIALOGUE29CHARACTER2_LINE2,I don't have to try. It comes naturally when I'm dealing with someone as mediocre as you.
+4443856605222,CAMP_DIALOGUE30CHARACTER1_LINE1,I don't understand why you're always so aggressive.
+4443860799488,CAMP_DIALOGUE30CHARACTER2_LINE2,"I'm not aggressive, I'm just not afraid to get my hands dirty. Unlike you, who seems to be afraid of everything."
+4443860799489,CAMP_DIALOGUE31CHARACTER1_LINE1,"Hey, did you see that move I pulled off in the last battle?"
+4443860799490,CAMP_DIALOGUE31CHARACTER2_LINE2,"Yeah, I saw it. It was pretty impressive, I have to admit."
+4443860799491,CAMP_DIALOGUE31CHARACTER1_LINE3,"Just pretty impressive? Come on, give me some more credit than that."
+4443860799492,CAMP_DIALOGUE31CHARACTER2_LINE4,"Alright, alright. It was amazing, you're the best adventurer I've ever seen."
+4443860799493,CAMP_DIALOGUE31CHARACTER1_LINE5,"Now you're talking. But don't worry, I'll teach you some of my moves one of these days."
+4443860799494,CAMP_DIALOGUE31CHARACTER2_LINE6,"Oh, I don't know. I don't think I could handle that much awesomeness."
+4443860799495,CAMP_DIALOGUE31CHARACTER1_LINE7,"You're mocking me. But as awesome as I am, I allow it. "
+4443860799496,CAMP_DIALOGUE31CHARACTER2_LINE8,*Laugh*
+4443860799497,CAMP_DIALOGUE32CHARACTER1_LINE1,I can't believe how long we've been adventurers already.
+4443860799498,CAMP_DIALOGUE32CHARACTER2_LINE2,"Time sure flies by with the right people, doesn't it?"
+4443860799499,CAMP_DIALOGUE32CHARACTER1_LINE3,"Yeah, I couldn't have asked for a better partner."
+4443860799500,CAMP_DIALOGUE32CHARACTER2_LINE4,Same here. 
+4443860799501,CAMP_DIALOGUE33CHARACTER1_LINE1,"Man, I'm still hungry. Do you have any food left in your backpack?"
+4443860799502,CAMP_DIALOGUE33CHARACTER2_LINE2,Here. I still got a jerky left.
+4443860799503,CAMP_DIALOGUE33CHARACTER1_LINE3,You're a life safer! *rips it in half*. Here.
+4443860799504,CAMP_DIALOGUE33CHARACTER2_LINE4,*smirk* Did you just share your food with me? Never thought I'd see the day.
+4443860799505,CAMP_DIALOGUE33CHARACTER1_LINE5,They say food tastes better when shared. So it's still kinda self-serving.
+4443860799506,CAMP_DIALOGUE33CHARACTER2_LINE6,*Laugh* Then of course I accept your selfishness.
+4443860799507,CAMP_DIALOGUE34CHARACTER1_LINE1,I was thinking about writing a song about our adventurers.
+4443860799508,CAMP_DIALOGUE34CHARACTER2_LINE2,I kinda like the sound of that. Just make sure to include all of my heroic deeds.
+4443860799509,CAMP_DIALOGUE34CHARACTER1_LINE3,...I might have to exaggerate a little to make it sound more epic.
+4443860799510,CAMP_DIALOGUE34CHARACTER3_LINE4,And also write how perfect my hair is!
+4443860799511,CAMP_DIALOGUE35CHARACTER1_LINE1,This is a beautiful spot. I love camping out in the wilderness.
+4443860799512,CAMP_DIALOGUE35CHARACTER2_LINE2,I can relate. It's peaceful out here.
+4443860799513,CAMP_DIALOGUE35CHARACTER1_LINE3,Makes you forget all your troubles.
+4443860799514,CAMP_DIALOGUE35CHARACTER2_LINE4,Yeah...
+4443860799515,CAMP_DIALOGUE36CHARACTER1_LINE1,It's moments like these that make me grateful for having you.
+4443860799516,CAMP_DIALOGUE36CHARACTER2_LINE2,What do you mean?
+4443860799517,CAMP_DIALOGUE36CHARACTER1_LINE3,"Just sitting here by the fire, with you by my side, I feel so content and happy"
+4443860799518,CAMP_DIALOGUE36CHARACTER2_LINE4,I feel the same way. It's nice to have some peace and quiet for a change.
+4443860799519,CAMP_DIALOGUE36CHARACTER1_LINE5,"Ha, yeah. No bandits, no monsters, no cultists trying to take over the world. Just us and the stars above."
+4443860799520,CAMP_DIALOGUE36CHARACTER1_LINE6,"...I love you, {CHARACTER2}."
+4443860799521,CAMP_DIALOGUE36CHARACTER2_LINE7,"I love you too, {CHARACTER1}."
+4443860799522,CAMP_DIALOGUE37CHARACTER1_LINE1,Do you ever think about what our life will be like after all this adventuring is over?
+4443860799523,CAMP_DIALOGUE37CHARACTER1_LINE2,"Sometimes. But honestly, I don't know if I can picture us doing anything else."
+4443860799524,CAMP_DIALOGUE37CHARACTER2_LINE3,"Yeah, I know what you mean. But we can't do this forever. Eventually, we'll have to retire."
+4443860799525,CAMP_DIALOGUE37CHARACTER1_LINE4,...What would we do?
+4443860799526,CAMP_DIALOGUE37CHARACTER2_LINE5,"I don't know...but whatever it is, I'm sure we're doing it together."
+4443864993792,CAMP_DIALOGUE37CHARACTER1_LINE6,...I like that thought.
+4443864993793,CAMP_DIALOGUE38CHARACTER1_LINE1,"Sometimes I feel like you're the only person that can keep me sane, {CHARACTER2}."
+4443864993794,CAMP_DIALOGUE38CHARACTER2_LINE2,It's not always easy. Sometimes you really scare me with your recklessness.
+4443864993795,CAMP_DIALOGUE38CHARACTER1_LINE3,...I'm sorry. I didn't mean to cause you heartache.
+4443864993796,CAMP_DIALOGUE38CHARACTER2_LINE4,*hug* Prove that to me by staying alive.
+4443864993797,CAMP_DIALOGUE39CHARACTER1_LINE1,You're pretty handy with those daggers. Where did you learn to use them like that?
+4443864993798,CAMP_DIALOGUE39CHARACTER2_LINE2,My childhood wasn't the most peaceful. Maybe I'll tell you about it someday.
+4443864993799,CAMP_DIALOGUE39CHARACTER1_LINE3,I can't wait to hear it.
+4443864993800,CAMP_DIALOGUE40CHARACTER1_LINE1,I noticed you tend to charge into our enemies quite...recklessly.
+4443864993801,CAMP_DIALOGUE40CHARACTER2_LINE2,"Hey, it works for me. I'm still alive, aren't I?"
+4443864993802,CAMP_DIALOGUE40CHARACTER1_LINE3,"Of course, there is nothing wrong with that but have you considered trying a more strategic approach?"
+4443864993803,CAMP_DIALOGUE40CHARACTER1_LINE4,"For example, you could stop yelling your intentions when you charge. It kinda defeats the purpose of a surprise attack."
+4443864993804,CAMP_DIALOGUE40CHARACTER2_LINE5,...I'll try that next time.
+4443864993805,CAMP_DIALOGUE41CHARACTER1_LINE1,Have you ever thought about your past life before becoming an adventurer? If it was the right decision?
+4443864993806,CAMP_DIALOGUE41CHARACTER2_LINE2,...
+4443864993807,CAMP_DIALOGUE41CHARACTER3_LINE3,Who hasn't?
+4443864993808,CAMP_DIALOGUE42CHARACTER1_LINE1,"Hey, have you noticed how quiet it is? It's almost too quiet."
+4443864993809,CAMP_DIALOGUE42CHARACTER2_LINE2,"Yeah, I was thinking the same thing. It's like the calm before the storm."
+4443864993810,CAMP_DIALOGUE42CHARACTER1_LINE3,"Wait, did you hear that? Something's coming."
+4443864993811,CAMP_DIALOGUE42CHARACTER2_LINE4,"Get ready. Whatever it is, we'll face it together."
+4443864993812,CAMP_DIALOGUE42CHARACTER3_LINE5,...Can't an adventurer return from taking a piss without {GENDER3:cond:=1?his|=0?her} comrades pointing their weapons at {GENDER3:cond:=1?him|=0?her}?
+4443864993813,CAMP_DIALOGUE43CHARACTER1_LINE1,I still can't believe that {CHARACTER7} is dead.
+4443864993814,CAMP_DIALOGUE43CHARACTER2_LINE2,Yeah...
+4443864993815,CAMP_DIALOGUE43CHARACTER1_LINE3,We weren't close but still...I hope {GENDER7:cond:=1?he|=0?she} is in a better place.
+4443864993816,CAMP_DIALOGUE43CHARACTER2_LINE4,"Rest in peace, {CHARACTER7}."
+4443864993817,CAMP_DIALOGUE44CHARACTER1_LINE1,{CHARACTER7} should have been more careful! Now this quest has become much more dangerous!
+4443864993818,CAMP_DIALOGUE44CHARACTER2_LINE2,Have some respect for the deaths!
+4443864993819,CAMP_DIALOGUE44CHARACTER1_LINE3,"But I'm right, aren't I? We could now be the next because of {GENDER7:cond:=1?him|=0?her}."
+4443864993820,CAMP_DIALOGUE44CHARACTER2_LINE4,"Just be quiet.
+Let's...just have a moment of silence."
+4443864993821,CAMP_DIALOGUE45CHARACTER1_LINE1,...I didn't know much about you {CHARACTER7} but...
+4443864993822,CAMP_DIALOGUE45CHARACTER1_LINE2,...I still hope you're in a better place now.
+4443864993823,CAMP_DIALOGUE46CHARACTER1_LINE1,Do you think {CHARACTER7} is in a better place now?
+4443864993824,CAMP_DIALOGUE46CHARACTER2_LINE2,...I hope so. {GENDER7:cond:=1?he|=0?she} deserves it.
+4443864993825,CAMP_DIALOGUE46CHARACTER3_LINE3,I'm really going to miss {GENDER7:cond:=1?him|=0?her}.
+4443864993826,CAMP_DIALOGUE46CHARACTER2_LINE4,We all do...
+4443864993827,CAMP_DIALOGUE47CHARACTER1_LINE1,I...I should have done something! {CHARACTER7} didn't have to die like that!
+4443864993828,CAMP_DIALOGUE47CHARACTER2_LINE2,"Stop it, {CHARACTER1}! There was nothing we could do."
+4443864993829,CAMP_DIALOGUE47CHARACTER2_LINE3,Blaming yourself won't help anybody.
+4443864993830,CAMP_DIALOGUE47CHARACTER1_LINE4,...
+4443869188096,CAMP_DIALOGUE48CHARACTER1_LINE1,...How can you be so unfazed by {CHARACTER7}'s death? {GENDER7:cond:=1?he|=0?she} was your friend too.
+4443869188097,CAMP_DIALOGUE48CHARACTER2_LINE2,Is there any point to lose myself in sorrow like you? I'm just staying focused on our task.
+4443869188098,CAMP_DIALOGUE48CHARACTER1_LINE3,You're cold-hearted...
+4443869188099,CAMP_DIALOGUE49CHARACTER1_LINE1,*sobs*...
+4443869188100,CAMP_DIALOGUE49CHARACTER3_LINE2,...{GENDER1:cond:=1?He|=0?She} won't stop crying...
+4443869188101,CAMP_DIALOGUE49CHARACTER2_LINE3,Can you blame {GENDER1:cond:=1?him|=0?her}? {GENDER1:cond:=1?his|=0?her} lover just died.
+4443869188102,CAMP_DIALOGUE49CHARACTER3_LINE4,*sighs* This is why you shouldn't date adventurers.
+4443869188103,CAMP_DIALOGUE50CHARACTER1_LINE1,...
+4443869188104,CAMP_DIALOGUE50CHARACTER2_LINE2,"Come on, {CHARACTER1}. You need to eat. {CHARACTER7} wouldn't have wanted for you to starve because of {GENDER1:cond:=1?him|=0?her}."
+4443869188105,CAMP_DIALOGUE50CHARACTER1_LINE3,{GENDER1:cond:=1?He|=0?She}...{GENDER1:cond:=1?he|=0?she} was still there this morning...and now...now...*sobs*
+4443869188106,CAMP_DIALOGUE50CHARACTER2_LINE4,It's alright....let it out. I'm here for you.
+4443869188107,CAMP_DIALOGUE51CHARACTER2_LINE1,We really need to discuss how to continue from here on with {CHARACTER7}'s death. 
+4443869188108,CAMP_DIALOGUE51CHARACTER3_LINE2,"I know, I know but...just give {CHARACTER1} a moment. {CHARACTER7}'s death was escpecially hard on {GENDER1:cond:=1?him|=0?her}."
+4443869188109,CAMP_DIALOGUE51CHARACTER2_LINE3,...I'll wait but this can't go forever.
+4443869188110,CAMP_DIALOGUE51CHARACTER1_LINE4,...
+4443869188111,CAMP_DIALOGUE52CHARACTER1_LINE1,W-what was that? I think I heard something!
+4443869188112,CAMP_DIALOGUE52CHARACTER2_LINE2,Sorry...I farted.
+4443869188113,CAMP_DIALOGUE53CHARACTER1_LINE1,Has anyone seen my sandwich? I left it here somewhere.
+4443869188114,CAMP_DIALOGUE53CHARACTER2_LINE2,"*munch* *munch. Oh, you mean this one? Didn't know this was yours."
+4443869188115,CAMP_DIALOGUE53CHARACTER1_LINE3,"...You just gained an enemy for life, {CHARACTER2}."
+4443869188116,CAMP_DIALOGUE54CHARACTER1_LINE1,*Sighs*...I feel like at least one of us is going to die on this quest. 
+4443869188117,CAMP_DIALOGUE54CHARACTER2_LINE2,"...You're as fun as always, {CHARACTER1}..."
+4443869188118,CAMP_DIALOGUE55CHARACTER1_LINE1,I don't know how much more I can take...
+4443869188119,CAMP_DIALOGUE55CHARACTER2_LINE2,Stop whining. It's not like the rest of us are so much better off.
+4443869188120,CAMP_DIALOGUE56CHARACTER1_LINE1,"*munch*, *munch*!"
+4443869188121,CAMP_DIALOGUE56CHARACTER2_LINE2,...That's already your third portion. Don't you think you've had enough?
+4443869188122,CAMP_DIALOGUE56CHARACTER1_LINE3,"Define ""enough""."
+4443869188123,CAMP_DIALOGUE56CHARACTER2_LINE4,...Nevermind.
+4443869188124,CAMP_DIALOGUE57CHARACTER2_LINE1,"Weren't you supposed to collect more firewood, {CHARACTER1}?"
+4443869188125,CAMP_DIALOGUE57CHARACTER1_LINE2,I did! Look!
+4443869188126,CAMP_DIALOGUE57CHARACTER2_LINE3,One twig isn't enough! Go collect more!
+4443869188127,CAMP_DIALOGUE57CHARACTER1_LINE4,Ugh...you're all such slave drivers.
+4443869188128,CAMP_DIALOGUE58CHARACTER1_LINE1,...Aaaaaand heads again! I win again!
+4443869188129,CAMP_DIALOGUE58CHARACTER2_LINE2, ...How can you win every coin flip? That's a statistical impossibility! Let's do it again!
+4443869188130,CAMP_DIALOGUE58CHARACTER1_LINE3,Are you sure? You already owe me more than enough. At some point even I start to feel bad.
+4443869188131,CAMP_DIALOGUE58CHARACTER2_LINE4,Just do it! I will not stop until I prove that being lucky is not a thing!
+4443869188132,CAMP_DIALOGUE59CHARACTER2_LINE1,Ready to show me the cards?
+4443869188133,CAMP_DIALOGUE59CHARACTER1_LINE2,"...If I do, will you be mad at me, honey?"
+4443869188134,CAMP_DIALOGUE59CHARACTER2_LINE3,...Show me the cards and we will talk later.
+4443873382400,CAMP_DIALOGUE59CHARACTER2_LINE4,...(Never play cards with your loved ones)...
+4443873382401,CAMP_DIALOGUE60CHARACTER1_LINE1,I give up! You win!
+4443873382402,CAMP_DIALOGUE60CHARACTER2_LINE2,Yay!
+4443873382403,CAMP_DIALOGUE60CHARACTER3_LINE3,That's rare. I've never seen you lose a card game before.
+4443873382404,CAMP_DIALOGUE60CHARACTER1_LINE4,I didn't lose the game. I've given up on explaining {CHARACTER2} the rules. I tried to explain so many times that we were not playing old maids. And when I finally agreed to play old maids {GENDER1:cond:=1?he|=0?she} didn't even know the rule to that game!
+4443873382405,CAMP_DIALOGUE61CHARACTER1_LINE1,"It's going to be so cooold tonight. Would you like to sleep in my bed tonight, {CHARACTER2}?"
+4443873382406,CAMP_DIALOGUE61CHARACTER2_LINE2,What a tempting offer. Don't mind if I do.
+4443873382407,CAMP_DIALOGUE61CHARACTER3_LINE3,Please...don't. I'm also here.
+104322570293248,DEATHWISH_BATTLE_LINE01,COME AND GET ME!
+104536001646592,DEATHWISH_BATTLE_LINE02,I WELCOME DEATH!
+104640754388992,DEATHWISH_BATTLE_LINE03,I'M NOT AFRAID TO DIE!
+104735084285952,DEATHWISH_BATTLE_LINE04,KILL ME IF YOU CAN!
+400761109590016,DRUNKARD_BUY_DRINK_LINE1,"You won't mind if I also take another drink, right?"
+401270075797504,DRUNKARD_BUY_DRINK_LINE2,I'm already drinking!*hicks*
+401466805432320,DRUNKARD_BUY_DRINK_LINE3,Yes!Yes!Yes!
+401696259026944,EAGLE_EYED_TRAP_TRIGGERED_LINE1,Should have seen that coming.
+402341867270144,EAGLE_EYED_TRAP_TRIGGERED_LINE2,How did I miss that trap?
+402478664495104,EAGLE_EYED_TRAP_TRIGGERED_LINE3,"This one is on me, everyone."
+402615306530816,EAGLE_EYED_TRAP_TRIGGERED_LINE4,Usually I spot traps from miles away.
+402970547302400,FRAIL_TRAP_TRIGGERED_LINE1,It hurts!
+403142408908800,FRAIL_TRAP_TRIGGERED_LINE2,This is killing me!
+403312068505600,FRAIL_TRAP_TRIGGERED_LINE3,Ugh...the pain!
+403425000140800,FRAIL_TRAP_TRIGGERED_LINE4,The pain is too much...
+403708212129792,COWARDLY_LOW_MORALE_QUESTMAP_LINE1,I-I think I've heard something!
+403992770490368,COWARDLY_LOW_MORALE_QUESTMAP_LINE2,A-are w-we sure nothing is following us?
+404569814446080,COWARDLY_LOW_MORALE_QUESTMAP_LINE3,M-maybe we should retreat for now...
+404704036368384,COWARDLY_LOW_MORALE_QUESTMAP_LINE4,Is this quest really worth our lives?
+404974204071936,DETERMINED_AFTER_CAMPING_LINE1,"Onwards, everyone!"
+405142315970560,DETERMINED_AFTER_CAMPING_LINE2,Let's go! We still have a quest to complete!
+405404921344000,DETERMINED_AFTER_CAMPING_LINE3,"Wake up, everyone! We still have work to do!"
+405581681897472,DETERMINED_AFTER_CAMPING_LINE4,I feel ready to take on anything!
+405763114905600,ASCETIC_BUY_DRINK_LINE1,I didn't really need a drink.
+405967964712960,ASCETIC_BUY_DRINK_LINE2,One is enough.
+406139532718080,ASCETIC_BUY_DRINK_LINE3,I'm not really much of a drinker.
+406936572112896,ARROGANT_OBSTACLE_FAILED_LINE1,I shouldn't even be doing this kind of work.
+407084891090944,ARROGANT_OBSTACLE_FAILED_LINE2,What did you even expect from me doing this lowly task. 
+407556163088384,ARROGANT_OBSTACLE_FAILED_LINE3,It was just beneath me.
+408144280006656,ARROGANT_OBSTACLE_FAILED_LINE4,Others are more suited for this kind work.
+408596983820288,CLUMSY_TRAP_TRIGGERED_LINE1,Sorry! That was my fault.
+408785832357888,CLUMSY_TRAP_TRIGGERED_LINE2,Ugh...I accidentally tripped over it.
+409193120247808,CLUMSY_TRAP_TRIGGERED_LINE3,Not again!
+409288813293568,CLUMSY_TRAP_TRIGGERED_LINE4,I'm not good with traps...
+409623078350848,CLUMSY_OBSTACLE_FAILED_LINE1,I tried my best...
+409936107646976,CLUMSY_OBSTACLE_FAILED_LINE2,I guess I was more of a hindrance than a help.
+410108367712256,CLUMSY_OBSTACLE_FAILED_LINE3,I messed up.
+410301091786752,RATIONAL_LOW_VIGOR_LINE1,We should consider camping.
+410965364682752,RATIONAL_LOW_VIGOR_LINE2,Exhausted adventurers are dead adventurers.
+411178028478464,RATIONAL_LOW_VIGOR_LINE3,It won't do anyone any good if we collapse due to exhaustion.
+411656686645248,RATIONAL_LOW_VIGOR_LINE4,There is no point in pushing us too hard.
+412762439397376,PESSIMISTIC_AFTER_CAMPING_LINE1,"Still not dead, huh?"
+413128576970752,PESSIMISTIC_AFTER_CAMPING_LINE2,I wonder when I won't open my eyes anymore.
+413298978959360,PESSIMISTIC_AFTER_CAMPING_LINE3,I wonder if today I will die in Battle.
+413632434515968,PESSIMISTIC_AFTER_CAMPING_LINE4,I'm surprised we didn't die in our sleep.
+413983074136064,PESSIMISTIC_AFTER_CAMPING_LINE5,Another fine day to die.
+414866268729344,MASOCHIST_LOW_HEALTH_LINE1,"Oh, yes!"
+415008669544448,MASOCHIST_LOW_HEALTH_LINE2,Just a little bit more!
+415139053678592,MASOCHIST_LOW_HEALTH_LINE3,I'm starting to feel it!
+415269223903232,MASOCHIST_LOW_HEALTH_LINE4,Hit me harder!
+415708614995968,MASOCHIST_FORCED_HEALING_LINE1,That's the stuff!
+416042947162112,MASOCHIST_FORCED_HEALING_LINE2,I should get hurt more often!
+416141064515584,MASOCHIST_FORCED_HEALING_LINE3,Hnnnggh...nice!
+416292344672256,MASOCHIST_FORCED_HEALING_LINE4,It feels so great!
+416600084951040,DEATHWISH_DEATH_RESISTED_LINE1,THAT WASN'T ENOUGH!
+416780905590784,DEATHWISH_DEATH_RESISTED_LINE2,YOU CALL THAT A KILLING BLOW?
+417998264578048,DEATHWISH_DEATH_RESISTED_LINE3,HARDER!
+418173313855488,SHORTSIGHTED_TRAP_TRIGGERED_LINE1,Shoot! I didn't see the trap.
+418366428000256,SHORTSIGHTED_TRAP_TRIGGERED_LINE2,From afar it just looked like a mushroom. 
+418551853985792,SHORTSIGHTED_TRAP_TRIGGERED_LINE3,I know I'm shortsighted. What is everyone else's excuses?
+418952288382976,SADIST_TRAP_TRIGGERED_LINE1,Who the hell triggered the trap?!
+419155695349760,SADIST_TRAP_TRIGGERED_LINE2,I'm going the murder the one who set up this trap.
+419355503603712,SADIST_TRAP_TRIGGERED_LINE3,The one who set up these traps better wish I won't get my hands on them.
+419709947457536,SADIST_TRAP_TRIGGERED_LINE4,@#$%&!
+419783372943360,SADIST_LOW_VIGOR_LINE1,If we rest we can kill more tomorrow.
+419895469912064,SADIST_LOW_VIGOR_LINE2,I wouldn't mind some more bloodshed. <b>After</b> we rest!
+420156422729728,SADIST_LOW_VIGOR_LINE3,I'm tired. I wouldn't mind resting.
+420288622997504,SADIST_LOW_VIGOR_LINE4,I've had enough blood for today.
+421176376799232,LAZY_OBSTACLE_FAILED_LINE1,Ugh...this is not what I signed up for.
+421613180006400,LAZY_OBSTACLE_FAILED_LINE2,Can we take a short break after this?
+421708382318592,LAZY_OBSTACLE_FAILED_LINE3,Maybe it would have gone faster if I had helped.
+421844781084672,LAZY_OBSTACLE_FAILED_LINE4,We should have just gone around.
+422035034714112,LAZY_AFTER_CAMPING_LINE1,*Yawn*. Do we have to wake up already?
+422205826772992,LAZY_AFTER_CAMPING_LINE2,Can't we rest a little bit more?
+422310508212224,LAZY_AFTER_CAMPING_LINE3,Ugh...back to work I guess.
+422531271208960,LAZY_AFTER_CAMPING_LINE4,*Sighs* I hate waking up.
+422719582875648,LAZY_TRAINING_LINE1,"Please! Please, don't make me work out! I hate working out!"
+423005026234368,LAZY_TRAINING_LINE2,Training? More like torture.
+423138069557248,LAZY_TRAINING_LINE3,Do I really have to?
+423207455928320,LAZY_TRAINING_LINE4,I'd rather lie on a bed.
+423351039537152,SELFISH_BIG_LOOT_LINE1,Sure we're not taking anything for ourselves?
+423476369534976,SELFISH_BIG_LOOT_LINE2,Of course I won't run away with the loot.
+423587401150464,SELFISH_BIG_LOOT_LINE3,Can't believe I have to share all of this.
+423692690763776,SELFISH_BIG_LOOT_LINE4,So I guess most of it goes to the guild? Great...
+423900493361152,KIND_TRAP_TRIGGERED_LINE1,Is everyone alright?
+424085382475776,KIND_TRAP_TRIGGERED_LINE2,Does anyone need first aid?
+424157281234944,KIND_TRAP_TRIGGERED_LINE3,We should take care of the wounded.
+424273778028544,KIND_TRAP_TRIGGERED_LINE4,Is anyone seriously wounded?
+424586882822144,GREEDY_BIG_LOOT_LINE1,Now I feel like we're not payed enough.
+424791933956096,GREEDY_BIG_LOOT_LINE2,So much value!
+424958158417920,GREEDY_BIG_LOOT_LINE3,I'm going to ask for a raise after this.
+425087745634304,GREEDY_BIG_LOOT_LINE4,It's all min...I mean ours. It's all our loot.
+425411541708800,GREEDY_GOLD_DISTRACTION_LINE1,GOLD! GOLD! GOLD!
+425508614680576,GREEDY_GOLD_DISTRACTION_LINE2,Hands off! It's all mine!
+425626063581184,GREEDY_GOLD_DISTRACTION_LINE3,I'm rich! I'm finally rich!
+425779172454400,SCARRED_TRAP_TRIGGERED_LINE1,Another scar for the collection.
+425892783566848,SCARRED_TRAP_TRIGGERED_LINE2,I've had worse.
+425999750901760,SCARRED_TRAP_TRIGGERED_LINE3,Just grit your teeths and it won't hurt as much.
+428280349175808,SCARRED_TRAP_TRIGGERED_LINE4,The pain is all too familiar.
+428533081157632,INJURED_PUPPY_LOWHEALTH_LINE1,"I got you little guy.
+Don't worry!"
+428766284460032,INJURED_PUPPY_LOWHEALTH_LINE2,"I'll protect you little guy.
+Even if I die."
+428917581393920,INJURED_PUPPY_LOWHEALTH_LINE3,"Make sure to run away
+if I don't make it, little pup."
+671405239939072,DIVINATION_LINE1,I'm receiving Guidance!
+671590212939776,DIVINATION_LINE2,We're not alone in this!
+671657527324672,DIVINATION_LINE3,The gods are with us in this battle!
+671781976518656,DIVINATION_LINE4,I can hear them!
+5127046520090624,ALISSA_CRITICAL_HIT1,I got them!
+5127046541062144,ALISSA_CRITICAL_HIT2,I won't hold back!
+5127046541062145,ALISSA_LOW_HEALTH1,Everything is getting dark...
+5127046541062146,ALISSA_LOW_HEALTH2,I'm not ready yet..
+5127046541062147,ALISSA_LOW_MORALE1,Mother...Father...Brother...
+5127046541062148,ALISSA_LOW_MORALE2,I'm scared...
+5127046541062149,ALISSA_NORMAL_ALLY_DEATH1,Not again...
+5127046541062150,ALISSA_NORMAL_ALLY_DEATH2,Why is life so fragile?
+5127046541062151,ALISSA_RIVAL_ALLY_DEATH1,W-what should we do?
+5127046541062152,ALISSA_RIVAL_ALLY_DEATH2,...
+5127046541062153,ALISSA_NEMESIS_ALLY_DEATH1,...
+5127046541062154,ALISSA_NEMESIS_ALLY_DEATH2,I didn't wish this...
+5127046541062155,ALISSA_FRIEND_ALLY_DEATH1,No...
+5127046541062156,ALISSA_FRIEND_ALLY_DEATH2,I don't want to lose more people...
+5127046541062157,ALISSA_LOVER_ALLY_DEATH1,NO!!!!
+5127046541062158,ALISSA_LOVER_ALLY_DEATH2,Why does this keep happening!
+5127046541062159,ALISSA_LOVER_ALLY_DEATH3,{CHARACTER1}!!!!
+5127046541062160,ALISSA_OATHSWORN_ALLY_DEATH1,NO!!!!
+5127046541062161,ALISSA_OATHSWORN_ALLY_DEATH2,Why does this keep happening!
+5127046541062162,ALISSA_OATHSWORN_ALLY_DEATH3,{CHARACTER1}!!!!
+5127046541062163,ALISSA_DESPAIR1,"No, no, no! I'm not ready yet!"
+5127046541062164,ALISSA_DESPAIR2,I can't keep going!
+5127046541062165,ALISSA_DESPAIR3,*sobbing*
+5127046541062166,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,Let me help!
+5127046541062167,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,I try my best for you!
+5127046541062168,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,Let me help!
+5127046541062169,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I try my best for you!
+5127046541062170,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,I trust you with my life.
+5127046541062171,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,I'd do anything for you.
+5127046541062172,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,I will never leave your side.
+5127046541062173,ALISSA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,You give me hope.
+5127046541062174,ALISSA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,I don't know about you.
+5127046541062175,ALISSA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,You're making me nervous.
+5127046541062176,ALISSA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,I don't like you.
+5127046541062177,ALISSA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,I feel like I can't trust you.
+5127046541062178,ALISSA_LOOT_BIGVALUE1,This will fetch a good price on the market!
+5127046541062179,ALISSA_LOOT_BIGVALUE2,I estimate that we'll get a lot of money out of this.
+5127046541062180,ALISSA_LOW_VIGOR1,*pant* D-Don't worry. I can keep going.
+5127046541062181,ALISSA_TRAP_TRIGGERED1,Ouch!
+5127046541062182,ALISSA_TRAP_TRIGGERED2,It hurts!
+5127046541062183,ALISSA_LOW_MORALE_QUESTMAP1,A-are we going to be alright?
+5127046541062184,ALISSA_LOW_MORALE_QUESTMAP2,"It's going to be fine. It's going to be fine.
+It's going to be fine. It's going to be fine."
+5127046541062185,ALISSA_AFTER_CAMPING1,*yawn*
+5127046541062186,ALISSA_FORCED_HEALING1,*Hnng!!* It hurts!
+5127046541062187,ALISSA_BUY_DRINK1,T-thanks. I usually don't drink.
+5127046541062188,ALISSA_BUY_DRINK2,"I-I'm not that much of a drinker, Guild Master."
+5127046541062189,ALISSA_TRAINING1,I try my best!
+5127046541062190,ALISSA_DEATH_RESISTED1,I-I can still keep going.
+5127046541062191,ALISSA_DEATH_RESISTED2,I still have to live...
+5127046541062192,ALISSA_SKIP_TURN1,D-Darkness is surrounding me.
+5127046541062193,ALISSA_SKIP_TURN2,Please...No more...
+5127046541062194,ALISSA_CONFESSION1,...Sometimes I still hear their voices.
+5127046541062195,ALISSA_CONFESSION2,I wish I could have been a better daughter...
+5127046541062196,ALISSA_GREED_DISTRACTION1,H-How much gold is that?
+5127046541062197,ALISSA_GREED_DISTRACTION2,"One coin, two coins, three coins..."
+5127272240754688,CONFIDENT_LOOT_BIGVALUE1,Nice!
+5127272240754689,CONFIDENT_LOOT_BIGVALUE2,That's a lot of loot.
+5127272240754690,CONFIDENT_LOOT_BIGVALUE3,I can't wait to receive my share!
+5127272240754691,CONFIDENT_LOOT_BIGVALUE4,*Whistle*
+5127272240754692,CONFIDENT_LOW_VIGOR1,I'm tired.
+5127272240754693,CONFIDENT_LOW_VIGOR2,Can we rest?
+5127272240754694,CONFIDENT_LOW_VIGOR3,I'm starting to feel tired.
+5127272240754695,CONFIDENT_LOW_VIGOR4,I can't go on much longer.
+5127272240754696,CONFIDENT_TRAP_TRIGGERED1,Ouch!
+5127272240754697,CONFIDENT_TRAP_TRIGGERED2,That hurt!
+5127272240754698,CONFIDENT_TRAP_TRIGGERED3,"Okay, who triggered the trap?"
+5127272240754699,CONFIDENT_TRAP_TRIGGERED4,Who was responsible for that one?
+5127272240754700,CONFIDENT_LOW_MORALE_QUESTMAP1,This Quest is starting to wear me down.
+5127272240754701,CONFIDENT_LOW_MORALE_QUESTMAP2,"Hopefully, we're nearly done."
+5127272240754702,CONFIDENT_LOW_MORALE_QUESTMAP3,Just a little bit more.
+5127272240754703,CONFIDENT_LOW_MORALE_QUESTMAP4,I still want to bring it to an end.
+5127272240754704,CONFIDENT_AFTER_CAMPING1,That was refreshing!
+5127272240754705,CONFIDENT_AFTER_CAMPING2,There is nothing a good night's rest can't cure.
+5127272240754706,CONFIDENT_AFTER_CAMPING3,Did anyone see my bag?
+5127272240754707,CONFIDENT_AFTER_CAMPING4,Ready to continue!
+5127272240754708,CONFIDENT_OBSTACLE_FAILED1,That was...exhausting!
+5127272240754709,CONFIDENT_OBSTACLE_FAILED2,That was more work than I thought.
+5127272240754710,CONFIDENT_OBSTACLE_FAILED3,Are we just out of shape?
+5127272240754711,CONFIDENT_OBSTACLE_FAILED4,That could have gone better.
+5127272240754712,CONFIDENT_FORCED_HEALING1,Ugh...let's get this over with.
+5127272240754713,CONFIDENT_FORCED_HEALING2,If I have to...
+5127272240754714,CONFIDENT_FORCED_HEALING3,This is going to be fun...
+5127272240754715,CONFIDENT_FORCED_HEALING4,*Inhale*...I'm ready.
+5127272240754716,CONFIDENT_DEATH_RESISTED1,I'm not done yet!
+5127272240754717,CONFIDENT_DEATH_RESISTED2,You have to do better than that!
+5127272240754718,CONFIDENT_DEATH_RESISTED3,I cannot fall...I will not fall!
+5127272240754719,CONFIDENT_DEATH_RESISTED4,You will not best me!
+5127272240754720,CONFIDENT_SKIP_TURN1,S-Someone else take the lead!
+5127272240754721,CONFIDENT_SKIP_TURN2,It's too much for me right now.
+5127272240754722,CONFIDENT_SKIP_TURN3,L-Let me rest a bit.
+5127272240754723,CONFIDENT_SKIP_TURN4,I don't know what to do.
+5127272240754724,CONFIDENT_BUY_DRINK1,"Don't mind if I do, Guild Master!"
+5127272240754725,CONFIDENT_BUY_DRINK2,I could definitely enjoy a drink right now.
+5127272240754726,CONFIDENT_BUY_DRINK3,You're the best Guild Master!
+5127272240754727,CONFIDENT_BUY_DRINK4,I won't say no to a free drink.
+5127272240754728,CONFIDENT_TRAINING1,Let's see how much stronger I'll get.
+5127272240754729,CONFIDENT_TRAINING2,Even the best need some excercise.
+5127272240754730,CONFIDENT_TRAINING3,Time to build some muscles!
+5127272240754731,CONFIDENT_TRAINING4,Training time!
+5127272240754732,CONFIDENT_CONFESSION1,There's something I need to get off my chest.
+5127272240754733,CONFIDENT_CONFESSION2,I have done something sinful.
+5127272240754734,CONFIDENT_GREED_DISTRACTION1,GOLD!
+5127272240754735,CONFIDENT_GREED_DISTRACTION2,The Gold is just lying there!
+5127272240754736,CONFIDENT_CRITICAL_HIT1,As expected of me!
+5127272240754737,CONFIDENT_CRITICAL_HIT2,We will prevail!
+5127272240754738,CONFIDENT_CRITICAL_HIT3,That's gotta hurt.
+5127272240754739,CONFIDENT_LOW_HEALTH1,I'm...still fine...
+5127272240754740,CONFIDENT_LOW_HEALTH2,Just a fleshwound...
+5127272240754741,CONFIDENT_LOW_MORALE1,I hate this...
+5127272240754742,CONFIDENT_LOW_MORALE2,Ugh...
+5127272240754743,CONFIDENT_FRIEND_ALLY_DEATH1,No...
+5127272240754744,CONFIDENT_FRIEND_ALLY_DEATH2,{CHARACTER1}...
+5127272240754745,CONFIDENT_FRIEND_ALLY_DEATH3,If only I was stronger.
+5127272240754746,CONFIDENT_LOVER_ALLY_DEATH1,NO! NOT YOU!
+5127272240754747,CONFIDENT_LOVER_ALLY_DEATH2,I should have protected you!
+5127272240754748,CONFIDENT_LOVER_ALLY_DEATH3,You deserved better!
+5127272240754749,CONFIDENT_LOVER_ALLY_DEATH4,What am I supposed to do without you?
+5127272240754750,CONFIDENT_NEMESIS_ALLY_DEATH1,At least I don't have to see you anymore.
+5127272240754751,CONFIDENT_NEMESIS_ALLY_DEATH2,Couldn't you die at a more convenient time?
+5127272240754752,CONFIDENT_NORMAL_ALLY_DEATH1,A heavy loss...
+5127272240754753,CONFIDENT_NORMAL_ALLY_DEATH2,Shit!
+5127272240754754,CONFIDENT_NORMAL_ALLY_DEATH3,I could do nothing...
+5127272240754755,CONFIDENT_OATHSWORN_ALLY_DEATH1,NO! NOT YOU!
+5127272240754756,CONFIDENT_OATHSWORN_ALLY_DEATH2,I should have protected you!
+5127272240754757,CONFIDENT_OATHSWORN_ALLY_DEATH3,You deserved better!
+5127272240754758,CONFIDENT_OATHSWORN_ALLY_DEATH4,What am I supposed to do without you?
+5127272240754759,CONFIDENT_RIVAL_ALLY_DEATH1,...
+5127272240754760,CONFIDENT_RIVAL_ALLY_DEATH2,Should have tried harder.
+5127272240754761,CONFIDENT_RIVAL_ALLY_DEATH3,Better luck in your next life.
+5127272240754762,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,You can always rely on me {CHARACTER1}!
+5127272240754763,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,I got your back and you got mine!
+5127272240754764,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,I'm glad you're on our side!
+5127272240754765,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,"Don't worry, I got you!"
+5127272240754766,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,Together we're unstoppable!
+5127272240754767,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,"I know I can leave my back to you, {CHARACTER1}!"
+5127272240754768,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,"If you need my help, you got it, {CHARACTER1}!"
+5127272240754769,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,"I will always stand by your side, {CHARACTER1}!"
+5127272240754770,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"You can always rely on me, my Love!"
+5127272240754771,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,I will stand between you and the world if necessary!
+5127272240754772,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"I will always protect you, {CHARACTER1}!"
+5127272240754773,CONFIDENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,My love will protect you!
+5127272240754774,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,"Try a little harder, {CHARACTER1}!"
+5127272240754775,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,It's hard to to entrust my back to you.
+5127272240754776,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,You've been dissappointing so far.
+5127272240754777,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,I need you to do better than that!
+5127272240754778,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,You better not try anything funny behind my back!
+5127272240754779,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,Having you in my Party really puts me at the edge!
+5127272240754780,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,What was the Guild Master thinking putting the two us together?
+5127272240754781,CONFIDENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,"Just because we're in the same party, don't think I trust you!"
+5127305317036032,DARYL_CRITICAL_HIT1,An easy feat.
+5127305317036033,DARYL_CRITICAL_HIT2,I hardly miss.
+5127305317036034,DARYL_LOW_HEALTH1,Ugh...this is worrisome.
+5127305317036035,DARYL_LOW_HEALTH2,I require healing.
+5127305317036036,DARYL_LOW_MORALE1,The situation is getting out of hand!
+5127305317036037,DARYL_LOW_MORALE2,Is this worth risking our lives?
+5127305317036038,DARYL_NORMAL_ALLY_DEATH1,Damn!
+5127305317036039,DARYL_NORMAL_ALLY_DEATH2,I'll never get used to this.
+5127305317036040,DARYL_RIVAL_ALLY_DEATH1,Damn!
+5127305317036041,DARYL_RIVAL_ALLY_DEATH2,Not exactly what I hoped for him.
+5127305317036042,DARYL_FRIEND_ALLY_DEATH1,It's always the good one.
+5127305317036043,DARYL_FRIEND_ALLY_DEATH2,"You will be missed, {CHARACTER1}."
+5127305317036044,DARYL_LOVER_ALLY_DEATH1,{CHARACTER1}!!
+5127305317036045,DARYL_LOVER_ALLY_DEATH2,NOOOO!
+5127305317036046,DARYL_OATHSWORN_ALLY_DEATH1,{CHARACTER1}!!
+5127305317036047,DARYL_OATHSWORN_ALLY_DEATH2,NOOOO!
+5127305317036048,DARYL_NEMESIS_ALLY_DEATH1,Hopefully I won't share that fate.
+5127305317036049,DARYL_NEMESIS_ALLY_DEATH2,You will remain an unpleasant memory.
+5127305317036050,DARYL_DESPAIR1,WE SHOULD BE GETTING OUT OF HERE!
+5127305317036051,DARYL_DESPAIR2,Shit!Shit!Shit!
+5127305317036052,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,I got you there!
+5127305317036053,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"I'll be watching your back, {CHARACTER1}!"
+5127305317036054,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I got you there!
+5127305317036055,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,"I'll be watching your back, {CHARACTER1}!"
+5127305317036056,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,"You can do it, {CHARACTER1}!"
+5127305317036057,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I'll protect you, my love!"
+5127305317036058,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"You can rely on me, {CHARACTER1}!"
+5127305317036059,DARYL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"You can do it, {CHARACTER1}!"
+5127305317036060,DARYL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,"You're a liability, {CHARACTER1}."
+5127305317036061,DARYL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,Make yourself more useful if you want to survive this.
+5127305317036062,DARYL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,"You're not exactly who I want at my side now, {CHARACTER1}."
+5127305317036063,DARYL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,I can't imagine a worse face I'd like to see right now.
+5127305317036064,DARYL_LOOT_BIGVALUE1,Not bad.
+5127305317036065,DARYL_LOOT_BIGVALUE2,Adventuring finally pays off.
+5127305317036066,DARYL_LOW_VIGOR1,We should rest.
+5127305317036067,DARYL_LOW_VIGOR2,Exhaustion won't do us any good.
+5127305317036068,DARYL_TRAP_TRIGGERED1,That was...unlucky.
+5127305317036069,DARYL_LOW_MORALE_QUESTMAP1,We should consider returning.
+5127305317036070,DARYL_AFTER_CAMPING1,Let's get moving.
+5127305317036071,DARYL_AFTER_CAMPING2,Rest is over.
+5127305317036072,DARYL_OBSTACLE_FAILED1,Not our proudest moment.
+5127305317036073,DARYL_FORCED_HEALING1,*Sighs*
+5127305317036074,DARYL_FORCED_HEALING2,There should be anesthesia for this.
+5127305317036075,DARYL_BUY_DRINK1,"I appreciate it, Guild Master."
+5127305317036076,DARYL_BUY_DRINK2,I do enjoy a drink from time to time.
+5127305317036077,DARYL_TRAINING1,I guess there is value in traditional training.
+5127305317036078,DARYL_TRAINING2,I prefer hand on experience.
+5127305317036079,DARYL_DEATH_RESISTED1,I haven't survived so far for nothing.
+5127305317036080,DARYL_DEATH_RESISTED2,Dodged death yet again.
+5127305317036081,DARYL_SKIP_TURN1,Is there much point in trying anymore?
+5127305317036082,DARYL_SKIP_TURN2,I'm tired of this...
+5127305317036083,DARYL_GREED_DISTRACTION1,Is all that gold real?
+5127305317036084,DARYL_GREED_DISTRACTION2,That's enough to retire for two lifetimes!
+5127305317036085,DARYL_CONFESSION1,I'm not proud of many things I have done in the past.
+5127305317036086,DARYL_CONFESSION2,I want to forget the past.
+5127322572402688,DEFAULT_FORCED_HEALING1,Why does healing hurt so much?!!!
+5127322576596992,DEFAULT_FORCED_HEALING2,Can't I just lie in bed?
+5127322576596993,DEFAULT_FORCED_HEALING3,Hopefully I fall unconscious.
+5127322576596994,DEFAULT_GREED_DISTRACTION1,GOLD!!
+5127322576596995,DEFAULT_GREED_DISTRACTION2,What I could buy with all that gold!
+5127322576596996,DEFAULT_CONFESSION1,I want to confess.
+5127322576596997,DEFAULT_CONFESSION2,I've sinned in the past.
+5127322576596998,DEFAULT_CRITICAL_HIT1,That's gotta hurt.
+5127322576596999,DEFAULT_LOW_HEALTH1,I don't think I can last much longer!
+5127322576597000,DEFAULT_LOW_MORALE1,Maybe it's better if we retreat?
+5127322576597001,DEFAULT_FRIEND_ALLY_DEATH1,{CHARACTER1}!!!!
+5127322576597002,DEFAULT_FRIEND_ALLY_DEATH2,No! This can't be!
+5127322576597003,DEFAULT_LOVER_ALLY_DEATH1,"NONONO!
+YOU CAN'T DIE!"
+5127322576597004,DEFAULT_LOVER_ALLY_DEATH2,YOU WILL PAY FOR THAT!
+5127322576597005,DEFAULT_NEMESIS_ALLY_DEATH1,Good Riddance!
+5127322576597006,DEFAULT_NORMAL_ALLY_DEATH1,Shit!
+5127322576597007,DEFAULT_NORMAL_ALLY_DEATH2,This is not good...
+5127322576597008,DEFAULT_NORMAL_ALLY_DEATH3,Was there nothing we could have done?
+5127322576597009,DEFAULT_OATHSWORN_ALLY_DEATH1,"NONONO!
+YOU CAN'T DIE!"
+5127322576597010,DEFAULT_OATHSWORN_ALLY_DEATH2,YOU WILL PAY FOR THAT!
+5127322576597011,DEFAULT_RIVAL_ALLY_DEATH1,"So he died, huh?"
+5127322576597012,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,"Having you here make things easier, my friend."
+5127322576597013,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"Good thing you are here, {CHARACTER1}. I know I can count you."
+5127322576597014,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"Let's work together, {CHARACTER1}! It will be easier together!"
+5127322576597015,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,"I know I can rely on you, {CHARACTER1}! Your abilities are indispensable!"
+5127322576597016,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I don't think there are many people besides you who can make me feel safe here.
+5127322576597017,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I'm glad we're in the same Party. Thinks have always worked out with us together!
+5127322576597018,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,Don't worry about your back as long as I'm here. I'll keep you safe!
+5127322576597019,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Don't worry about your back as long as I'm here. I'll keep you safe!
+5127322576597020,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN5,Try to stay safe! We're a team. You don't have to risk your life alone!
+5127322576597021,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I know I can always rely on you, my Love!"
+5127322576597022,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,Let's keep each other safe! Neither of us want to return without the other.
+5127322576597023,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"Whatever happens, I will always be right beside you."
+5127322576597024,DEFAULT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,"If anything happens, know this: I love you!"
+5127322576597025,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,If you slack off the rest of us has to work harder.
+5127322576597026,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,Don't make me regret having you by my side.
+5127322576597027,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,Take responsibility for your actions. If we fall then you will also feel the consequences.
+5127322576597028,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,I do not like how I have to rely on you.
+5127322576597029,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,I hope I won't regret letting you of my sight.
+5127322576597030,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,You're just a disaster waiting to happen.
+5127322576597031,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,I guess my only insurance is that both of our lives are on the line.
+5127322576597032,DEFAULT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,"Should I take solace in the thought that if I die, you'll die?"
+5127349143318528,EAGER_LOOT_BIGVALUE1,Wow!
+5127349143318529,EAGER_LOOT_BIGVALUE2,Look at all the loot!
+5127349143318530,EAGER_LOOT_BIGVALUE3,The Guild Master is going to like this!
+5127349143318531,EAGER_LOOT_BIGVALUE4,We're going to be rich!
+5127349143318532,EAGER_LOW_VIGOR1,Can we rest already?
+5127349143318533,EAGER_LOW_VIGOR2,I don't want to whine but can we rest?
+5127349143318534,EAGER_LOW_VIGOR3,I won't be able continue much longer
+5127349143318535,EAGER_LOW_VIGOR4,I'm trying my best here but I'm running on fumes.
+5127349143318536,EAGER_TRAP_TRIGGERED1,It wasn't me! I didn't trigger the trap!
+5127349143318537,EAGER_TRAP_TRIGGERED2,Ouch!
+5127349143318538,EAGER_TRAP_TRIGGERED3,That was unfortunate...
+5127349143318539,EAGER_TRAP_TRIGGERED4,The trap was to well hidden.
+5127349143318540,EAGER_LOW_MORALE_QUESTMAP1,How much more?
+5127349143318541,EAGER_LOW_MORALE_QUESTMAP2,Shouldn't we consider going back?
+5127349143318542,EAGER_LOW_MORALE_QUESTMAP3,I don't know how much more I can take.
+5127349143318543,EAGER_LOW_MORALE_QUESTMAP4,I-I'm scared.
+5127349143318544,EAGER_AFTER_CAMPING1,*yawn* Is it already morning?
+5127349143318545,EAGER_AFTER_CAMPING2,I feel well-rested.
+5127349143318546,EAGER_AFTER_CAMPING3,I had a nice dream.
+5127349143318547,EAGER_AFTER_CAMPING4,*zzzZ*...I'm awake!
+5127349143318548,EAGER_OBSTACLE_FAILED1,So much for that.
+5127349143318549,EAGER_OBSTACLE_FAILED2,That didn't go well.
+5127349143318550,EAGER_OBSTACLE_FAILED3,We could have gone around by now.
+5127349143318551,EAGER_OBSTACLE_FAILED4,I tried my best and it wasn't good enough.
+5127349143318552,EAGER_FORCED_HEALING1,O-Of course I'm not scared of the healer! *Sweating*
+5127349143318553,EAGER_FORCED_HEALING2,It's just a scratch! Really!
+5127349143318554,EAGER_FORCED_HEALING3,Let me prepare mentally! *Inhale* *Exhale*
+5127349143318555,EAGER_FORCED_HEALING4,Why does it have to hurt so much?
+5127349143318556,EAGER_DEATH_RESISTED1,I-I'm fine!
+5127349143318557,EAGER_DEATH_RESISTED2,Not yet. Not now!
+5127349143318558,EAGER_DEATH_RESISTED3,I can't die here.
+5127349143318559,EAGER_DEATH_RESISTED4,I struggle as long as I can.
+5127349143318560,EAGER_SKIP_TURN1,"S-Sorry, I can't."
+5127349143318561,EAGER_SKIP_TURN2,I-I'm not ready!
+5127349143318562,EAGER_SKIP_TURN3,I can't! I just can't!
+5127349143318563,EAGER_SKIP_TURN4,No...please no.
+5127349143318564,EAGER_BUY_DRINK1,"For me? Thank you, Guild Master!"
+5127349143318565,EAGER_BUY_DRINK2,If it's fine with you I'll be taking that downtime.
+5127349143318566,EAGER_BUY_DRINK3,"You stop me if I overdo it, right?"
+5127349143318567,EAGER_BUY_DRINK4,To your health Guild Master!
+5127349143318568,EAGER_TRAINING1,I hope I'll get stronger.
+5127349143318569,EAGER_TRAINING2,I also think I need some training.
+5127349143318570,EAGER_TRAINING3,I try my best to get stronger!
+5127349143318571,EAGER_TRAINING4,Hopefully I can keep up with the training.
+5127349143318572,EAGER_CONFESSION1,I-I have done something bad.
+5127349143318573,EAGER_CONFESSION2,Will the gods forgive me?
+5127349143318574,EAGER_GREED_DISTRACTION1,I-is that a pile of Gold?
+5127349143318575,EAGER_GREED_DISTRACTION2,H-how much Gold is that?!
+5127349143318576,EAGER_CRITICAL_HIT1,I did it!
+5127349143318577,EAGER_CRITICAL_HIT2,Did anyone see that?
+5127349143318578,EAGER_CRITICAL_HIT3,Woohoo!
+5127349143318579,EAGER_LOW_HEALTH1,I don't feel so well...
+5127349143318580,EAGER_LOW_HEALTH2,I'm getting dizzy...
+5127349143318581,EAGER_LOW_HEALTH3,I will...not...FALL!
+5127349143318582,EAGER_LOW_MORALE1,*Heavy Breathing*
+5127349143318583,EAGER_LOW_MORALE2,"Everything is fine...
+Everything is fine..."
+5127349143318584,EAGER_LOW_MORALE3,"Don't break...
+Please, don't break..."
+5127349143318585,EAGER_FRIEND_ALLY_DEATH1,{CHARACTER1}!
+5127349143318586,EAGER_FRIEND_ALLY_DEATH2,NO!
+5127349143318587,EAGER_FRIEND_ALLY_DEATH3,If only I was stronger!
+5127349143318588,EAGER_LOVER_ALLY_DEATH1,"NONONO!
+YOU CAN'T DIE!"
+5127349143318589,EAGER_LOVER_ALLY_DEATH2,YOU WILL PAY FOR THAT!
+5127349143318590,EAGER_NEMESIS_ALLY_DEATH1,We're losing ground!
+5127349143318591,EAGER_NEMESIS_ALLY_DEATH2,What should we do now?
+5127349143318592,EAGER_NEMESIS_ALLY_DEATH3,We lost someone!
+5127349143318593,EAGER_NORMAL_ALLY_DEATH1,That's bad.
+5127349143318594,EAGER_NORMAL_ALLY_DEATH2,Shit!
+5127349143318595,EAGER_NORMAL_ALLY_DEATH3,This is not good...
+5127349143318596,EAGER_OATHSWORN_ALLY_DEATH1,"NONONO!
+YOU CAN'T DIE!"
+5127349143318597,EAGER_OATHSWORN_ALLY_DEATH2,YOU WILL PAY FOR THAT!
+5127349143318598,EAGER_RIVAL_ALLY_DEATH1,We're losing ground!
+5127349143318599,EAGER_RIVAL_ALLY_DEATH2,What should we do now?
+5127349143318600,EAGER_RIVAL_ALLY_DEATH3,We lost someone!
+5127349143318601,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,Let's show them what we can do together!
+5127349143318602,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,Glad to have you on my side!
+5127349143318603,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"I'll try my best for you, my friend!"
+5127349143318604,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,I'll help you whenever I can!
+5127349143318605,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,"You and me against the world, {CHARACTER1}!"
+5127349143318606,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,They won't know what hit them!
+5127349143318607,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,"You can always leave your back to me, {CHARACTER1}!"
+5127349143318608,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Having you at my side really puts my mind at ease!
+5127349143318609,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"You can always rely on me, my Love!"
+5127349143318610,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,You don't have to overdo it. We promised to share our burdens!
+5127349143318611,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,I'm glad to have you by my side.
+5127349143318612,EAGER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,With you by my side I feel stronger!
+5127349143318613,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,"You know we have to work together, right?"
+5127349143318614,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,"When you slack off, I have to make up for it."
+5127349143318615,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,"I'm not saying I don't respect you, but..."
+5127349143318616,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,I can't say your presence fills me with confidence.
+5127349143318617,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,Do your job and I'll do mine! 
+5127349143318618,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,For now let's not try to strangle each other.
+5127349143318619,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,I really preferred to be with anyone else right now!
+5127349143318620,EAGER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,Can I really trust you?
+5127368898490368,ELAN_CRITICAL_HIT1,I did it!
+5127368898490369,ELAN_CRITICAL_HIT2,I'm starting to get hang of this
+5127368898490370,ELAN_LOW_HEALTH1,Everything is starting to go black...
+5127368898490371,ELAN_LOW_HEALTH2,I-I need help!
+5127368898490372,ELAN_LOW_MORALE1,I-I don't want to die like this...
+5127368898490373,ELAN_LOW_MORALE2,A-Am I not cut out for this?
+5127368898490374,ELAN_NORMAL_ALLY_DEATH1,I-Is it my fault?
+5127368898490375,ELAN_NORMAL_ALLY_DEATH2,I don't want to end like that.
+5127368898490376,ELAN_RIVAL_ALLY_DEATH1,I-Is it my fault?
+5127368898490377,ELAN_RIVAL_ALLY_DEATH2,I don't want to end like that.
+5127368898490378,ELAN_NEMESIS_ALLY_DEATH1,I-Is it my fault?
+5127368898490379,ELAN_NEMESIS_ALLY_DEATH2,I don't want to end like that.
+5127368898490380,ELAN_DESPAIR1,"No,no,no!"
+5127368898490381,ELAN_DESPAIR2,I want my life to matter!
+5127368898490382,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,Let me help you!
+5127368898490383,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"I can help you, {CHARACTER1}!"
+5127368898490384,ELAN_FRIEND_ALLY_DEATH1,NO!
+5127368898490385,ELAN_FRIEND_ALLY_DEATH2,Not like this!
+5127368898490386,ELAN_LOVER_ALLY_DEATH1,NO!
+5127368898490387,ELAN_LOVER_ALLY_DEATH2,{CHARACTER1}!!!!!
+5127368898490388,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,"I'll have your back, {CHARACTER1}!"
+5127368898490389,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,"I will try my best for you, {CHARACTER1}!"
+5127368898490390,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I'll have your back, {CHARACTER1}!"
+5127368898490391,ELAN_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"I will try my best for you, {CHARACTER1}!"
+5127368898490392,ELAN_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,You're not being helpful!
+5127368898490393,ELAN_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,"Please, don't get in my way!"
+5127368898490394,ELAN_LOOT_BIGVALUE1,S-So much loot!
+5127368898490395,ELAN_LOOT_BIGVALUE2,"Carrying all this, is going to make me nervous!"
+5127368898490396,ELAN_LOW_VIGOR1,"I'm sorry, but I won't be able to go much longer..."
+5127368898490397,ELAN_LOW_VIGOR2,"C-can we have a rest? 
+No? 
+Okay..."
+5127368898490398,ELAN_TRAP_TRIGGERED1,Ouch!
+5127368898490399,ELAN_TRAP_TRIGGERED2,I-I'm still okay!
+5127368898490400,ELAN_LOW_MORALE_QUESTMAP1,M-Maybe it's time to turn back?
+5127368898490401,ELAN_AFTER_CAMPING1,Hnnghh! That was a nice rest.
+5127368898490402,ELAN_FORCED_HEALING1,I try not to scream...
+5127368898490403,ELAN_BUY_DRINK1,"T-thanks, Guild Master!"
+5127368898490404,ELAN_BUY_DRINK2,I-I usually don't drink...but thanks.
+5127368898490405,ELAN_TRAINING1,I will do my best!
+5127368898490406,ELAN_TRAINING2,I will try to learn as much as I can!
+5127368898490407,ELAN_DEATH_RESISTED1,N-not yet. I haven't achieved my goals yet.
+5127368898490408,ELAN_DEATH_RESISTED2,I don't want a meaningless death like this.
+5127368898490409,ELAN_SKIP_TURN1,I-I...
+5127368898490410,ELAN_SKIP_TURN2,I-I don't know w-what to do!
+5127368898490411,ELAN_CONFESSION1,I once lied to my parents...
+5127368898490412,ELAN_CONFESSION2,I want to be a better person.
+5127368898490413,ELAN_GREED_DISTRACTION1,All that Gold...
+5127368898490414,ELAN_GREED_DISTRACTION2,Everything would be easier for my parents with that gold.
+5127416231211008,INDIFFERENT_LOOT_BIGVALUE1,Much of this goes to the Guild anyway.
+5127416231211009,INDIFFERENT_LOOT_BIGVALUE2,Meh..
+5127416231211010,INDIFFERENT_LOOT_BIGVALUE3,First we have to get all of this back to the Guild.
+5127416231211011,INDIFFERENT_LOOT_BIGVALUE4,Do we have enough space for everything?
+5127416231211012,INDIFFERENT_LOW_VIGOR1,I need to rest.
+5127416231211013,INDIFFERENT_LOW_VIGOR2,We should find a place to camp.
+5127416231211014,INDIFFERENT_LOW_VIGOR3,We can't continue much longer like this.
+5127416231211015,INDIFFERENT_LOW_VIGOR4,We're pushing too hard.
+5127416231211016,INDIFFERENT_TRAP_TRIGGERED1,Shit!
+5127416231211017,INDIFFERENT_TRAP_TRIGGERED2,*Grind teeth*
+5127416231211018,INDIFFERENT_TRAP_TRIGGERED3,Great...
+5127416231211019,INDIFFERENT_TRAP_TRIGGERED4,No choice but to endure the pain.
+5127416235405312,INDIFFERENT_LOW_MORALE_QUESTMAP1,Are our lifes worth this?
+5127416235405313,INDIFFERENT_LOW_MORALE_QUESTMAP2,Don't push me too hard.
+5127416235405314,INDIFFERENT_LOW_MORALE_QUESTMAP3,...
+5127416235405315,INDIFFERENT_LOW_MORALE_QUESTMAP4,How much...longer...
+5127416235405316,INDIFFERENT_AFTER_CAMPING1,*Breath in*
+5127416235405317,INDIFFERENT_AFTER_CAMPING2,Let's continue.
+5127416235405318,INDIFFERENT_AFTER_CAMPING3,...
+5127416235405319,INDIFFERENT_AFTER_CAMPING4,We better complete the quest now.
+5127416235405320,INDIFFERENT_OBSTACLE_FAILED1,*Sighs*
+5127416235405321,INDIFFERENT_OBSTACLE_FAILED2,"Next time, try harder."
+5127416235405322,INDIFFERENT_OBSTACLE_FAILED3,Damn it.
+5127416235405323,INDIFFERENT_OBSTACLE_FAILED4,What a waste of time.
+5127416235405324,INDIFFERENT_FORCED_HEALING1,*Grit teeths* Not yet!
+5127416235405325,INDIFFERENT_FORCED_HEALING2,I will survive this!
+5127416235405326,INDIFFERENT_FORCED_HEALING3,I won't fall so easily.
+5127416235405327,INDIFFERENT_FORCED_HEALING4,I will prevail!
+5127416235405328,INDIFFERENT_SKIP_TURN1,I have to wait and see...
+5127416235405329,INDIFFERENT_SKIP_TURN2,It's too dangerous...
+5127416235405330,INDIFFERENT_SKIP_TURN3,I need time.
+5127416235405331,INDIFFERENT_SKIP_TURN4,I can't! I just can't!
+5127416235405332,INDIFFERENT_BUY_DRINK1,Thanks...
+5127416235405333,INDIFFERENT_BUY_DRINK2,I could use a drink.
+5127416235405334,INDIFFERENT_BUY_DRINK3,"Sure, why not?"
+5127416235405335,INDIFFERENT_BUY_DRINK4,I guess a drink won't hurt.
+5127416235405336,INDIFFERENT_TRAINING1,If it's necessary.
+5127416235405337,INDIFFERENT_TRAINING2,Alright. Let's train!
+5127416235405338,INDIFFERENT_TRAINING3,Hopefully I won't get sore muscles tomorrow.
+5127416235405339,INDIFFERENT_CONFESSION1,Sometimes I do feel regret.
+5127416235405340,INDIFFERENT_CONFESSION2,The past isn't so easily purged.
+5127416235405341,INDIFFERENT_CONFESSION3,Do I even need forgiveness?
+5127416235405342,INDIFFERENT_GREED_DISTRACTION1,I want that gold...
+5127416235405343,INDIFFERENT_GREED_DISTRACTION2,All that gold is just lying there.
+5127416235405344,INDIFFERENT_GREED_DISTRACTION3,So easy to grab it all.
+5127416235405345,INDIFFERENT_CRITICAL_HIT1,A good hit.
+5127416235405346,INDIFFERENT_CRITICAL_HIT2,...
+5127416235405347,INDIFFERENT_LOW_HEALTH1,Ugh...
+5127416235405348,INDIFFERENT_LOW_HEALTH2,Need...healing...
+5127416235405349,INDIFFERENT_LOW_MORALE1,*Heavy Breathing*
+5127416235405350,INDIFFERENT_LOW_MORALE2,Please..stop..
+5127416235405351,INDIFFERENT_FRIEND_ALLY_DEATH1,{CHARACTER1}...
+5127416235405352,INDIFFERENT_LOVER_ALLY_DEATH1,...
+5127416235405353,INDIFFERENT_NEMESIS_ALLY_DEATH1,...
+5127416235405354,INDIFFERENT_NORMAL_ALLY_DEATH1,This makes things harder...
+5127416235405355,INDIFFERENT_NORMAL_ALLY_DEATH2,...
+5127416235405356,INDIFFERENT_OATHSWORN_ALLY_DEATH1,...
+5127416235405357,INDIFFERENT_RIVAL_ALLY_DEATH1,...
+5127416235405358,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,You don't need to overdo it...I'm also here.
+5127416235405359,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"Let's look out for each other...That's what friends do, right?"
+5127416235405360,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,Having a friend like you by my side is really reassuring.
+5127416235405361,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,I trust you...my friend.
+5127416235405362,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,It's rare to have someone like you at my side...And I'm thankful for that.
+5127416235405363,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I will always stand by your side as you have stood by mine.
+5127416235405364,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,Your presence is reassuring. That's rare for me.
+5127416235405365,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Leave your back to me. I know you have mine
+5127416235405366,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,Stand behind me. I don't want to see you hurt.
+5127416235405367,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,I will try my hardest so that we can return home together.
+5127416235405368,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,Your presence gives me strength and I will use it to protect you.
+5127416235405369,INDIFFERENT_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,"Promise me not to overdo it, {CHARACTER1}..."
+5127416235405370,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,I need someone I can trust...not you.
+5127416235405371,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,Try not to put us in danger.
+5127416235405372,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,Try not to drag us down...
+5127416235405373,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,I don't really expect much from you...
+5127416235405374,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,I feel like I have to watch my back with you on my side...
+5127416235405375,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,Don't do anything suspicious or I guarantee for nothing.
+5127416235405376,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,Keep your distance. I don't like you being too close to me.
+5127416235405377,INDIFFERENT_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,"It's hard if I have to worry about the enemy in front and the ""Ally"" at my side."
+5127434874892288,JOKER_LOOT_BIGVALUE1,Look at all the loot! Look!
+5127434874892289,JOKER_LOOT_BIGVALUE2,"So we're not going to fight over the loot, right? Good! I just wanted to make sure!"
+5127434874892290,JOKER_LOOT_BIGVALUE3,Looooot!!
+5127434874892291,JOKER_LOOT_BIGVALUE4,I already know what I'm going to buy with my share.
+5127434874892292,JOKER_LOW_VIGOR1,"Guys, I'm tired!"
+5127434874892293,JOKER_LOW_VIGOR2,"If this goes on, someone has to carry me."
+5127434874892294,JOKER_LOW_VIGOR3,So we're not going to sleep tonight? Just asking.
+5127434874892295,JOKER_LOW_VIGOR4,I'm dead tired.
+5127434874892296,JOKER_TRAP_TRIGGERED1,YIKES!
+5127434874892297,JOKER_TRAP_TRIGGERED2,I'm surprised I'm not dead yet.
+5127434874892298,JOKER_TRAP_TRIGGERED3,"So, who was responsible for that one?"
+5127434874892299,JOKER_TRAP_TRIGGERED4,How likely was that?
+5127434874892300,JOKER_LOW_MORALE_QUESTMAP1,Can we stop already?
+5127434874892301,JOKER_LOW_MORALE_QUESTMAP2,How about we just say we did it?
+5127434874892302,JOKER_LOW_MORALE_QUESTMAP3,I knew I should have written a will.
+5127434874892303,JOKER_LOW_MORALE_QUESTMAP4,I wish I had a family who'd mourn me.
+5127434874892304,JOKER_AFTER_CAMPING1,"Wakey, wakey, everyone!"
+5127434874892305,JOKER_AFTER_CAMPING2,Anyone want breakfast?
+5127434874892306,JOKER_AFTER_CAMPING3,*yawn* Just five more minutes.
+5127434874892307,JOKER_AFTER_CAMPING4,I miss my bed in the Guild.
+5127434874892308,JOKER_OBSTACLE_FAILED1,That could have gone better.
+5127434874892309,JOKER_OBSTACLE_FAILED2,"Oh, come on!"
+5127434874892310,JOKER_OBSTACLE_FAILED3,"I'd say it was a waste of time, if my time had any value."
+5127434874892311,JOKER_OBSTACLE_FAILED4,Next time we go around.
+5127434874892312,JOKER_FORCED_HEALING1,This isn't so baaAAAARRRRGGGHHH!!!!
+5127434874892313,JOKER_FORCED_HEALING2,It just a broken leg. I don't have to go to the healer!
+5127434874892314,JOKER_FORCED_HEALING3,WHY DOES HEALING HURT?! WHY?
+5127434874892315,JOKER_FORCED_HEALING4,You don't have to strap me. I won't run! Really!
+5127434874892316,JOKER_DEATH_RESISTED1,You can't get rid of me so easily!
+5127434874892317,JOKER_DEATH_RESISTED2,I'm too stupid to give up now!
+5127434874892318,JOKER_DEATH_RESISTED3,You can't get rid of me so easily.
+5127434874892319,JOKER_DEATH_RESISTED4,I'm a survivor! I'm not going to give up!
+5127434874892320,JOKER_SKIP_TURN1,"Someone else cover for me, please."
+5127434874892321,JOKER_SKIP_TURN2,The mind says yes but the body says no.
+5127434874892322,JOKER_SKIP_TURN3,It's too risky!
+5127434874892323,JOKER_SKIP_TURN4,Leave me alone!
+5127434874892324,JOKER_BUY_DRINK1,"Oh, I will get drunk tonight!"
+5127434874892325,JOKER_BUY_DRINK2,I take that liquid bribe.
+5127434874892326,JOKER_BUY_DRINK3,I feel already happier.
+5127434874892327,JOKER_BUY_DRINK4,"You're the best, Guild Master! And I'm not just saying that hoping you buy another round."
+5127434874892328,JOKER_TRAINING1,I will get so buff you won't recognize me.
+5127434874892329,JOKER_TRAINING2,Would be more fun if Falken wouldn't be so spartan.
+5127434874892330,JOKER_TRAINING3,For a better and stronger me.
+5127434874892331,JOKER_CONFESSION1,Sin? What sin? *Nervous laughter*
+5127434874892332,JOKER_CONFESSION2,I-it's not a big deal.
+5127434874892333,JOKER_GREED_DISTRACTION1,I suddenly want to dive in that pile of gold.
+5127434874892334,JOKER_GREED_DISTRACTION2,I wouldn't mind to be buried by all that gold.
+5127434874892335,JOKER_CRITICAL_HIT1,Gotcha!
+5127434874892336,JOKER_CRITICAL_HIT2,I'm even better than that!
+5127434874892337,JOKER_CRITICAL_HIT3,Bullseye!
+5127434874892338,JOKER_LOW_HEALTH1,"Why is everything red?
+Oh...that's my blood..."
+5127434874892339,JOKER_LOW_HEALTH2,"Someone got a healing potion?
+Or at least a bandaid?"
+5127434874892340,JOKER_LOW_HEALTH3,Someone kiss my booboo!
+5127434874892341,JOKER_LOW_MORALE1,"I'm not scared.
+...Really!"
+5127434874892342,JOKER_LOW_MORALE2,"Running away doesn't sound that bad, right?"
+5127434874892343,JOKER_FRIEND_ALLY_DEATH1,{CHARACTER1}...No...
+5127434874892344,JOKER_FRIEND_ALLY_DEATH2,No...Not my drinking buddy!
+5127434874892345,JOKER_LOVER_ALLY_DEATH1,"MY LOVE!!!
+"
+5127434874892346,JOKER_LOVER_ALLY_DEATH2,"NONONO!
+YOU CAN'T DIE!"
+5127434874892347,JOKER_LOVER_ALLY_DEATH3,No..Don't leave me!
+5127434874892348,JOKER_NEMESIS_ALLY_DEATH1,Better him than me.
+5127434874892349,JOKER_NEMESIS_ALLY_DEATH2,Probably what I would have done.
+5127434874892350,JOKER_NORMAL_ALLY_DEATH1,Shit!
+5127434874892351,JOKER_NORMAL_ALLY_DEATH2,This is not good...
+5127434874892352,JOKER_NORMAL_ALLY_DEATH3,"Should we panic? Yeah, we should!"
+5127434874892353,JOKER_OATHSWORN_ALLY_DEATH1,NO! I DON'T BELIEVE THIS!
+5127434874892354,JOKER_OATHSWORN_ALLY_DEATH2,{CHARACTER1}!!!!!
+5127434874892355,JOKER_RIVAL_ALLY_DEATH1,Should have listened to me.
+5127434874892356,JOKER_RIVAL_ALLY_DEATH2,And then there was one less..
+5127434874892357,JOKER_RIVAL_ALLY_DEATH3,"So he died, huh?"
+5127434874892358,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,Good thing I have you by my side!
+5127434874892359,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,Can I count on you? Of course I can!
+5127434874892360,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"I feel more relaxed, knowing that you are here, {CHARACTER1}!"
+5127434874892361,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,The enemy shouldn't be worried about me. They should be worried about you!
+5127434874892362,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,"I know I rely on you too much. But you're just that damn reliable, {CHARACTER1}!"
+5127434874892363,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I already feel sorry for the enemy with you on our side.
+5127434874892364,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,"How about you take this group on and I take on the next?
+Just joking! Of course we do it together!"
+5127434874892365,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,For a change you can also rely on me. I owe you at least that much after all.
+5127434874892366,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"You really are a sight for sore eyes. And I'm not just saying that because I love you.
+Well maybe a little..."
+5127434874892367,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,I really have to try harder. I want to show you my good side after all.
+5127434874892368,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,If it weren't for the people around us I'd want to flirt with you the whole day!
+5127434874892369,JOKER_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,"My love will protect you!... Figuratively, so don't try anything crazy."
+5127434874892370,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,Yeah...I don't think the two of us really work out.
+5127434874892371,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,"No! I did not laugh when you got hit!
+I chuckled."
+5127434874892372,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,Maybe try harder? Just saying.
+5127434874892373,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,"I'm not worried at all, having to rely on you...
+Maybe just a little."
+5127434874892374,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,"When I get stabbed in the back, I really don't need to look back to guess who it was."
+5127434874892375,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,"I have mixed feelings about you.
+A mix of bad feelings."
+5127434874892376,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,I hope I won't regret leaving my back open to you.
+5127434874892377,JOKER_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,It's hard to differentiate you from the enemy.
+5127458098753536,KIND_LOOT_BIGVALUE1,Would you look at that.
+5127458098753537,KIND_LOOT_BIGVALUE2,This loot could help a lot of people.
+5127458098753538,KIND_LOOT_BIGVALUE3,Enough loot for all of us.
+5127458098753539,KIND_LOOT_BIGVALUE4,The Guild can do much good with this amount of loot.
+5127458098753540,KIND_LOW_VIGOR1,We should let everyone rest.
+5127458098753541,KIND_LOW_VIGOR2,We should rest before anyone collapses.
+5127458098753542,KIND_LOW_VIGOR3,Can everyone still go on?
+5127458098753543,KIND_LOW_VIGOR4,It would be nice if we could rest.
+5127458098753544,KIND_TRAP_TRIGGERED1,Is everyone alright?
+5127458098753545,KIND_TRAP_TRIGGERED2,Anyone hurt?
+5127458098753546,KIND_TRAP_TRIGGERED3,Anyone need first aid?
+5127458098753547,KIND_TRAP_TRIGGERED4,We should look after the wounded.
+5127458098753548,KIND_LOW_MORALE_QUESTMAP1,*Gasp*
+5127458098753549,KIND_LOW_MORALE_QUESTMAP2,I don't know how much longer I can go on...
+5127458098753550,KIND_LOW_MORALE_QUESTMAP3,It's too much. Just too much.
+5127458098753551,KIND_LOW_MORALE_QUESTMAP4,Someone hold me...
+5127458098753552,KIND_AFTER_CAMPING1,I hope everyone had a good rest.
+5127458098753553,KIND_AFTER_CAMPING2,What a nice morning.
+5127458098753554,KIND_AFTER_CAMPING3,*Yawn*
+5127458098753555,KIND_AFTER_CAMPING4,"Good morning, everyone."
+5127458098753556,KIND_OBSTACLE_FAILED1,That was unfortunate.
+5127458098753557,KIND_OBSTACLE_FAILED2,*Sighs*
+5127458098753558,KIND_OBSTACLE_FAILED3,Maybe next time it will go better.
+5127458098753559,KIND_OBSTACLE_FAILED4,At least we tried our best.
+5127458098753560,KIND_FORCED_HEALING1,This is going to hurt...
+5127458098753561,KIND_FORCED_HEALING2,I try to endure it.
+5127458098753562,KIND_FORCED_HEALING3,If this is for the better...
+5127458098753563,KIND_FORCED_HEALING4,I try not to scream.
+5127458098753564,KIND_DEATH_RESISTED1,No! I can't fall yet!
+5127458098753565,KIND_DEATH_RESISTED2,There are still people relying on me!
+5127458098753566,KIND_DEATH_RESISTED3,I have to hang in there...
+5127458098753567,KIND_DEATH_RESISTED4,No...Not yet!
+5127458098753568,KIND_SKIP_TURN1,It's too much for me!
+5127458098753569,KIND_SKIP_TURN2,I cannot do anything!
+5127458098753570,KIND_SKIP_TURN3,Please no!
+5127458098753571,KIND_SKIP_TURN4,I-I can't move.
+5127458098753572,KIND_BUY_DRINK1,Thanks Guild Master! Awfully nice of you.
+5127458098753573,KIND_BUY_DRINK2,I appreciate it. I'll treat you next time!
+5127458098753574,KIND_BUY_DRINK3,"What's the occasion, Guild Master?"
+5127458098753575,KIND_BUY_DRINK4,I'll repay the favor one day.
+5127458098753576,KIND_TRAINING1,I try my best! 
+5127458098753577,KIND_TRAINING2,If it helps the party.
+5127458098753578,KIND_TRAINING3,I'll try to become stronger Guild Master!
+5127458098753579,KIND_TRAINING4,I'm ready to train!
+5127458098753580,KIND_CONFESSION1,"Sometimes, I think of the past and my mistakes."
+5127458098753581,KIND_CONFESSION2,I need to do better for the future.
+5127458098753582,KIND_GREED_DISTRACTION1,All that gold...
+5127458098753583,KIND_GREED_DISTRACTION2,That golden glow is so distracting.
+5127458098753584,KIND_CRITICAL_HIT1,Take that!
+5127458098753585,KIND_CRITICAL_HIT2,I've got this!
+5127458098753586,KIND_LOW_HEALTH1,Ugh...I can't take much more.
+5127458098753587,KIND_LOW_HEALTH2,Some healing would be nice...
+5127458098753588,KIND_LOW_MORALE1,*Heavy Breathing*
+5127458098753589,KIND_LOW_MORALE2,Maybe this is more than we can handle...
+5127458098753590,KIND_FRIEND_ALLY_DEATH1,"Goodby, friend..."
+5127458098753591,KIND_FRIEND_ALLY_DEATH2,{CHARACTER1}!!!!
+5127458098753592,KIND_FRIEND_ALLY_DEATH3,It's always the good ones...
+5127458098753593,KIND_LOVER_ALLY_DEATH1,"MY LOVE!!!
+"
+5127458098753594,KIND_LOVER_ALLY_DEATH2,"NONONO!
+YOU CAN'T DIE!"
+5127458098753595,KIND_NEMESIS_ALLY_DEATH1,Maybe this is for the better.
+5127458098753596,KIND_NEMESIS_ALLY_DEATH2,May you find peace.
+5127458098753597,KIND_NORMAL_ALLY_DEATH1,I should have done more!
+5127458098753598,KIND_NORMAL_ALLY_DEATH2,Was there nothing we could have done?
+5127458098753599,KIND_OATHSWORN_ALLY_DEATH1,NO! I DON'T BELIEVE THIS!
+5127458098753600,KIND_OATHSWORN_ALLY_DEATH2,No! This can't be!
+5127458098753601,KIND_OATHSWORN_ALLY_DEATH3,No...! This...is...too much!
+5127458098753602,KIND_RIVAL_ALLY_DEATH1,Not even you deserved this.
+5127458098753603,KIND_RIVAL_ALLY_DEATH2,If only we worked better together.
+5127458098753604,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,"Leave your back to me. I'll support you, my friend!"
+5127458098753605,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,Don't hesitate to rely on me if you need to. I'm here for you.
+5127458098753606,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"You can always rely on me. You know that, right?"
+5127458098753607,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,I'm glad to have someone like you I can trust.
+5127458098753608,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,It's easy to feel safe with you around. I trust you with my life.
+5127458098753609,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,{CHARACTER1}! Let me help you! Together we are so much stronger!
+5127458098753610,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,We have overcome so much together. This will be no different!
+5127458098753611,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,There aren't many people I consider more reliable than you.
+5127458098753612,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,I will protect you my love. No matter what!
+5127458098753613,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,Please stay safe. I don't want to see you hurt!
+5127458098753614,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,I couldn't imagine myself to be with anyone else but you.
+5127458098753615,KIND_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,I feel so much stronger with you by my side.
+5127458098753616,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,It's hard to rely on you.
+5127458098753617,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,I feel like I have to try so much harder with you around.
+5127458098753618,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,I don't know how to work with you.
+5127458098753619,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,I don't want to doubt your abilites. But it's not easy.
+5127458098753620,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,I hope I don't need to worry about you.
+5127458098753621,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,Keep your distance. It's easier for both of us that way.
+5127458098753622,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,I don't like you. Neither do you me. So let's not get in each other's way.
+5127458098753623,KIND_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,"Just because I'm kind, don't think I let you take advantage of me!"
+5127474670448640,MISASA_CRITICAL_HIT1,S-Sorry!
+5127474670448641,MISASA_CRITICAL_HIT2,I-I didn't mean to hit so hard!
+5127474670448642,MISASA_LOW_HEALTH1,Help! Help!
+5127474670448643,MISASA_LOW_HEALTH2,Healer! Healer!
+5127474670448644,MISASA_LOW_MORALE1,I want to run away...
+5127474670448645,MISASA_LOW_MORALE2,Can we please just flee?
+5127474670448646,MISASA_NORMAL_ALLY_DEATH1,Yikes!
+5127474670448647,MISASA_NORMAL_ALLY_DEATH2,Poor {CHARACTER1}.
+5127474670448648,MISASA_RIVAL_ALLY_DEATH1,Yikes!
+5127474670448649,MISASA_RIVAL_ALLY_DEATH2,{GENDER1:cond:=1?He|=0?She} probably didn't want to die like that.
+5127474670448650,MISASA_FRIEND_ALLY_DEATH1,I-I'm sorry I couldn't help...
+5127474670448651,MISASA_FRIEND_ALLY_DEATH2,W-was that my fault?
+5127474670448652,MISASA_LOVER_ALLY_DEATH1,NOO!!!
+5127474670448653,MISASA_LOVER_ALLY_DEATH2,I'm useless without you!!!
+5127474670448654,MISASA_OATHSWORN_ALLY_DEATH1,{CHARACTER1}!
+5127474670448655,MISASA_OATHSWORN_ALLY_DEATH2,I couldn't do anything!
+5127474670448656,MISASA_OATHSWORN_ALLY_DEATH3,Why am I so useless?
+5127474670448657,MISASA_DESPAIR1,I-I need to run!!!
+5127474670448658,MISASA_DESPAIR2,Why are we still here?
+5127474670448659,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,I-I try my best!
+5127474670448660,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,M-Maybe I can be useful!
+5127474670448661,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I-I try my best!
+5127474670448662,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,M-Maybe I can be useful!
+5127474670448663,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I-I do my best for you, {CHARACTER1}."
+5127474670448664,MISASA_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"I-I won't disappoint you, my l-l-love!"
+5127474670448665,MISASA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,S-sorry but I can't help you.
+5127474670448666,MISASA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,I-it might be better if we d-don't try to work together.
+5127474670448667,MISASA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,Y-you remind me of the bad p-people in my past...
+5127474670448668,MISASA_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,I-I don't know if I can trust you...
+5127474670448669,MISASA_LOOT_BIGVALUE1,N-nice!
+5127474670448670,MISASA_LOOT_BIGVALUE2,I-I don't need any of it if you want to...
+5127474670448671,MISASA_LOW_VIGOR1,"P-please, can we rest?"
+5127474670448672,MISASA_LOW_VIGOR2,I'm tired. *sob*
+5127474670448673,MISASA_TRAP_TRIGGERED1,Y-yikes!
+5127474670448674,MISASA_TRAP_TRIGGERED2,S-sorry!
+5127474670448675,MISASA_LOW_MORALE_QUESTMAP1,I-I want to go home. *sniff*
+5127474670448676,MISASA_AFTER_CAMPING1,C-can we stay a little longer?
+5127474670448677,MISASA_AFTER_CAMPING2,D-do we have to wake already?
+5127474670448678,MISASA_OBSTACLE_FAILED1,*pant* *pant*
+5127474670448679,MISASA_OBSTACLE_FAILED2,That was so tiresome. *sniff*
+5127474670448680,MISASA_FORCED_HEALING1,No! No! WAHHHHHH!!
+5127474670448681,MISASA_FORCED_HEALING2,I-It's not that bad! Really! AHHHHHH!!!
+5127474670448682,MISASA_BUY_DRINK1,D-drinking makes me sad. *Sobbing*
+5127474670448683,MISASA_BUY_DRINK2,"P-please make me feel better, beer cup."
+5127474670448684,MISASA_TRAINING1,T-the instructors look scary.
+5127474670448685,MISASA_TRAINING2,I-I don't know if I can keep up.
+5127474670448686,MISASA_DEATH_RESISTED1,NO! I DON'T WANT TO DIE!
+5127474670448687,MISASA_DEATH_RESISTED2,A FACE! I SAW A SCARY FACE! I DON'T WANT TO GO BACK!
+5127474670448688,MISASA_SKIP_TURN1,"S-sorry, but I-I can't move."
+5127474670448689,MISASA_SKIP_TURN2,"B-breathe in! B-breathe out!
+B-brea...I'M FREAKING OUT!"
+5127474670448690,MISASA_FLEE1,I-I'm sorry! But I can't take this anymore!
+5127474670448691,MISASA_FLEE2,I don't want to die!
+5127474670448692,MISASA_CONFESSION1,*sobs*
+5127474670448693,MISASA_CONFESSION2,I-I never wanted to hurt anybody.
+5127474670448694,MISASA_CONFESSION3,"P-please, don't judge me too harshly."
+5127474670448695,MISASA_GREED_DISTRACTION1,I-is all that gold a trap?
+5127474670448696,MISASA_GREED_DISTRACTION2,S-so much gold!
+5127474670448697,MISASA_GREED_DISTRACTION3,C-can we take the gold?
+5127498838028288,RATIONAL_LOOT_BIGVALUE1,Fortune smiles on us.
+5127498838028289,RATIONAL_LOOT_BIGVALUE2,A pleasant surprise.
+5127498838028290,RATIONAL_LOOT_BIGVALUE3,Who would have thought...
+5127498838028291,RATIONAL_LOOT_BIGVALUE4,This will surely benefit us.
+5127498838028292,RATIONAL_LOW_VIGOR1,We should rest.
+5127498838028293,RATIONAL_LOW_VIGOR2,It's unwise to exhaust ourselves.
+5127498838028294,RATIONAL_LOW_VIGOR3,Going forward carries risk.
+5127498838028295,RATIONAL_LOW_VIGOR4,A place to rest would be preferrable.
+5127498838028296,RATIONAL_TRAP_TRIGGERED1,That was unfortunate.
+5127498838028297,RATIONAL_TRAP_TRIGGERED2,With failure comes pain.
+5127498838028298,RATIONAL_TRAP_TRIGGERED3,A lesson for next time.
+5127498838028299,RATIONAL_TRAP_TRIGGERED4,We should have been more careful.
+5127498838028300,RATIONAL_LOW_MORALE_QUESTMAP1,Retreating might be an acceptable solution.
+5127498838028301,RATIONAL_LOW_MORALE_QUESTMAP2,Dying is also a failure.
+5127498838028302,RATIONAL_LOW_MORALE_QUESTMAP3,We shouldn't linger much longer on this quest.
+5127498838028303,RATIONAL_LOW_MORALE_QUESTMAP4,It's getting hard to press on.
+5127498838028304,RATIONAL_AFTER_CAMPING1,Rest well deserved.
+5127498838028305,RATIONAL_AFTER_CAMPING2,Let's continue where we left off.
+5127498838028306,RATIONAL_AFTER_CAMPING3,We should start moving.
+5127498838028307,RATIONAL_AFTER_CAMPING4,No reason to linger much longer.
+5127498838028308,RATIONAL_OBSTACLE_FAILED1,We failed.
+5127498838028309,RATIONAL_OBSTACLE_FAILED2,Maybe we didn't have the right people for this task.
+5127498838028310,RATIONAL_OBSTACLE_FAILED3,What a waste of my time.
+5127498838028311,RATIONAL_OBSTACLE_FAILED4,This was a setback.
+5127498838028312,RATIONAL_FORCED_HEALING1,I try to comply.
+5127498838028313,RATIONAL_FORCED_HEALING2,*Sighs* This will not be easy.
+5127498838028314,RATIONAL_FORCED_HEALING3,I hope this will be worth the pain.
+5127498838028315,RATIONAL_FORCED_HEALING4,"So you need me that badly, huh?"
+5127498838028316,RATIONAL_DEATH_RESISTED1,I will not be done in so easily.
+5127498838028317,RATIONAL_DEATH_RESISTED2,Not yet!
+5127498838028318,RATIONAL_DEATH_RESISTED3,I can still go on!
+5127498838028319,RATIONAL_DEATH_RESISTED4,You will not best me!
+5127498838028320,RATIONAL_SKIP_TURN1,I need time to think!
+5127498838028321,RATIONAL_SKIP_TURN2,Acting now might prove fatal!
+5127498838028322,RATIONAL_SKIP_TURN3,Not now!
+5127498838028323,RATIONAL_SKIP_TURN4,I'm not ready yet!
+5127498838028324,RATIONAL_BUY_DRINK1,I guess a drink won't hurt me.
+5127498838028325,RATIONAL_BUY_DRINK2,"I appreciate the gesture, Guild Master."
+5127498838028326,RATIONAL_BUY_DRINK3,A drink would put me at ease.
+5127498838028327,RATIONAL_BUY_DRINK4,No reason to refuse if you pay for it.
+5127498838028328,RATIONAL_TRAINING1,I guess training is important to stay alive in battle.
+5127498838028329,RATIONAL_TRAINING2,The training will prepare me for my next quest.
+5127498838028330,RATIONAL_TRAINING3,Train before going out on the field. Seems logical.
+5127498838028331,RATIONAL_TRAINING4,Seems only sensible to train to become stronger.
+5127498838028332,RATIONAL_CONFESSION1,It's not so easy to move forward. But still necessary.
+5127498838028333,RATIONAL_CONFESSION2,Maybe I  can put an end to the past with this.
+5127498838028334,RATIONAL_CONFESSION3,I won't hide from the past.
+5127498838028335,RATIONAL_GREED_DISTRACTION1,All that gold can't be real!...Can it?
+5127498838028336,RATIONAL_GREED_DISTRACTION2,How to carry all that gold?
+5127498838028337,RATIONAL_GREED_DISTRACTION3,Why is all that gold just lying there?
+5127498838028338,RATIONAL_CRITICAL_HIT1,As expected.
+5127498838028339,RATIONAL_CRITICAL_HIT2,Don't get too excited!
+5127498838028340,RATIONAL_CRITICAL_HIT3,I hit a weakpoint!
+5127498838028341,RATIONAL_LOW_HEALTH1,I can't last much longer without healing!
+5127498838028342,RATIONAL_LOW_HEALTH2,I need to tend to my wounds!
+5127498838028343,RATIONAL_LOW_MORALE1,I don't like this.
+5127498838028344,RATIONAL_LOW_MORALE2,How long can we still hold our ground?
+5127498838028345,RATIONAL_LOW_MORALE3,We should prioritise our lives.
+5127498838028346,RATIONAL_FRIEND_ALLY_DEATH1,No...I can't let this affect me.
+5127498838028347,RATIONAL_FRIEND_ALLY_DEATH2,{CHARACTER1}!!
+5127498838028348,RATIONAL_FRIEND_ALLY_DEATH3,At least you didn't have to suffer.
+5127498838028349,RATIONAL_LOVER_ALLY_DEATH1,No...How can this be...?
+5127498838028350,RATIONAL_LOVER_ALLY_DEATH2,{CHARACTER1}!!!!!
+5127498838028351,RATIONAL_LOVER_ALLY_DEATH3,Why couldn't I protect you?
+5127498838028352,RATIONAL_NEMESIS_ALLY_DEATH1,Always dragging  us down.
+5127498838028353,RATIONAL_NEMESIS_ALLY_DEATH2,"Ignore the deaths!
+Fcous on the fight!"
+5127498838028354,RATIONAL_NORMAL_ALLY_DEATH1,This will definitelly affect our survival chances.
+5127498838028355,RATIONAL_NORMAL_ALLY_DEATH2,We can't keep receiving damage.
+5127498838028356,RATIONAL_NORMAL_ALLY_DEATH3,Rest in peace.
+5127498838028357,RATIONAL_OATHSWORN_ALLY_DEATH1,{CHARACTER1}!!!!!
+5127498838028358,RATIONAL_OATHSWORN_ALLY_DEATH2,I should have done something! Something!
+5127498838028359,RATIONAL_RIVAL_ALLY_DEATH1,I've expected more.
+5127498838028360,RATIONAL_RIVAL_ALLY_DEATH2,Damn it!
+5127498838028361,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,"Having you here make things easier, my friend."
+5127498838028362,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"Good thing you are here, {CHARACTER1}. I know I can count you."
+5127498838028363,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"Let's work together, {CHARACTER1}! It will be easier together!"
+5127498838028364,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,"I know I can rely on you, {CHARACTER1}! Your abilities are indispensable!"
+5127498838028365,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I don't think there are many people besides you who can make me feel safe here.
+5127498838028366,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I'm glad we're in the same Party. Things have always worked out with us together!
+5127498838028367,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,Don't worry about your back as long as I'm here. I'll keep you safe!
+5127498838028368,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Try to stay safe! We're a team. You don't have to risk your life alone!
+5127498838028369,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I know I can always rely on you, my Love!"
+5127498838028370,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,Let's keep each other safe! Neither of us want to return without the other.
+5127498838028371,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"Whatever happens, I will always be right beside you."
+5127498838028372,RATIONAL_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,"If anthing happens, know this: I love you!"
+5127498838028373,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,If you slack off the rest of us has to work harder.
+5127498838028374,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,Take responsibility for your actions. If we fall then you will also feel the consequences.
+5127498838028375,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,I do not like how I have to rely on you.
+5127498838028376,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,Don't make me regret having you by my side.
+5127498838028377,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,I hope I won't regret letting you of my sight.
+5127498838028378,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,You're just a disaster waiting to happen.
+5127498838028379,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,I guess my only insurance is that both of our lives are on the line.
+5127498838028380,RATIONAL_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,"Should I take solace in the thought that if I die, you'll die?"
+5127519612416000,RELIGIOUS_LOOT_BIGVALUE1,Don't get swayed by the loot.
+5127519612416001,RELIGIOUS_LOOT_BIGVALUE2,Concentrate at the task at hand.
+5127519612416002,RELIGIOUS_LOOT_BIGVALUE3,Greed is a sin.
+5127519612416003,RELIGIOUS_LOOT_BIGVALUE4,Be careful not to get corrupted by all the value.
+5127519612416004,RELIGIOUS_LOW_VIGOR1,We should rest.
+5127519612416005,RELIGIOUS_LOW_VIGOR2,Even the righteous need to rest.
+5127519612416006,RELIGIOUS_LOW_VIGOR3,Let us stop and pray.
+5127519612416007,RELIGIOUS_LOW_VIGOR4,We're exhausted. We should rest.
+5127519612416008,RELIGIOUS_TRAP_TRIGGERED1,Argh!
+5127519612416009,RELIGIOUS_TRAP_TRIGGERED2,Ghanenta protect us!
+5127519612416010,RELIGIOUS_TRAP_TRIGGERED3,I'm bleeding!
+5127519612416011,RELIGIOUS_TRAP_TRIGGERED4,Ugh...pain...
+5127519612416012,RELIGIOUS_LOW_MORALE_QUESTMAP1,*Praying*
+5127519612416013,RELIGIOUS_LOW_MORALE_QUESTMAP2,Please protect us Ghanenta.
+5127519612416014,RELIGIOUS_LOW_MORALE_QUESTMAP3,I'm wavering Ghanenta...
+5127519612416015,RELIGIOUS_LOW_MORALE_QUESTMAP4,I need your light Ghanenta...
+5127519612416016,RELIGIOUS_AFTER_CAMPING1,We had a blessed night.
+5127519612416017,RELIGIOUS_AFTER_CAMPING2,We should hold a morning Prayer.
+5127519612416018,RELIGIOUS_AFTER_CAMPING3,I've slept well.
+5127519612416019,RELIGIOUS_AFTER_CAMPING4,"Another day to praise your name, Ghanenta."
+5127519612416020,RELIGIOUS_FORCED_HEALING1,Pain is just in the mind. It's just in the mind. It's..AARGHHH!
+5127519612416021,RELIGIOUS_FORCED_HEALING2,"Ghanenta, please give me strength!"
+5127519612416022,RELIGIOUS_FORCED_HEALING3,I will never get used to this.
+5127519612416023,RELIGIOUS_FORCED_HEALING4,The mind is willing but the flesh is weak...
+5127519612416024,RELIGIOUS_DEATH_RESISTED1,I'm not ready to meet my god yet!
+5127519612416025,RELIGIOUS_DEATH_RESISTED2,I cannot fall here!
+5127519612416026,RELIGIOUS_DEATH_RESISTED3,My God gives me strength!
+5127519612416027,RELIGIOUS_DEATH_RESISTED4,This is not where I will fall!
+5127519612416028,RELIGIOUS_SKIP_TURN1,*Nervous prayers*
+5127519612416029,RELIGIOUS_SKIP_TURN2,I'm not worthy!
+5127519612416030,RELIGIOUS_SKIP_TURN3,"Is me dying here your will, Ghanenta?"
+5127519612416031,RELIGIOUS_SKIP_TURN4,I can't!  I just cant!
+5127519612416032,RELIGIOUS_BUY_DRINK1,Sure Guild Master. I drink a toast to your well being.
+5127519612416033,RELIGIOUS_BUY_DRINK2,I thank the gods for the drink I'm about to receive. And of course you too Guild Master.
+5127519612416034,RELIGIOUS_BUY_DRINK3,I'm not that much of a drinker but I won't say no to a free drink.
+5127519612416035,RELIGIOUS_BUY_DRINK4,"Blessed be you, Guild Master!"
+5127519612416036,RELIGIOUS_TRAINING1,I pray that I'll can persevere through the training.
+5127519612416037,RELIGIOUS_TRAINING2,I will become stronger in body and mind after the training.
+5127519612416038,RELIGIOUS_CONFESSION1,May the gods forgive me.
+5127519612416039,RELIGIOUS_CONFESSION2,The gods will judge my soul.
+5127519612416040,RELIGIOUS_GREED_DISTRACTION1,What foul temptation.
+5127519612416041,RELIGIOUS_GREED_DISTRACTION2,I-I need to stay focused. Resist the temptation!
+5127519612416042,RELIGIOUS_CRITICAL_HIT1,The gods have guided my hand!
+5127519612416043,RELIGIOUS_CRITICAL_HIT2,For Ghanenta!
+5127519612416044,RELIGIOUS_CRITICAL_HIT3,By Ghanentas Will!
+5127519612416045,RELIGIOUS_LOW_HEALTH1,My Vision fades...
+5127519612416046,RELIGIOUS_LOW_HEALTH2,I'm not ready to leave this world...
+5127519612416047,RELIGIOUS_LOW_HEALTH3,Ugh...
+5127519612416048,RELIGIOUS_LOW_MORALE1,"Please Protect me, Ghanenta..."
+5127519612416049,RELIGIOUS_LOW_MORALE2,*Nervous Prayers*
+5127519612416050,RELIGIOUS_LOW_MORALE3,My F-Faith will not waver...
+5127519612416051,RELIGIOUS_FRIEND_ALLY_DEATH1,"I'll be praying for your soul, {CHARACTER1}."
+5127519612416052,RELIGIOUS_FRIEND_ALLY_DEATH2,{CHARACTER1}...
+5127519612416053,RELIGIOUS_FRIEND_ALLY_DEATH3,You shouldn't have died...
+5127519612416054,RELIGIOUS_LOVER_ALLY_DEATH1,NO!!!
+5127519612416055,RELIGIOUS_LOVER_ALLY_DEATH2,Why Ghanenta?
+5127519612416056,RELIGIOUS_NEMESIS_ALLY_DEATH1,A Prayer for the wicked.
+5127519612416057,RELIGIOUS_NEMESIS_ALLY_DEATH2,...
+5127519612416058,RELIGIOUS_NORMAL_ALLY_DEATH1,May you find Peace in death.
+5127519612416059,RELIGIOUS_NORMAL_ALLY_DEATH2,The gods watch over you now.
+5127519612416060,RELIGIOUS_OATHSWORN_ALLY_DEATH1,{CHARACTER1}!!!
+5127519612416061,RELIGIOUS_OATHSWORN_ALLY_DEATH2,WHY?
+5127519612416062,RELIGIOUS_RIVAL_ALLY_DEATH1,Repent and you'll find peace.
+5127519612416063,RELIGIOUS_RIVAL_ALLY_DEATH2,Rest in peace.
+5127519612416064,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,"Please Protect my friend, my lord!"
+5127519612416065,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,"I'm glad we fight together, {CHARACTER1}."
+5127519612416066,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,"Ghanenta watches over both of us, my friend!"
+5127519612416067,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,"Don't worry, {CHARACTER1}! The gods are with us in this fight!"
+5127519612416068,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I know I can always rely on you when it matters.
+5127519612416069,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,I do not worry as long as you're with us.
+5127519612416070,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,Ghanenta isn't the only one I have faith in.
+5127519612416071,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,We've been through worse than this. I have faith in you!
+5127519612416072,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"You're my shining beacon of light in the dark, my love."
+5127519612416073,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"Ghanenta, please protect the one I love the most."
+5127519612416074,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"I'm so blessed to have you by my side, {CHARACTER1}."
+5127519612416075,RELIGIOUS_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,I won't let harm befall on you my love.
+5127519612416076,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,The gods are watching you. So think before you act!
+5127519612416077,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,You will be judged by your deeds.
+5127519612416078,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,It goes without saying that I do not think much of you.
+5127519612416079,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,How much can I really expect from you? 
+5127519612416080,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,One day you will be judged by the gods and it won't be pretty.
+5127519612416081,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,My prayers don't include a sinner like you.
+5127519612416082,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,Hell awaits persons like you!
+5127519612416083,RELIGIOUS_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,I pray that one day you will receive your just Judgement.
+5127540751708160,RENEGADE_LOOT_BIGVALUE1,Too bad we can't take everything for ourselves.
+5127540751708161,RENEGADE_LOOT_BIGVALUE2,Good haul.
+5127540751708162,RENEGADE_LOOT_BIGVALUE3,We should get a bigger share.
+5127540751708163,RENEGADE_LOOT_BIGVALUE4,This is ours now.
+5127540751708164,RENEGADE_LOW_VIGOR1,I want to rest. Now!
+5127540751708165,RENEGADE_LOW_VIGOR2,Sure. Let's continue if you all want to die.
+5127540751708166,RENEGADE_LOW_VIGOR3,This is stupid. We should be camping.
+5127540751708167,RENEGADE_LOW_VIGOR4,Who I wouldn't stab to get a wink of sleep now...
+5127540751708168,RENEGADE_TRAP_TRIGGERED1,Shit!
+5127540751708169,RENEGADE_TRAP_TRIGGERED2,Why didn't anyone see the trap?
+5127540751708170,RENEGADE_TRAP_TRIGGERED3,What a rookie mistake.
+5127540751708171,RENEGADE_TRAP_TRIGGERED4,Curse the one who set this up!
+5127540751708172,RENEGADE_LOW_MORALE_QUESTMAP1,We should get out here!
+5127540751708173,RENEGADE_LOW_MORALE_QUESTMAP2,I'll haunt the Guild Master if I die.
+5127540751708174,RENEGADE_LOW_MORALE_QUESTMAP3,Should I run away...?
+5127540751708175,RENEGADE_LOW_MORALE_QUESTMAP4,Don't you dare think that I will take much more of this.
+5127540751708176,RENEGADE_AFTER_CAMPING1,No reason to waste more time.
+5127540751708177,RENEGADE_AFTER_CAMPING2,Let's go already.
+5127540751708178,RENEGADE_AFTER_CAMPING3,How much longer are you all going to sleep?
+5127540751708179,RENEGADE_AFTER_CAMPING4,Let's get this quest over with.
+5127540751708180,RENEGADE_OBSTACLE_FAILED1,Who didn't pull their weight?
+5127540751708181,RENEGADE_OBSTACLE_FAILED2,What a joke...
+5127540751708182,RENEGADE_OBSTACLE_FAILED3,Should have seen that coming.
+5127540751708183,RENEGADE_OBSTACLE_FAILED4,So this is the best we can do?
+5127540751708184,RENEGADE_FORCED_HEALING1,This better be worth it...
+5127540751708185,RENEGADE_FORCED_HEALING2,Godammit!
+5127540751708186,RENEGADE_FORCED_HEALING3,This is going to hurt like hell.
+5127540751708187,RENEGADE_FORCED_HEALING4,Screw it! I'm ready! Do your worst!
+5127540751708188,RENEGADE_DEATH_RESISTED1,I will not fall with just this!
+5127540751708189,RENEGADE_DEATH_RESISTED2,Don't take me lightly!
+5127540751708190,RENEGADE_DEATH_RESISTED3,I won't go until you're all dead!
+5127540751708191,RENEGADE_DEATH_RESISTED4,There is no place in hell for me!
+5127540751708192,RENEGADE_SKIP_TURN1,Someone else risk their life!
+5127540751708193,RENEGADE_SKIP_TURN2,I'm not going out there!
+5127540751708194,RENEGADE_SKIP_TURN3,I won't do anything!
+5127540751708195,RENEGADE_SKIP_TURN4,Not me! Someone else do it!
+5127540751708196,RENEGADE_BUY_DRINK1,"Sure, why not?"
+5127540751708197,RENEGADE_BUY_DRINK2,"If it's free, I'll take it."
+5127540751708198,RENEGADE_BUY_DRINK3,"Sure but don't expect me to pay you back, Guild Master!"
+5127540751708199,RENEGADE_BUY_DRINK4,Good! I could use a drink.
+5127540751708200,RENEGADE_TRAINING1,"Alright, I train. For now."
+5127540751708201,RENEGADE_TRAINING2,This better be worth it.
+5127540751708202,RENEGADE_TRAINING3,I could think of a better use of my time but fine. I'll train.
+5127540751708203,RENEGADE_CONFESSION1,What should I feel bad about?
+5127540751708204,RENEGADE_CONFESSION2,I did what was necessary.
+5127540751708205,RENEGADE_CONFESSION3,Nobody can judge me.
+5127540751708206,RENEGADE_GREED_DISTRACTION1,What idiot left all their gold?
+5127540751708207,RENEGADE_GREED_DISTRACTION2,I'll be angry if we just leave all that gold.
+5127540751708208,RENEGADE_GREED_DISTRACTION3,All that gold for us to grab.
+5127540751708209,RENEGADE_CRITICAL_HIT1,You shouldn't have stood in my way.
+5127540751708210,RENEGADE_CRITICAL_HIT2,Drop dead!
+5127540751708211,RENEGADE_CRITICAL_HIT3,"Felt that one, didn't you?"
+5127540751708212,RENEGADE_LOW_HEALTH1,"Damn, this hurts!"
+5127540751708213,RENEGADE_LOW_HEALTH2,Need healing...Now!
+5127540751708214,RENEGADE_LOW_HEALTH3,This isn't where I'm going to die!
+5127540751708215,RENEGADE_LOW_MORALE1,I will...not break!
+5127540751708216,RENEGADE_LOW_MORALE2,*Heavy Breathing*
+5127540751708217,RENEGADE_LOW_MORALE3,I will survive...
+5127540751708218,RENEGADE_FRIEND_ALLY_DEATH1,"Damn, it!"
+5127540751708219,RENEGADE_FRIEND_ALLY_DEATH2,{CHARACTER1}!!
+5127540751708220,RENEGADE_FRIEND_ALLY_DEATH3,*Grinding Teeth*
+5127540751708221,RENEGADE_LOVER_ALLY_DEATH1,{CHARACTER1}!!!!!
+5127540751708222,RENEGADE_LOVER_ALLY_DEATH2,"No...
+That can't be."
+5127540751708223,RENEGADE_LOVER_ALLY_DEATH3,I couldn't even keep a promise...
+5127540751708224,RENEGADE_NEMESIS_ALLY_DEATH1,Even in death you're a pain in my side...
+5127540751708225,RENEGADE_NEMESIS_ALLY_DEATH2,Not even worth as a distraction.
+5127540751708226,RENEGADE_NEMESIS_ALLY_DEATH3,...
+5127540751708227,RENEGADE_NORMAL_ALLY_DEATH1,"Damn, it!"
+5127540751708228,RENEGADE_NORMAL_ALLY_DEATH2,You can't be serious!
+5127540751708229,RENEGADE_NORMAL_ALLY_DEATH3,I really don't want to end like that!
+5127540751708230,RENEGADE_OATHSWORN_ALLY_DEATH1,"NO!!!
+"
+5127540751708231,RENEGADE_OATHSWORN_ALLY_DEATH2,{CHARACTER1}!!!
+5127540751708232,RENEGADE_OATHSWORN_ALLY_DEATH3,"Damn, it! I told you to be more careful..."
+5127540751708233,RENEGADE_RIVAL_ALLY_DEATH1,Damn it!
+5127540751708234,RENEGADE_RIVAL_ALLY_DEATH2,Weak...
+5127540751708235,RENEGADE_RIVAL_ALLY_DEATH3,I expected more...
+5127540751708236,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,At least someone I like.
+5127540751708237,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,I guess I can trust you to have my back.
+5127540751708238,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,I guess having a friend like you is actually reassuring.
+5127540751708239,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,"Let's get rid of the enemy together, {CHARACTER1}!"
+5127540751708240,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,"Never thought I'd say this but I trust you with my life, {CHARACTER1}."
+5127540751708241,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,There aren't many people I respect as much as you.
+5127540751708242,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,I will aways have your back! So leave it to me!
+5127540751708243,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Together we will rip the enemy apart! 
+5127540751708244,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"I would have never guessed, I'd one day feel this way about someone."
+5127540751708245,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"I'll rip anyone apart, who dares to harm you!"
+5127540751708246,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,I won't let you out of my sight...my love.
+5127540755902464,RENEGADE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,I will do anything to keep you safe!
+5127540755902465,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,Don't you dare to stand in my way!
+5127540755902466,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,I'm better off without you.
+5127540755902467,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,"Don't think you're anything special.
+Because you'ret not."
+5127540755902468,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,If you mess this up I <b>will</b> held you responsible.
+5127540755902469,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,If only we weren't on the same side....
+5127540755902470,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,Don't believe for a second that I trust you!
+5127540755902471,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,"Believe me, I'd rather have you on the other side."
+5127540755902472,RENEGADE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,Do it! Give me an excuse!
+5127624495181824,SELENE_CRITICAL_HIT1,EAT SHIT!
+5127624495181825,SELENE_CRITICAL_HIT2,JUST **** DIE!
+5127624495181826,SELENE_CRITICAL_HIT3,HELL YEAH!
+5127624495181827,SELENE_LOW_HEALTH1,SHIT!
+5127624495181828,SELENE_LOW_HEALTH2,"Gods, it ***** hurts!"
+5127624495181829,SELENE_LOW_HEALTH3,"If I die, I ***** haunt you!"
+5127624495181830,SELENE_LOW_MORALE1,"****,****!"
+5127624495181831,SELENE_LOW_MORALE2,I BETTER GET PAID AFTER ALL THIS!
+5127624495181832,SELENE_NORMAL_ALLY_DEATH1,HOW?!!!
+5127624495181833,SELENE_NORMAL_ALLY_DEATH2,SERIOUSLY?
+5127624495181834,SELENE_NORMAL_ALLY_DEATH3,YOU GOTTA BE KIDDING ME!
+5127624495181835,SELENE_RIVAL_ALLY_DEATH1,Heh?
+5127624495181836,SELENE_RIVAL_ALLY_DEATH2,Whatever.
+5127624495181837,SELENE_FRIEND_ALLY_DEATH1,DON'T JUST DIE ON ME!
+5127624495181838,SELENE_FRIEND_ALLY_DEATH2,YOU BASTARDS!
+5127624495181839,SELENE_OATHSWORN_ALLY_DEATH1,DON'T JUST DIE ON ME!
+5127624495181840,SELENE_OATHSWORN_ALLY_DEATH2,YOU BASTARDS!
+5127624495181841,SELENE_LOVER_ALLY_DEATH1,"DON'T JUST DIE ON ME, {CHARACTER1}!"
+5127624495181842,SELENE_LOVER_ALLY_DEATH2,YOU WILL PAY FOR THAT!
+5127624495181843,SELENE_LOVER_ALLY_DEATH3,{CHARACTER1}!!!!
+5127624495181844,SELENE_NEMESIS_ALLY_DEATH1,Bwahahaha!
+5127624495181845,SELENE_NEMESIS_ALLY_DEATH2,**** finally!
+5127624495181846,SELENE_NEMESIS_ALLY_DEATH3,Rot in hell!
+5127624495181847,SELENE_DESPAIR1,SHIT! SHIT! SHIT!
+5127624495181848,SELENE_DESPAIR2,I KILL YOU ALL! I KILL YOU ALL!
+5127624495181849,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,Fine! I'll share my spoils with you.
+5127624495181850,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,Keep it up. I know you're better than this!
+5127624495181851,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,Don't let them look down on you!
+5127624495181852,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,"Fine! I'll share my spoils with you, {CHARACTER1}."
+5127624495181853,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,"Keep it up. I know you're better than this, {CHARACTER1}!"
+5127624495181854,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,"Don't let them look down on you, {CHARACTER1}!"
+5127624495181855,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"D-don't let it get to your head just because I like you, {CHARACTER1}!"
+5127624495181856,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,"No one is allowed to hurt you but me, {CHARACTER1}!"
+5127624495181857,SELENE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"Stay close to my side!
+W-WHAT? No! I didn't mean it like that!"
+5127624495181858,SELENE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,"Stop, dragging us down, {CHARACTER1}!"
+5127624495181859,SELENE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,"Hopefully, this isn't your best, {CHARACTER1}!"
+5127624495181860,SELENE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,"**** off, {CHARACTER1}!"
+5127624495181861,SELENE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,"I have bird for you to look at, {CHARACTER1}!
+HERE! *Makes a very rude gesture*"
+5127624495181862,SELENE_LOOT_BIGVALUE1,*Drool*
+5127624495181863,SELENE_LOOT_BIGVALUE2,PAYDAY!
+5127624495181864,SELENE_LOW_VIGOR1,I'm **** exhausted.
+5127624495181865,SELENE_LOW_VIGOR2,My feet **** hurts!
+5127624495181866,SELENE_TRAP_TRIGGERED1,*****!
+5127624495181867,SELENE_TRAP_TRIGGERED2,Who the **** messed up?!
+5127624495181868,SELENE_LOW_MORALE_QUESTMAP1,Think of the money! Think of the money!
+5127624495181869,SELENE_LOW_MORALE_QUESTMAP2,I better get paid double after this!
+5127624495181870,SELENE_AFTER_CAMPING1,***! It's already morning?!
+5127624495181871,SELENE_OBSTACLE_FAILED1,Not ***** woth it!
+5127624495181872,SELENE_FORCED_HEALING1,You ***** better keep your hands AwayAAAAARRRHG!!
+5127624495181873,SELENE_BUY_DRINK1,"What the **** do you mean, can I already drink?"
+5127624495181874,SELENE_BUY_DRINK2,As long as I don't pay myself!
+5127624495181875,SELENE_BUY_DRINK3,A toast to me!
+5127624495181876,SELENE_TRAINING1,I ***** hate running!
+5127624495181877,SELENE_TRAINING2,"What do you mean, I'm not strong enough?!!"
+5127624495181878,SELENE_CONFESSION1,Where do I even ***** begin?
+5127624495181879,SELENE_DEATH_RESISTED1,I BEAT DEATH! HELL YEAH!
+5127624495181880,SELENE_DEATH_RESISTED2,"THAT ***** HURT, YOU *****!"
+5127624495181881,SELENE_DEATH_RESISTED3,*****!
+5127624495181882,SELENE_SKIP_TURN1,I'M NOT GETTING PAID ENOUGH FOR THIS SHIT!
+5127624495181883,SELENE_FLEE1,I'M NOT GETTING PAID ENOUGH FOR THIS SHIT!
+5127624495181884,SELENE_GREED_DISTRACTION1,GOLD! GOLD! GOLD!
+5127624495181885,SELENE_GREED_DISTRACTION2,Hands off! It's all mine!
+5127624495181886,SELENE_GREED_DISTRACTION3,I'm rich! I'm finally rich!
+5127833438629888,WISE_LOOT_BIGVALUE1,What a boon!
+5127833438629889,WISE_LOOT_BIGVALUE2,Let's take as much as we can.
+5127833438629890,WISE_LOOT_BIGVALUE3,I dare say we hit the jackpot.
+5127833438629891,WISE_LOOT_BIGVALUE4,Not too bad.
+5127833442824192,WISE_LOW_VIGOR1,Resting would be advisable.
+5127833442824193,WISE_LOW_VIGOR2,Any more and people will collapse.
+5127833442824194,WISE_LOW_VIGOR3,We should recover our strength.
+5127833442824195,WISE_LOW_VIGOR4,An ambush would be quite devastating right now.
+5127833442824196,WISE_TRAP_TRIGGERED1,We'll learn from this.
+5127833442824197,WISE_TRAP_TRIGGERED2,We should be more careful.
+5127833442824198,WISE_TRAP_TRIGGERED3,This was...unfortunate.
+5127833442824199,WISE_TRAP_TRIGGERED4,This was an unnecessary injury.
+5127833442824200,WISE_LOW_MORALE_QUESTMAP1,My mind can't take much more.
+5127833442824201,WISE_LOW_MORALE_QUESTMAP2,Are we going to...survive this?
+5127833442824202,WISE_LOW_MORALE_QUESTMAP3,How much more can we endure?
+5127833442824203,WISE_LOW_MORALE_QUESTMAP4,Will I break before we accomplish our task?
+5127833442824204,WISE_AFTER_CAMPING1,Now we're ready to continue.
+5127833442824205,WISE_AFTER_CAMPING2,We should continue with our task.
+5127833442824206,WISE_AFTER_CAMPING3,It was a good rest.
+5127833442824207,WISE_AFTER_CAMPING4,We're fresh and ready now.
+5127833442824208,WISE_OBSTACLE_FAILED1,This obstacle proved to be too much for us.
+5127833442824209,WISE_OBSTACLE_FAILED2,Next time we will do better.
+5127833442824210,WISE_OBSTACLE_FAILED3,We should take a lesson from this.
+5127833442824211,WISE_OBSTACLE_FAILED4,This proved to be an exhausting task.
+5127833442824212,WISE_FORCED_HEALING1,There is a reason why the body reacts this way.
+5127833442824213,WISE_FORCED_HEALING2,Fine! But it better not be for nothing!
+5127833442824214,WISE_FORCED_HEALING3,I will try to endure it.
+5127833442824215,WISE_FORCED_HEALING4,Oh how much I hate this...
+5127833442824216,WISE_DEATH_RESISTED1,My time hasn't come yet!
+5127833442824217,WISE_DEATH_RESISTED2,You will not get rid of me so easily!
+5127833442824218,WISE_DEATH_RESISTED3,I can still go on!
+5127833442824219,WISE_DEATH_RESISTED4,I cannot die here!
+5127833442824220,WISE_SKIP_TURN1,I'm not ready yet!
+5127833442824221,WISE_SKIP_TURN2,Will we all die?
+5127833442824222,WISE_SKIP_TURN3,This proves too much for me!
+5127833442824223,WISE_SKIP_TURN4,I-I need time to regain my composure.
+5127833442824224,WISE_BUY_DRINK1,A drink to unwind sounds good to me.
+5127833442824225,WISE_BUY_DRINK2,I promise I won't overdo it with the free drinks.
+5127833442824226,WISE_BUY_DRINK3,A litte bit of intoxication for the mind shouldn't hurt.
+5127833442824227,WISE_TRAINING1,A weak body invites a weak mind.
+5127833442824228,WISE_TRAINING2,A little bit of training surely won't hurt me.
+5127833442824229,WISE_TRAINING3,Let's see how much stronger I can get.
+5127833442824230,WISE_CRITICAL_HIT1,My aim is true!
+5127833442824231,WISE_CRITICAL_HIT2,A well-placed Strike.
+5127833442824232,WISE_CRITICAL_HIT3,Luck was on my side.
+5127833442824233,WISE_LOW_HEALTH1,I'm in need of support.
+5127833442824234,WISE_LOW_HEALTH2,I require healing.
+5127833442824235,WISE_LOW_HEALTH3,"Do not panick.
+I'm still fine..."
+5127833442824236,WISE_LOW_MORALE1,Maybe this was a fool's errand.
+5127833442824237,WISE_LOW_MORALE2,How much more do we have to endure?
+5127833442824238,WISE_LOW_MORALE3,*Heavy Breathing*
+5127833442824239,WISE_FRIEND_ALLY_DEATH1,"Rest  in peace, friend..."
+5127833442824240,WISE_FRIEND_ALLY_DEATH2,{CHARACTER1}...
+5127833442824241,WISE_FRIEND_ALLY_DEATH3,You will be missed...
+5127833442824242,WISE_LOVER_ALLY_DEATH1,No...
+5127833442824243,WISE_LOVER_ALLY_DEATH2,"This...
+can't be..."
+5127833442824244,WISE_LOVER_ALLY_DEATH3,Could I have done something?...
+5127833442824245,WISE_NEMESIS_ALLY_DEATH1,A shameful display.
+5127833442824246,WISE_NEMESIS_ALLY_DEATH2,What a waste...
+5127833442824247,WISE_NEMESIS_ALLY_DEATH3,So this is how you die...
+5127833442824248,WISE_NORMAL_ALLY_DEATH1,A heavy loss...
+5127833442824249,WISE_NORMAL_ALLY_DEATH2,We can't afford another loss...
+5127833442824250,WISE_NORMAL_ALLY_DEATH3,Stand firm!
+5127833442824251,WISE_OATHSWORN_ALLY_DEATH1,{CHARACTER1}...
+5127833442824252,WISE_OATHSWORN_ALLY_DEATH2,Your death will not be in vain!
+5127833442824253,WISE_OATHSWORN_ALLY_DEATH3,I should have had your back...
+5127833442824254,WISE_RIVAL_ALLY_DEATH1,What a shame...
+5127833442824255,WISE_RIVAL_ALLY_DEATH2,An unnecessary death...
+5127833442824256,WISE_RIVAL_ALLY_DEATH3,You should have valued your life more.
+5127833442824257,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND1,"Your presence is reassuring, my friend!"
+5127833442824258,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND2,Friends like you are what we really need in this situation.
+5127833442824259,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND3,I hope you'll trust me as much as I trust you.
+5127833442824260,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_FRIEND4,I'm glad I don't have to do this alone. 
+5127833442824261,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN1,I know that I can always rely on you. It's more than I could ask for.
+5127833442824262,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN2,"If we work together like always, there is nothing that can stand in our way!"
+5127833442824263,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN3,Try to stay alive. I'd hate to see you go.
+5127833442824264,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_OATHSWORN4,Without you I'd probably have died a long time ago. Let me repay the favour.
+5127833442824265,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER1,"To always have you by my side is more than I ever hoped for, {CHARACTER1}."
+5127833442824266,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER2,Promise me you try to stay safe. I can not bear to lose you!
+5127833442824267,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER3,"No matter what happens. I will always stand by your side, my love!"
+5127833442824268,WISE_POSITIVE_BATTLE_RELATIONSHIP_EVENT_LOVER4,Nothing will ever be able to separate me from you.
+5127833442824269,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL1,Do you know what you're doing?
+5127833442824270,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL2,Your teamwork is...lacking.
+5127833442824271,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL3,I can not so easily trust you with my back.
+5127833442824272,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_RIVAL4,Maybe someone else would be a better fit in this party.
+5127833442824273,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS1,An enemy by my side is worse than a hundred enemies in front of me.
+5127833442824274,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS2,There aren't many I trust even less than you.
+5127833442824275,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS3,We should never have been put in the same party!
+5127833442824276,WISE_NEGATIVE_BATTLE_RELATIONSHIP_EVENT_NEMESIS4,I have my eyes on you. So don't do anything unwise.
+64043056260616192,GILBERT_BATTLE_LINE01,Adventurers! Slay the enemy commander before we're getting overwhelmed by their numbers!
+64061244666974208,DIVINE_MESSENGER_BATTLE_LINE01,Adventurers! Please save the girl before it's too late!
+64061679536607232,EDEN_NORA_BATTLE_LINE01,Please adventurers! You need to protect us!

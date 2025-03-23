@@ -1,0 +1,726 @@
+ID,Key,String
+987154518016,HEALTH_POTION,"Health Potion, Minor"
+1281057787904,IRON_BREASTPLATE,Iron Breastplate
+1759560765440,IRON_GREATSWORD,Iron Greatsword
+2302853156864,MINOR_WARRIOR_RING,Minor Warrior Ring
+4677382868992,NOVICE_GI,Novice Gi
+233261540216832,HEALTH_POTION_DESCRIPTION,A simple health potion. Restores a little bit of health.
+234084139700224,IRON_BREASTPLATE_DESCRIPTION,A simple Breastplate made out of iron. Provides decent protection.
+234687196729344,IRON_GREATSWORD_DESCRIPTION,A cheap Greatsword made out of iron.
+234881988595712,MINOR_WARRIOR_RING_DESCRIPTION,A ring with a minor enchantment to increase physical attacks of the wearer.
+235348193873920,NOVICE_GI_DESCR,A ceromonial robe for martial arts beginners.
+235821684658176,ADEPT_GI,Adept Gi
+236056095920128,ADEPT_GI_DESCR,A robe who for those who have studied martial arts for a considerable time.
+236400704131072,CLERIC_ROBE,Cleric Robe
+236560905572352,CLERIC_ROBE_DESCR,A Robe typically worn by low level Practioner of the faith.
+237517173329920,HIDE_ARMOR,Hide Armor
+237970950885376,HIDE_ARMOR_DESCR,"An armor made of animal hides. While it doesn't provide too much protection, it doesn't hinder the movement of the wearer at all."
+238242678870016,MINOR_MAGE_RING,Minor Mage Ring
+238335339433984,MINOR_MAGE_RING_DESC,A ring with a minor enchantment to increase the magic of the wearer.
+240039900385280,SUPPLIES,Supplies
+240392960118784,SUPPLIES_DESC,Everything a party needs to survive in the wilds.
+240546823966720,ADVENTURER_COAT,Adventurer Coat
+240847811416064,ADVENTURER_COAT_DESCR,A coat made for adventurers.
+241082549833728,BLACKSTEEL_ARMOR,Blacksteel Armor	
+241233431531520,BLACKSTEEL_ARMOR_DESCR,A suit of Armor made out of Blacksteel. Provides greater Protection than Armors made out of steel. 
+241542040031232,CHAIN_SHIRT,Chain Shirt
+241704351207424,CHAINSHIRT_DESCR,Defensive armor made out of interlocking metal rings. It provides modest protection.
+241931229499392,MASTER_ROBE,Master Robe
+242078764142592,MASTER_ROBE_DESCR,A robe for masters of the martial arts.
+242273430179840,MINOR_RING_OF_PROTECTION,Minor Ring of Protection
+242385862692864,MINOR_RING_OF_PROTECTION_DESC,A ring with a minor enchantment to protect the wearer from physical harm.
+242724569518080,PADDED_ARMOR,Padded Armour
+242855519883264,PADDED_ARMOR_DESCR,A Padded Armor consisting of quilted layers of cloth and batting.
+243055718207488,PLATE_ARMOUR,Plate Armour
+243135774887936,PLATE_ARMOUR_DESCR,A heavy suit of amour covering the whole body. Provides great protection but hinders movement of the wearer.
+243507918704640,GRAND_MASTER_ROBE,Grand Master Robe
+243629503188992,GRAND_MASTER_ROBE_DESCR,A robe for those who have reached the peak of martial arts.
+243838371139584,MAGE_ROBE,Mage robe
+243895019409408,MAGE_ROBE_DESCR,A robe for those adept in the arcane craft. 
+244040586924032,MINOR_DODGE_RING,Minor Dodge Ring
+244895499325440,MINOR_DODGE_RING_DESCR,A ring with a minor enchantment to enhance the wearer's reflexes.
+245040852930560,MITHRIL_ARMOR,Mithril Armor
+245175590752256,MITHRIL_ARMOR_DESCR,A suit of Armor made out of Mithril. Very few weapons can penetrate its defenses.
+245423201488896,MITHRIL_SUIT,Mithril Suit
+245619666882560,MITHRIL_SUIT_DESCR,A suit made out of mithril and the hides of fearsome beast. This suit offers unparalleled protection while maintaining an astonishing lightness.
+246083355578368,HIGH_MAGE_ROBE,Highmage Robe
+246221872467968,HIGH_MAGE_ROBE_DESCR,A robe made out rare materials. Fit for powerful mages.
+246403221590016,MINOR_RING_OF_ELEMENTAL_PROTECTION,Minor Ring of Elemental Protection
+246867321327616,MINOR_MANA_RING,Minor Mana Ring
+246992529690624,MINOR_MANA_RING_DESCR,A ring with a minor enchantment to boost the SP capacity of the wearer.
+247350538702848,PRIEST_ROBE,Priest Robe
+247864034758656,PRIEST_ROBE_DESCR,A Robe for a Priest. Modified to better suit travelling.
+248049272000512,BISHOP_ROBE,Bishop Robe
+248415187275776,BISHOP_ROBE_DESC,A robe made for highstanding members of the clergy.
+248577859162112,KNIGHT_RING,Knight Ring
+248676903456768,KNIGHT_RING_DESCR,A ring fit for a Knight.
+248949034094592,GRAND_MAGE_ROBE,Grand Mage Robe
+249131071082496,GRAND_MAGE_ROBE_DESCR,A powerful robe woven with the hides of dangerous monsters. 
+249353390166016,ARCHBISHOP_ROBE,Archbishop Robe
+249485439438848,ARCH_BISHOP_ROBE_DESCR,A powerful robe woven with the hides of dangerous monsters. 
+249767758041088,PERMANENT_STRENGTH_POTION,Permanent Strength Potion
+249877875298304,PERMANENT_STRENGTH_POTION_DESCR,A rare and hard to make Potion to increase one's strength.
+608221228077056,MINOR_MAGE_POTION,Minor Mage Potion
+608349687025664,MINOR_MAGE_POTION_DESCR,A magical potion which enhances the ability to cast spells slightly. 
+608766084943872,MEDIUM_HEALTH_POTION,"Health Potion, Medium"
+608936356909056,MEDIUM_HEALTH_POTION_DESCR,A medium sized Health Potion. Restores a decent amount of Hitpoints.
+609174392049664,MEDIUM_MANA_POTION,"Mana Potion, Medium"
+609466756009984,MEDIUM_MANA_POTION_DESCR,A medium sized Mana Potion. Restores a decent amount of SP.
+609665222086656,MEDIUM_ATTACK_POTION,Medium Attack Potion
+610022044110848,MEDIUM_ATTACK_POTION_DESCR,A potion which increases physical damage.
+610473623851008,MEDIUM_DEFENSE_POTION,Medium Defense Potion
+610676196151296,MEDIUM_DEFENSE_POTION_DESCR,A potion which increases physical defense.
+611086638157824,MEDIUM_MAGE_POTION,Medium Mage Potion
+611191340568576,MEDIUM_MAGE_POTION_DESCR,A potion which increases magical damage.
+611421368782848,CAT_POTION,Cat Potion
+611596409671680,CAT_POTION_DESCR,A potion which gives a person the flexibility of a cat.
+611856443936768,POTION_OF_WILLPOWER,Potion of Willpower
+612060920451072,POTION_OF_WILLPOWER_DESCR,A potion which helps an adventurer to steel their nerves in the face of danger.
+612369784803328,PERMANENT_ENDURANCE_POTION,Permanent Endurance Potion
+612662601748480,PERMANENT_POTION_OF_ENDURANCE_DESCR,A rare and hard to make Potion to increase one's endurance.
+613543053266944,HOLY_BOOK,Holy Book
+613664256069632,HOLY_BOOK_DESCR,A book for the faithful.
+613866132115456,PERMANENT_DEXTERITY_POTION,Permanent Dexterity Potion
+615320548970496,PERMANENT_DEXTERITY_POTION_DESCR,A rare and hard to make Potion to increase one's dexterity.
+615470935740416,PERMANENT_INTELLIGENCE_POTION,Permanent Intelligence Potion
+615648635817984,PERMANENT_INTELLIGENCE_POTION_DESCR,A rare and hard to make Potion to increase one's intelligence.
+615796053020672,PERMANENT_WILLPOWER_POTION,Permanent Willpower Potion
+616090283446272,PERMANENT_WILLPOWER_POTION_DESCR,A rare and hard to make Potion to increase one's willpower.
+616920915021824,TRAP_DETECTING_CLASSES,Trap Detecting Glasses
+616993556172800,TRAP_DETECTING_CLASSES_DESCR,Glasses that help the wearer to detect traps.
+619353338712064,WATERSKIN,Waterskin
+619465976745984,WATERSKIN_DESCR,"Filled with water to quench one's thirst...or throw it at somebody to make them wet. Yeah, throwing sounds better."
+619727290273792,MINOR_RING_OF_INITIATIVE,Minor Ring of Initiative
+619876599107584,MINOR_RING_OF_INITIATIVE_DESCR,A ring with a minor enchantment to enhance the wearer's initiative.
+620045210128384,MINOR_RING_OF_RESISTANCES,Minor Ring of Resistances
+620196767109120,MINOR_RING_OF_RESISTANCES_DESC,A ring with a minor enchantment to boost the wearer's resistances.
+620419614674944,RING_POISON_PROTECTION,Ring of Poison Protection
+620543355031552,RING_POISON_PROTECTION_DESCR,A ring to protect the wearer from poisoning effects.
+621401673207808,RING_OF_CLEAR_MIND,Ring of Clear Mind
+621576114311168,RING_OF_CLEAR_MIND_DESCR,A ring to help the wearer to keep a clear mind.
+622142370516992,GHANENTA_TALISMAN,Talisman of Ghanenta
+622307244412928,GHANENTA_TALISMAN_DESCR,A talisman dedicated to the God of Compassion.
+622696089948160,ADVENTURER_MANUAL,Adventurer Manual
+622839828746240,ADVENTURER_MANUAL_DESCR,A book full of useful tips for novice adventurers. Unfortunate that not that many adventurers can read.
+623096843112448,AMETHYST,Amethyst
+623216384970752,AMETHYST_DESCR,A valuable transparent purple gemstone.
+623444857098240,AMULET_EARTH_RESISTANCE,Amulet of Earth Resistance
+623613371650048,AMULET_EARTH_RESISTANCE_DESCR,A rare and powerful accessory that grants the wearer increased resistance to earth-based attacks.
+623934969909248,AMULET_FIRE_RESISTANCE,Amulet of Fire Resistance
+624101626384384,AMULET_FIRE_RESISTANCE_DESCR,A rare and powerful accessory that grants the wearer increased resistance to fire-based attacks.
+624255813193728,AMULET_ICE_RESISTANCE,Amulet of Ice Resistance
+624367843053568,AMULET_ICE_RESISTANCE_DESCR,A rare and powerful accessory that grants the wearer increased resistance to ice-based attacks
+624505030348800,AMULET_LIGHTNING_RESISTANCE,Amulet of Lightning Resistance
+624634944720896,AMULET_LIGHTNING_RESISTANCE_DESCR,A rare and powerful accessory that grants the wearer increased resistance to lightning-based attacks
+624790331101184,AMULET_OF_CASTING,Amulet of Casting
+624889794826240,AMULET_OF_CASTING_DESCR,An amulet that constantly refuels the wearers mana reserves.
+625115129614336,ANCIENT_ARTIFACTS,Ancient artifacts
+625239805300736,ANCIENT_ARTIFACTS_DESCR,An assortment of ancient objects from an empire long gone. Worthless to most people but not for those who are interested in history like Majika.
+625512871268352,ANCIENT_ARMOR,Ancient Armor
+625603673755648,ANCIENT_ARMOR_DESCR,An ancient armor that is somehow still in good condition despite its' age. Too big for any ordinary person to wear.
+626562063831040,ANTIDOTE,Antidote
+626647015264256,ANTIDOTE_DESCR,An antidote which can neutralize most known poisons.
+626806516256768,ARMORED_GAUNTLETS,Armored Gauntlets
+627186989961216,ARMORED_GAUNTLETS_DESCR,Some heavy plated Gauntlets which provide decent protection.
+627404301045760,SCOUT_ARMOR,Scout Armor
+627564410212352,SCOUT_ARMOR_DESC,A light and nimble armor worn by those who value speed and agility on the battlefield.
+627780106489856,ASTRAL_COMPASS,Astral Compass
+628283519438848,ASTRAL_COMPASS_DESCR,A compass that can help people to navigate through the dimensions.
+628548100329472,BANDAGES,Bandages
+628689096052736,BANDAGES_DESCR,Clean bandages to stop wounds from bleeding.
+951261624963072,COMMON_HERBS,Common Herbs
+951787485827072,COMMON_HERBS_DESCR,A collection of basic herbs used to craft potions.
+951967215947776,COMMON_ORES,Common Ores
+952032756142080,COMMON_ORES_DESCR,A collection of common ores used to craft weapons and armors.
+952214075904000,BASILISK_HATCHLING,Basilisk Hatchling
+952331659022336,BASILISK_HATCHLING_DESCR,"A young basilisk hatched from the strange egg the adventurers have brought back with them. Despite its tender age, it remains feisty. Luckily, it appears to be loyal to the Adventurer Guild."
+952923198492672,BASILISK_VENOM,Basilisk Venom
+953002194014208,BASILISK_VENOM_DESCR,A drop of this is enough to kill a whole town.
+953161321713664,BATTLE_GLOVES,Battle Gloves
+953299972820992,BATTLE_GLOVES_DESCR,Gloves made for warriors who prefer to use their fist than anything else.
+953636326641664,BIRDBULL_HEART,Birdbull Heart
+953913654022144,BIRDBULL_HEART_DESCR,The heart of a bird bull. In simpler times warriors tend to eat it raw because they believed it would give them courage on the battlefield. Can be used as an alchemical ingredient for many potions.
+954049012600832,SLASHERS_BLADE,The Slasher's Blade
+954204780662784,SLASHERS_BLADE_DESCR,A sharp crimson red blade once forged by Barret. It's hard to tell if the red color stems from its material or the blood of its victims.
+954445940559872,BOAR_LIVER,Boar Liver
+954564991684608,BOAR_LIVER_DESCR,The liver of a monstrous boar. Can be used as an alchemical ingredient for many potions.
+954691068268544,TERRA_BOMB,Terra Bomb
+954865136078848,TERRA_BOMB_DESCR,A bomb that unleashes the fury of Gaia on the enemy.
+954957846974464,INFERNO_BOMB,Inferno Bomb
+955116794318848,INFERNO_BOMB_DESCR,A bomb that unleashes a fiery inferno on the enemy.
+955256179429376,GLACIAL_BOMB,Glacial Bomb
+955376153300992,GLACIAL_BOMB_DESCR,A bomb that unleashes an icy tempest on the enemy.
+955530184921088,VOLT_BOMB,Volt Bomb
+955676897480704,VOLT_BOMB_DESCR,A bomb that unleashes lightning bolts at the enemy.
+955846863261696,BOOTS_OF_MOBILITY,Boots of Mobility
+956011816849408,BOOTS_OF_MOBILITY_DESCR,"These enchanted boots grant the wearer unparalleled speed and agility, allowing them to move with ease under any circumstances."
+956190552920064,HUNTING_BOW,Hunting Bow
+956244076433408,HUNTING_BOW_DESCR,A simple bow made to hunt game. Not as effective against monsters.
+956390151458816,WAR_BOW,War bow
+956468899516416,WAR_BOW_DESCR,A bow especially made to kill.
+956614211178496,IRONWOOD_BOW,Ironwood Bow
+956703528882176,IRONWOOD_BOW_DESCR,A strong and flexible bow made out of Ironwood.
+956848572108800,ELDERWOOD_BOW,Elderwood Bow
+957661491138560,ELDERWOOD_BOW_DESCR,An exceptional bow made out of elder wood.
+957870736576512,BRACERS_OF_DEFENSE,Bracers of Defense
+958021911875584,BRACERS_OF_DEFENSE_DESCR,"These sturdy and enchanted bracers provide the wearer with enhanced protection against any physical or magical attacks, deflecting blows and reducing damage taken."
+958165436764160,CHAMPION_ARMOR,Champion Armor
+958249519976448,CHAMPION_ARMOR_DESCR,A heavy set of ornated armor. Wearing this makes you feel special.
+958683710132224,CHRONO_GLASS,Chrono Glass
+958841743118336,CHRONO_GLASS_DESCR,A magical artifact that manipulates time.
+958949591257088,CLAWS,Claws
+959022815416320,CLAWS_DESCR,Sharp claws that can cause gaping wounds on enemies.
+959363489370112,CLOAK_OF_FIRE,Cloak of Fire
+959442803658752,CLOAK_OF_FIRE_DESCR,A cloak that emits a warm radiance.
+959940847898624,CLOAK_OF_ICE,Cloak of Ice
+960049077719040,CLOAK_OF_ICE_DESCR,A cloak that emits a cold aura.
+960134947704832,CLOAK_OF_EARTH,Cloak Of Earth
+960234340126720,CLOAK_OF_EARTH_DESCR,A cloak that feels firm to the touch.
+960480914870272,CLOAK_OF_LIGHTNING,Cloak of Lightning
+960579850113024,CLOAK_OF_LIGHTNING_DESCR,A cloak that emits an electrifying aura.
+960871970803712,CLOAK_ARCHMAGE,Cloak of the Archmage
+960973904973824,CLOAK_ARCHMAGE_DESCR,"A powerful cloak that provides the wearer with resistance to elemental attacks and allows them to summon a magical barrier for protection at will, making them nearly invincible against all manner of magical and physical attacks."
+961236665536512,CLOAK_OF_VIOLENCE,Cloak of Violence
+961341137260544,CLOAK_OF_VIOLENCE_DESCR,A cloak usually worn by people with ill reputation
+961455595622400,CRATE,Crate
+961549678055424,CRATE_DESCR,A simple crate. You have no idea what's inside but it's important to your Questgiver.
+962029963612160,CRIMSON_DAGGERS,Crimson Daggers
+962164273614848,CRIMSON_DAGGERS_DESCR,Daggers forged from the remnants of a weapon that has tragically claimed countless innocent lives. May they rise above their shadowed history and serve a nobler purpose.
+962364463550464,CRIMSON_GREATSWORD,Crimson Greatsword
+962564376662016,CRIMSON_GREATSWORD_DESCR,A Greatsword forged from the remnants of a weapon that has tragically claimed countless innocent lives. May this blade rise above its shadowed history and serve a nobler purpose.
+962679212511232,CRIMSON_SWORD_SHIELD,Crimson Sword and Shield
+963884340908032,CRIMSON_SWORD_SHIELD_DESCR,A set of sword of shield forged from the remnants of a weapon that has tragically claimed countless innocent lives. May they rise above their shadowed history and serve a nobler purpose.
+964163677360128,CROWN_MAGISTER,The Crown of the Magister
+964611075379200,CROWN_MAGISTER_DESCR,"There was once a man, who got into a position of great power, despite being an imbecile. Happens more often than you think."
+965017071423488,CURE,Cure
+965121849331712,CURE_DESCR,A miracle potions that heals most ailments.
+965882717048832,CUSTOM_GAUNTLET,Modifiable Gauntlet
+966051567144960,CUSTOM_GAUNTLET_DESCR,Gauntlets that are easily modifiable to fit one's need.
+966244391882752,IRON_DAGGERS,Iron Daggers
+967486421766144,IRON_DAGGERS_DESCR,A pair of cheap daggers made out of iron.
+967777254805504,FINE_DAGGERS,Fine Daggers
+967895836168192,FINE_DAGGERS_DESCR,A pair of finely crafted Daggers. 
+968386708148224,BLACKSTEEL_DAGGERS,Blacksteel Daggers
+968541272444928,BLACKSTEEL_DAGGERS_DESCR,A pair of sharp Daggers made out of Blacksteel.
+972068908601344,MITHRIL_DAGGERS,Mithril Daggers
+972178245718016,MITHRIL_DAGGERS__DESCR,A pair of daggers made out of mithril.
+972371611521024,DEMONIC_GREATSWORD,Demonic Greatsword
+972494152306688,DEMONIC_GREATSWORD_DESCR,A powerful weapon with a questionable past. People who wield it say that they start to hear things.
+972677439197184,SENTINEL_PLATE,Sentinel Plate
+972802865664000,SENTINEL_PLATE_DESCR,An armor with an emphasis on defense. A promise to return to their loved ones.
+3934285652201472,DEMONIC_BOW,Demonic Bow
+3934431857250304,DEMONIC_BOW_DESCR,A powerful weapon with a questionable past. People who wield it say that they start to hear things.
+3934648102981632,DEMONIC_DAGGERS,Demonic Daggers
+3934838012678144,DEMONIC_DAGGERS_DESCR,A powerful weapon with a questionable past. People who wield it say that they start to hear things.
+3934944107597824,DEMONIC_STAFF,Demonic Staff
+3937568693325824,DEMONIC_STAFF_DESCR,A powerful weapon with a questionable past. People who wield it say that they start to hear things.
+3937693192851456,DEMONIC_SHIELD,Demonic Shield
+3940086051672064,DEMONIC_SHIELD_DESCR,A powerful weapon with a questionable past. People who wield it say that they start to hear things.
+3940215445950464,Disciple's Belt,Disciple's Belt
+4209863391350784,DISCIPLE_BELT,Disciple's Belt
+4210016047239168,DISCIPLE_BELT_DESCR,Bai has acknowledged you to be worthy to be a disciple of hers. Lucky you!
+4210270524051456,DODGE_RING,Dodge Ring
+4210496592842752,DODGE_RING_DESCR,A ring with an enchantment to enhance the wearer's reflexes.
+4210657763168256,DRAGONSCALE_ARMOR,Dragonscale Armor
+4210804790300672,DRAGONSCALE_ARMOR_DESCR,A heavy set of armor made of dragon scales. 
+4211045677568000,DRAGON_EGG,Dragon Egg
+4211151688601600,DRAGON_EGG_DESCR,A Dragon Egg! Nothing can stop us now!
+4211317640433664,DRAGON_SCALES,Dragon Scales
+4211416789585920,DRAGON_SCALES_DESCR,The scales of a Dragon. Extremely resistant to any physical blows and any heat. Working with this material requires a blacksmith of great skill.
+4211696356724736,EAGLE_RING,Eagle Ring
+4211819950280704,EAGLE_RING_DESCR,A ring that grants its' wearer unmatchable vision.
+4212441554522112,EARTH_CORE,Earth Elemental's Core
+4212495057063936,EARTH_CORE_DESCR,A glowing orb that sometimes gets left behind when an earth elemental dies. Can be used as an alchemical ingredient for many potions.
+4212933647044608,EARTH_RESISTANCE_POTION,Earth Resistance Potion
+4213430516879360,EARTH_RESISTANCE_POTION_DESCR,A powerful potion that grants temporary resistance to earth based attacks. 
+4214100133318656,EARTH_STAFF,Earth Staff
+4214207369089024,EARTH_STAFF_DESCR,A staff that channels the power of mother earth itself.
+4215096817389568,ECTOPLASM,Ectoplasm
+4215185015214080,ECTOPLASM_DESCR,A strange gooey substance that is sometimes excreted by ghosts. It feels cold to the touch. Can be used as an alchemical ingredient for many potions.
+4215402531819520,ELDERWOOD,Elder Wood
+4215487101571072,ELDERWOOD_DESCR,Wood that is older than most people and yet despite its age sturdier than even iron.
+4215715380760576,ELEGANT_LUTE,Elegant Lute
+4215844217196544,ELEGANT_LUTE_DESCR,An expensive-looking lute that produces a hauntingly beautiful sound in the right hands.
+4216000757010432,ELIXIR,Elixir
+4216146211278848,ELIXIR_DESCR,A wondrous potion that recovers Health and Vitality. Only the greatest of alchemists can produce this potion.
+4216636395393024,EMERALD,Emerald
+4216730750455808,EMERALD_DESCR,A very valuable green Gemstone
+4216875990814720,EPIC_CHEST_KEY,Epic Chest Key
+4216998598709248,EPIC_CHEST_KEY_DESCR,A key with which an epic or lesser chest can be opened without lockpicking.
+4217177871650816,BLACKIRON,Black Iron
+4217252140191744,BLACKIRON_DESCR,A rare mineral only found in the deeper part of Mountains. 
+4217392271888384,WOOD,Wood
+4217472504729600,WOOD_DESCR,Wood commonly found in forests.
+4217670610096128,IRONWOOD,Iron wood
+4218009606328320,IRONWOOD_DESCR,Rare wood type. Is more durable than normal wood.
+4218489258545152,FIREBOMB,Firebomb
+4218601896579072,FIREBOMB_DESCR,A handmade bomb. It's slightly less powerful than a fireball but that's only a problem if you could cast fireball in the first place.
+4218947805024256,FIRE_CORE,Fire Elemental's Core
+4219015811469312,FIRE_CORE_DESCR,A glowing orb that sometimes gets left behind when a fire elemental dies. Can be used as an alchemical ingredient for many potions.
+4219298230734848,FIRE_RESISTANCE_POTION,Fire Resistance Potion
+4219405294538752,FIRE_RESISTANCE_POTION_DESCR,A powerful potion that grants temporary resistance to fire based attacks. 
+4219843829993472,FLAMING_RUBY_RING,Flaming Ruby Ring
+4219975845711872,FLAMING_RUBY_RING_DESCR,"This ring is adorned with a ruby that emits an intense heat. When worn, it enhances the wearer's fire-based attacks, causing them to deal more damage."
+4220145769549824,OLD_RING,Old Ring
+4220254355886080,OLD_RING_DESCR,An old ring made out of cheap metal. It has more sentimental value than actual value.
+4220547869085696,GLACIAL_AEGIS,Glacial Aegis
+4220981006471168,GLACIAL_AEGIS_DESCR,"The Glacial Aegis, a suit of frost armor, forms an unyielding shield against both physical and elemental assaults. Every step of the wearer leaves frost in their wake and their foes shiver in their presence."
+4221080990289920,GAUNTLET_LIGHTNING,Gauntlet of the Lightning Mage
+4221210774638592,GAUNTLET_LIGHTNING_DESCR,A gauntlet  enhancing the Power of Lightning Spells
+4221489322561536,FIRE_GAUNTLET,Gauntlet of the Fire Mage
+4221609548091392,FIRE_GAUNTLET_DESCR,A gauntlet  enhancing the Power of Fire Spells
+4221742243287040,GAUNTLET_OF_GIANT,Gauntlet of the Giant
+4222109119057920,GAUNTLET_OF_GIANT_DESCR,Rumors are that the gauntlets used to belong to a small-sized giant.
+4222341689020416,GAUNTLET_ICE,Gauntlet of the Ice Mage
+4222442008383488,GAUNTLET_ICE_DESCRIPTION,A gauntlet  enhancing the Power of Ice Spells
+4222655976607744,GAUNTLET_EARTH,Gauntlet of the Earth Mage
+4222773928824832,GAUNTLET_EARTH_DESCR,A gauntlet  enhancing the Power of Earth Spells
+4223674714329088,GLASSES_TRUE_SIGHT,Glasses of True Sight
+4225125763158016,GLASSES_TRUE_SIGHT_DESCR,"These enchanted glasses grant the wearer enhanced accuracy and the ability to see through any form of concealment, allowing them to spot hidden enemies."
+4225669814718464,GLORIOUS_BANNER,Glorious Banner
+4225796533030912,GLORIOUS_BANNER_DESCR,A banner that stands proudly in the wind. Seeing it fills the adventurers with hope and courage to fight on.
+4226043086802944,GLOVES_DUELING,Gloves of Dueling
+4226200389980160,GLOVES_DUELING_DESCR,"Duels were never fought to kill the opponent but to restore honor against a slight. However, sometimes ""accidents"" tend to happen."
+4226424349036544,GOLD,Gold
+4226475829923840,GOLD_DESCR,The one thing that's nearly as important as an adventurer's life.
+4226671888470016,GOLDENFERN,Goldenfern
+4226755103461376,GOLDENFERN_DESCR,A rare ingredient that is pivotal in many potions.
+4226991842562048,RABBIT_PAW,Rabbit Paw
+4227120209235968,RABBIT_PAW_DESCR,A rabbit's paw for good luck. An old superstition that never really faded away. Which is very unfortunate for rabbits all over over the continent.
+4227270445010944,ESSENCE_GREATER_DEMON,Essence of a Greater Demon
+4234887162662912,ESSENCE_GREATER_DEMON_DESCR,"The essence of a Greater Demon. If you listen close enough, you can hear a seductive voice whispering in your ear, tempting you to relinquish your most precious possession. Can be used as an alchemical ingredient for many potions."
+4235300087697408,FINE_GREATSWORD,Fine Greatsword
+4235457906774016,FINE_GREATSWORD_DESCR,A finely crafted Greatsword.
+4235541461504000,BLACKSTEEL_GREATSWORD,Blacksteel Greatsword
+4235714526875648,BLACKSTEEL_GREATSWORD_DESCR,A sharp Greatsword made out of Blacksteel.
+4235870810836992,MITHRIL_GREATSWORD,Mithril Greatsword
+4236058631770112,MITHRIL_GREATSWORD_DESCR,An exceptional greatsword made out of mithril.
+4236231734890496,HARPY_FEATHER,Harpy Feather
+4236305093267456,HARPY_FEATHER_DESCR,The feather of a harpy. Can be used as an ingredient in crafting potions.
+4236431828357120,BRAVERY_CLOAK,Cloak of Bravery
+4236627303895040,BRAVERY_CLOAK_DESCR,"A mystical cloak that instills the wearer with incredible courage and bravery, allowing them to overcome their fears and face any challenge with confidence."
+4236894585917440,COMMON_HIDE,Common Hide
+4237238636285952,BLESSED_CHALICE,Blessed Chalice
+4237478219124736,BLESSED_CHALICE_DESC,A chalice of religious significance.
+4237690689982464,ICE_CORE,Ice Elemental's Core
+4237975260925952,ICE_CORE_DESCR,A glowing orb that sometimes gets left behind when an ice elemental dies. Can be used as an alchemical ingredient for many potions.
+4238107473776640,ICE_RESISTANCE_POTION,Ice Resistance Potion
+4238219386195968,ICE_RESISTANCE_POTION_DESCR,A powerful potion that grants temporary resistance to ice based attacks. 
+4238397451177984,ICE_TIARA,Ice Tiara
+4238516133203968,ICE_TIARA_DESCR,A tiara fit for an Ice Queen.
+4238798233702400,BIG_TRAVELING_BAGS,Big Travelling Bags
+4239028668764160,BIG_TRAVELING_BAGS_DESCR,Decent sized travelling bags that can hold a lot of items.
+4239181182046208,MINOR_DIMENSIONAL_POUCH,Minor Dimensional Pouch
+4239319912845312,MINOR_DIMENSIONAL_POUCH_DESCR,A small pouch that can hold more than you'd think.
+4239421171732480,JEWELRY,Jewelry
+4239519779819520,JEWELRY_DESCR,Jewelries which are worth a lot to the right merchants.
+4239662209994752,JOTUN_GREATSWORD,Jotun Greatsword
+4239757282283520,JOTUN_GREATSWORD_DESCR,An old greatsword that once belonged to a great jotun warrior.
+4240128675319808,KNIGHT_BADGE,Knight Badge
+4240234573107200,KNIGHT_BADGE_DESCR,This badge is worn by knights and warriors to identify them as deadly warriors.
+4240319042195456,LEGENDARY_CHEST_KEY,Legendary Chest Key
+4240427339124736,LEGENDARY_CHEST_KEY_DESCR,A key with which a legendary or lesser chest can be opened without lockpicking.
+4240590828900352,NOVICE_ROBE,Novice Robe
+4240651914743808,NOVICE_ROBE_DESCR,"A robe usually worn by Practitioners of the magecraft. While it does not provide any physical protection, it protects the wearer against magic."
+4240802079215616,STORM_ARMOR,Storm Armor
+4241400694476800,STORM_ARMOR_DESCR,"A mystical suit of enchanted armor. Infused with the raw energy of storms, it grants its wearer heightened resilience and the power to summon lightning in the midst of battle."
+4241583197032448,LIGHTNING_CORE,Lightning Elemental's Core
+4241740667981824,LIGHTNING_CORE_DESCR,A glowing orb that sometimes gets left behind when a lightning elemental dies. Can be used as an alchemical ingredient for many potions.
+4241894238228480,LIGHTNING_RESISTANCE_POTION,Lightning Resistance Potion
+4242006410694656,LIGHTNING_RESISTANCE_POTION_DESCR,A powerful potion that grants temporary resistance to lightning based attacks. 
+4242152238256128,LIGHTNING_STAFF,Lightning Staff
+4242260967198720,LIGHTNING_STAFF_DESCR,A staff that harnesses the raw energy of thunder and lightning.
+4242488378167296,LIZARDMAN_SCALE,Lizardman Scale
+4242585925095424,LIZARDMAN_SCALE_DESCR,The scale of a lizardman. The light reflects beautifully on its' surface. Can be used as an ingredient in crafting potions.
+4242757061087232,MAGE_RING,Mage Ring
+6338323618369536,MANA_LEAVES,Mana Leaves
+6338477234753536,MANA_LEAVES_DESCR,A leaf pulsating with Mana. How and why this plant is able to store mana is unknown. Can be used as an alchemical ingredient for many potions.
+6338854332043264,MINOR_MANA_POTION_DESCR,A simple Mana potion. Restores a little bit of SP.
+6338890503720960,MINOR_MANA_POTION,"Mana Potion, Minor"
+6339289696604160,MANA_RING,Mana Ring
+6339917135122432,MANA_RING_DESCR,A ring with an enchantment to boost the SP capacity of the wearer.
+6340225496158208,MASK_OF_RESISTANCE,Mask of the Resistance
+6340476047101952,MASK_OF_RESISTANCE_DESCR,The mask of a man who planned to overthrow an emperor who believed himself to be a god.
+6340655408123904,LION_CREST,Lion Crest
+6340770663403520,LION_CREST_DESCR,"A crest depicting a mighty lion, a symbol of bravery and valour."
+6340948006965248,LEATHER_ARMOR,Leather Armor
+6341184431493120,LEATHER_ARMOR_DESCR,An armor made out of leather. It is very light and flexible and provides some physical protection.
+6341348969844736,GREEN_FRAGMENT_GUIDANCE,Green Fragment Of Guidance
+6341534534242304,FRAGMENT_DESCR,A small fragment of an Enhancement Gem. Can be used to enhance Equipments with appropriate sockets.
+6341999380566016,ORANGE_FRAGMENT_LETHALITY,Orange Fragment Of Lethality
+6342257313484800,MINOR_DEFENSE_POTION,Minor Defense Potion
+6342472229621760,MINOR_DEFENSE_POTION_DESCR,A magical potion which increases physical defense slightly. 
+6343999518314496,GREEN_FRAGMENT_EVASION,Green Fragment Of Evasion
+6344157794570240,PURPLE_FRAGMENT_DARKNESS,Purple Fragment of Darkness
+6344605372944384,GREEN_FRAGMENT_LIFE,Green Fragment of Life
+6345484549394432,YELLOW_FRAGMENT_LIGHT,Yellow Fragment of Light
+6345737918910464,YELLOW_FRAGMENT_INVINCIBILITY,Yellow Fragment of Invincibility
+6345911026225152,RED_FRAGMENT_BODY,Red Fragment of The Body
+6347583140040704,BLUE_FRAGMENT_MAGE,Blue Fragment of the Mage
+6347776568758272,BLUE_FRAGMENT_PIERCING,Blue Fragment of Piercing
+6348244741165056,BLUE_FRAGMENT_MIND,Blue Fragment of the Mind
+6349738236350464,RED_FRAGMENT_WARRIOR,Red Fragment of the Warrior
+6349996458676224,RED_FRAGMENT_PIERCING,Red Fragment of Piercing
+6350207302144000,YELLOW_FRAGMENT_RESILLIENCE,Yellow Fragment Of Resillience
+6350374025728000,MINOR_RING_ACCURACY,Minor Ring of Accuracy
+6350497975799808,MINOR_RING_ACCURACY_DESCR,A ring with a minor enchantment to enhance the wearer's accuracy
+6350658500202496,MINOR_RING_CRIT,Minor Ring of Lethality
+6350930899275776,MINOR_RING_CRIT_DESCR,A ring with a minor enchantment to enhance the wearer's ability to exploit openings.
+6351067394510848,MINOR_RING_VITALITY,Minor Ring of Vitality
+6351195807322112,MINOR_RING_VITALITY_DESCR,A ring with a minor enchantment to enhance the wearer's vitality.
+6351386446827520,MINOR_ATTACK_POTION,Minor Attack Potion
+6351558388125696,MINOR_ATTACK_POTION_DESCR,A magical potion which increases physical damage slightly. 
+6353554386096128,MITHRIL_ORE,Mithril Ore
+6353693179809792,MITHRIL_ORE_DESCR,A shimmering and rare metal sought by skilled craftsmen and adventurers alike. Crafting weapons and armor from this material was a luxury reserved for rich nobles.
+6354318915440640,MONSTER_BLOOD,Monster Blood
+6355580251705344,MONSTER_BLOOD_DESCR,Blood drained from a monster. Can be used as an alchemical ingredient for many potions.
+6355765430226944,MONSTER_BLOOD_TYPEB,Monster Blood Type D
+6355899324993536,MONSTER_BLOOD_TYPEB_DESCR,The blood of a very agile monster. Can be used as an alchemical ingredient for many potions.
+6363395225718784,MONSTER_BLOOD_TYPEE,Monster Blood Type E
+6363550440132608,MONSTER_BLOOD_TYPEE_DESCR,The Blood of an very tough monster. Can be used as an alchemical ingredient for many potions.
+6363680639717376,MONSTER_BLOOD_TYPEI,Monster Blood Type I
+6363771530285056,MONSTER_BLOOD_TYPEI_DESCR,The blood of a very cunning monster. Can be used as an alchemical ingredient for many potions.
+6364342932901888,MONSTER_BLOOD_TYPEM,Monster Blood Type M
+6364535539535872,MONSTER_BLOOD_TYPEM_DESCR,The blood of a magical monster. Can be used as an alchemical ingredient for many potions.
+6365000620740608,MONSTER_BLOOD_TYPES,Monster Blood Type S
+6365362836639744,MONSTER_BLOOD_TYPES_DESCR,The blood of a very strong monster. Can be used as an alchemical ingredient for many potions.
+6365663505321984,MONSTER_BLOOD_TYPEW,Monster Blood Type W
+6365820414234624,MONSTER_BLOOD_TYPEW_DESCR,The blood of a very brave monster. Can be used as an alchemical ingredient for many potions.
+6366050954153984,RARE_MUSHROOM,Rare Mushroom
+6366184542736384,RARE_MUSHROOM_DESCR,"A rare and delicious mushroom. Do not eat it! 
+It's for the Questgiver."
+6366360699310080,UNKNOWN_EGG,Unknown Egg
+6366516513509376,UNKNOWN_EGG_DESCR,A Egg of unknown origin. At least we know it's not a dragon egg.
+6368197145956352,MYSTIC_ROBE,Mystic Robe
+6368410560532480,MYSTIC_ROBE_DESCR,An enchanted robe that bolsters the use of all existing forms of magic. It's woven with protective enchantments to shield its wearer from harm.
+6368844880711680,BOW_OF_NATURE,Bow Of Nature
+6369112632496128,BOW_OF_NATURE_DESCR,"An intricate bow crafted out of an Oakenheart. The very essence of nature pulses within its form, resonating with its latent power."
+6369355361062912,OAK_HEART,Oak Heart
+6369603735162880,OAK_HEART_DESCR,"The Oakheart throbs with life, akin to a heart, even after the demise of its holder. A testamtent that nature is indeed alive."
+6369787831554048,OLD_GRIMOIRE,Old Grimoire
+6369949333229568,OLD_GRIMOIRE_DESCR,An old Grimoire carried by a necromancer. It holds much knowledge gained through horrible means.
+6372170217197568,PARENTS_LOVE,Parent's love
+6372264530317312,PARENTS_LOVE_DESCR,A wooden figure carved by a pair of elderly hands. For some reason you can see that it was carved with their loved ones in mind.
+6373390566723584,PERMANENT_WISDOM_POTION,Permanent Wisdom Potion
+6373575250317312,PERMANENT_WISDOM_POTION_DESCR,A rare and hard to make Potion to increase one's wisdom.
+6373778279796736,POISON_BOMB,Poison Bomb
+6373848022683648,POISON_BOMB_DESCR,A deadly poisonus bomb. Handle with care!
+6374082073235456,POISON_GLAND,Poison Gland
+6374558193848320,POISON_GLAND_DESCR,A giant poisonous gland harvested from a giant spider. Can be used as an ingredient in crafting potions.
+6374655237459968,POISON_SATCHEL,Poison Satchel
+6375623295406080,POISON_SATCHEL_DESCR,A satchel which shouldn't be openly worn.
+6375828006801408,POTION_BLOOD_THIRST,Potion Of Blood Thirst
+6375965017935872,POTION_BLOOD_THIRST_DESCR,A potion that awakens the animal instinct of a predator on those who drink it.
+6376292169453568,POTION_CLEAR_MIND,Potion of Clear Mind
+6376493013700608,POTION_CLEAR_MIND_DESCR,A magical potion that clears your mind and enhances your mental abilities.
+6376958166208512,POTION_FREE_MOVEMENT,Potion of Free Movement
+6377125015621632,POTION_FREE_MOVEMENT_DESCR,A magical potion that frees you from any burden that may have hold you down.
+6377333166346240,POTION_KEEN_SENSE,Potion of Keen Senses
+6377469246345216,POTION_KEEN_SENSE_DESCR,A magical potion that enhances your senses after drinking.
+6377649811132416,POTION_SPEED,Potion of Speed
+6377818233409536,POTION_SPEED_DESCR,A potion which increase the movement range of the user.
+6377931148267520,RAINBOW_FLOWER,Rainbow Flower
+6378074664767488,RAINBOW_FLOWER_DESCR,A flower with alternating colors like a rainbow.
+6378204247789568,RARE_CHEST_KEY,Rare Chest Key
+6378287622164480,RARE_CHEST_KEY_DESCR,A key with which a rare or lesser chest can be opened without lockpicking.
+6378922652372992,REBOUND_RING,Rebound Ring
+6379206074077184,REBOUND_RING_DESCR,Stop Hitting Yourself!
+6379291386220544,RESILIENT_HIDE,Resilient Hide
+6379439252213760,RESILIENT_HIDE_DESCR,Some monster have hides that rival even the resilience of armor.
+6379668789694464,RETURNING_KNIFE,Returning Knife
+6379815309316096,RETURNING_KNIFE_DESCR,A knife that keeps returning to owner's hand.
+6380131492728832,RING_ACCURACY,Ring Of Accuracy
+6380189088911360,RING_ACCURACY_DESCR,A ring with an enchantment to enhance the wearer's accuracy.
+6380297868185600,RING_ATTACK,Warrior Ring
+6380597668646912,RING_ATTACK_DESCR,A ring with an enchantment to increase physical attacks of the wearer.
+6380827529089024,RING_CRIT,Ring of Lethality
+6381049005117440,RING_CRIT_DESCR,A ring with an enchantment to enhance the wearer's ability to exploit openings.
+6381180500742144,RING_ELEMENTAL_PROTECTION,Ring of Elemental Protection
+6381349568942080,RING_ELEMENTAL_PROTECTION_DESCR,A ring with an enchantment to protect the wearer from elemental damages.
+6381710790791168,MINOR_RING_OF_ELEMENTAL_PROTECTION_DESCR,A ring with a minor enchantment to protect the wearer from elemental damages.
+6382190933741568,RING_ENDURANCE,Ring of Vitality
+6382402137919488,ENDURANCE_RING_DESCR,A ring with an enchantment to enhance the wearer's vitality.
+6382566990843904,RING_LIFE,Ring Of Life
+6388102222221312,RING_LIFE_DESCR,A ring that stands against death
+6388280870211584,RING_POISON_IMMUNITY,Ring Of Poison Immunity
+6388360486490112,RING_POISON_IMMUNITY_DESCR,A ring that prevents the wearer to get poisoned. It is a highly sought item amongst nobles.
+6388642729594880,RING_PROTECTION,Ring Of Protection
+6388854697136128,RING_PROTECTION_DESCR,A ring with an enchantment to protect the wearer from physical harm.
+6388960611700736,RING_REGENERATION,Ring of Regeneration
+6389102991544320,RING_REGENERATION_DESCR,"This enchanted ring constantly heals the wearer, restoring their health and vitality over time."
+6389383162662912,RING_OF_INITIATIVE,Ring of Initiative
+6389858423443456,RING_OF_INITIATIVE_DESCR,A ring with an enchantment to enhance the wearer's initiative.
+6390076439171072,RING_TELEPORTATION,Ring of Teleportation
+6390240725864448,RING_TELEPORTATION_DESCR,"A powerful ring that allows the wearer to teleport to any location they desire, instantly transporting them through space and bypassing all obstacles and barriers."
+6390645383925760,GIANT_RUBY,Giant Ruby
+6390762421784576,GIANT_RUBY_DESCR,A very valuable red gemstone.
+6390868357320704,RUBY_BERRIES,Ruby Berries
+6391007381721088,RUBY_BERRIES_DESCR,A red colored berry commonly found in forests. Can be used as an alchemical ingredient for many potions.
+6391156296290304,SHARPENING_STONE,Sharpening Stone
+6391227846922240,SHARPENING_STONE_DESCR,A trusty friend of the Knight
+6391374077136896,SHOVEL,Shovel
+6391435137814528,SHOVEL_DESCR,"A shovel can be more practical than you might think while travelling.
+Can be used to remove obstacles without an Attribute Check."
+6391700947636224,SKILL_POTION,Skill Potion
+6392019542773760,SKILL_POTION_DESCR,"A rare mystical potion, carefully concocted by skillful hands. When consumed, it surges through your veins, unlocking hidden potential within you."
+6392283347718144,SPARE_KNIFES,Spare Knives
+6392497710206976,SPARE_KNIFES_DESCR,There are never enough Knives
+6392626714415104,SPIDER_QUEEN_FANGS,Spider Queen Fangs
+6392803764375552,SPIDER_QUEEN_FANGS_DESCR,"The fangs of a spider queen. Sharper than most daggers and still dangerous to touch with the naked hand, despite it not being connected to any venom sacs. "
+6393181083963392,APPRENTICE_STAFF,Apprentice Staff
+6393356074520576,APPRENTICE_STAFF_DESCR,A simple wooden Staff used mostly by novices of the magecraft.
+6393484319559680,PRIEST_STAFF,Priest Staff
+6393684815679488,PRIEST_STAFF_DESCR,A staff commonly carried by priests.
+6393913262641152,ADEPT_STAFF,Adept Staff
+6394029960761344,ADEPT_STAFF_DESCR,A more powerful Staff compared to the Novice staff.
+6394324178604032,HIGH_STAFF,High Staff
+6394558669557760,HIGH_STAFF_DESCR,A powerful staff for arcane and divine spells.
+6394841642471424,MASTER_STAFF,Master Staff
+6395070290759680,MASTER_STAFF_DESCR,An exceptional powerful staff for the magical elite.
+6395221256343552,STAFF_OF_NATURE,Staff Of Nature
+6395338755575808,STAFF_OF_NATURE_DESCR,"An intricate staff crafted out of an Oakenheart. The very essence of nature pulses within its form, resonating with its latent power."
+6395598760480768,STOLEN_GOODS,Stolen Goods
+6395710375104512,STOLEN_GOODS_DESCR,"Several Valuables which are clearly stolen. Well Finders Keepers, right?"
+6396065129336832,ANCIENT_STONE_TABLET,Ancient Stone Tablet
+6396217298685952,ANCIENT_STONE_TABLET_DESCR,"Carved from sturdy stone, this ancient tablet bears the weight of history upon its weathered surface. Despite the availability of paper, the empyreans chose to inscribe important information on this enduring medium to safeguard its contents against the ravages of time and external forces."
+6397289048215552,FEATHER_STORM_TALON,Feather of a Storm Talon
+6397871641235456,FEATHER_STORM_TALON_DESCR,The feather of an ancient monster. It still emits electricity. 
+6398420835012608,SUNLIGHT_TORCH,Sunlight Torch
+6399367934021632,SUNLIGHT_TORCH_DESCR,A torch that shines as bright as the sun.
+6400298461335552,IRON_SWORD_SHIELD,Iron Sword & Shield
+6400935798411264,IRON_SWORD_SHIELD_DESCR,A pair of cheap Shield & Sword made out of Iron.
+6401394458136576,FINE_SWORD_SHIELD,Fine Sword & Shield
+6408043482746880,FINE_SWORD_SHIELD_DESCR,A Set of finely crafted Sword & Shield.
+6408313579147264,BLACKSTEEL_SWORD_SHIELD,Blacksteel Sword & Shield
+6408497507766272,BLACKSTEEL_SWORD_SHIELD_DESCR,A set of sword and shield crafted of black iron.
+6409509475880960,MITHRIL_SWORD_SHIELD,Mithril Sword & Shield
+6409645807538176,MITHRIL_SWORD_SHIELD_DESCR,A set of sword and shield made out of mithril.
+6409771028484096,FERDINAND_TALKING_SWORD,Ferdinand the Talking Sword
+6409914544984064,FERDINAND_TALKING_SWORD_DESCR,"""Greetings, partner!  They call me Ferdinand!"""
+6410247627247616,EDGE,The Edge
+6410539907321856,EDGE_DESCR,Armor won't help you much against this bad boy.
+6410791129354240,AMULET_PERFECT_HEALTH,Amulet of Perfect Health
+6410955999055872,AMULET_PERFECT_HEALTH_DESCR,"They say if you wear this amulet, you'll never fall ill."
+6411150115639296,WITCH_STAFF,The Witch's Staff
+6411274325757952,WITCH_STAFF_DESCR,A staff to channel great arcane power or a spear to pierce through flesh.
+6411426407026688,TOKEN_THUNDER,Token of Thunder
+6411593185136640,TOKEN_THUNDER_DESCR,An ancient Token devoted to a god that is no longer known.
+6412184921739264,TOUGH_HIDE,Tough Monster Hide
+6412284460961792,TOUGH_HIDE_DESCR,A monster hide that is unnaturally resistant to cuts.
+6412570546049024,TROLL_HIDE,Troll Hide
+6412640842584064,TROLL_HIDE_DESCR,The hide of a troll. Light and yet still sturdy.
+6412851665080320,TROLL_HIDE_ARMOR,Troll Hide Armour
+6413194050310144,TROLL_HIDE_ARMOR_DESCR,An Armor made from a Trolls hide. Despite its lightness it still provides excellent protection.
+6413293413371904,UNBREAKABLE_BRACELET,Unbreakable Bracelet
+6413422602129408,UNBREAKABLE_BRACELET_DESCR,The most durable bracelet you've ever encountered.
+6413610897018880,UNCOMMON_CHEST_KEY,Uncommon Chest Key
+6413713523249152,UNCOMMON_CHEST_KEY_DESCR,A key with which an uncommon chest can be opened without lockpicking.
+6413936685387776,GUARDIAN_ANGEL,Guardian Angel
+6414015345364992,GUARDIAN_ANGEL_DESCR,A Suit of Armor with the Ability to heal the wearer.
+6414163253301248,BOW_DISRUPTION,Bow of Disruption
+6414293218004992,BOW_DISRUPTION_DESCR,"A unique bow that causes its' target temporary nausea, making them unable to focus."
+6414498881507328,WILD_BOW,Wilds Bow
+6414544272265216,New Entry,A bow remade from the bow of a Laphoz to better fit human sized hands. It's from a material that is unknown to men.
+6414938402623488,JAGGED_DAGGERS,Jagged Daggers
+6415117100945408,JAGGED_DAGGERS_DESCR,Daggers with jagged edges. It was more meant to hurt than to kill people.
+6415295614717952,POISONOUS_FANGS,Poisonous Fangs
+6415550758424576,POISONOUS_FANGS_DESCR,A pair of daggers made from the fangs of a Spider Queen. The daggers still ooze traces of the Spider Queen's Poison.
+6415895513436160,ANCIENT_NOBLE_WEAPON,Ancient Noble Weapon
+6416099230781440,ANCIENT_NOBLE_WEAPON_DESCR,An ancient set of sword and shield. Despite it's age it still looked like it was forged yesterday. On the hilt a name was engraved.
+6416645018783744,AVATAR_STORM,Avatar of Storms
+6416769602195456,AVATAR_STORM_DESCR,"<i>""I am the Storm!""</i>"
+6416861499396096,FIRE_STAFF,Fire Staff
+6416917967310848,FIRE_STAFF_DESCR,A Staff made especially for those who are adept with Fire magic.
+6417204639600640,ICE_STAFF,Ice Staff
+6417315599912960,ICE_STAFF_DESCR,A staff that radiates a cold aura. Suitable for those who specialize in ice magic.
+6417578196897792,BLESSED_SWORD_SHIELD,Blessed Sword & Shield
+6417810146103296,BLESSED_SWORD_SHIELD_DESCR,A pair of finely crafted Sword & Shield blessed by the divines.
+6418128300838912,OATHKEEPER,Oathkeeper
+6418486129496064,OATHKEEPER_DESCR,"When a knighthood is bestowed upon a person, they swear loyalty to their liege in a ceremony. In many cases, it's only lip service."
+6418763322658816,UNKNOWN_ORE,Unknown ore
+6418899926945792,UNKNOWN_ORE_DESCR,An unknown ore found in a cave. It's more resilient than most ores you know of.
+6419131913900032,VAMPIRE_DUST,Vampire Dust
+6419235513208832,VAMPIRE_DUST_DESCR,"The remains of a slain vampire. Despite the morbid nature of it, some alchemist found some practical use for the dust."
+6419756592566272,VEIL_ICE_BRIDE,Veil of the Ice Bride
+6420080959066112,VEIL_ICE_BRIDE_DESCR,"A timeworn veil, lovingly preserved by the specter. Though the reason may have escaped the ghost, the veil's significance remained deeply ingrained."
+6420641120948224,SCOUNDREL_MASK,Scoundrel Mask
+6421903958773760,SCOUNDREL_MASK_DESCR,"An enchanted mask to hide one's identity. Even though it doesn't seem like it covers much, people are still unable to recognize the face behind it. "
+6422170200608768,VIAL_ACID,Vial of Acid
+6422783701454848,VIAL_ACID_DESCR,"A potent solution of corrosive liquid, perfect for dissolving objects or even people."
+6422908356169728,WAND_ARCHMAGE,Wand of the Archmage
+6423064841457664,WAND_ARCHMAGE_DESCR,"A powerful magical tool, imbued with powerfull spells. For those who want to feel like a death-wielding archmage  but do not want to put the effort in it."
+6423477703577600,WARDING_TALISMAN,Warding Talisman
+6423560255868928,WARDING_TALISMAN_DESCR,A Talisman to protect the wearer from evil spirits. Has no apparent magical properties but still gives comfort to those who believe in its' effects.
+6423667990761472,ARMOR_WARRIOR_MAGE,Armor of the Warrior Mage
+6423753453899776,ARMOR_WARRIOR_MAGE_DESCR,"Most armors aren't made with spell casting in mind, because most mages tend to wear light clothes in combat. This is not one of them."
+6424127560650752,WINGED_BOOTS,Winged Boots
+6424245693222912,WINGED_BOOTS_DESCR,Boots with actual wings that can fly.
+6424355651096576,WINGED_BROOCH,Winged Brooch
+6424442594824192,WINGED_BROOCH_DESCR,A beautiful brooch with wings.
+6424562912628736,WOLF_SPLEEN,Wolf Spleen
+6424651739598848,WOLF_SPLEEN_DESCR,The spleen of a monstrous wolf. Can be used as an alchemical ingredient for many potions.
+6865031305342976,COMMON_HIDE_DESCR,A hide skinned from a weak monster.
+7874201307557888,MAGIC_IN_SOUND_DESCR,The Magic from Bards come from their hearts and their souls. Instead of {INTELLIGENCE} their MAB is increased by their {WILLPOWER}.
+10776407094571008,HIDDEN_BLADE,Hidden Blade
+10776631586304000,HIDDEN_BLADE_DESCR,A single moment of negligence is all it takes for a person to fall victim to this hidden blade.
+34977669040738304,MAGE_RING_DESCR,A ring with an enchantment to increase the magic of the wearer.
+38007044145319936,INFERNAL_ARMOR,Infernal Armor
+38007218569646080,INFERNAL_ARMOR_DESCR,A heavy suit of enchanted armor that radiates an aura of blistering heat.
+38009243462176768,WARDEN_OF_THE_FOREST,Warden of the Forest
+38009431098560512,WARDEN_OF_THE_FOREST_DESCR,A heavy suit of enchanted armor with the power of nature infused in it.
+38011630939705344,HEAVY_STORM_ARMOR,Heavy Storm Armor
+38012137624211456,HEAVY_STORM_ARMOR_DESCR,A heavy suit of enchanted armor with the power of a storm behind it.
+38018468833824768,WINTERS_EMBRACE,Winter's Embrace
+38018544658452480,WINTERS_EMBRACE_DESCR,"A beautiful enchanted robe that envelopes the wearer in a comforting embrace of winter's frost,"
+38209972281970688,TROLL_HIDE_ROBE,Troll Hide Robe
+38210095867138048,TROLL_HIDE_ROBE_DESCR,A martial arts robe made from the hides of a troll. Light but still sturdy.
+38221544287014912,WILDWOOD_ROBE,Wildwood Robe
+38221844020367360,WILDWOOD_ROBE_DESCR,A carefully crafted and enchanted robe that helps the wearer to commune with mother earth herself.
+38244932732751872,CUIRASS_CHAMPION,Cuirass of the Champion
+38245140401131520,CUIRASS_CHAMPION_DESCR,A medium set of ornate armor. Wearing this makes you feel special.
+38250718125002752,PLAGUEBEARER_COAT,Plaguebearer Coat
+38250869526794240,PLAGUEBEARER_COAT_DESCR,A coat perfectly suited for those skilled in the art of poison-making.
+38277988487172096,ARACHNE_BOW,Arachne Bow
+38278180921839616,ARACHNE_BOW_DESCR,A poisonous bow made from the fangs of the Spiderqueen.
+38279867405340672,LIGHTNING_DAGGERS,Lightning Daggers
+38280444554153984,LIGHTNING_DAGGERS_DESCR,A pair of magical daggers that crackle with the raw energy of lightning.
+38283709224226816,GREATSWORD_CHAMPION,Greatsword of the Champion
+38283835896401920,GREATSWORD_CHAMPION_DESCR,A weapon fit for a champion!
+38290082804699136,MOON_SWORD,Moon Sword
+38290171870744576,MOON_SWORD_DESCR,A sword made from the ore that fell from the sky. It's the greatest weapon Barret has ever crafted.
+38337647008976896,FROSTBITE_FROSTGUARD,Frostbite & Frostguard
+38337768312442880,FROSTBITE_FROSTGUARD_DESCR,"A set of sword and shield that  embodies the unyielding power of the frozen north, granting its wielder the power to freeze their enemies."
+38635390092873728,HURRICANE_BOW,Hurricane Bow
+38649843026923520,HURRICANE_BOW_DESCR,A mighty bow that allows the user to wield the power of winds themselves to blow their enemies away.
+53965440497389568,ARCHMAGE_ROBE,Archmage Robe
+53966220935729152,ANCIENT_WOOD,Ancient Wood
+53966380537384960,ANCIENT_WOOD_DESCR,"Ancient wood, believed by many to harbor spirits within, imbuing it with mystical properties."
+53967018184839168,ARCHMAGE_ROBE_DESCR,A robe woven for those who have reached the pinacle of the arcane arts. There are so many enchantments on this simple garment that is unfathomable.
+53967308959158272,ANGEL_STAFF,Angel Staff
+53967442489020416,ANGEL_STAFF_DESCR,"A powerful holy staff, rumored to be made from the bones of an angel."
+53967697729196032,BEAR_TROPHY,Bear Trophy
+53967843208630272,BEAR_TROPHY_DESCR,A hunter's trophy crafted from the remains of an ice bear.
+53968089456218112,BONE_FANGS,Bone Fangs
+53968227457208320,BONE_FANGS_DESCR,"A pair of daggers made from the bones of a creature no one in the Guild could identify. But judging by the sharpness of the blades, it had to be a terrifying monster."
+53968930720354304,WYVERN_TROPHY,Wyvern Trophy
+53969103664091136,WYVERN_TROPHY_DESCR,A hunter's trophy crafted from the remains of a wyvern.
+53969222585192448,INFILTRATOR_SUIT,Infiltrator Suit
+53969426239623168,INFILTRATOR_SUIT_DESCR,A suit that makes the wearer nearly invisible to anyone observing them.
+53969636437168128,OBSIDIAN_GREATSWORD,Obsidian Greatsword
+53969767001657344,OBSIDIAN_GREATSWORD_DESCR,A legendary greatsword made out of obsidian.
+53969891501182976,HIGH_PALADIN_ARMOR,High Paladin Armor
+53970023697256448,HIGH_PALADIN_ARMOR_DESCR,A heavy set of holy armor. A bulwark against demons and other evils in this world.
+53970284478107648,ANCIENT_WOOD_BOW,Ancient Wood Bow
+53970536069238784,ANCIENT_WOOD_BOW_DESCR,A legendary bow made out of ancient wood.
+54100220123713536,LOVE_POTION,Love Potion
+54100343562080256,LOVE_POTION_DESCR,The worst thing in the wrong hands.
+54122891662233600,WINGS_OF_HOPE,Wings of Hope
+54123004526759936,WINGS_OF_HOPE_DESCR,A wing that supposedly once belonged to an angel. It fills you with...hope.
+54185163923296256,RISING_SUN,Rising Sun
+54185484049354752,RISING_SUN_DESCR,"""The night is darkest just before the dawn."""
+54185724512997376,OBSIDIAN_ORE,Obsidian Ore
+54185851843678208,OBSIDIAN_ORE_DESCR,"Obsidian Ore is the rarest Ore known to man. It's so durable, that many veins are left untouched, because unearthing the ore was not possible by ordinary means."
+54186290140057600,MOON_ORE,Moon Ore
+54186498391445504,MOON_ORE_DESCR,A piece of ore that seems to have fallen from the sky.
+54186826222440448,LEGENDARY_HIDE,Legendary Hides
+54186961572630528,LEGENDARY_HIDE_DESCR,Hides skinned from mythical beings.
+54187666584801280,STRANGE_POTION,Strange Potion
+54187903571365888,STRANGE_POTION_DESCR,This potion was given by a vampire with the promise that it would grant a character the strengths of a vampire. They did not mention any side effects.
+54190789852303360,OBSIDIAN_SUIT,Obsidian Suit
+54191203943354368,OBSIDIAN_SUIT_DESCR,A medium armor made out of Obsidian. It possesses a durability that rivals heavy armors made from different materials while still maintaining a lighter weight.
+54191625449934848,OBSIDIAN_ARMOR,Obsidian Armor
+54191733591674880,OBSIDIAN_ARMOR_DESCR,An armor made out of obsidian. There are only a few things in the world that make you feel safer.
+54192168444530688,HIGH_EXARCH_ROBE,Robe of the High Exarch
+54192411026296832,HIGH_EXARCH_ROBE_DESCR,A robe for the chosen of the gods. Their will is our command.
+54192919426273280,WOLF_TROPHY,Wolf Trophy
+54193040616493056,WOLF_TROPHY_DESCR,A hunter's trophy crafted from the remains of a wolf.
+54193226294136832,SPIDER_TROPHY,Spider Trophy
+54193371597410304,SPIDER_TROPHY_DESCR,A hunter's trophy crafted from the remains of a giant spider.
+54193979675021312,TROLL_GLOVES,Troll Gloves
+54194136449716224,TROLL_GLOVES_DESCR,Gloves made from the hides of a troll.
+54194439760809984,VORATHAX_SCALE,Vorathax's Scale
+54194631096569856,VORATHAX_SCALE_DESCR,A scale from the body of Vorathax The Terror. Even slightly holding it bears the risk of accidentally cutting oneself with it.
+54195372397858816,OBSIDIAN_DAGGERS,Obsidian Daggers
+54195532372807680,OBSIDIAN_DAGGERS_DESCR,A legendary pair of daggers made out of obsidian.
+54195764301041664,EDMUNDS_SKILL,Edmund's Skull
+54196412920795136,EDMUNDS_SKILL_DESCR,"The Skull of the late necromancer Edmun Galthagin. The only necromancer in recent time who has managed to become a lich. Unfortunately for him, that did not save him from death."
+54199288502063104,EXECUTIONER_MASK,Executioner Mask
+54199445272563712,EXECUTIONER_MASK_DESCR,The last face you'll ever see.
+54199650864762880,PHOENIX_ROBE,Phoenix Robe
+54200192433295360,PHOENIX_ROBE_DESCR,A fiery enchanted robe that empowers its wearer to blaze a path of destruction or renewal as they see fit.
+54200746333081600,PART_FOE,Part Of The Flower Of Eternity
+54200947814862848,PART_FOE_DESCR,A small part from the Flower Of Eternity. A gift for a kind-hearted girl.
+54201258738618368,FROZEN_BOMB,Frozen Bomb
+54201953705431040,FROZEN_BOMB_DESCR,A bomb that radiates an otherworldly cold.
+54202277581197312,POTION_OF_YOUTH,Potion of Youth
+54202830797312000,POTION_OF_YOUTH_DESCR,A miracle potion sought by many that grants eternal youth.
+54242559710367744,POTION_OF_RESURRECTION,Potion of Resurrection
+54243404795514880,POTION_OF_RESURRECTION_DESCR,"A miracle potion that can bring a person back from the dead.
+(Visit the memorial, to choose an adventurer to revive.)"
+54243955608293376,SUPREME_STAFF,Supreme Staff
+54244252204306432,SUPREME_STAFF_DESCR,A legendary powerful staff for those close to demigods.
+54246153431977984,BLOODTHIRSTER,Bloodthirster
+54246730148777984,BLOODTHIRSTER_DESCR,A strange blade that seems to feast on the blood of its victims
+54248969491877888,OBSIDIAN_SWORD_SHIELD,Obsidian Sword & Shield
+54249277194407936,OBSIDIAN_SWORD_SHIELD_DESCR,A set of sword and shield made out of obsidian.
+54250144287068160,SUPREME_MASTER_ROBE,Supreme Master Robe
+54250441243791360,SUPREME_MASTER_ROBE_DESCR,A robe for the Martial Artists who are without parallels. Masters who can split sea and mountains with their bare hands.
+54254746919145472,EMPTY_SKILL,MISSING
+55653609886355456,CRYOSTASIS,Cryostasis
+58306529828179968,WILDWOOD_RING,Wildwood Ring
+58308046387843072,WILDWOOD_RING_DESCR,Crafted from natural wood found deep in the wilderness. This ring bears a natural elegance shaped by nature itself.
+59582314186706944,SAINT_ROBE,Robe of the Saint
+59583306370289664,SAINT_ROBE_DESCR,A robe that once belonged to a person who has travelled the world to help the needy. It's a testament to a life dedicated to bettering the world.
+60330819465416704,BOW,Bow
+60639991360819200,SWORD_SHIELD,Sword & Shield
+60640540890140672,STAFF,Staff
+60640902028103680,FIST,Fist
+60641258615246848,ACCESSORY,Accessory
+60641563524370432,ARMORS,Armor
+60641728029167616,WEAPON,Weapon
+60641884711587840,MATERIAL,Material
+60642198810431488,UPGRADE,Upgrade
+60644130664910848,LIGHT_ARMOR,Light Armor
+60644280971988992,MEDIUM_ARMOR,Medium Armor
+60644540008009728,HEAVY_ARMOR,Heavy Armor
+62588631239266304,GREATSWORD,Greatsword
+62606307172978688,MANUAL_EQUIPMENT_BONUS_TEXT,Increase Experience gain by 50%.
+64479760171831296,GEM_USABLE_ON_TEXT,"Can enhance the following Equipment Types: <color=orange>{ENHANCETYPE}</color>
+
+And provides the following bonus:
+{BONUS}"
+64599414198407168,EQUIPMENT_AFFIX_SHARP,Sharp
+64599624593084416,JOTUN_GREATSWORD_AFFIX01,Beked's
+64599990202175488,JOTUN_GREATSWORD_AFFIX02,Ra's
+64600084762759168,JOTUN_GREATSWORD_AFFIX03,Hrergit's
+64600170615967744,JOTUN_GREATSWORD_AFFIX04,Megnydr's
+64600274055892992,JOTUN_GREATSWORD_AFFIX05,Fakmi's
+64600540968816640,KNIGHT_WEAPON_PREFIX01,Lord Adrien's
+64600696254533632,KNIGHT_WEAPON_PREFIX02,Lady Elyoid's
+64600848033812480,KNIGHT_WEAPON_PREFIX03,Lord Renald's
+64600917046890496,KNIGHT_WEAPON_PREFIX04,Lord Mormon's
+75592790738972672,DAGGERS,Daggers
+79217838011953152,CLOAK_LORD_OF_MURDER,Cloak of the Lord of Murder
+79218692160991232,CLOAK_LORD_OF_MURDER_DESCR,They say that this cloak used to be white.
+79225264459198464,RING_OF_IMMUNITY,Ring of Immunity
+79225345946136576,RING_OF_IMMUNITY_DESCR,A miraculous ring that protects the wearer from any ailment.
+79237258029543424,ARCANE_SHEATH,Arcane Sheath
+79238143291928576,ARCANE_SHEATH_DESCR,A magical sheath for a magical weapon.
+79278777633583104,BOOK_OF_OATHS,Book of Oaths
+79279258586034176,BOOK_OF_OATHS_DESCR,"A sacred guide crafted for those of pure heart and unwavering faith. This revered tome illuminates the righteous paths available to paladins, offering wisdom and guidance to help them bring light into the world."
+79572372018147328,ENCHANTED_ARROWS,Enchanted Arrows
+79572859962503168,ENCHANTED_ARROWS_DESCR,A quiver with enchanted arrows. Each arrow is enchanted with a devastating elemental effect.
+79863416647561216,GLOVES_OF_DEXTERITY,Gloves of the Master Thief
+79864861371379712,GLOVES_OF_DEXTERITY_DESCR,A pair of gloves that used to belong to a legendary thief who could get past any lock.
+79887076695453696,GOLDEN_HEART_OF_GHANENTA,Golden Heart of Ghanenta
+79887262956105728,GOLDEN_HEART_OF_GHANENTA_DESCR,A beautifully jewel crafted by a legendary pious artisan. A work that has been dedicated to the God of Love and Compassion.
+79905311868301312,INFINITE_MANA_CRYSTALL,Infinite Mana Crystal
+79905695739392000,INFINITE_MANA_CRYSTALL_DESCR,A crystal with a seemingly infinite supply of mana.
+79923390618775552,OLD_WIZARD_HUT,Old Wizard Hat
+79925448084271104,OLD_WIZARD_HUT_DESCR,A classical piece of garment for any mighty spellcaster.
+79926053100040192,TECHNIQUES_FLOWING_RIVER,Techniques of the Flowing River
+79927400763469824,TECHNIQUES_FLOWING_RIVER_DESCR,An old martial book that describes martial arts techniques that rely more on finesse than strength.
+79956962838818816,SPIKED_HELMET,Spiky Helmet
+79961147051323392,SPIKED_HELMET_DESCR,A very spiky helmet. Definitely not evil.
+86038589859934208,MISCELLANOUS,Miscellaneous
+118416669885239296,CONSUMABLE,Consumable

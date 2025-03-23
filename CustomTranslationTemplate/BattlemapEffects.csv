@@ -1,0 +1,136 @@
+ID,Key,String
+453409746944,ALL_OR_NOTHING,All or Nothing
+546032562176,ALL_OR_NOTHING_DESCR,Fleeing from Battle will fail the Quest
+11694496788480,RAIN_OF_ARROWS,Rain of Arrows
+11795365605376,RAIN_OF_ARROWS_DESCR,"At the start of each round a 3x3 area around a random ally will be chosen. At the end of each round a volley of arrow descends, dealing 16-24 Physical Damage to anyone in the chosen area."
+12115663630336,EXPLOSIVE_BARRELS,Explosive Barrels
+12607038926848,EXPLOSIVE_BARRELS_DESCR,Every Adventurer can summon 1 Explosive Barrel on to the battlefield. 
+12771627610112,NO_RETREAT,No Retreat
+13067141492736,NO_RETREAT_DESCR,Adventurers are unable to flee from battle.
+13277422923776,DEATH_WARD,Deathward
+13397749116928,DEATH_WARD_DESCR,+10 Death Resist for all adventurers
+15706260484096,ENDLESS_REINFORCEMENT,Endless Reinforcement
+16002223157248,ENDLESS_REINFORCEMENT_DESCR,Every few rounds enemy reinforcement will continue to arrive until either all current enemies are defeated or (if a boss is present) the boss is defeated.
+1099345118007296,NIGHT_TIME,Nighttime
+1099545060478976,NIGHT_TIME_DESCR,Decrease accuracy of all combatants by 20 unless they have true sight.
+1100095063756800,RAIN,Rain
+1100167478415360,RAIN_DESCR,At the start of each round the Wet status is applied on every combatant.
+1100435569938432,SNOW_STORM,Snow Storm
+1100507657441280,SNOW_STORM_DESCR,At the start of each round the Chilled status is applied on every combatant. The range of Ranged skills is reduced by 1.
+1100739145273344,SPIDER_INFESTATION,Spider Infested
+1100867193180160,SPIDER_INFESTATION_DESCR,A number of Spider Eggs will appear at random tiles at the beginning of the Battle at level 1.
+1101421659197440,THUNDERSTORM,Thunderstorm
+1101520577662976,THUNDERSTORM_DESCR,"At the start of each round a number of random tiles will be chosen. At the end of each round a bolt of lightning descends, dealing <color=lightblue>16-24</color> Lightning Damage to anyone in the chosen area and has 100% Base Chance to <color=lightblue>shock</color> the target."
+1608041422032896,SHADOW_REALM,Shadow Realm
+1608210653810688,SHADOW_REALM_DESCR,The Reaper can instantly move to any position and is always hidden.
+49251490832748544,BARRICADES_DESCR,All Adventurers gain a skill to summon a barricade with a protective aura once per battle.
+49252917315538944,BARRICADES,Barricades
+49253168051032064,BELEPHEGOR_CURSE,Belephegor's Curse Of Sloth
+49253342450192384,BELEPHEGOR_CURSE_DESCR,"At the start of each round, every adventurer gains a stack of <color=orange>{SLOTH}</color> reducing max. HP by 5% and damage dealt by 5%. Can only stack up to 19 times and cannot be removed."
+49255239743606784,ENEMY_BOMBARDMENT,Enemy Bombardment
+49255522825572352,ENEMY_BOMBARDMENT_DESCR,"At the start of each round a 3x3 area around a random ally will be chosen. At the end of each round a siege projectile descends, dealing 16-24 Physical Damage to anyone in the chosen area."
+49256084363186176,HOLY_SUPPORT,Holy Support
+49256550606213120,HOLY_SUPPORT_DESCR,Every round a small sphere of light will be summoned next to a random adventurer. Interacting with it will restore BP for all.
+49257225301954560,FIRESTORM,Firestorm
+49257292482121728,FIRESTORM_DESCR,"At the start of each round a 3x3 area around a random ally will be chosen. At the end of each round a ball of fire descends, dealing <color=red>32-48</color> Fire Damage to anyone in the chosen area."
+49257527535112192,TIME_LIMIT,Time Limit
+49257687912714240,TIME_LIMIT_DESCR,"If the battle lasts longer than {INTVALUE} rounds, you'll lose."
+49258110472065024,NON_LETHAL,Non-Lethal
+49258268538605568,NON_LETHAL_DESCR,Adventurers will not die when their HP reaches zero. They will still be gone from the Quest.
+49260413996404736,HIDDEN_SUPPLIES,Hidden Supplies
+49261290727575552,HIDDEN_SUPPLIES_DESCR,"All Adventurers gain a skill to restore HP, SP and BP once per battle."
+49974140332838912,QUESTMAPEFFECT0,All or Nothing
+49974140366393344,QUESTMAPEFFECT0_DESCR,Fleeing from Battle will fail the Quest
+49974140366393345,QUESTMAPEFFECT1,Barricades
+49974140366393346,QUESTMAPEFFECT1_DESCR,All Adventurers gain a skill to summon a barricade with a protective aura once per battle.
+49974140366393347,QUESTMAPEFFECT2,No Retreat
+49974140366393348,QUESTMAPEFFECT2_DESCR,Adventurers are unable to flee from battle.
+49974140366393349,QUESTMAPEFFECT3,Minor Curse
+49974140366393350,QUESTMAPEFFECT3_DESCR,The Party is affliced with a minor curse giving them -5 Accuracy and -5 Dodge for the rest of the Quest.
+49974140366393351,QUESTMAPEFFECT4,Dark Place
+49974140366393352,QUESTMAPEFFECT4_DESCR,"This place is very dimly lit making it harder to hit anything or dodge any critical blows.
+
+Decreases global Accuracy by 15. Increases global Crit by 30."
+49974140366393353,QUESTMAPEFFECT5,Death Ward
+49974140366393354,QUESTMAPEFFECT5_DESCR,+10 Death Resist for all adventurers during battle.
+49974140366393355,QUESTMAPEFFECT6,Endless Reinforcements
+49974140366393356,QUESTMAPEFFECT6_DESCR,All encounters will be reinforced every few rounds until all enemies have been defeated or (if a boss is present) the boss has been defeated.
+49974140366393357,QUESTMAPEFFECT7,Enemy Bombardment
+49974140366393358,QUESTMAPEFFECT7_DESCR,"During Battle: At the start of each round a 3x3 area around a random ally will be chosen. At the end of each round a projectile descends, dealing 24-36 Physical Damage and 24-36 Fire Damage to anyone in the chosen area."
+49974140366393359,QUESTMAPEFFECT8,Blessing of Knowledge
+49974140366393360,QUESTMAPEFFECT8_DESCR,Adventurers earn {POTENCY}% more experience.
+49974140366393361,QUESTMAPEFFECT9,Blessing of Prosperity
+49974140366393362,QUESTMAPEFFECT9_DESCR,Increase the value limit of randomly generated loot by {POTENCY}%.
+49974140366393363,QUESTMAPEFFECT10,Rich in resources
+49974140366393364,QUESTMAPEFFECT10_DESCR,This place is full of resources to collect.
+49974140366393365,QUESTMAPEFFECT11,Full Of Riches
+49974140366393366,QUESTMAPEFFECT11_DESCR,This place is full of riches for daring Adventurers.
+49974140366393367,QUESTMAPEFFECT12,Full Of Traps
+49974140366393368,QUESTMAPEFFECT12_DESCR,This place is swarming with traps. Be careful while moving.
+49974140366393369,QUESTMAPEFFECT13,Guidance of the Divine
+49974140366393370,QUESTMAPEFFECT13_DESCR,Add a +{POTENCY} Modifier to all Attribute Checks
+49974140366393371,QUESTMAPEFFECT14,Full of life
+49974140366393372,QUESTMAPEFFECT14_DESCR,This place is full of huntable animals to survive on. 
+49974140366393373,QUESTMAPEFFECT15,More Elites
+49974140366393374,QUESTMAPEFFECT15_DESCR,There are more elite encounters in this place.
+49974140366393375,QUESTMAPEFFECT16,Nighttime
+49974140366393376,QUESTMAPEFFECT16_DESCR,Decreases accuracy of all characters by 20. Enemies on the Quest map will not spot you beyond 2 tiles.
+49974140366393377,QUESTMAPEFFECT17,No Camping
+49974140366393378,QUESTMAPEFFECT17_DESCR,Camping and stamina is disabled for the Quest. 
+49974140366393379,QUESTMAPEFFECT18,Non-Lethal
+49974140366393380,QUESTMAPEFFECT18_DESCR,Adventurers cannot die on this Quest. They will still be out of the Quest when their HP reaches zero.
+49974140366393381,QUESTMAPEFFECT19,Rain
+49974140366393382,QUESTMAPEFFECT19_DESCR,"It will be raining at this place, applying the wet status effect on every character at the start of each round of battle."
+49974140366393383,QUESTMAPEFFECT20,Snow Storm
+49974140366393384,QUESTMAPEFFECT20_DESCR,"It will be snowing at this place, applying the chilled status effect on every character at the start of each round of battle."
+49974140366393385,QUESTMAPEFFECT21,Nightmarish sounds
+49974140366393386,QUESTMAPEFFECT21_DESCR,This place is not for the faint of heart. Adventurers will ocassionally lose BP during their travel.
+49974140366393387,QUESTMAPEFFECT22,Hidden Supplies
+49974140366393388,QUESTMAPEFFECT22_DESCR,"All Adventurers gain a skill to restore HP, SP and BP once per battle."
+49974140366393389,QUESTMAPEFFECT23,Swarming with Enemies
+49974140366393390,QUESTMAPEFFECT23_DESCR,This place is swarming with hostile encounters
+49974140366393391,QUESTMAPEFFECT24,Blessings of Vigor
+49974140366393392,QUESTMAPEFFECT24_DESCR,Increase Total Stamina for the next Quest by {POTENCY}%.
+49974140366393393,QUESTMAPEFFECT25,Watchful Eyes
+49974140366393394,QUESTMAPEFFECT25_DESCR,Increase Ambush Chance by {POTENCY}%.
+49974140366393395,QUESTMAPEFFECT26,Weak Enemies
+49974140366393396,QUESTMAPEFFECT26_DESCR,The level of enemies is lower than usual at this place.
+50134542702252032,GUILDEFFECT0,Rare booze
+50134542731612160,GUILDEFFECT0_DESCR,The adventurers are enjoying some rare and delicious booze.
+50134542731612161,GUILDEFFECT1,Bad Omen
+50134542731612162,GUILDEFFECT1_DESCR,Decrease mood of all adventurers.
+50134542731612163,GUILDEFFECT2,Medical Supplies
+50134542731612164,GUILDEFFECT2_DESCR,Adventurers recover twice as fast
+50134542731612165,GUILDEFFECT3,Unsafe Roads
+50134542731612166,GUILDEFFECT3_DESCR,Reduces the amount of new recruitable Adventurers in the tavern.
+50134542731612167,GUILDEFFECT4,Wandering Performers
+50134542731612168,GUILDEFFECT4_DESCR,Increases mood of all Adventurers.
+54937265802293248,CAVE_SENSE_STONE_TOOLTIP,Increase Accuracy and Dodge by 20 of anyone in a 1-Tile Radius.
+54937585576030208,CAVE_STRENGTH_STONE,Increase Physical Attack Bonus and Magical Attack Bonus by 20% of anyone in a 1-Tile Radius.
+54937900941553664,CAVE_MANA_STONE_TOOLTIP,"Interact:
+Restore 50% SP."
+54938279552987136,FOREST_HILL_TOOLTIP,Increase Range of Ranged Skills by 1 and Accuracy by 10 for anyone standing on this tile.
+54938557018779648,FOREST_BERRIES_TOOLTIP,"Interact:
+Restores 30% Hitpoints."
+54939429291405312,LAVALAND_VOLCANO_TOOLTIP,"Increase Fire Potency by 30 of anyone in a 1-Tile Radius.
+Decrease Fire Resistance by 30 of anyone in a 1-Tile Radius."
+54939972906758144,TUNDRA_ICE_TILE_TOOLTIP,"On Entering Tile:
+50% chance to interrupt movement and push character into a random nearby tile."
+54940515423203328,TUNDRA_SHRINE_TOOLTIP,"Interact:
+Get a random buff for the remaining duration of the Battle."
+54975914451382272,GREAT_FOREST_GRASS_TOOLTIP,Adds the Hidden Status to anyone in this Tile. Removes it when an enemy is adjacent to this tile.
+54976753190547456,HUNT_CAPTIVE_EFFECT_TOOLTIP,"If timer runs out, something horrible happens
+Interact:
+Gain 50 BP."
+54980101826392064,OLD_RUINS_TRAP_TILE,"On Entering Tile:
+Damages Character and may cause bleeding. Interrupts movement and movement skills(unless teleported). Does not affect flying units.
+Only triggered once."
+54983193271709696,ASTRIDQUEST_CAPTIVE_EFFECT_TOOLTIP,"If timer runs out, their soul will be lost. Save them!
+Interact:
+Gain 50 BP."
+61888433803735040,EPIC_ENEMY_BATTLEMAP_EFFECT,A Fight to Remember
+61888589567602688,BP_COST_MULTIPLIER_EFFECT_DESCR,Increases the BP cost of adventurers' Brave actions by {INTVALUE}%.
+61894058445090816,A_FIGHT_FOR_THE_AGES,A Fight for the Ages
+61947147063635968,DIVINELIGHT_INTERACTABLE_TOOLTIP,"Interact:
+Restores 10 BP to you and all allies."
+62192878743695360,OLD_GRIMOIRE_GUILD_EFFECT,Every Adventurer has +20 Intelligence Growth but gains a negative mood debuff.

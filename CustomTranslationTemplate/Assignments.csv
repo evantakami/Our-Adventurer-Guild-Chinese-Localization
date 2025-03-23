@@ -1,0 +1,301 @@
+ID,Key,String
+118150639616,ASSIGNMENT_TITLE01,Gather Resources near Fortress
+896894480384,ASSIGNMENT_FAILURE_01,Unfortunately the group couldn't find any resources.
+1547582025728,ASSIGNMENT_DESCRIPTION02,Send a group of adventurers on a Teamwork-Building Exercise to improve their relationship to each other.
+1891485593600,ASSIGNMENT_FAILURE_02,The exercise ended in a failure. The adventurers didn't manage to get closer to each other at all.
+2298505048064,ASSIGNMENT_TITLE03,Go on Adventures
+2503384215552,ASSIGNMENT_DESCRIPTION03,The easiest way for adventurers to gain Experience is to let them go and experience the world for themselves. Send the adventurers away and let them have their own adventures.
+2668769816576,ASSIGNMENT_TITLE04,Find the mysterious Girl
+2811984326656,ASSIGNMENT_DESCRIPTION04,A strange girl has been sighted on the roads to the Adventurer Guild and disturbing nearby travelers No travelers have been harmed so far but leaving the issue uninvestigated could raise problems later down the road. Send adventurers to investigate and find out what's really happening.
+3269087965184,ASSIGNMENT_TITLE05,Merchant seeks Bodyguard
+3516929388544,ASSIGNMENT_DESCRIPTION05,"A local merchant is looking for trustworthy guards for his next caravan and has made a formal request to the Adventurers Guild. The adventurers, who will be sent on this assignment, will be unavailable for a long time but the merchant offers a generous reward."
+4982117216256,ASSIGNMENT_FAILURE_05,The adventurers who were sent to protect a caravan have failed their task. The caravan was attacked by forces the group couldn't handle and had to retreat. The merchant and his caravan were lost.
+5400561954816,ASSIGNMENT_TITLE06,Paladin Training Regime
+5568812265472,ASSIGNMENT_DESCRIPTION06,"Zoldak told you that he knows of an old forbidden training regime that can easily raise the strength and willpower of those who undergo it. He offered to use that knowledge to train one of our adventurers. When you asked him why it was forbidden, he nervously dodged the question and only remarked that the one who will be sent should have some willpower."
+6357400137728,ASSIGNMENT_FAILURE_06,"{CHARACTER1} has apparently ditched the training of Zoldak and called it insane. Zoldak apologizes that he wasn't able to train the adventurer, you sent to him and promised that next time he will make sure to chain the candidate first. You decided it was better not to ask for any details."
+6860888584192,ASSIGNMENT_TITLE07,Find the old Paladin
+6986654789632,ASSIGNMENT_DESCRIPTION07,"Eden has asked you to find an old acquaintance of his. An old Paladin who is wandering through the lands, helping people in need. Due to his advanced age Eden can't help but worry about the old man and wants him in to stop seeking danger, hoping that the adventurers might be able to persuade the Paladin to join the Adventurer Guild as an instructor."
+7209930174464,ASSIGNMENT_TITLE08,Patrol the roads
+10328177094656,ASSIGNMENT_DESCRIPTION08,"The roads to the Adventurer Guild has become unsafe and not many aspiring adventurers are able to reach the Guild safely. By sending adventurers to patrol the roads for a while, we might be able to discourage the bandits from plaguing our roads."
+10758248443904,ASSIGNMENT_FAILURE_08,"The adventurers returned from patrolling the roads for a few days. Unfortunately, they were unable to do much and the bandits just continued with their business."
+11126772576256,ASSIGNMENT_TITLE09,Gather Rare Resources
+11310646669312,ASSIGNMENT_DESCRIPTION09,"The guild is in need of rare resources and we need  a team of skilled adventurers to gather them. The adventurers will have to travel to a remote and dangerous region, far from civilization, in search of the rare resources."
+11469396881408,ASSIGNMENT_FAILURE_09,The adventurers were too ill-equipped to handle the task that were given to them and returned empty-handed without any resources we would have needed.
+11788059127808,ASSIGNMENT_TITLE10,The Bride in White
+12082163724288,ASSIGNMENT_DESCRIPTION10,"Close to the northern borders of Icevale, a city situated at the frontier between human settlements and Juton lands, a concerning series of incidents has emerged. Numerous Juton travelers who arrived in the area for trading purposes have been discovered dead. The mayor of Icevale has deep concern over the potential repercussions of these fatalities on their current friendly relations established with the neighboring Juton tribes. In response to this pressing matter, the Adventurer Guild has been formally tasked with conducting an investigation into the cause of these deaths and putting an end to any underlying threats."
+12419457069056,ASSIGNMENT_TITLE11,Trial of the Gods
+12608163000320,ASSIGNMENT_DESCRIPTION11,"The gods have offered to grant sainthood to one of the Adventurer Guild's adventurers. However, they will test the candidate first to see if they're worthy. The chosen candidate will have to spend a day praying to the gods to show their devotion and dedication to them."
+12911868358656,ASSIGNMENT_FAILURE_11,"Unfortunately, the gods have deemed that {CHARACTER1} is not worthy of their gifts. {GENDER1:cond:=1?He|=0?She} can try again to show {GENDER1:cond:=1?his|=0?her} devotion but for now the gods find {GENDER1:cond:=1?him|=0?her} lacking."
+28018270777344,ASSIGNMENT_TITLE12,Minor Quests
+28280498663424,ASSIGNMENT_DESCRIPTION12,Lately we have been getting numerous Quests offers from all over the country. People are clearly starting to trust the Adventurer Guild again. Many of them are minor enough that we can leave their operation completely up to the adventurers.
+28683659358208,ASSIGNMENT_FAILURE_12,The adventurers returned from their Quests and it seems like they did very poorly.
+29131904626688,ASSIGNMENT_TITLE13,Late Shipment
+29288343777280,ASSIGNMENT_DESCRIPTION13,Tavi has ordered a shipment of rare alcohol for the adventurers but for some reason the shipment is running late. She asked if we could send some adventurers to locate the missing goods. She hints that the adventurers would be very thankful if we manage to bring the alcohol back home.
+29515410812928,ASSIGNMENT_FAILURE_13,"Despite a thorough search of the entire route that the carriers were expected to take to deliver the goods to the Adventurer Guild, the adventurers were unable to find any signs of the missing shipment. No traces of the carriers or their cargo could be found, leaving the fate of the shipment a mystery. It is unclear what may have happened to the carriers or the alcohol the Guild was expecting, and it seems unlikely that we will ever know the full story. "
+29800174694400,ASSIGNMENT_TITLE14,Literacy Course
+30906602729472,ASSIGNMENT_DESCRIPTION14,"Majika has expressed disappointment over the surprisingly high illiteracy rate among adventurers in the Adventurers Guild. In an effort to address this issue, she has offered to hold a one-time literacy course for interested adventurers. However, she emphasized the importance of carefully selecting participants, as she will not offer this again."
+31135943077888,ASSIGNMENT_TITLE15,Knight Training
+31379632140288,ASSIGNMENT_DESCRIPTION15,Luana has offered to provide the adventurers a condensed version of the training she had undergone during her time as a knight. Her experience and knowledge could prove invaluable to those adventurers who strife to survive their next quest.
+31831161548800,ASSIGNMENT_TITLE16,First Disciple
+32413460967424,ASSIGNMENT_DESCRIPTION16,"Now that Bai has become an instructor in the Adventurer Guild, she declared her desire to take on a first disciple under her wing. She asked you to send a fitting vict...I mean suitable student to her, that can receive all the love she has to offer as a master. "
+32944266915840,ASSIGNMENT_FAILURE_16,"A badly bruised {CHARACTER1} returned from Bai. Apparently, {GENDER1:cond:=1?he|=0?she} was not the kind of student Bai was looking for."
+34122618875904,ASSIGNMENT_TITLE17,Crafting a Narrative
+34445186019328,ASSIGNMENT_DESCRIPTION17,"To prove to you the value of a bard, Vincent has suggested to spread the name of one of your adventurers. Together they will craft a song about the deeds and adventures of that adventurer and share it with every traveller that comes across the Guild. Of course Vincent would need an adventurer that has at least done something."
+34828478296064,ASSIGNMENT_FAILURE_14,After days of deliberations Vincent finally gave up. Vincent could not find a way to make {CHARACTER1}'s life sound exciting enough for a song. {CHARACTER1}'s feelings were a little bit hurt by that revelation.
+35450405498880,ASSIGNMENT_TITLE18,Monster Most Wanted: Troll
+35537147899904,ASSIGNMENT_DESCRIPTION18,The adventurers will collect rumors to any Troll sightings in the nearby areas.
+100132709445632,ASSIGNMENT_TITLE19,Monster Most Wanted: Undead Champion
+100369154945024,ASSIGNMENT_DESCRIPTION19,The adventurers will collect rumors to any Undead Champion sightings in the nearby areas.
+100570355707904,ASSIGNMENT_TITLE20,Monster Most Wanted: Spider Queen
+100753189613568,ASSIGNMENT_DESCRIPTION20,The adventurers will collect rumors to any Spider Queen sightings in the nearby areas.
+101013366484992,ASSIGNMENT_TITLE21,Monster Most Wanted: Ancient Tree Spirit
+101156887179264,ASSIGNMENT_DESCRIPTION21,The adventurers will collect rumors to any Ancient Tree Spirit sightings in the nearby areas.
+101336864763904,ASSIGNMENT_TITLE22,Monster Most Wanted: Storm Talon
+101481983488000,ASSIGNMENT_DESCRIPTION22,The adventurers will collect rumors to any Storm Talon sightings in the nearby areas.
+101748581838848,ASSIGNMENT_TITLE23,Deep-Rooted Resentment
+102463693893632,ASSIGNMENT_DESCRIPTION23,"The {LEPHOZ} are a unique race of tribal people, bearing a resemblance to rabbits and inhabiting the continent long before the arrival of humans. Unfortunately, much of their ancestral lands have been claimed by human settlements, leading to a deep-seated resentment harbored by many {LEPHOZ} tribes against the human newcomers. It's highly plausible that the disciples of the witch might find many allies amongst the {LEPHOZ}. To uncover the truth, we must task our adventurers with investigating whether these tribes have indeed been swayed by the cult's influence."
+104324568166400,ASSIGNMENT_TITLE24,Greed is Evil
+104454205714432,ASSIGNMENT_DESCRIPTION24,"The Goblins are a mystery to many scholars who tried their best to understand them. While they seem to be a sentient race like others that inhabit the continent, their mindset seemed to entirely be dominated by greedy, sadistic and violent behaviours. They are a race that gives the notion of 'inherent evil' some amount of credibility. These traits would make it easy for the cult to control the goblins for their own purposes. Let our adventurers investigate and see if they are indeed controlled by the cult.
+"
+105266835337216,ASSIGNMENT_TITLE25,Hunters of Humanity
+105401682210816,ASSIGNMENT_DESCRIPTION25,"Vampires, born from humanity but transformed into creatures of the night, have always instilled fear in humans. Ironically, despite their shared origins, many vampires have shown no hesitation in hunting humans as a source of sustenance. The vampires' experience in tracking and hunting humans presents a potentially powerful tool for the cult's objectives. We must task our adventurers with a thorough investigation to determine whether the cultists have employed humanity's natural predators against them."
+185899666354176,ASSIGNMENT_TITLE26,Flower of Eternity III
+185993820090368,ASSIGNMENT_DESCRIPTION26,"There are only a few places left where Emily hasn't searched yet. However, because of the dangerous nature of those places, Emily needs to be escorted by a great number of adventurers."
+186337694298112,ASSIGNMENT_TITLE27,Transfer Dragon Orb Power
+187043608244224,ASSIGNMENT_DESCRIPTION27,"It's time to let one of the adventurers receive the power of the Dragon Orb. However, everything we learned about it so far suggests that it will not surrender itself to someone it considers weak. It will constantly attack the one holding. To be worthy of the Dragon's gift, the adventurer has to overpower the orb."
+187551626539008,ASSIGNMENT_FAILURE_27,"{CHARACTER1} tried to subjugate the Orb with {GENDER1:cond:=1?his|=0?her} will but {GENDER1:cond:=1?he|=0?she} failed. The immense pain the Orb caused {CHARACTER1} after holding it, has put {GENDER1:cond:=1?him|=0?her} on the brink of death and the last word {GENDER1:cond:=1?he|=0?she} could hear after falling unconscious was 'Weak'."
+189976529842176,ASSIGNMENT_TITLE28,Dark Studies
+190766472474624,ASSIGNMENT_DESCRIPTION28,"We have retrieved a notebook from the witch's lair which details the use of dark magic. Letting someone study it would allow them to use the dark magic the cultists have deployed in the past. However, to be able to understand the notes and make use of it, would require somebody with a great mind."
+192266326224896,ASSIGNMENT_FAILURE_28,The witch's notebook has proven to be too complex for {CHARACTER1}'s fragile mind.
+192640919515136,ASSIGNMENT_TITLE29,Monster Most Wanted: Ice Bride
+192823187189760,ASSIGNMENT_DESCRIPTION29,The adventurers will collect rumors to any Ice Bride sightings in the nearby areas.
+194480172150784,ASSIGNMENT_TITLE30,An Unnatural Storm
+194571712835584,ASSIGNMENT_DESCRIPTION30,"
+A city has been enduring an unrelenting thunderstorm that has persisted for weeks now, defying the natural weather patterns. It has become increasingly evident that the cause of this prolonged storm must be of an unnatural origin. Concerned for the safety and well-being of the city's inhabitants, the mayor has urgently reached out to the Adventurer Guild, seeking their assistance to unravel the cause for this phenomen."
+821802243960832,ASSIGNMENT_TITLE31,Astrid goes hunting
+822002706526208,ASSIGNMENT_DESCRIPTION31,"Astrid has declared that she will go hunting the next few days and offered to take an adventurer along, saying that they might learn one or two thing from the experience. However she said that anyone you send to her should be capable enough to keep up with her. After she retired from adventuring hunting is one of the few things she can enjoy now and she won't let anyone jeopardize that."
+822871640485888,ASSIGNMENT_FAILURE_31,A clearly upset Astrid and a downtrodden {CHARACTER1} came back from their hunt. Judging by their looks they weren't able to get any game and clearly it was {CHARACTER1}'s fault.
+823908602458112,ASSIGNMENT_TITLE32,Collecting medical plants
+824713275486208,ASSIGNMENT_DESCRIPTION32,"Emily has remarked that right now is the perfect season to collect rare and valuable plants from the nearby forest to restock our medical supplies. The forest is known to be dangerous, and we require adventurers with high endurance and knowledge in botany to safely collect the necessary plants. The successful completion of this task will help us to ensure that the Guild has access to the medical supplies needed to treat injuries and illnesses for our adventurers. "
+825226591186944,ASSIGNMENT_FAILURE_32,"Despite their best efforts, the team of adventurers sent by the Adventurer Guild were unable to collect the necessary medical plants from the forest. The forest proved to be more treacherous than expected, with hostile creatures hindering their progress and causing delays.
+
+The team's lack of knowledge in botany became apparent as they struggled to identify and collect the required plants, resulting in many of them being damaged or rendered unusable."
+826773949624320,ASSIGNMENT_TITLE33,Disciple of the Azure Blade
+827627410796544,ASSIGNMENT_FAILURE_33,"Unfortunately, Shen saw no potential in {CHARACTER1} and refuses to take {GENDER1:cond:=1?him|=0?her} as his disciple."
+828486999846912,ASSIGNMENT_TITLE34,A time of meditation
+828638602964992,ASSIGNMENT_DESCRIPTION34,"Eden has told you that the following days are a time of abstinence and meditation for the followers of Ghanenta and suggested for one of the adventurers to join them. He says that it would be a valuable experience to strengthen one's mind and spirit.
+However it would only be so for those that have the willpower to let go of their worldly desire for a few days."
+828816412094464,ASSIGNMENT_DESCRIPTION33,"Shen is ready to teach one of the adventurers the secrets of the Azure Blade Style. However, he is quite picky in regards to his disciple. We need somebody who can somehow keep up with him."
+829554643152896,ASSIGNMENT_FAILURE_34,Unfortunately it seems like {CHARACTER1} wasn't able to let go of {GENDER1:cond:=1?his|=0?her} worldly desires and has stopped following the religious observance midway through.
+830639919312896,ASSIGNMENT_TITLE35,Falken gives private lessons
+830834937671680,ASSIGNMENT_DESCRIPTION35,Currently Falken has enough free time to give some private lessons. You're free to choose who is going to receive the private lessons but Falken warns you that his lessons won't be be easy to follow if you don't have the endurance for it.
+831634074218496,ASSIGNMENT_FAILURE_35,Unfortunately {CHARACTER1} wasn't able to keep up with Falken and has learned nothing.
+833193243815936,ASSIGNMENT_TITLE36,Flower of Eternity II
+833266262454272,ASSIGNMENT_DESCRIPTION36,"After studying the notes of her ancestor again, Emily has decided to start another attempt of finding the flower. "
+833535427719168,ASSIGNMENT_TITLE37,Help Farmers
+833645360427008,ASSIGNMENT_DESCRIPTION37,"A few farmers have asked the Guild for help with their fields, saying that they don't have enough hands. They can't offer much in return but working on the fields could help the adventurers to build up some core strength"
+850417375490048,ASSIGNMENT_TITLE38,Safe Hunting
+850775631966208,ASSIGNMENT_DESCRIPTION38,Astrid is organizing a hunting trip to collect some pelts for the Guild and asked you to choose some adventurers to take part in the hunt. The hunt will be done in a nearby forest so it should be relatively safe.
+852161631334400,ASSIGNMENT_TITLE39,Majika needs an assistant
+852345945829376,ASSIGNMENT_FAILURE_38,The hunting trip was a bust and the adventurers returned empty-handed.
+852617539596288,ASSIGNMENT_DESCRIPTION39,"Majika has asked for somebody to help her for a few days with her research on the ancient empire. Preferably someone intelligent enough to be able to understand what she's working on. It might even prove advantageous for the person helping her, because there is much to learn from what she's doing."
+853761376628736,ASSIGNMENT_FAILURE_39,Unfortunately {CHARACTER1} has been more of a hindrance than a help for Majika. She wasn't angry. Just deeply disappointed.
+854035818328064,ASSIGNMENT_DESCRIPTION40,"Gilbert, the rescued noble of house Greyhorn, has sent the Adventurer Guild a plea for help. Many of his soldiers are still missing and he still hopes that some of them might have been able to evade capture from the Bandit King's men.  He is offering a generous reward if we're able to find more of his men and bring them back to safety. If there really are still soldiers holding out there then time is of the essence, and the guild is urged to act quickly to locate the missing soldiers before it's too late."
+854715555622912,ASSIGNMENT_TITLE40,The Missing Soldiers
+854901291986944,ASSIGNMENT_FAILURE_40,"Despite their best efforts and several days of searching, the adventurers were unable to find any of the missing soldiers. With heavy hearts, the adventurers reluctantly concluded that any hope of finding the missing soldiers alive was slim. Although disappointed with their failure, the group recognized the futility of continuing their search and ultimately decided to cut their losses and return home."
+857800403300352,ASSIGNMENT_TITLE41,Mock Archer Battle
+858150325694464,ASSIGNMENT_DESCRIPTION41,"Astrid has proposed a new training exercise for the Adventurer Guild, only she could think of. She plans to hold a mock archer battle in the forest, pitting teams of adventurers against each other in a simulated combat scenario.
+
+The mock battle will involve teams of archers using their skills to eliminate their opponents while avoiding being hit themselves. Something they should also aim for in real combat. She urges us to let as many adventurers as possible to participate in this training exercise"
+861167380836352,ASSIGNMENT_FAILURE41,"The mock archer battle training exercise planned by Astrid did not go as well as she had hoped. A furious Astrid explained to us that the Adventurers didn't take the excercise seriously at all and treated it more as a game. The Adventurers hardly tried to hit anyone at all with their training arrows and those who were hit were only so because their halfhearted attempt to dodge failed them.
+
+At the end the only real dodging came when an irritated Astrid started to participate in the mock battle with real arrows and chased after the adventurers. They were lucky that Astrid only has one good eye left."
+864845982576640,ASSIGNMENT_TITL42,Rogue's business
+867718938210304,ASSIGNMENT_DESCRIPTION42,"Rogue has told you that she will be out for a few days to do some ""business"". She didn't get into any details but she told you that she will need one of your adventurers to accompany her. She said that there might be some things to be learned for the adventurer to accompany her, still not telling what exactly they were going to do. The only thing she added that it might be advantageous to have someone dexterious by her side."
+870663884877824,ASSIGNMENT_FAILURE42,"Rogue and {CHARACTER1} have returned from their errand. From the looks of it they both narrowly escaped with their lives from whatever they were doing. {CHARACTER1} seemed a little traumatized and didn't want to talk about what has happened. You ask Rogue if her ""Business"" was over now and she only responded with a simple ""No.""."
+871568642387968,ASSIGNMENT_TITL43,Flower of Eternity
+871706857287680,ASSIGNMENT_DESCRIPTION43,Emily has told you about the Flower of Eternity. A mystical flower believed to never wither and with unparalleled alchemical properties. For most people the Flower of Eternity is nothing more than a Folk's tale but Emily believes that the Flower of Eternity exists and that it can be found somewhere in the proximity of the Adventurer Guild. She wants to start another search for the Flower of Eternity and needs some adventurers to escort her.
+872560884690944,ASSIGNMENT_TITL44,Time Off
+872713691574272,ASSIGNMENT_DESCRIPTION44,Sometimes the easiest way to improve the mood of Adventurers is to just let them have some time off to recover their mental health.
+872938262999040,ASSIGNMENT_TITL45,Arachnophobia
+872987122446336,ASSIGNMENT_DESCRIPTION45,A city has asked us to clear a nearby cave from all the giant spiders inhabiting it. It seems like the number of giant spiders in the cave has increased substantially and many of them started to attack nearby travelers and even wander into the city. 
+873234158563328,ASSIGNMENT_FAILURE45,The spiders were too numerous and the adventurers had to return before they could clear the cave. We have to send them again if we want to complete the client's request.
+873581316911104,ASSIGNMENT_TITL46,Goblin Abduction
+873694890274816,ASSIGNMENT_DESCRIPTION46,"A group of injured and exhausted people arrived at the Guild with a terrifying story. A tribe of goblins have started to abduct humans and bring them to their cave as food  for their troll master. 
+These men managed to escape but many more are still being held prisoners by the goblins. They begged the Adventurer Guild to do something about the goblins and the troll.
+Unfortunately, they didn't pay attention to where they were when they started to flee and can only give a vague direction where the cave might be.
+If we want to help, then we need to send some adventurers to find the cave first."
+874026198347776,ASSIGNMENT_FAILURE46,"The adventurers weren't able to find the cave with the goblins and their prisoners and had to return before they ran out of supplies.
+
+We have to try again if we want to deal with the goblins and the troll."
+874278791917568,ASSIGNMENT_TITL47,Scholarly Pursuits
+874366876495872,ASSIGNMENT_DESCRIPTION47,"A group of scholars introduced by Majika told us that they were planning to study a recenly uncovered empyrean ruin. These ruins are usually haunted by the a great number of undead soldiers who used to serve the ancient empire and it seems not even death has absolved them of their service.
+
+To keep themselves safe they asked the Adventurer Guild to lend them some adventurers to protect them, while they study the ruins.
+
+"
+883092601679872,ASSIGNMENT_OUTCOME_GATHERRESSOURCES,The group has returned and managed to gather a sizable amount of resources
+1174722097426432,ASSIGNMENT_OUTCOME02,The Teamwork Exercise was a complete success. The adventurers returned with newfound appreciation for each other.
+1175100285235200,ASSIGNMENT_OUTCOME03,The adventurers have finally come back from their travels. During their travels the group had many adventurers and gained a lot of valuable experiences that will be surely of help to them for any future quests.
+1176002572300288,ASSIGNMENT_OUTCOME04,The adventurers found the person disturbing the roads and it turned out to be just a normal girl. Unsure what to do with her the adventurers have brought her with them back to the Guild. Maybe talking to the girl will shed some light into what she was doing.
+1181524893609984,ASSIGNMENT_OUTCOMESIMPLE04,You will know the source behind the disturbances.
+1182046283345920,ASSIGNMENT_OUTCOME05,Thanks to the adventurers the caravan safely arrived at their location. The merchant was completely satisfied and sent us to the payment for the job.
+1182371232854016,ASSIGNMENT_OUTCOME06,"{CHARACTER1} has completed {GENDER1:cond:=1?his|=0?her} training with Zoldak and looks more dead than alive. Zoldak reports that the training was a resounding  success and {CHARACTER1} was now stronger than ever to stand against evil. Looking at {CHARACTER1}'s current state you remarked internally that before that, evil would have to wait first for {CHARACTER1} being able to stand again."
+1184544624717824,ASSIGNMENT_OUTCOME07,"The Party have found the old Paladin in a remote village and tried to persuade the old man to join the Adventurers Guild. Unfortunately the old man wasn't willing to come with the adventurers until a nearby necromancer has been dealt with. 
+
+Due to the constant attacks of the undead he hasn't been able to leave the village alone and fight the necromancer. He told the adventurers if they were to slay the necromancer while he protects the village, he will consider the offer."
+1185717368893440,ASSIGNMENT_OUTCOMESIMPLE07,The old Paladin might join the Guild.
+1186318437822464,ASSIGNMENT_OUTCOME08,The Party has returned from their patrol and according to the reports it seems like the bandits don't dare to be anywhere close to the Guild anymore.
+1188366428385280,ASSIGNMENT_OUTCOMESIMPLE08,The roads will become safe once more.
+1191719220785152,ASSIGNMENT_OUTCOME10,"The adventurers explored the area where the jotuns were said to have perished and sadly discovered even more corpses. Upon examining them, they learned that the jotuns perished from hypothermia, an odd fate given their resilience to the tundra's harshness. Despite days of investigation, the adventurers found no clue and were close to giving up when they encountered a priest. The priest, also seeking answers, suspected a vengeful ghost as the cause. He found the ghost's origin but lacked the strength to banish it. He implored the adventurers to confront the spirit in his stead."
+1192730115158016,ASSIGNMENT_OUTCOMESIMPLE10,The cause for the deaths will reveal itself.
+1192929965355008,ASSIGNMENT_OUTCOME11,{CHARACTER1} has been deemed worthy by the gods and has acquired sainthood.
+1193257154621440,ASSIGNMENT_OUTCOME12,The Adventurers returned from their Quests and it seems like the clients were more than happy with the results.
+1193391099719680,ASSIGNMENT_OUTCOME13,"After following the route the carriers were expected to take to deliver the goods to the Adventurer Guild, the Party finally found the shipment. Unfortunately there were no signs of the carriers who were supposed to bring the goods to Guild. It's unclear what may have happened to the carriers and we'll probably never know.
+
+But for now the Adventurers returned with the rare alcohol Tavi has ordered, and by the looks of it, they have already taken a sip or two from it."
+1195025171197952,ASSIGNMENT_OUTCOME14,After only a few days Majika's course was over and it's already apparent that the adventurers have learned a lot from her. It's highly impressive how much knowledge was taught in so little time.
+1195177374101504,ASSIGNMENT_OUTCOME15,"After days of training, the adventurers finally completed Luana's training regime. Many of them were exhausted from the experience but at least now they were now more prepared against the perils of their next adventure."
+1195920877400064,ASSIGNMENT_OUTCOME16,"A badly bruised {CHARACTER1} returned from Bai. Contrary to what it appears, it seems that things went well and Bai was very much satisfied with her new first disciple."
+1208830169165824,ASSIGNMENT_OUTCOME17,"After {CHARACTER1} told Vincent about {GENDER1:cond:=1?his|=0?her} life as an adventurer, he was inspired enough to compose a grand song about {CHARACTER1}'s exploits. While the song took creative liberties with some details, it proved to be a crowd-pleaser and quickly became popular among the patrons of the tavern.
+
+Vincent continued to perform the song at every opportunity, and word of {CHARACTER1}'s heroic deeds spread far and wide. Travelers arriving at the Adventurer Guild began to recognize {CHARACTER1}, and some even made the journey specifically to meet {GENDER1:cond:=1?him|=0?her} in person.
+
+{CHARACTER1} seems to slightly enjoy all that attention."
+1210446997860352,ASSIGNMENT_OUTCOME18,The adventurers have gathered enough trails and located a Troll in a nearby cave.
+1210597292355584,ASSIGNMENT_OUTCOMESIMPLE18,A Quest to Hunt a Troll will become available.
+1210729937219584,ASSIGNMENT_OUTCOME19,The adventurers have gathered enough trails and located an undead champion in a nearby old fortress.
+1210967116722176,ASSIGNMENT_OUTCOMESIMPLE19,A Quest to Hunt an Undead Champion will become available.
+1211157164830720,ASSIGNMENT_OUTCOME20,The adventurers have gathered enough trails and located a Spider Queen in a nearby cave.
+1211267059789824,ASSIGNMENT_OUTCOMESIMPLE20,A Quest to Hunt a Spider Queen will become available.
+1211410911834112,ASSIGNMENT_OUTCOME21,The adventurers have gathered enough trails and located an Ancient Tree Spirit in a nearby forest.
+1211523684085760,ASSIGNMENT_OUTCOMESIMPLE21,A Quest to Hunt an Ancient Tree Spirit will become available.
+1211688369238016,ASSIGNMENT_OUTCOME22,The adventurers have gathered enough trails and located a Storm Talon in a nearby forest.
+1212176519114752,ASSIGNMENT_OUTCOMESNEWSTORYQUEST,A new Story Quest will be unlocked.
+1212378088976384,ASSIGNMENT_OUTCOMESIMPLE22,The adventurers have found evidences of  the cult's involvement with the {LEPHOZ}. They believe that one of the disciples is planning to hand over a powerful weapon to the {LEPHOZ} in an attempt to win them over for their cause. We have to stop them!
+1213121315450880,ASSIGNMENT_OUTCOMESIMPLE23,"The adventurers observed as the goblins have increased their activities in abducting humans. While such occurrences were not uncommon, it has become evident that they are able to attack locations previously deemed inaccessible to them. It's clear that there is a third party.
+
+The adventurers believe to have found a cave from which their operation seem to be directed from."
+1213918505840640,ASSIGNMENT_OUTCOMESIMPLE24,"During their investigations the adventurers were ambushed by a group of vampires. However, instead of attacking them, they were handed an invitation to an old castle. The vampires vanished as fast as they appeared.
+
+It seems the vampires and the cults are aware of our investigations and are daring us to challenge them head on."
+1214416713658368,ASSIGNMENT_OUTCOME25,"Yet again, Emily has returned empty-handed. It was actually the adventurers who had to force Emily to finally give up and return home after they have been searching night and days in the most impossible locations."
+1214836819341312,ASSIGNMENT_OUTCOMESIMPLE25,Will Emily finally find the Flower Of Eternity?
+1215089610043392,ASSIGNMENT_OUTCOME26,"{CHARACTER1} held the Orb and compelled it to yield to {GENDER1:cond:=1?his|=0?her} will. {GENDER1:cond:=1?He|=0?She} endured the pain the orb threw at {GENDER1:cond:=1?him|=0?her}, and not long after, {CHARACTER1} could feel a change in {GENDER1:cond:=1?his|=0?her} body. The light on the orb vanished, and it became a simple inanimate object.
+
+As long as {CHARACTER1} held the power it would stay as such."
+1216258185080832,ASSIGNMENT_OUTCOME27,"{CHARACTER1} has studied the witch's notebook diligently. After a sleepless night and a lot of coffee, {CHARACTER1} is finally ready to put theory into practice."
+1216497423986688,ASSIGNMENT_OUTCOME28,"The Adventurer Guild successfully identified the root cause of the ongoing unnatural thunderstorm that has plagued the nearby city. It was traced back to the presence of a rare and potent creature known as the Storm Talon, which had taken residence close to the city. The Storm Talon's mere presence manipulated the weather, resulting in the relentless and prolonged storm. Given the gravity of the situation and the potential threat posed by the Storm Talon, the mayor pledged a substantial reward to the guild if they could successfully slay the formidable creature and end the unnatural storm that had wreaked havoc on the city."
+1217552345968640,ASSIGNMENT_OUTCOMESIMPLE28,The cause for the storm will be found.
+1217774539223040,ASSIGNMENT_OUTCOME29,Astrid and {CHARACTER1} have returned from their hunting trip and from all the game they returned with one could assume that it was a very successful hunting trip.
+1218080152989696,ASSIGNMENT_OUTCOME30,"The team of adventurers sent by the Adventurer Guild were able to successfully collect the rare and valuable plants needed to restock the Guild's medical supplies. The timing was perfect, as the plants were in season and at their peak potency, which ensured that the Guild's medical supplies were restocked with the highest quality ingredients.
+
+As a result we can now efficiently speed up the process of treating our injured adventurers for a few days."
+1218754227974144,ASSIGNMENT_OUTCOME31,"Shen was quite pleased with {CHARACTER1} and has taken {GENDER1:cond:=1?him|=0?her} onto his wings. Apparently, he started his lesson by numbering all the reasons why the Azure Blade Style is much better than the Rising Sun Fist Style."
+1219471353294848,ASSIGNMENT_OUTCOME32,{CHARACTER1} has successfully endured {GENDER1:cond:=1?his|=0?her} time of abstinence and meditation. {GENDER1:cond:=1?His|=0?Her} behaviour will probably not change with that experience but at least {GENDER1:cond:=1?he|=0?she} knows that with determination {GENDER1:cond:=1?he|=0?she} can overcome anything.
+1220359945957376,ASSIGNMENT_OUTCOME33,{CHARACTER1} has finished {GENDER1:cond:=1?his|=0?her} training with Falken and has become stronger in the process.
+1220712233938944,ASSIGNMENT_OUTCOME34,"Despite a long and arduous search and their best efforts, Emily once again returned empty-handed. The usual energetic girl came back quietly with a disheartening face. It might be possible that this flower means more to her than she has let on to."
+1221309028872192,ASSIGNMENT_OUTCOMESIMPLE34,Maybe this time she'll find the flower?
+1221424422563840,ASSIGNMENT_OUTCOME35,"The adventurers have returned with blistered fingers after helping the farmers with their fields. While no monetary reward was given, the adventurers have gained some valuable appreciation for the hard work of farmers."
+1221546153848832,ASSIGNMENT_OUTCOME36,The hunting trip was a success and the adventurers returned with a lot of hides!
+1221630148980736,ASSIGNMENT_OUTCOME37,{CHARACTER1} has finished helping Majika and from what you can tell Majika was more than satisfied with {CHARACTER1}'s work.
+1222200234586112,ASSIGNMENT_OUTCOME38,"After a long and arduous search through the wilds, the group of adventurers were able to find several missing soldiers. They had become stranded and lost in the wilderness after getting separated from the main force. The soldiers were tired, hungry, and thirsty, but the adventurers were able to provide them with food, water, and medical attention. The group then guided the soldiers back to their homes. Not long after a messenger appeared with the promised reward from Gilbert."
+1223495066562560,ASSIGNMENT_OUTCOME39,"Both Rogue and {CHARACTER1} have returned from their trip. {CHARACTER1} seemed slightly traumatized and didn't want to get into any details what they were doing. You asked Rogue if her ""business"" has been concluded. She simply answered: ""Yes. For now."""
+1224056872611840,ASSIGNMENT_OUTCOME40,The adventurers and Emily finally returned from their search for the Flower Of Eternity. From the looks of Emily's discouraged face it doesn't look like they have found it.
+1224403351482368,ASSIGNMENT_OUTCOMESIMPLE40,"Emily and the adventurers will be searching for the flower. Will they find it?
+"
+1224619341361152,ASSIGNMENT_OUTCOME41,The adventurers have returned from their vacation and it looked like they have relaxed quite a bit. Surely they won't complain if we were to send them into action right away again.
+1224802045243392,ASSIGNMENT_OUTCOMESIMPLE41,Adventurers will take a vacation and come back with a better mood that lasts 15 days.
+1225129607802880,ASSIGNMENT_OUTCOME42,"The adventurers were able to clear most the cave from the spiders but when they went in further, they stood before a problem.
+
+The reason why the number of giant spiders has increased so drastically in this cave is because of the existence of a spider queen. They found the spider queen deep in the cave surrounded by an insurmountable number of spiders. The adventurers had no choice but to retreat.
+
+After hearing what the adventurers have found, the city has created a new Quest for the Adventurer Guild to slay the Spider Queen."
+1225541312294912,ASSIGNMENT_OUTCOMESIMPLE42,Something else might be found here.
+1225841460883456,ASSIGNMENT_OUTCOME43,"The adventurers have thoroughly searched the area the escapees have directed them to. They managed to find a cave that matched their description and could confirm from a distance that it was inhabitated by goblins.
+
+This was very likely the cave where the troll and the other prisoners were."
+1226812186406912,ASSIGNMENT_OUTCOME44,"The adventurers have escorted the scholars to the ancient ruins as planned and for the most part of their journey no real trouble arose. The scholars were able to study most of the ruins in peace, while the adventurers took care of the ocassional undead attack.
+It wasn't until they reached the deepest part of the ruin that something changed.
+
+They reached a hallway that led to a ancient giant door that was still holding to this day. It was obvious that whatever was behind that door was of utmost importance to those who build this place. 
+
+The scholars were excited by their professional curiosity but before they could open the door, they were ambushed by another group of undead soldiers; lead by a behemoth of a warrior.
+Sensing that the situation was far more dangerous than an ordinary undead attack, the adventurers have decided to prioritize the scholars safety and retreated while protecting their clients.
+
+Fortunately, it seems the undead weren't concerned with the living as long they stepped out of the hallway and the adventurers were able to escape with no harm to the scholars.
+
+The scholars have now made another request to the Adventurer Guild. They ask the Guild to remove the undead from the hallway so that they can study whatever is behind that door."
+3751688443695104,ASSIGNMENT_TITLE02,Goblin Abduction
+51107463344066560,ACHIEVEMENTRANK_DESCRIPTION_TEXT,Reached {GOAL_RANK}
+51115892242550784,ASSIGNMENT_EXPIRE_TEXT,Days until expired: {DURATION}
+51116638363095040,ASSIGNMENT_MINIMUMADVENTURERS_TEXT,Minimum of {AMOUNT} Adventurers
+51116783502790656,ASSIGNMENT_OUTCOME_ITEMREWARD_TEXT,Gain items with a total value of {LOWER_VALUE}-{UPPER_VALUE} from the following list:
+51117702403493888,ASSIGNMENT_TITLE_GAMETEXT,Assignment: {TITLE}
+51118005852999680,ASSIGNMENT_FAILED_REPORT_TITLE,Assignment Failed: {TITLE}
+51118587636518912,ASSIGNMENT_SUCCESS_REPORT_TITLE,Assignment Completed: {TITLE}
+51486698290188288,GEM_ASSIGNMENT,Mining for Gems
+51558207876665344,END_APPRENTICESHIP_ASSIGNMENT,End Apprenticeship
+51558274377355264,END_APPRENTICESHIP_ASSIGNMENT_DESCR,The School of the Azure Blade only teaches students of great talent. It's not an environment suited for everyone.
+51558442283732992,GEM_ASSIGNMENT_DESCR,"Numerous travelers have been sharing tales of an recently uncovered cave nearby, rumored to be brimming with gems of various colors. As a result, many are travelling there to seek their fortunes within its depths. Perhaps we could consider dispatching some of our own adventurers to gather some of those precious gems ourselves."
+51559199259136000,GEM_ASSIGNMENT_FAILURE_DESCR,"Unfortunately, despite searching for days in the caves, the adventurers were unable to bring back any gems."
+51559455577247744,FORGET_DARK_MAGIC_ASSIGNMENT,Forget Dark Magic
+51559629435342848,FORGET_DARK_MAGIC_ASSIGNMENT_DESCR,"Knowledge of dark magic can lead to sleepless nights for a person. Fortunately, Majika possesses a spell capable of erasing people's memories."
+51560168374046720,RETURN_DRAGON_ORB_ASSIGNMENT,Return Dragon Orb Power
+51560541990064128,RETURN_DRAGON_ORB_ASSIGNMENT_DESCR,With great strength comes great responsibility. And not everyone can shoulder them.
+51560931301167104,REMOVE_SAINT_TRAIT_ASSIGNMENT,Give up Sainthood
+51561109210959872,RETURN_DRAGON_ORB_ASSIGNMENT_OUTCOME_DESCR,{CHARACTER1} has returned the power of the dragon to the orb. It has regained its glow and now awaits a new worthy claimant.
+51561646383861760,RETURN_DRAGON_ORB_ASSIGNMENT_SIMPLEOUTCOME_DESCR,Character will lose <color=orange>{DRAGON_ORB}</color> and become a <color=orange>Knight</color>
+51573509280665600,FORGET_DARK_MAGIC_ASSIGNMENT_OUTCOME,{CHARACTER1} has forgotten all about dark magic and appears to be better off for it.
+51574086081351680,FORGET_DARK_MAGIC_ASSIGNMENT_SIMPLEOUTCOME,Character will lose <color=orange>{STUDIED_DARKMAGIC}</color> and become a <color=orange>High Mage</color>
+51578494873669632,DANGEROUS_HUNT_ASSIGNMENT,Dangerous Hunt
+51578655918166016,DANGEROUS_HUNT_ASSIGNMENT_DESCR,Astrid is organizing a hunting trip to collect some pelts for the Guild and asked you to choose some adventurers to take part in the hunt. This time the hunt will focus on some larger beasts which will make it undoubtedly more difficult and dangerous.
+51578974341337088,DANGEROUS_HUNT_ASSIGNMENT_FAILURE_OUTCOME,The hunting trip was a bust and the adventurers returned empty-handed.
+51579181493817344,DANGEROUS_HUNT_ASSIGNMENT_OUTCOME,The hunting trip was a success and the adventurers returned with a lot of hides!
+52171997232140288,IGNORE_ANIMALS_ASSIGNMENT,Ignore Animals
+52173790682976256,IGNORE_ANIMALS_ASSIGNMENT_DESCR,"Sometimes, people are better off not understanding what animals are saying."
+52175416760111104,IGNORE_ANIMALS_ASSIGNMENT_OUTCOME,"{CHARACTER1} has begun ignoring the animals around {GENDER1:cond:=1?him|=0?her}. In response, the animals themselves have stopped bothering {GENDER1:cond:=1?him|=0?her}."
+52176626212835328,IGNORE_ANIMALS_ASSIGNMENT_SIMPLEOUTCOME,Character will lose <color=orange>{ANIMAL_SPEAKER}</color> and become a <color=orange>Ranger</color>
+52179688860061696,MONSTER_MOST_WANTED_YOUNG_DRAGON,Monster Most Wanted: {YOUNG_DRAGON}
+52179798239121408,MONSTER_MOST_WANTED_YOUNG_DRAGON_DESCR,The adventurers will collect rumors of any Dragon sightings in the nearby areas.
+52182351311966208,MONSTER_MOST_WANTED_YOUNG_DRAGON_OUTCOME,The adventurers have gathered enough trails and located a Dragon in the Ashenland.
+52182891513155584,MONSTER_MOST_WANTED_YOUNG_DRAGON_SIMPLEOUTCOME,A Quest to Hunt a Young Dragon will become available.
+52183168916033536,REAPER_TRAINING_ASSIGNMENT,Shadow Training
+52183337451556864,REAPER_TRAINING_ASSIGNMENT_DESCR,"Rogue has decided to pass on the secret techniques that was once taught to her by 'them'. To avoid unnecessary conflicts, it was decided that the teachings will be limited to a single adventurer. 
+
+Rogue explains that mastering  the techniques requires one to first become familiar with the darkness. To achieve this, she will put the chosen adventurer to a confined, pitch-black space, depriving them of their senses for a full day."
+52229948743520256,BEASTMASTER_ASSIGNMENT,Animal Communication
+52231554935459840,BEASTMASTER_ASSIGNMENT_DESCR,"Hopi wants to teach an adventurer how to talk with animals, just the way his tribe does. It's kinda hard to believe that that's possible, but seeing as how easy Lephoz tribes have tamed the beasts around them, there might be something to it."
+52232366575226880,BEASTMASTER_ASSIGNMENT_FAILURE_OUTCOME,{CHARACTER1} was completely unable to learn how to speak with animals. {GENDER1:cond:=1?He|=0?She} even doubts that it's possible.
+52235790255558656,BEASTMASTER_ASSIGNMENT_OUTCOME_DESCR,{CHARACTER1} has successfully learned how to speak with animals. A skill of which many of the other adventurers are completely jealous of.
+52239149360386048,FINDING_ZEPHYRION_ASSIGNMENT,Finding Zephyrion
+52239314347528192,FINDING_ZEPHYRION_ASSIGNMENT_DESCR,Ferdinand finally remembered the name of the person who put him in the rock where the adventurers found him: Zephyrion. Send some adventurers to try to find any clues about this mysterious person who holds the key to Ferdinand's past.
+52239782322802688,FINDING_ZEPHYRION_ASSIGNMENT_OUTCOME,"After days of investigation, the adventurers finally found a lead pointing to a man named Zephyrion. However, it seems getting to the man would be far more challenging than anyone could have anticipated."
+52246260551159808,REMOVE_SAINT_TRAIT_ASSIGNMENT_DESCR,"Not everyone can dedicate their life to the gods, and there's no shame in admitting that."
+52246398367600640,REMOVE_SAINT_TRAIT_ASSIGNMENT_OUTCOME,The gods have retrieved their gifts from {CHARACTER1}. There was no more blessings but also no more obligations.
+52249698995441664,REMOVE_SAINT_TRAIT_ASSIGNMENT_SIMPLEOUTCOME,Character will lose <color=orange>{SAINTHOOD}</color> and become a <color=orange>Bishop</color>
+52250463654809600,REMOVE_REAPER_TRAIT_ASSIGNMENT,Return to the Light
+52250621461303296,REMOVE_REAPER_TRAIT_ASSIGNMENT_DESCR,"Living in darkness can be lonely. Solitude isn't for everyone, and it shouldn't be imposed against one's will."
+52251109032366080,REMOVE_REAPER_TRAIT_ASSIGNMENT_OUTCOME,"{CHARACTER1} has returned to a life of light, surrounded by those close to {GENDER1:cond:=1?him|=0?her}."
+52264983341207552,REMOVE_REAPER_TRAIT_ASSIGNMENT_SIMPLEOUTCOME,Character will lose <color=orange>{USED_TO_DARKNESS}</color> and become an <color=orange>Assassin</color>
+52265595881558016,SCHOLARLY_PURSUIT,Scholarly Pursuits
+52265834642313216,SCHOLARLY_PURSUIT_DESCR,"A group of scholars introduced by Majika told us that they were planning to study a recently uncovered empyrean ruin. These ruins are usually haunted by a great number of undead soldiers who used to serve the ancient empire and it seems not even death has absolved them of their service.
+
+To keep themselves safe they asked the Adventurer Guild to lend them some adventurers to protect them, while they study the ruins.
+"
+52269276353957888,END_APPRENTICESHIP_ASSIGNMENT_SIMPLE_OUTCOME,Character will lose <color=orange>{DISCIPLE}</color> and become a <color=orange>Monk</color>
+52269333039976448,END_APPRENTICESHIP_ASSIGNMENT_OUTCOME,{CHARACTER1} is no longer a disciple of the Azure Blade. Shen barely took notice.
+55580576555372544,GEM_ASSIGNMENT_OUTCOME,The adventurers returned with an abundance of unearthed gems.
+55581268695224320,ASSIGNMENT29_OUTCOME,The adventurers have gathered enough trails and located an Ice Bride in a nearby tundra.
+55581784028385280,ASSIGNMENT29_SIMPLE_OUTCOME,A Quest to Hunt an Ice Bride will become available.
+55582207418208256,ASSIGNMENT_SIMPLEOUTCOME22,A Quest to Hunt a Storm Talon will become available.
+55582551124643840,ASSIGNMENT26_OUTCOME,"Yet again, Emily has returned empty-handed. It was actually the adventurers who had to force Emily to finally give up and return home after they have been searching night and days in the most impossible locations."
+55593339147161600,ASSIGNMENT26_STORYOUTCOME,Will Emily finally find the Flower Of Eternity?
+55594479087685632,REAPER_TRAINING_ASSIGNMENT_OUTCOME,{CHARACTER1} has been staying in a dark space for a day and it seems to have worked the way Rogue wanted it to. {CHARACTER1} has completely lost their fear of the dark.
+55595419400310784,ASSIGNMENT41_OUTCOME,"The battle excercise planned by Astrid went better than she has expected. The Adventurers eagerly participated in the exercise, treating it as a serious challenge. They honed their archery skills and showed great enthusiasm in hitting their opponents with the training arrows.
+
+At the end of the exercise, Astrid gave them a rare congratulation and provided the Adventurers with valuable feedback and tips on how to improve their archery skills. Feeling proud of themselves the adventurers returned with their newly honed skills."
+72922926538797056,REAPER_TRAINING_ASSIGNMENT_OUTCOME_FAILURE,{CHARACTER1} was unable to last a day in the dark confinements. It was too much on {GENDER1:cond:=1?his|=0?her} sanity.
+129812530986201088,ASSIGNMENT_TITL46_FAILURE_OUTCOME,"The adventurers weren't able to find the cave with the goblins and their prisoners and had to return before they ran out of supplies.
+
+We have to try again if we want to deal with the goblins and the troll."

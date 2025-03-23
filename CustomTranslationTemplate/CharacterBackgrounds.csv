@@ -1,0 +1,175 @@
+ID,Key,String
+585872871424,BACKGROUND0,"{CHARACTER1} was the daughter of a merchant family and never knew a life of conflicts before. However, on one tragic day their caravan was attacked by bandits and she lost her whole family.
+Ever since that day {CHARACTER1} had difficulty to move on with her life in peace. She declined the church's offer to help her start a new life. 
+Instead she became an adventurer, hoping that a life of an adventurer could help to shed some light in the dark and dreary world she has come to know."
+585902231552,BACKGROUND1,"Daryl doesn't talk much about his past, saying that it isn't much of an interesting story. In general he doesn't seem like the type who easily shares or confides in other people.
+
+All we know about Daryl that he has been living as an adventurer on his own for a while, which is quite the feat itself."
+585906425856,BACKGROUND2,"Elan used to be the child of a farming family. While he has grown up with love and care, he grew up with a strong fear of leading a life that doesn't matter. Because of that he left his home to become an adventurer, much to the dismay of his family.
+
+Elan started as an independent adventurer but due to him nearly losing his own life, he realized that the only way for him to survive long enough as an adventurer and to leave a mark in the world, was to join the Adventurer Guild. "
+585906425857,BACKGROUND3,"{CHARACTER1} is someone who always associated herself with the wrong people. This started with the very people who bore her. {CHARACTER1}'s parent made her a thief when she was still a child and lived from the goods she has stolen for them.
+When the guards were finally looking for them {CHARACTER1}'s parents disappeared and left their daughter behind.
+Soon after, a group of thieves, who saw her potential, took her in as one of them. While {CHARACTER1} might have called them friends, the truth was that they were the same as her parents. They only cared about how they could profit from {CHARACTER1}. In a way she knew that but with nowhere else to go she decided to ignore it and did whatever the group asked of her.
+She even went so far to join the Bandit King when her group got persuaded by a mysterious hooded man. Lured by the promises of fame and riches. In her time with the Bandit King she had to do things she wasn't proud of and still regrets to this day.
+
+But when the Adventurers from the Adventurers Guild showed up, she got a chance to break off with the bandits. Now she has joined the Adventurer Guild, hoping to finally be able to live a decent life."
+585906425858,BACKGROUND4,"{CHARACTER1} was only 5 when {GENDER1:cond:=1?he|=0?she} found out that {GENDER1:cond:=1?he|=0?she} was capable of the arcane arts by accidentally burning {GENDER1:cond:=1?his|=0?her} favourite toy. In a different place this might not have been much of a problem, but in {GENDER1:cond:=1?his|=0?her} remote village people were wary of those with arcane talents.
+{GENDER1:cond:=1?he|=0?she} was therefore forbidden to ever to use magic again. But a child's curiosity was stronger than that.
+In the years to come {GENDER1:cond:=1?he|=0?she} practiced magic in secret, growing stronger each time. But, then in {GENDER1:cond:=1?his|=0?her} adolescent years, something terrible happened. {CHARACTER1} never talked about what exactly happened. Only that {GENDER1:cond:=1?he|=0?she} could never return home again and  has since then lived the life of an adventurer."
+585906425859,BACKGROUND5,"{CHARACTER1} was an orphan, who was eventually adopted by an old greyed wizard when {GENDER1:cond:=1?he|=0?she} was just but a little child. The wizard saw great potential in {CHARACTER1} and took {GENDER1:cond:=1?him|=0?her} as apprentice.                                                      
+The old wizard was a strict teacher and most of {CHARACTER1}'s childhood consisted only of studying and memorizing magic spells. At the same time the wizard, who was already at an advanced age, grew older and weaker until {CHARACTER1}'s daily routine changed to {GENDER1:cond:=1?him|=0?her} taking care of the old man.
+Eventually the wizard passed away and {CHARACTER1}, who was now again alone, decided to travel the world."
+585906425860,BACKGROUND6,"{CHARACTER1} was once part of a group of traveling performers, who were at the same time {GENDER1:cond:=1?his|=0?her} family. They were a group of people who had no place to call home and lived by entertaining people in cities or small villages.
+{CHARACTER1} was magically talented but without anyone able to mentor {GENDER1:cond:=1?him|=0?her} the best {GENDER1:cond:=1?he|=0?she} was  ever able to do, was to perform minor tricks to impress ignorant villagers. {CHARACTER1} wasn't satisfied with {GENDER1:cond:=1?his|=0?her} life. {GENDER1:cond:=1?he|=0?she} was ambitious and dreamt of being a powerful mage one day who didn't have to perform for simple folk for pocket change. When the group passed the Adventurer Guild, {CHARACTER1} knew that this was 
+{GENDER1:cond:=1?his|=0?her} chance to change {GENDER1:cond:=1?his|=0?her} life completely."
+585906425861,BACKGROUND7,"{CHARACTER1} was a person who never really had a home. Because {GENDER1:cond:=1?he|=0?she} was magically gifted people always eyed {GENDER1:cond:=1?him|=0?her} with suspicion. Nowadays people were much more ignorant about magic and blamed witchcraft for any bad luck that might befall on them.
+A pet disappeared? A mage probably kidnapped it for experiments. The crops aren't coming in? Magic definitely polluted the earth. A husband cheated on his wife? Of course a mage manipulated him into carnal pleasure for {GENDER1:cond:=1?his|=0?her} own sick amusement.
+As a result {CHARACTER1} has been falsely accused and driven away so many times in {GENDER1:cond:=1?his|=0?her} life. The first people who ever did that to {GENDER1:cond:=1?him|=0?her} was {GENDER1:cond:=1?his|=0?her} own parents.
+Ironically {GENDER1:cond:=1?his|=0?her} magical gifts were also highly sought qualities for an adventurer and with no other path available, {CHARACTER1} became an adventurer."
+585906425862,BACKGROUND8,"{CHARACTER1} claims to be part of an ancient mage family whose ancestry could be traced back to when the empyreans still ruled the continent. While it's hard to verify such claims, it's true that {CHARACTER1} has a decent grasp on the arcane arts and knowledge about magic that isn't widely known anymore.
+Whatever the case, {CHARACTER1} became an adventurer to make a name for {GENDER1:cond:=1?himself|=0?herself}, believing that it is was {GENDER1:cond:=1?his|=0?her} rightful duty to claim fame and fortune for {GENDER1:cond:=1?his|=0?her} family.
+"
+585906425863,BACKGROUND9,"Not much is known about {CHARACTER1}. Nobody knows where {GENDER1:cond:=1?he|=0?she} came from or what reason {GENDER1:cond:=1?he|=0?she} had to become an adventurer. Heck, {CHARACTER1} is probably not even {GENDER1:cond:=1?his|=0?her} real name.
+All we know is that {CHARACTER1} is magically adept and knows about many things that are not commonly known. {GENDER1:cond:=1?he|=0?she} sometimes even acts far older than {GENDER1:cond:=1?his|=0?her} physical appearance would otherwise suggest.
+But whatever {GENDER1:cond:=1?his|=0?her} secrets are, {GENDER1:cond:=1?he|=0?she} seems determined to take them to {GENDER1:cond:=1?his|=0?her} grave.
+"
+585906425864,BACKGROUND10,"{CHARACTER1} was the youngest child of a hunting family. At an early age {GENDER1:cond:=1?he|=0?she} learned how to use the bow and became proficient enough to hunt even more game than {GENDER1:cond:=1?his|=0?her} elder brothers.
+One day after {GENDER1:cond:=1?he|=0?she} came back from a hunt, {GENDER1:cond:=1?he|=0?she} found all {GENDER1:cond:=1?his|=0?her} family members dead and {GENDER1:cond:=1?his|=0?her} home burned. They were raided by bandits.
+As revenge {GENDER1:cond:=1?he|=0?she} hunted them all down like the animals {GENDER1:cond:=1?he|=0?she} used to hunt.
+Since then, unable to return to {GENDER1:cond:=1?his|=0?her} former life {GENDER1:cond:=1?he|=0?she} started {GENDER1:cond:=1?his|=0?her} life as an adventurer."
+585906425865,BACKGROUND11,"{CHARACTER1} used to be a wanderer who didn't see {GENDER1:cond:=1?himself|=0?herself} as adventurer. {GENDER1:cond:=1?He|=0?She} didn't do any jobs associated with adventurers and mostly lived of hunting animals with a hunting bow; the only real belonging {GENDER1:cond:=1?he|=0?she} had. 
+On {GENDER1:cond:=1?his|=0?her} travel {CHARACTER1} would usually avoid any monster {GENDER1:cond:=1?he|=0?she} encountered but one day {GENDER1:cond:=1?he|=0?she} made a blunder and stood face to face to a monster that would have surely killed {GENDER1:cond:=1?him|=0?her} weren't it for the group of adventurers who happened to pass nearby.
+This experience made a deep impression on {CHARACTER1} and from that moment on {GENDER1:cond:=1?he|=0?she} decided to become an adventurer {GENDER1:cond:=1?himself|=0?herself}."
+585906425866,BACKGROUND12,"{CHARACTER1}'s mother once made the mistake of falling in love with an adventurer who happened to pass through the village she used to live in. Most people would know better but {CHARACTER1}'s mother had a romantic view on adventurers and didn't know that most of them couldn't be trusted. She learned that lesson the next morning when after a night of passion he left the village without even giving notice.
+{CHARACTER1}'s family was furious and even more so when they found out that she was pregnant.
+Despite the protests of the family {CHARACTER1} was eventually born.
+While most children would grow up with love and care, {CHARACTER1} only remembers the contempt {GENDER1:cond:=1?his|=0?her} family had against {GENDER1:cond:=1?his|=0?her} father and in extension against {GENDER1:cond:=1?him|=0?her}. To the other villagers {GENDER1:cond:=1?he|=0?she} was only known as the bastard child and even {GENDER1:cond:=1?his|=0?her} own mother, the only person who truly loved {GENDER1:cond:=1?him|=0?her}, had trouble looking at the face that with time resembled more and more the man who abandoned her.
+One day shortly after {CHARACTER1} turned 15, {GENDER1:cond:=1?he|=0?she} left the village and started a life as an adventurer, hoping one day to find {GENDER1:cond:=1?his|=0?her} father.
+Only {CHARACTER1} knows what {GENDER1:cond:=1?he|=0?she} would do if {GENDER1:cond:=1?he|=0?she} were to ever find him."
+585906425867,BACKGROUND13,"For most of {CHARACTER1}'s childhood, as far as {GENDER1:cond:=1?he|=0?she} can recall, {GENDER1:cond:=1?he|=0?she} was travelling with {GENDER1:cond:=1?his|=0?her} father from place to place. {CHARACTER1} never knew about {GENDER1:cond:=1?his|=0?her} mother and {GENDER1:cond:=1?his|=0?her} father would always avoid the topic.
+From {GENDER1:cond:=1?his|=0?her} father {GENDER1:cond:=1?he|=0?she} learned how to survive in the wild. {GENDER1:cond:=1?He|=0?She} learned how to hunt game, how to live off the land, how to avoid monsters and if there was no other choice: how to fight monsters.
+{CHARACTER1} always wondered how {GENDER1:cond:=1?his|=0?her} father acquired those skills that didn't seem to be too far off from those of an adventurer. But that was also a topic that was never explained to {GENDER1:cond:=1?him|=0?her}.
+Whatever past {GENDER1:cond:=1?his|=0?her} father had eventually caught up with him, and while they were visiting a town, he was stabbed by a hooded figure.
+With his dying breath he told {GENDER1:cond:=1?him|=0?her} one thing: ""Don't become an adventurer. Don't make the same mistake as me.""
+
+{CHARACTER1} didn't listen. {GENDER1:cond:=1?his|=0?her} father's past as an adventurer was the only lead {GENDER1:cond:=1?he|=0?she} had on the hooded figure and {GENDER1:cond:=1?he|=0?she} would follow {GENDER1:cond:=1?his|=0?her} father's footsteps to find out the truth."
+585906425868,BACKGROUND14,"{CHARACTER1} is a carefree person, who is seemingly the very definition of a free spirit. No one would suspect that {GENDER1:cond:=1?he|=0?she}  is a noble youth who ran away from home. 
+{GENDER1:cond:=1?His|=0?Her} whole life {CHARACTER1} felt like a bird living in a gilded cage unable to decide how to live {GENDER1:cond:=1?his|=0?her} life. When {GENDER1:cond:=1?his|=0?her} family decided to marry {GENDER1:cond:=1?him|=0?her} off in a political marriage, {GENDER1:cond:=1?he|=0?she} decided to leave {GENDER1:cond:=1?his|=0?her} home behind, abandoning all titles and lands {GENDER1:cond:=1?he|=0?she} could inherit.
+Becoming an adventurer was the next obvious step for {CHARACTER1} because to {GENDER1:cond:=1?him|=0?her} adventurers were the ones who could live freely the most."
+585906425869,BACKGROUND15,"{CHARACTER1} is from a small unremarkable village where nothing much really happens. Some villages would at least have had to deal with roaming monsters but {CHARACTER1}'s village was so well hidden, that even travellers would rarely find their way into the village.
+As {CHARACTER1} grew older, {GENDER1:cond:=1?he|=0?she} was afraid that this was all {GENDER1:cond:=1?his|=0?her} life would ever amount to. An unremarkable life in an unremarkable village.
+One day however adventurers passed through the village by pure chance and it was the very first encounter {CHARACTER1} ever had with adventurers.
+During their short stay {GENDER1:cond:=1?he|=0?she} would ask them about their lifes and they would tell {GENDER1:cond:=1?him|=0?her} stories of exciting adventures and great riches. 
+Of course most of their stories were embellished and exaggerated but at that time {CHARACTER1} wouldn't know.
+
+After a month has passed since the adventurers have left the village, {CHARACTER1} and some other youths of the village met up to leave their homes in secret, hoping to become adventurers themselves."
+585906425870,BACKGROUND16,"{CHARACTER1} used to be the seventh child of a poor family. When {GENDER1:cond:=1?he|=0?she} was born only two were still alive and even they eventually perished on the streets. During {GENDER1:cond:=1?his|=0?her} childhood {GENDER1:cond:=1?he|=0?she} learned how to survive when you had nothing. {GENDER1:cond:=1?He|=0?She} learned how to pickpocket without being noticed, how to sneak without being detected and how to deal with conflicts without direct confrontation. 
+{CHARACTER1} learned to adapt but ultimately was unsatisfied with {GENDER1:cond:=1?his|=0?her} life in poverty and  when {GENDER1:cond:=1?he|=0?she} was finally old enough, {GENDER1:cond:=1?he|=0?she} left {GENDER1:cond:=1?his|=0?her} home to find {GENDER1:cond:=1?his|=0?her} luck as an adventurer.
+{GENDER1:cond:=1?his|=0?her} goal was to never live like that again. "
+585906425871,BACKGROUND17,"{CHARACTER1} used to be just a petty thief, mostly stealing food and pickpocketing unsuspecting travellers.
+While it wasn't a glamorous life {CHARACTER1} has experienced enough to know that people like {GENDER1:cond:=1?him|=0?her} could not hope for anything better in life. It was enough to not to starve to death.
+ 
+At least that's how it was supposed to be but even {CHARACTER1} couldn't help but sometimes dream of a better life. And it was because of that {GENDER1:cond:=1?he|=0?she} eventually decided to participate in a dangerous heist, something {GENDER1:cond:=1?he|=0?she} would normally never have done. 
+Needless to say the heist went bad and most of the people who participated in it were dead. {CHARACTER1} {GENDER1:cond:=1?himself|=0?herself} barely escaped with {GENDER1:cond:=1?his|=0?her} life while fleeing the town.
+
+With {GENDER1:cond:=1?his|=0?her} life completely turned upside down {GENDER1:cond:=1?he|=0?she} wandered without any real destination until {GENDER1:cond:=1?he|=0?she} eventually ended up here. In the Adventurer Guild."
+585910620160,BACKGROUND18,"{CHARACTER1} is a very strange one. While most thieves would steal for their own gain, {CHARACTER1} would give {GENDER1:cond:=1?his|=0?her} ill-gotten loot to those in need. {GENDER1:cond:=1?he|=0?she} calls {GENDER1:cond:=1?himself|=0?herself} a virtuous thief (which apparently seems to be a thing) who would only steal from the rich and give it to the poor.
+Needless to say that kind of reasoning isn't something that would work with local authorities and therefore {CHARACTER1} is wanted in most towns.
+Now {CHARACTER1} wants to join the Adventurer Guild, and says that {GENDER1:cond:=1?he|=0?she} needs to stay out of the thieving business until things cool down."
+585910620161,BACKGROUND19,"{CHARACTER1} tends to always hang out with the wrong group of people. It is therefore not too surprising to know that, {GENDER1:cond:=1?he|=0?she} often finds {GENDER1:cond:=1?himself|=0?herself} on the wrong side of the law. Unfortunately for {GENDER1:cond:=1?him|=0?her} the last clash with the law was just one time too many and {GENDER1:cond:=1?he|=0?she} had to make run for it or otherwise {GENDER1:cond:=1?he|=0?she} would be hanging like a fruit in the town center.
+Now {CHARACTER1} hopes for a fresh start as an adventurer. Lucky for {GENDER1:cond:=1?him|=0?her} for some reason adventurers can always use someone with rogue skills. 
+For some reason..."
+585910620162,BACKGROUND20,"You could say that {CHARACTER1} isn't one of the honest working types. In fact {GENDER1:cond:=1?he|=0?she} has never done any real work in {GENDER1:cond:=1?his|=0?her} life and instead attempted several get-rich-quick-schemes which eventually blew into {GENDER1:cond:=1?his|=0?her} face.
+{GENDER1:cond:=1?His|=0?Her} latest scheme was to sell the bathwater of a popular female bard which apparently seemed to work at first(Sometimes I doubt humanity). Unfortunately for {GENDER1:cond:=1?him|=0?her} it was eventually revealed to be the bathwater of Father Helmuth, a 76-year old priest.
+Needless to say {CHARACTER1} had to escape from a blood-thirsty mob and eventually ended up here in the guild.
+Now {GENDER1:cond:=1?his|=0?her} newest get-rich-quick-scheme is trying to hit it big as an adventurer."
+585910620163,BACKGROUND21,"{CHARACTER1} has always considered {GENDER1:cond:=1?himself|=0?herself} to be one of the bad guys. Someone without morals and someone who could do any dirty deed.
+But that belief was one day tested when {GENDER1:cond:=1?he|=0?she} and {GENDER1:cond:=1?his|=0?her} former gang were about to take part in a crime that was worse than anything {GENDER1:cond:=1?he|=0?she} had ever done before.
+It was the first time {CHARACTER1} realized that even {GENDER1:cond:=1?he|=0?she} had a line {GENDER1:cond:=1?he|=0?she} couldn't cross. {GENDER1:cond:=1?He|=0?She} never said what crime it exactly was, only that {GENDER1:cond:=1?he|=0?she} prevented it; much to the dismay of {GENDER1:cond:=1?his|=0?her} partners in crime. 
+To escape the wrath of {GENDER1:cond:=1?his|=0?her} former gang, {GENDER1:cond:=1?he|=0?she} made a risky gamble to fake {GENDER1:cond:=1?his|=0?her} death which in the end succeded.
+For now {CHARACTER1} is believed to be dead by those who knew {GENDER1:cond:=1?him|=0?her} and has started a new life as an adventurer."
+585910620164,BACKGROUND22,"As the only child of a Craftsman and a meek personality, {CHARACTER1} never seemed like the type who would become an adventurer. {GENDER1:cond:=1?He|=0?She} {GENDER1:cond:=1?himself|=0?herself} never expected that {GENDER1:cond:=1?his|=0?her} life would eventually turn out this way.
+But {CHARACTER1} was a beautiful youth who was very popular with the opposite sex and that eventually caused an incident where {GENDER1:cond:=1?he|=0?she} had to flee from {GENDER1:cond:=1?his|=0?her} home. {CHARACTER1} never told the full details of the incident but that only caused a lot of gossip among the other adventurers."
+585910620165,BACKGROUND23,"{CHARACTER1} was a bastard child who was never going to inherit anything. {GENDER1:cond:=1?he|=0?she} realized very early that once {GENDER1:cond:=1?he|=0?she} was considered an adult, {GENDER1:cond:=1?he|=0?she} was on {GENDER1:cond:=1?his|=0?her} own. {CHARACTER1} decided early on {GENDER1:cond:=1?his|=0?her} life to become an adventurer and has prepared {GENDER1:cond:=1?his|=0?her} whole childhood accordingly.
+Now {GENDER1:cond:=1?he|=0?she} is at the Adventurer Guild hoping to make a name for {GENDER1:cond:=1?himself|=0?herself}."
+585910620166,BACKGROUND24,"{CHARACTER1} once served as a soldier for one of the noble houses. After {GENDER1:cond:=1?his|=0?her} mandatory term ended, {GENDER1:cond:=1?he|=0?she} decided to use the training {GENDER1:cond:=1?he|=0?she} got to become an adventurer.
+For {GENDER1:cond:=1?him|=0?her} it was certainly better than to return home and become a farmer instead."
+585910620167,BACKGROUND25,"{CHARACTER1} never had a high opinion of adventurers. Maybe rightly so.
+Most adventurers who were unaffiliated with the guild are mostly brutes and unreliable. It wasn't uncommon for adventurers to receive payment for a quest only to abandon it on the next day.
+This once happened to {GENDER1:cond:=1?his|=0?her} village who hired adventurers to protect them from nearby roaming monsters, only for them to run away when their village really needed them.
+Now {GENDER1:cond:=1?his|=0?her} village is only history. {CHARACTER1} managed to escape with {GENDER1:cond:=1?his|=0?her} life. Unfortunately the same couldn't be said for the rest of {GENDER1:cond:=1?his|=0?her} family.
+Now {CHARACTER1} has become an adventurer {GENDER1:cond:=1?himself|=0?herself} and joined the Adventurer Guild, hoping that one day {GENDER1:cond:=1?he|=0?she} might come across those adventurers again who abandoned {GENDER1:cond:=1?his|=0?her} people."
+585910620168,BACKGROUND26,"{CHARACTER1} is a man who could be considered to be of lowly birth. Normally this fact wouldn't bother him but unfortunately he fell in love with a noble woman.
+Because of the difference in their status {CHARACTER1} could never hope to gain the acceptance of her family and she herself couldn't bring herself to elope with him.
+Therefore {CHARACTER1} decided to become an adventurer. Hoping to earn enough gold to one day buy himself a title and become worthy in the eyes of his beloved's parents."
+585910620169,BACKGROUND27,"{CHARACTER1} never knew another life than that of an adventurer. {GENDER1:cond:=1?He|=0?She} was once abandoned as a child and was found by a group of adventurers. These adventurers took the child with them and raised {GENDER1:cond:=1?him|=0?her} like their own.
+It wasn't a life that was exactly suited for a child but {CHARACTER1} never saw it in a negative light. No, on the contrary {GENDER1:cond:=1?he|=0?she} only had fond memories during {GENDER1:cond:=1?his|=0?her} time with them.
+Now most of {GENDER1:cond:=1?his|=0?her} adventurer family have retired from the adventuring life and settled down.
+{CHARACTER1}, now an adult, decided to continue the adventuring life on {GENDER1:cond:=1?his|=0?her} own and came to the Adventuring Guild to find comrades."
+585910620170,BACKGROUND28,"All {CHARACTER1} really knew about {GENDER1:cond:=1?himself|=0?herself} was that {GENDER1:cond:=1?he|=0?she} was left as a baby on the doorsteps of a church. All that was left with the baby was a letter with {GENDER1:cond:=1?his|=0?her} name and a mysterious ring with an unknown emblem.
+Since then {GENDER1:cond:=1?he|=0?she} was raised by the priests and priestesses in the church as an acolyte. It was an uneventful but peaceful life and maybe in another life {GENDER1:cond:=1?he|=0?she} would have served {GENDER1:cond:=1?his|=0?her} faith for the rest of {GENDER1:cond:=1?his|=0?her} life.
+But {CHARACTER1} wanted to find {GENDER1:cond:=1?his|=0?her} origin and became an adventurer hoping to find any clue to the mysterious emblem on the ring {GENDER1:cond:=1?his|=0?her} parents left {GENDER1:cond:=1?him|=0?her}."
+585910620171,BACKGROUND29,"If you asked {CHARACTER1} why {GENDER1:cond:=1?he|=0?she} decided to become an adventurer, {GENDER1:cond:=1?he|=0?she} would answer: ""Because my god has told me so."" If you ask {GENDER1:cond:=1?him|=0?her} why {GENDER1:cond:=1?his|=0?her} god would ask {GENDER1:cond:=1?him|=0?her} to do so, {GENDER1:cond:=1?he|=0?she} would answer: ""I do not question his instructions, I only follow them."" Needless to say {CHARACTER1} is a lot of fun at parties.
+"
+585910620172,BACKGROUND30,"{CHARACTER1} was once a priest in a church of Ghanenta. But {GENDER1:cond:=1?he|=0?she} had to abandon that life one day when {GENDER1:cond:=1?he|=0?she} was accused of a crime {GENDER1:cond:=1?he|=0?she} didn't commit.
+After years of false imprisonment {CHARACTER1} turned {GENDER1:cond:=1?his|=0?her} back on {GENDER1:cond:=1?his|=0?her} god and now uses {GENDER1:cond:=1?his|=0?her} divine skills for {GENDER1:cond:=1?his|=0?her} new life as an adventurer."
+585910620173,BACKGROUND31,"{CHARACTER1} used to travel the world to spread {GENDER1:cond:=1?his|=0?her} faith. On {GENDER1:cond:=1?his|=0?her} journey {CHARACTER1} has helped alot of people in need and fought against monsters to protect innocent people. In one of those occasion {GENDER1:cond:=1?he|=0?she} met adventurers from the Adventurers Guild for the first time.
+They were different from the lawless brutes {CHARACTER1} was used to and after a long conversation it became apparent to {GENDER1:cond:=1?him|=0?her} that the Adventuring Guild was capable of doing great good for the people.
+This is why {CHARACTER1} eventually traveled to the Adventuring Guild hoping to offer {GENDER1:cond:=1?his|=0?her} service for the greater good."
+585910620174,BACKGROUND32,"{CHARACTER1} is a noble who was forced to join a monastery at a young age. Apparently this happened because of the schemes of an older sibling who determined {CHARACTER1} to be a danger to their own inheritance. 
+After a few years living in the monastery {CHARACTER1} eventually left without any notice but instead of returning home, {GENDER1:cond:=1?he|=0?she} decided to start a new life as an adventurer.
+After all, {CHARACTER1} had a suspicion that if {GENDER1:cond:=1?he|=0?she} should ever return home {GENDER1:cond:=1?his|=0?her} elder sibling would not be satisfied with just sending {GENDER1:cond:=1?him|=0?her} away again."
+585910620175,BACKGROUND33,"As a child {CHARACTER1} used to hear a voice that guided {GENDER1:cond:=1?him|=0?her}. It would warn {GENDER1:cond:=1?him|=0?her} of any danger  that might have occurred and sometimes even told {GENDER1:cond:=1?him|=0?her} of things that were about to happen in the future. 
+That voice also taught {GENDER1:cond:=1?him|=0?her} how to channel divine energy to heal wounds and perform minor miracles.
+But at some point {CHARACTER1} stopped hearing the voice.
+Today {GENDER1:cond:=1?he|=0?she} knows that that voice was the voice of Ghanenta and {GENDER1:cond:=1?he|=0?she} is now on a quest to find out why {GENDER1:cond:=1?his|=0?her} god has stopped talking to {GENDER1:cond:=1?him|=0?her}."
+585910620176,BACKGROUND34,"{CHARACTER1} used to live with {GENDER1:cond:=1?his|=0?her} father in a remote village. They weren't farmers. {GENDER1:cond:=1?his|=0?her} father used to be a soldier for a lord but a crippling injury forced him to an early retirement. Since then they both lived of the little compensation the father has received.
+{CHARACTER1}'s days were filled with taking care of {GENDER1:cond:=1?his|=0?her} father who couldn't do much with his injury. At the same time the father gave {CHARACTER1} the same soldier training he received, hoping that one day it might prove useful to {GENDER1:cond:=1?him|=0?her}. And so many years passed until tragedy strikes.
+One day {CHARACTER1} found {GENDER1:cond:=1?his|=0?her} father drowned in a river. People say that the father went on a walk on his own. He probably had an accident and fell into the river and with his failing body was unable to swim. Others however say that it wasn't an accident and that the father committed suicide. They say that it was the last act of a father who didn't want to be a burden to his child forever."
+585910620177,BACKGROUND35,"{CHARACTER1} never knew {GENDER1:cond:=1?his|=0?her} father. All {GENDER1:cond:=1?he|=0?she} has ever heard of {GENDER1:cond:=1?his|=0?her} mother was that he died whilst trying to provide for his family but never told what exactly he did.
+It wasn't until {GENDER1:cond:=1?he|=0?she} met an adventurer who introduced himself as an old friend of {GENDER1:cond:=1?his|=0?her} father. From him {GENDER1:cond:=1?he|=0?she} learned that {GENDER1:cond:=1?his|=0?her} father used to be an adventurer.
+The adventurer told {CHARACTER1} about the adventures they used to have together and even told {GENDER1:cond:=1?him|=0?her} about the quest that eventually killed {GENDER1:cond:=1?his|=0?her} father.
+After hearing those stories about {GENDER1:cond:=1?his|=0?her} father, {CHARACTER1} decided {GENDER1:cond:=1?he|=0?she} too will become an adventurer like {GENDER1:cond:=1?his|=0?her} father.
+{GENDER1:cond:=1?His|=0?Her} mother protested. The reason why she never told {GENDER1:cond:=1?him|=0?her} about {GENDER1:cond:=1?his|=0?her} father was because she was afraid this might happen, afraid that she might lose her child the same way as her husband.
+She knew however that she couldn't stop {CHARACTER1} so she at least made {GENDER1:cond:=1?him|=0?her} promise to always send her a message, letting her know that {CHARACTER1} was alright.
+
+To this day {CHARACTER1} has kept this promise."
+585910620178,BACKGROUND36,"{CHARACTER1} and {GENDER1:cond:=1?his|=0?her} four younger siblings lost their parents at a very young age. Ever since then, as the eldest, {CHARACTER1} took care of {GENDER1:cond:=1?his|=0?her} siblings in stead of their parents. Years of hard labor gave {CHARACTER1} a tough body but only about enough gold for {GENDER1:cond:=1?him|=0?her} and {GENDER1:cond:=1?his|=0?her} siblings not to starve to death.
+Today {CHARACTER1} has decided to become an adventurer and join the Adventurer Guild. It's a dangerous profession but for {CHARACTER1} it was the best chance for an uneducated person like {GENDER1:cond:=1?him|=0?her} to provide a better life for {GENDER1:cond:=1?his|=0?her} younger siblings."
+585910620179,BACKGROUND37,"Both of {CHARACTER1}'s parents used to be adventurers. Most of {GENDER1:cond:=1?his|=0?her} childhood memories consist of {GENDER1:cond:=1?him|=0?her} waiting for both to come back from a quest and spend the next few days with them until they embarked for their next quest.
+
+One day however, they left and never returned.
+
+Years have passed since then and {CHARACTER1} {GENDER1:cond:=1?himself|=0?herself} has become an adventurer. {GENDER1:cond:=1?he|=0?she} has long searched for any hint of {GENDER1:cond:=1?his|=0?her} parents hoping to find them alive or at least find out what has happened to them."
+585910620180,BACKGROUND38,"{CHARACTER1} used to work as a bodyguard for a rich merchant whose caravan was on its way to Cragmond. Unfortunately the caravan was attacked by bandits and despite their best attempts they were far too outnumbered to win the fight.
+{CHARACTER1} was left for dead and would have surely died, if it weren't for the adventurers travelling nearby who took {GENDER1:cond:=1?him|=0?her} back to their headquarters: The Adventurer Guild.
+Now with {GENDER1:cond:=1?his|=0?her} former employer dead and a stain on {GENDER1:cond:=1?his|=0?her} reputation, {CHARACTER1} has decided to quit as a bodyguard and now wants to join the Adventurer Guild instead."
+585910620181,BACKGROUND39,"{CHARACTER1} was once an independant adventurer unaffiliated with the Adventurer Guild. {GENDER1:cond:=1?he|=0?she} never planned to join the Guild thinking that it would only restrict {GENDER1:cond:=1?his|=0?her} freedom. Things changed however when {GENDER1:cond:=1?he|=0?she} was betrayed by {GENDER1:cond:=1?his|=0?her} former teammates and left for dead. Miraculously {GENDER1:cond:=1?he|=0?she} survived. 
+Now {CHARACTER1} is at the Adventuring Guild believing that {GENDER1:cond:=1?his|=0?her} former comrades will one day be here too, because they themselves expressed their intention to join the Guild.
+For now it doesn't seem like {CHARACTER1}'s former comrades are part of the Guild yet but {CHARACTER1} believes that one day they will come.
+And then {GENDER1:cond:=1?he|=0?she} will repay them."
+585910620182,BACKGROUND40,{CHARACTER1} and his friends once dreamed to make a name for themselves as adventurers. Unfortunately that dream came to an abrupt end when his friends all died during a quest and leaving him as the sole survivor. Now he has joined the Adventurer Guild hoping to fulfill his dream not only for the sake of himself but also for his dead friends.
+585910620183,BACKGROUND41,This Character has been personally scouted by the Guild Master.
+585910620184,BACKGROUND42,"{CHARACTER1} acts differently from what her appearance would suggests. She's greedy, has  a penchant for sharp-tongued retorts, and a readiness to brawl with anyone daring to comment on her height.
+
+When asked how she has learned the divine arts, she simply said that she apparently had a talent for it. A priest once saw her potential and tried to groom her into a priestess.
+
+However, after learning all she could, she simply departed without a word. Now, instead of spiritual pursuits, she takes her skills to increase her earthly possessions - a stark contrast to what the priest was trying to teach."
+585910620185,BACKGROUND43,"{CHARACTER1} was a {GENDER1:cond:=1?man|=0?woman} who was unfortunately born to a family that had nothing for {GENDER1:cond:=1?him|=0?her} to inherit.
+
+Hoping to gain at least anything out of life, {GENDER1:cond:=1?he|=0?she} decided to become an adventurer. While he does have quite the impressive physique for an adventurer, it seems like {CHARACTER1} has never held a weapon before."
+585910620186,BACKGROUND44,"{CHARACTER1} once lived in a small simple village. A background that would usually humble people, but at a young age {CHARACTER1} found out that {GENDER1:cond:=1?he|=0?she} was capable of using magic. Ever since then, {CHARACTER1} always believed that {GENDER1:cond:=1?he|=0?she} was destined for greatness and in {GENDER1:cond:=1?his|=0?her} mind the fastest way for that was to make a name for {GENDER1:cond:=1?himself|=0?herself} as an adventurer."
+585910620187,BACKGROUND45,"{CHARACTER1} used to be just a simple thief who lived an unremarkable life of petty crimes. It was a life that {CHARACTER1} would eventually get sick of.
+
+After seeing some adventurers lavishly spend their earnings from their last Quest in a tavern, she thought to herself: Why not her? Seems easy enough.
+
+A conclusion that probably has killed a lot of young adventurers by now."
+66627334559404032,DEAD_NAME_MYRIA,Myria
+66627565271289856,DEAD_NAME_ALAN,Alan
+66627712684298240,DEAD_NAME_ARON,Aron
+66627879709872128,DEAD_NAME_PETRA,Petra
+66628018176430080,DEAD_NAME_JASON,Jason
+66628145230286848,DEAD_NAME_VALERI,Valeri
+66628257843154944,DEAD_NAME_GARLAND,Garland
+66628378832048128,DEAD_NAME_FRAN,Fran

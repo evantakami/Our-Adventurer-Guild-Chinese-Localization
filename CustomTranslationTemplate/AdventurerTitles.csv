@@ -1,0 +1,129 @@
+ID,Key,String
+5859606171648,TITLE0BEGINNER_RANK,{GENDER1:cond:=1?The Geomancer|=0?The Geomancer}
+5859656503296,TITLE0BEGINNER_RANK_DESCR,{CHARACTER1}'s connection with the earth runs deep. {GENDER1:cond:=1?He|=0?She} possess an innate attunement to the forces of nature and easily molds the world around {GENDER1:cond:=1?him|=0?her}.
+5859660697600,TITLE0INTERMEDIATE_RANK,{GENDER1:cond:=1?The Earth Shaker|=0?The Earth Shaker}
+5859660697601,TITLE0INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has mastered {GENDER1:cond:=1?his|=0?her} control over the earth. {GENDER1:cond:=1?He|=0?She} can create earth quakes, fissures and tremors that can shake the very foundation of the earth."
+5859664891904,TITLE0END_RANK,{GENDER1:cond:=1?The Earth Sage|=0?The Earth Matriarch}
+5859664891905,TITLE0END_RANK_DESCR,"{CHARACTER1} is a mage of unparalleled power and skill, whose mastery over the element of earth is the envy of all who seek to harness its might. With a single gesture, {GENDER1:cond:=1?he|=0?she} can summon earthquakes, raise mountains, and shape the very earth itself to {GENDER1:cond:=1?his|=0?her} will."
+5859664891906,TITLE1BEGINNER_RANK,{GENDER1:cond:=1?The Frostweaver|=0?The Frostweaver}
+5859664891907,TITLE1BEGINNER_RANK_DESCR,"{CHARACTER1} exhibits a remarkable control over the element of ice, weaving spells of ice that are beautiful to watch. {GENDER1:cond:=1?His|=0?Her} spells are as graceful as they are deadly."
+5859664891908,TITLE1INTERMEDIATE_RANK,{GENDER1:cond:=1?The Ice Warlock|=0?The Ice Witch}
+5859664891909,TITLE1INTERMEDIATE_RANK_DESCR,{CHARACTER1} commands a realm of icy beauty and deadly power. {GENDER1:cond:=1?His|=0?Her} power over the element of ice leaves {GENDER1:cond:=1?his|=0?her} enemies in awe.
+5859664891910,TITLE1END_RANK,{GENDER1:cond:=1?The Frost Monarch|=0?The Frost Queen}
+5859664891911,TITLE1END_RANK_DESCR,"{CHARACTER1} is a figure of awe-inspiring power, whose command over the element of ice is unmatched. {GENDER1:cond:=1?His|=0?Her} presence alone is enough to chill the air, and {GENDER1:cond:=1?his|=0?her} icy gaze can freeze even the bravest of hearts."
+5859664891912,TITLE2BEGINNER_RANK,{GENDER1:cond:=1?The Swift Sorcerer|=0?The Swift Sorceress}
+5859664891913,TITLE2BEGINNER_RANK_DESCR,"{CHARACTER1} is known to cast spells at a speed very few can match. With swift and precise movements, spells flow at once from {GENDER1:cond:=1?his|=0?her} fingertips, leaving {GENDER1:cond:=1?his|=0?her} enemies with little room to react."
+5859664891914,TITLE2INTERMEDIATE_RANK,{GENDER1:cond:=1?The Fleet-Fingered Sorcerer|=0?The Fleet-Fingered Sorceress}
+5859664891915,TITLE2INTERMEDIATE_RANK_DESCR,"{CHARACTER1} is a master of rapid spellcasting. {GENDER1:cond:=1?His|=0?Her} spells materialize in an instant, with hand movements too quick to follow. If the enemies think they can find an opening where spells don't rain upon them, then they're deadly wrong."
+5859664891916,TITLE2END_RANK,{GENDER1:cond:=1?The Silent Magus|=0?The Silent Enchantress}
+5859664891917,TITLE2END_RANK_DESCR,"{CHARACTER1} requires neither hand movements nor incantation to cast {GENDER1:cond:=1?his|=0?her} spells. With only a single thought can {GENDER1:cond:=1?he|=0?she} materialize {GENDER1:cond:=1?his|=0?her} spells. Beware not to slight {GENDER1:cond:=1?him|=0?her}, for {GENDER1:cond:=1?he|=0?she} can turn you to ashes with merely a glance."
+5859664891918,TITLE3BEGINNER_RANK,{GENDER1:cond:=1?The Potion Savant|=0?The Potion Savant}
+5859664891919,TITLE3BEGINNER_RANK_DESCR,{CHARACTER1} has a body that is unusually receptive to alchemical effects. Few can take advantage of the power of potions like {GENDER1:cond:=1?he|=0?she} does and even fewer can withstand their effect as much as {GENDER1:cond:=1?he|=0?she}.
+5859664891920,TITLE3INTERMEDIATE_RANK,{GENDER1:cond:=1?The Mutant|=0?The Mutant}
+5859664891921,TITLE3INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has drunk so many potions in {GENDER1:cond:=1?his|=0?her} life that {GENDER1:cond:=1?his|=0?her} body has been permanently changed. {GENDER1:cond:=1?he|=0?she} is stronger, quicker and more durable than the common human."
+5859664891922,TITLE3END_RANK,{GENDER1:cond:=1?The Mutant Alchemist|=0?The Mutant Alchemist}
+5859664891923,TITLE3END_RANK_DESCR,"The Mutant Alchemist has studied and consumed the effect of every potion known to men. Forever changed, they themselves have now become a master of the art of alchemy and it is said they carry potions, whose effects only they can withstand."
+5859664891924,TITLE4BEGINNER_RANK,{GENDER1:cond:=1?The Arcane Ravager|=0?The Arcane Ravager}
+5859664891925,TITLE4BEGINNER_RANK_DESCR,{CHARACTER1} has become renowned for {GENDER1:cond:=1?his|=0?her} deadly mastery of the arcane. A mastery that few can match.
+5859664891926,TITLE4INTERMEDIATE_RANK,{GENDER1:cond:=1?The Arcane Tempest|=0?The Arcane Tempest}
+5859664891927,TITLE4INTERMEDIATE_RANK_DESCR,The Arcane Arts have always been known to be an art of deadly force. But very few prove that fact as much as {CHARACTER1}. Very few would dare to stand in {GENDER1:cond:=1?his|=0?her} way and even fewer lived to tell the tale.
+5859664891928,TITLE4END_RANK,{GENDER1:cond:=1?The Arcane Annihilator|=0?The Arcane Annihilator}
+5859664891929,TITLE4END_RANK_DESCR,"{CHARACTER1} is a force to be reckoned with, a mage of unparalleled power whose mastery of the arcane is absolute. With a mere gesture, {GENDER1:cond:=1?he|=0?she} can unleash spells of incredible destructive force,  laying waste to entire armies."
+5859664891930,TITLE5BEGINNER_RANK,{GENDER1:cond:=1?The Butcher|=0?The Blood Maiden}
+5859664891931,TITLE5BEGINNER_RANK_DESCR,{CHARACTER1} has the reputation of always leaving a trail of bloody corpses. A reputation that is feared by enemies and allies alike.
+5859664891932,TITLE5INTERMEDIATE_RANK,{GENDER1:cond:=1?The Slaughterer|=0?The Slaughteress}
+5859664891933,TITLE5INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has aquired a fearsome reputation as a warrior that is eternally clad in the bloody color of their enemies. {GENDER1:cond:=1?He|=0?She} has become the very embodiment of the phrase ""If it can bleed, then it can die.""."
+5859664891934,TITLE5END_RANK,{GENDER1:cond:=1?The Blood Reaper|=0?The Blood Reaper}
+5859664891935,TITLE5END_RANK_DESCR,"{CHARACTER1} is a fearsome warrior who wields weapons stained with the blood of {GENDER1:cond:=1?his|=0?her} enemies. With each strike, {GENDER1:cond:=1?he|=0?she} inflicts deep wounds that bleed profusely, sapping {GENDER1:cond:=1?his|=0?her} enemies' strength and draining them of their life force."
+5859664891936,TITLE6BEGINNER_RANK,{GENDER1:cond:=1?The Brave|=0?The Brave}
+5859664891937,TITLE6BEGINNER_RANK_DESCR,"{CHARACTER1} is known to never shy away from any challenge. In moments where most would cower, {CHARACTER1} moves forward without looking back. "
+5859664891938,TITLE6INTERMEDIATE_RANK,{GENDER1:cond:=1?The Lionheart|=0?The Lionheart}
+5859664891939,TITLE6INTERMEDIATE_RANK_DESCR,"{CHARACTER1} does not retreat, nor will {GENDER1:cond:=1?he|=0?she} be struck in the back. No matter how bleak a situation might look, {GENDER1:cond:=1?he|=0?she} will never give up. {GENDER1:cond:=1?his|=0?her} Bravery is an inspiration to anyone who could witness it."
+5859664891940,TITLE6END_RANK,{GENDER1:cond:=1?The Champion|=0?The Champion}
+5859664891941,TITLE6END_RANK_DESCR,"Everyone knows fear. {CHARACTER1}, not any longer."
+5859664891942,TITLE7BEGINNER_RANK,{GENDER1:cond:=1?The Resilient|=0?The Resilient}
+5859664891943,TITLE7BEGINNER_RANK_DESCR,"Few can take as much of a beating as {CHARACTER1}. {GENDER1:cond:=1?He|=0?She} has been beaten to the ground so many times, but each time {GENDER1:cond:=1?he|=0?she} fell, {GENDER1:cond:=1?he|=0?she} stood up again.  "
+5859664891944,TITLE7INTERMEDIATE_RANK,{GENDER1:cond:=1?The Unbroken|=0?The Unbroken}
+5859664891945,TITLE7INTERMEDIATE_RANK_DESCR,{CHARACTER1} has proven time and time again that {GENDER1:cond:=1?he|=0?she} will not fall easily. Many have tried and many have failed.
+5859664891946,TITLE7END_RANK,{GENDER1:cond:=1?The Immortal|=0?The Immortal}
+5859664891947,TITLE7END_RANK_DESCR,"{CHARACTER1} seems to be unkillable in battle. {GENDER1:cond:=1?His|=0?Her} tenacity and strength have earned {GENDER1:cond:=1?him|=0?her} the title of invincibility, and few would dare to challenge {GENDER1:cond:=1?his|=0?her} claim to it."
+5859664891948,TITLE8BEGINNER_RANK,{GENDER1:cond:=1?The Holy Warrior|=0?The Holy Warrior}
+5859664891949,TITLE8BEGINNER_RANK_DESCR,There is much evil in this world and {CHARACTER1} has sworn an oath to vanquish them all. {GENDER1:cond:=1?His|=0?Her} zeal and determination is a flickering light in this ever so dark world.
+5859664891950,TITLE8INTERMEDIATE_RANK,{GENDER1:cond:=1?The Divine Sentinel|=0?The Divine Sentinel}
+5859664891951,TITLE8INTERMEDIATE_RANK_DESCR,"{CHARACTER1} is loved by the people and feared by those who hide in the shadows. Whereever {GENDER1:cond:=1?he|=0?she} goes, evil starts to hide to avoid drawing the {GENDER1:cond:=1?his|=0?her} gaze upon them."
+5859664891952,TITLE8END_RANK,{GENDER1:cond:=1?The High Inquisitor|=0?The High Inquisitress}
+5859664891953,TITLE8END_RANK_DESCR,The Inquisitor is an uncompromising force of good and justice and their presence alone is often enough to deter wrongdoers from their nefarious deeds.
+5859664891954,TITLE9BEGINNER_RANK,{GENDER1:cond:=1?The Ember Mage|=0?The Ember Mage}
+5859664891955,TITLE9BEGINNER_RANK_DESCR,{CHARACTER1} is a mage with an unusual affinity for fire magic. {GENDER1:cond:=1?He|=0?She} commands fire spells with a searing intensity that is seldom found. 
+5859664891956,TITLE9INTERMEDIATE_RANK,{GENDER1:cond:=1?The Prince of Fire|=0?The Princess of Fire}
+5859664891957,TITLE9INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has delved deep into the mysteries of the flame, forging an unbreakable bond with the element. {GENDER1:cond:=1?His|=0?Her} mere presence radiates a heat that can be felt even at a distance."
+5859664891958,TITLE9END_RANK,{GENDER1:cond:=1?The Fire Lord|=0?The Flame Empress}
+5859664891959,TITLE9END_RANK_DESCR,{CHARACTER1} is a fierce and unstoppable force of destruction on the battlefield. {GENDER1:cond:=1?His|=0?Her} flames burn with an intensity and ferocity that can melt even the strongest of armors and incinerate {GENDER1:cond:=1?his|=0?her} enemies to ash.
+5859664891960,TITLE10BEGINNER_RANK,{GENDER1:cond:=1?The Shade|=0?The Shade}
+5859664891961,TITLE10BEGINNER_RANK_DESCR,"{CHARACTER1} is an elusive adventurer. {GENDER1:cond:=1?He|=0?She} always seem to be able to hide away from the sight of {GENDER1:cond:=1?his|=0?her} enemies, striking from unexpected places."
+5859664891962,TITLE10INTERMEDIATE_RANK,{GENDER1:cond:=1?The Enigma|=0?The Enigma}
+5859664891963,TITLE10INTERMEDIATE_RANK_DESCR,Many enemies died before they even knew that it was {CHARACTER1} who killed them. With {GENDER1:cond:=1?his|=0?her} skillful art in stealth {CHARACTER1}'s comrades always seem to be one member less than they really are.
+5859664891964,TITLE10END_RANK,{GENDER1:cond:=1?The Shadow|=0?The Shadow}
+5859664891965,TITLE10END_RANK_DESCR,"{CHARACTER1} is a master of stealth and subterfuge, a being who moves through the world unseen and strikes from the darkness. {GENDER1:cond:=1?He|=0?She} is a symbol of the power of the unseen, feared and respected by all who understand the dangers of the shadows."
+5859664891966,TITLE11BEGINNER_RANK,{GENDER1:cond:=1?The Elusive|=0?The Elusive}
+5859664891967,TITLE11BEGINNER_RANK_DESCR,"{CHARACTER1} is a slippery combatant, an individual who possesses a mesmerizing grace and uncanny agility while fighting."
+5859664891968,TITLE11INTERMEDIATE_RANK,{GENDER1:cond:=1?The Phantom|=0?The Phantom}
+5859664891969,TITLE11INTERMEDIATE_RANK_DESCR,"{CHARACTER1} is a deceiver of the mind, always seemingly out of reach to hit. A confusing presence on the battlefield, that always leave the enemies wondering."
+5859664891970,TITLE11END_RANK,{GENDER1:cond:=1?The Trickster|=0?The Trickster}
+5859664891971,TITLE11END_RANK_DESCR,"{CHARACTER1} is a master of deception and cunning. Many underestimate {GENDER1:cond:=1?his|=0?her} true abilities, a mistake no one has made twice."
+5859664891972,TITLE12BEGINNER_RANK,{GENDER1:cond:=1?The Stubborn|=0?The Stubborn}
+5859664891973,TITLE12BEGINNER_RANK_DESCR,{CHARACTER1} has built {GENDER1:cond:=1?himself|=0?herself} a reputation of never knowing when to stop.
+5859664891974,TITLE12INTERMEDIATE_RANK,{GENDER1:cond:=1?The Relentless|=0?The Relentless}
+5859664891975,TITLE12INTERMEDIATE_RANK_DESCR,"{CHARACTER1}'s tenacity has garnered {GENDER1:cond:=1?him|=0?her} an unusual reputation amongst allies and enemies alike. Many already know that that if {CHARACTER1} has put {GENDER1:cond:=1?his|=0?her} mind on something, then {GENDER1:cond:=1?he|=0?she} can't be stopped."
+5859664891976,TITLE12END_RANK,{GENDER1:cond:=1?The Unstoppable|=0?The Unstoppable}
+5859664891977,TITLE12END_RANK_DESCR,"As {GENDER1:cond:=1?his|=0?her} title implies, {GENDER1:cond:=1?he|=0?she} can not be stopped by any foe and with {GENDER1:cond:=1?his|=0?her} unwavering determination and persistence, {GENDER1:cond:=1?he|=0?she} will achieve {GENDER1:cond:=1?his|=0?her} goal, no matter the obstacles in {GENDER1:cond:=1?his|=0?her} path."
+5859664891978,TITLE13BEGINNER_RANK,{GENDER1:cond:=1?The Poison Mixer|=0?The Poison Mixer}
+5859664891979,TITLE13BEGINNER_RANK_DESCR,"{CHARACTER1} tends to deal with {GENDER1:cond:=1?his|=0?her} enemies indirectly. With a keen insight in the art of mixing poisons, {CHARACTER1} has dealt with many enemies."
+5859664891980,TITLE13INTERMEDIATE_RANK,{GENDER1:cond:=1?The Viper|=0?The Black Widow}
+5859664891981,TITLE13INTERMEDIATE_RANK_DESCR,{CHARACTER1}'s poisons have built up a fearsome reputation to the point that no one dares to shake {GENDER1:cond:=1?his|=0?her} hand.
+5859664891982,TITLE13END_RANK,{GENDER1:cond:=1?The Nightshade|=0?The Nightshade}
+5859664891983,TITLE13END_RANK_DESCR,"{CHARACTER1} has mastered the art, to concoct deadly toxins from even the most innocuous of ingredients. Some say {GENDER1:cond:=1?his|=0?her} poison can kill a man with a single drop and that {GENDER1:cond:=1?his|=0?her} enemies fear the very sound of {GENDER1:cond:=1?his|=0?her} name."
+5859664891984,TITLE14BEGINNER_RANK,{GENDER1:cond:=1?The Captain|=0?The Captain}
+5859664891985,TITLE14BEGINNER_RANK_DESCR,"{CHARACTER1} has proven {GENDER1:cond:=1?himself|=0?herself} to be an ally that can be trusted. Even if {GENDER1:cond:=1?he|=0?she} is not necessarily the leader of their Party, {GENDER1:cond:=1?his|=0?her} comrades will still listen to any command they might give."
+5859664891986,TITLE14INTERMEDIATE_RANK,{GENDER1:cond:=1?The General|=0?The General}
+5859664891987,TITLE14INTERMEDIATE_RANK_DESCR,{CHARACTER1} has shown an unparalleled aptitude for battlefield tactics. Again and again {GENDER1:cond:=1?he|=0?she} has turned the tides of battles with simple tactical decisions. A genius in warfare who could conquer nations if {GENDER1:cond:=1?he|=0?she} had an army.
+5859664891988,TITLE14END_RANK,{GENDER1:cond:=1?The Warlord|=0?The Warlady}
+5859664891989,TITLE14END_RANK_DESCR,"{CHARACTER1} is a master of the art of war. {GENDER1:cond:=1?He|=0?She} is a being of unparalleled martial skill, {GENDER1:cond:=1?his|=0?her} every move calculated to achieve victory on the battlefield. A strategic genius unlike anyone before."
+5859664891990,TITLE15BEGINNER_RANK,{GENDER1:cond:=1?The Weapon Adept|=0?The Weapon Adept}
+5859664891991,TITLE15BEGINNER_RANK_DESCR,"{CHARACTER1}'s expertise in the field of armed combat is built on years of experience. {GENDER1:cond:=1?He|=0?She} honed {GENDER1:cond:=1?his|=0?her} techniques through relentless practice, making {GENDER1:cond:=1?him|=0?her} efficient in the art of killing not many can match."
+5859664891992,TITLE15INTERMEDIATE_RANK,{GENDER1:cond:=1?The Weapon Prodigy|=0?The Weapon Prodigy}
+5859664891993,TITLE15INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has proven that {GENDER1:cond:=1?his|=0?her} skill with {GENDER1:cond:=1?his|=0?her} chosen weapon is not only founded on diligent training but also a talent that is rarely found. {GENDER1:cond:=1?He|=0?She} cuts through {GENDER1:cond:=1?his|=0?her} enemies with efficient strikes and deadly precision, making {GENDER1:cond:=1?him|=0?her} a feared closed combatant."
+5859664891994,TITLE15END_RANK,{GENDER1:cond:=1?The Weapon Master|=0?The Weapon Master}
+5859664891995,TITLE15END_RANK_DESCR,"{CHARACTER1} is a warrior whose mastery of {GENDER1:cond:=1?his|=0?her} chosen weapon is unparalleled. {GENDER1:cond:=1?His|=0?Her} skill is honed through years of tireless training, and {GENDER1:cond:=1?his|=0?her} reputation precedes {GENDER1:cond:=1?him|=0?her} in any battle {GENDER1:cond:=1?he|=0?she} enters. {GENDER1:cond:=1?He|=0?She} can turn the tide of a fight single-handedly, carving through {GENDER1:cond:=1?his|=0?her} enemies with a fluid grace that is as beautiful as it is deadly."
+5859664891996,TITLE16BEGINNER_RANK,{GENDER1:cond:=1?The Spark|=0?The Spark}
+5859664891997,TITLE16BEGINNER_RANK_DESCR,"{CHARACTER1} is a mage who has dedicated {GENDER1:cond:=1?his|=0?her} studies in the realm of lightning magic. {GENDER1:cond:=1?His|=0?Her} spells unleashes a shocking force, electrifying the air and leaving a trail of static energy in their wake."
+5859664891998,TITLE16INTERMEDIATE_RANK,{GENDER1:cond:=1?The Stormcaller|=0?The Stormcaller}
+5859664891999,TITLE16INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has become the conduit for the wrath of thunder and lightning. {GENDER1:cond:=1?His|=0?Her} presence crackles with energy, and {GENDER1:cond:=1?his|=0?her} spells unleash thunderous booms that reverberate through the skies."
+5859664892000,TITLE16END_RANK,{GENDER1:cond:=1?The Thunder King|=0?The Thunder Queen}
+5859669086208,TITLE16END_RANK_DESCR,"{CHARACTER1} is the ruler of the forces of thunder and lightning, a being who can call forth the fury of the skies to do their bidding. {GENDER1:cond:=1?He|=0?She} is a fearsome sight to behold, wreathed in crackling energy as {GENDER1:cond:=1?he|=0?she} unleashes bolts of lightning and peals of thunder upon {GENDER1:cond:=1?his|=0?her} enemies."
+5859669086209,TITLE17BEGINNER_RANK,{GENDER1:cond:=1?The Crimson Adventurer|=0?The Scarlet Adventurer}
+5859669086210,TITLE17BEGINNER_RANK_DESCR,{CHARACTER1} is rarely seen without blood on {GENDER1:cond:=1?his|=0?her} body. Blood that is often not {GENDER1:cond:=1?his|=0?her} own and people only dare to speculate in quiet whispers where it came from.
+5859669086211,TITLE17INTERMEDIATE_RANK,{GENDER1:cond:=1?The Crimson Vulture|=0?The Scarlet Raven}
+5859669086212,TITLE17INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has an insatiable lust for violence, seeking {GENDER1:cond:=1?his|=0?her} enemies until they have perished."
+5859669086213,TITLE17END_RANK,{GENDER1:cond:=1?The Crimson Master|=0?The Scarlet Executioner}
+5859669086214,TITLE17END_RANK_DESCR,"{CHARACTER1} does not fight on the battlefield, because to {GENDER1:cond:=1?him|=0?her} it's not a fight. It's a hunt.
+
+And {GENDER1:cond:=1?he|=0?she} is the predator."
+5859669086215,TITLE18BEGINNER_RANK,{GENDER1:cond:=1?The Mender|=0?The Mender}
+5859669086216,TITLE18BEGINNER_RANK_DESCR,{CHARACTER1} has become a pillar of support for {GENDER1:cond:=1?his|=0?her} comrades. {GENDER1:cond:=1?His|=0?Her} compassionate touch has kept many of them alive and few could imagine an adventure without {GENDER1:cond:=1?him|=0?her}.
+5859669086217,TITLE18INTERMEDIATE_RANK,{GENDER1:cond:=1?The Lifeweaver|=0?The Lifeweaver}
+5859669086218,TITLE18INTERMEDIATE_RANK_DESCR,"{CHARACTER1} has become a master of the healing arts, capable of healing even the most atrocious wounds. {GENDER1:cond:=1?His|=0?Her} comrades have decided to be on {CHARACTER1}'s good side, seeing as how their well-being is in {CHARACTER1}'s hands."
+5859669086219,TITLE18END_RANK,{GENDER1:cond:=1?The Guardian Angel|=0?The Guardian Angel}
+5859669086220,TITLE18END_RANK_DESCR,"{CHARACTER1} has saved so many lives that many regard {GENDER1:cond:=1?him|=0?her} as their guardian angel. As long as {GENDER1:cond:=1?he|=0?she} is around, nobody fears death."
+5859669086221,TITLE19BEGINNER_RANK,{GENDER1:cond:=1?The Quack|=0?The Quack}
+5859669086222,TITLE19BEGINNER_RANK_DESCR,{CHARACTER1} has learned that there isn't much difference of mending flesh and tearing it apart. {GENDER1:cond:=1?He|=0?She} has found a path that made others rather distrustful of {GENDER1:cond:=1?his|=0?her} healing abilities.
+5859669086223,TITLE19INTERMEDIATE_RANK,{GENDER1:cond:=1?The Mortician|=0?The Mortician}
+5859669086224,TITLE19INTERMEDIATE_RANK_DESCR,{CHARACTER1} has forsaken {GENDER1:cond:=1?his|=0?her} hippocratic oath and they wield their healing abilities like a deadly weapon. 
+5859669086225,TITLE19END_RANK,{GENDER1:cond:=1?The Doctor of Death|=0?The Doctor of Death}
+5859669086226,TITLE19END_RANK_DESCR,"{CHARACTER1} has buried as many people as {GENDER1:cond:=1?he|=0?she} has saved. Now famed as the Doctor of Death, {GENDER1:cond:=1?he|=0?she} is feared by enemies and allies alike."
+5859669086227,TITLE20BEGINNER_RANK,{GENDER1:cond:=1?The Melee Archer|=0?The Melee Archer}
+5859669086228,TITLE20BEGINNER_RANK_DESCR,"{CHARACTER1} prefers to stand close {GENDER1:cond:=1?his|=0?her} allies, fighting in the frontline with bow and arrow. Many think that because of {GENDER1:cond:=1?his|=0?her} weapon of choice that {GENDER1:cond:=1?he|=0?she} is an easy target in melee. But they'll be surprised, to learn that that's not the case."
+5859669086229,TITLE20INTERMEDIATE_RANK,{GENDER1:cond:=1?The Martial Archer|=0?The Martial Archer}
+5859669086230,TITLE20INTERMEDIATE_RANK_DESCR,"Many started to believe that {CHARACTER1}'s combat style is a mix of martial arts and archery. Whatever the case, it's a style that no one but {CHARACTER1} has mastered."
+5859669086231,TITLE20END_RANK,{GENDER1:cond:=1?The Zen Archer|=0?The Zen Archer}
+5859669086232,TITLE20END_RANK_DESCR,"{CHARACTER1} dashes through the battlefield, seamlessly engaging foes with lethal precision whether from a distance or in close quarters. A deadly combatant, who dominates the fight regardless of range."

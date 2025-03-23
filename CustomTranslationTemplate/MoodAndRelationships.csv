@@ -1,0 +1,150 @@
+ID,Key,String
+6332019019776,MOODCHANGE0,Zoldak is insane!
+6332144848896,MOODCHANGE1,"Don't worry, be happy!"
+6332149043200,MOODCHANGE2,Life is pain.
+6332149043201,MOODCHANGE3,I went out together with my Party for a drink!
+6332149043202,MOODCHANGE4,Someone talked shit about us.
+6332149043203,MOODCHANGE5,I can still hear that damn arrogant voice.
+6332149043204,MOODCHANGE6,I've been promoted to the Leader of my group!
+6332149043205,MOODCHANGE7,I just completed an assignment.
+6332149043206,MOODCHANGE8,There is something disturbing in the air.
+6332149043207,MOODCHANGE9,I got beaten up and lost money.
+6332149043208,MOODCHANGE10,I like my room. It's nice.
+6332149043209,MOODCHANGE11,I got a great room!
+6332149043210,MOODCHANGE12,Life in the Adventurer Guild is luxurious.
+6332149043211,MOODCHANGE13,I just had the most boring conversation ever!
+6332149043212,MOODCHANGE14,I'm still new so I'd better not expect too much.
+6332149043213,MOODCHANGE15,"Everywhere I go, people recognize me!"
+6332149043214,MOODCHANGE16,I know nothing and I expect nothing.
+6332149043215,MOODCHANGE17,I'm scared that I will be sent on a quest to fight bandits.
+6332149043216,MOODCHANGE18,A feast was thrown in my honor! It was incredible!
+6332149043217,MOODCHANGE19,What would the Guild do without me? So they better keep me happy.
+6332149043218,MOODCHANGE20,Someone got dismissed without compensation.
+6332149043219,MOODCHANGE21,A friend got dismissed without compensation.
+6332149043220,MOODCHANGE22,My lover got dismissed without compensation!
+6332149043221,MOODCHANGE23,An enemy of mine got dismissed. Great!
+6332149043222,MOODCHANGE24,A very close friend of mine got dismissed without compensation.
+6332149043223,MOODCHANGE25,Someone I don't like got dismissed. Who cares?
+6332149043224,MOODCHANGE26,A friend of mine cheered me up.
+6332149043225,MOODCHANGE27,I was forcefully healed. It was painful!
+6332149043226,MOODCHANGE28,A friend died.
+6332149043227,MOODCHANGE29,I still mourn someone important
+6332149043228,MOODCHANGE30,A dear friend of mine has been revived! It's a miracle!
+6332149043229,MOODCHANGE31,I had a great meal with the Guild Master!
+6332149043230,MOODCHANGE32,I'm an excellent adventurer and the Guild needs to make it worth my time.
+6332149043231,MOODCHANGE33,I'm in love!
+6332149043232,MOODCHANGE34,I've done much for the Guild. I should expect something.
+6332149043233,MOODCHANGE35,I'm a stupid oaf.
+6332149043234,MOODCHANGE36,I've lost my position as a leader.
+6332149043235,MOODCHANGE37,My Lover died!
+6332149043236,MOODCHANGE38,Someone very important to me has been revived! I'm forever grateful for this miracle!
+6332149043237,MOODCHANGE39,The food at the Guild is pretty good.
+6332149043238,MOODCHANGE40,"I got to do some fun, painful sparring."
+6332149043239,MOODCHANGE41,I was beaten senseless.
+6332149043240,MOODCHANGE42,I failed my last quest. What a disgrace.
+6332153237504,MOODCHANGE43,The last quest was hard work but at least I succeeded.
+6332153237505,MOODCHANGE44,Strange rumors about me are floating around.
+6332153237506,MOODCHANGE45,I had a nice meal with the Guild Master.
+6332153237507,MOODCHANGE46,I didn't get paid!
+6332153237508,MOODCHANGE47,A very close friend of mine died.
+6332153237509,MOODCHANGE48,I had an unbelievably delicious meal with the Guild Master.
+6332153237510,MOODCHANGE49,I got a Bonus! I'm just that valuable to the Guild!
+6332153237511,MOODCHANGE50,Someone is threatening me.
+6332153237512,MOODCHANGE51,No one loves me! Not even I!
+6332153237513,MOODCHANGE52,I'm one of the best and as such I should expect preferential treatment.
+6332153237514,MOODCHANGE53,Had a great time with some of the other adventurers.
+6332153237515,MOODCHANGE54,I could not live without my little wolf puppy.
+6332153237516,MOODCHANGE55,I just met my new best friend!
+6332153237517,MOODCHANGE56,The new alcohol Tavi is serving is incredible!
+6332153237518,MOODCHANGE57,I-I'm alive again! It's a miracle!
+6332153237519,MOODCHANGE58,Just leave me alone!
+6332153237520,MOODCHANGE59,My fun was interrupted
+6332153237521,MOODCHANGE60,I'm quite valuable to the Guild. So I should be treated as such.
+6332153237522,MOODCHANGE61,The Guild Master bought me a drink!
+6332153237523,MOODCHANGE62,I got rejected. Again...
+6332153237524,MOODCHANGE63,I got paid Vacation!
+6332153237525,MOODCHANGE64,The performers are fun to watch.
+6332153237526,MOODCHANGE65,I've enjoyed some attention today.
+10322878304256,RELATIONSHIP_CHANGE_VALUE_TEXT,{VALUE}
+14083789066240,RELATIONSHIPCHANGE0,These two have taken part in a teamwork exercise together.
+14083793260544,RELATIONSHIPCHANGE1,Shared Stories about their past
+14083793260545,RELATIONSHIPCHANGE2,Had a bad day together.
+14083793260546,RELATIONSHIPCHANGE3,Improved their Relationship in a Party.
+14083793260547,RELATIONSHIPCHANGE4,Had an awkward conversation
+14083793260548,RELATIONSHIPCHANGE5,Had an argument
+14083793260549,RELATIONSHIPCHANGE6,Someone got too full of themself.
+14083793260550,RELATIONSHIPCHANGE7,One tried to take advantage of the other.
+14083793260551,RELATIONSHIPCHANGE8,They had a heated argument which nearly escalated.
+14083793260552,RELATIONSHIPCHANGE9,Had a boring conversation
+14083793260553,RELATIONSHIPCHANGE10,Different viewpoints
+14083793260554,RELATIONSHIPCHANGE11,Got into an accident.
+14083793260555,RELATIONSHIPCHANGE12,Got in each other's way during a Quest
+14083793260556,RELATIONSHIPCHANGE13,Went on a date together.
+14083793260557,RELATIONSHIPCHANGE14,Drunken Harassment
+14083793260558,RELATIONSHIPCHANGE15,A nice thing happened
+14083793260559,RELATIONSHIPCHANGE16,Had a nice time eating a meal together.
+14083793260560,RELATIONSHIPCHANGE17,Got drunk together
+14083793260561,RELATIONSHIPCHANGE18,had a nasty argument
+14083793260562,RELATIONSHIPCHANGE19,Jealousy
+14083793260563,RELATIONSHIPCHANGE20,We both like the same person
+14083793260564,RELATIONSHIPCHANGE21,Know exactly what the other one wants.
+14083793260565,RELATIONSHIPCHANGE22,They have done something to me even if they deny it
+14083793260566,RELATIONSHIPCHANGE23,Fought against each other in a duel
+14083793260567,RELATIONSHIPCHANGE24,Had a nice chat.
+14083793260568,RELATIONSHIPCHANGE25,Talked a litte bit over a meal.
+14083793260569,RELATIONSHIPCHANGE26,Had a wonderful talk over a great meal.
+14083793260570,RELATIONSHIPCHANGE27,Trained together
+14083793260571,RELATIONSHIPCHANGE28,Something bad happened
+14083793260572,RELATIONSHIPCHANGE29,Worked well together.
+14083793260573,RELATIONSHIPCHANGE30,Failed a Quest together.
+14083793260574,RELATIONSHIPCHANGE31,They blamed each other for a failed Quest and nearly started a fight.
+14083793260575,RELATIONSHIPCHANGE32,Sucessfully completed a Quest together
+14083793260576,RELATIONSHIPCHANGE33,Something bad happened
+14083793260577,RELATIONSHIPCHANGE34,Difference in opinion
+14083793260578,RELATIONSHIPCHANGE35,Difference in opinion
+14083793260579,RELATIONSHIPCHANGE36,Something bad happenend
+14083793260580,RELATIONSHIPCHANGE37,Shared Stories about their past.
+14083793260581,RELATIONSHIPCHANGE38,Had an embarassing event
+14083793260582,RELATIONSHIPCHANGE39,Sparring Accident
+14083793260583,RELATIONSHIPCHANGE40,Spent some time together.
+14083793260584,RELATIONSHIPCHANGE41,Because of an incident these two have lost some trust between them.
+14083793260585,RELATIONSHIPCHANGE42,Beat each other
+14083793260586,RELATIONSHIPCHANGE43,Had a really akward conversation with each other.
+14083793260587,RELATIONSHIPCHANGE44,Something horrible happened
+133365147537408,FRIENDS_STAGE_TEXT,Have become friends
+133470764306432,FRIENDS_TO_AQUAINTANCE_TEXT,Lately these two seem to have gone out of their way to avoid each other. It didn't look like much in the beginning. Their conversations have become shorter. More awkward. They used to spend a lot of time together but now you hardly see them together. It's apparent that their distance to each other has grown. 
+133929767964672,FRIENDS_TO_LOVER_TEXT,"When you spend a lot of time with someone, it wouldn't be weird if you started to feel something more than friendship. This is what happened to these two. Two people who started as friends and have now become lovers. Things might be akward for them at first but it's surely something they will get used to eventually."
+141471722147840,FRIENDS_TO_NEMESIS_TEXT,"It's rare to see two old friends like these becoming enemies all of a sudden. Unfortunately, things have been going so horribly wrong between them that we gotten to this point. If they weren't friends before, one of them might already have killed the other."
+146342768709632,FRIENDS_TO_OATHSWORN_TEXT,"It's apparent these two friends have become more than simply ""friends"". They have steadily gained each other's trust and learned much of the other one's life. They gotten to a point where they easily trusted each other with their life. 
+And amongst adventurers there is nothing more powerful than a bond like that. "
+147403197812736,FRIENDS_TO_RIVAL_TEXT,"The relationship between those two have deteriorated so quick that you'd wonder what their friendship was actually worth. These two people who used to laugh together can recently only be found arguing. 
+Sometimes it looked like when one of them has gone too far in their arguments they wanted to apologize, but for some reason couldn't. 
+All that is left are hurt feelings on both sides."
+156340127174656,LOVER_STAGE_TEXT,Have become Lovers
+156462890258432,LOVER_TO_AQUAINTANCE_TEXT,"{CHARACTER1} and {CHARACTER2} are no longer lovers. It seems like both of them have realized that they don't feel the same about each other like they used to and both decided to end their relationship. 
+Nowadays you can see that they try to keep their distance to each other and when they do run into each other there is an akwardness in their conversations."
+157091532541952,LOVER_TO_NEMESIS_TEXT,{CHARACTER1} and {CHARACTER2} had a horrible breakup. It's nasty situation where they are immediately each other's throat when they enter the same room. We should think about keeping them apart for a while to let things calm down.
+157569242796032,LOVER_TO_RIVAL_TEXT,{CHARACTER1} and {CHARACTER2} have broken up and it seems like not in a good way. There seems to be alot of hurt feelings and the other adventurers tend to stay out of their way to not get caught in the crossfire of their arguments. For now it probably takes some times before both of them can move on without blaming the other.
+167820608311296,NEMESIS_STAGE_TEXT,Have become Nemesis
+167968000348160,NEMESIS_TO_AQUAINTANCE_TEXT,Something rare has happened. Two people who used to be mortal enemies have today decided to bury the hatched. They might not be friends but for now they are no enemies either. Perhaps they both knew that as adventurers it would be better to get along than not.
+168205339234304,NEMESIS_TO_FRIENDS_TEXT,"People who used to hurl insults to each other and whose animosity would sometimes manifest in physical violence could never be friends. Or could they? 
+At least this is what happened to these two. It's a strange sight to see these two who used to be mortal enemies interact with each other as if they were old friends. We have to see how long this lasts."
+168648744275968,NEMESIS_TO_LOVER_TEXT,"They say love always find a way and apparently that's true for these two. Who would have thought that these two could ever get into a amiable Relationship, much less a romantic one. Maybe that's why the adventurers around them always told them to ""Make out and get over it already!""."
+169002034696192,NEMESIS_TO_OATHSWORN_TEXT,"In the adventuring bussiness we sometimes see or hear of strange things. Things that are hard to believe. It just shows how vast this world is and how nothing should surprise us. But even so it's hard to believe that these two who used to be at each other's throat became so intimate all of a sudden.
+This can't be true, can it?"
+169461893992448,NEMESIS_TO_RIVAL_TEXT,"{CHARACTER1} and {CHARACTER2} seem to have lost a litte edge in their hostility towards each other. Even though they still don't like each other, they prefer to stay out of each other's way than confront one another. Let's hope that this is the start of them making up someday."
+171124075696128,OATHSWORN_STAGE_TEXT,Have become trusted friends.
+171617191628800,OATHSWORN_TO_AQUAINTANCE_TEXT,"{CHARACTER1} and {CHARACTER2} have been growing apart for a while now. Once they were seemingly inseperable but now they can hardly consider each other friends.
+For now they have been putting a distance between each other."
+172497529901056,OATHSWORN_TO_FRIEND_TEXT,From the outside it seems like not much has changed between these two friends. But in reality there was a small difference to how they interacted with each other compared to the past . They were still friendly with each other but their interactions lost the closeness they used to have.
+173107230707712,OATHSWORN_TO_LOVER_TEXT,"{CHARACTER1} and {CHARACTER2} have become lovers now. It's hardly surprising considering how much time they spent together. People always suspected it, but now it has become offical."
+174946323959808,OATHSWORN_TO_NEMESIS_TEXT,"To call what happened to these two a falling out, would be a gross understatement. It's more of a tragic tale of a close bond gone horribly wrong. People say the opposite of love is indifference. Indifference would have been more preferable than this state of their relationship."
+175899731202048,OATHSWORN_TO_RIVAL_TEXT,Once comrades who stood shoulder by shoulder now two rivals who can't stand the sight of each other. Who would have thought that this is how the relationship of these two would end up in.
+1598256798666752,RIVAL_STAGE_TEXT,Have become rivals
+1598336461082624,RIVAL_TO_AQUAINTANCE_TEXT,"{CHARACTER1} and {CHARACTER2} have lately seem to be on better terms than they used to be. For now it seems they don't mind each other and just let bygones be bygones. It's a good thing that their relationship has gotten better, instead of escalating."
+1599202735853568,RIVAL_TO_FRIEND_TEXT,A very lucky development. These two who usually never saw eye to eye have now become friends. You can still see a little bit of rivalry in their interactions but unlike before it is now a means to encourage each other.
+1600099960393728,RIVAL_TO_LOVER_TEXT,These two prove that you don't always have to see eye to eye to like each other. It's rare to see two people who argued a lot like these two to get together. But maybe they started on the wrong foot only because they had an akward time to get their feelings across?
+1600750236897280,RIVAL_TO_NEMESIS_TEXT,"The relationship between these two has unfortunately become even worse. Arguments have become louder and louder. Sometimes even violent. It's evident that what might have been simple rivalvry has now become a hateful relationship where we for now can only try to avoid having both of them in the same room.
+Hopefully no one has to wake up with a dagger in their back."
+1601159999426560,RIVAL_TO_OATHSWORN_TEXT,It a strange sight for everyone who knew of the time when these two were bitter rivals. Now they seem like to be the best of friends and spend much of their time together. I wonder what extraordinary thing might have happened between  them that changed their relationship so drastically.
+12046111050280960,GRIMOIRE_MOODCHANGE,The content of the grimoire is extremely disturbing. We should get rid of it.

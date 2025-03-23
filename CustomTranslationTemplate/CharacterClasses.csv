@@ -1,0 +1,45 @@
+ID,Key,String
+2350588530688,CHARACTERCLASS0,Arcane Knight
+2350609502208,CHARACTERCLASS0_DESCR,A heavily armored warrior capable of wielding magic. Unlike other magic wielders the Arcane Knight does not fear direct confrontations.
+2350609502209,CHARACTERCLASS1,Archer
+2350609502210,CHARACTERCLASS1_DESCR,Archers are ranged adventurers who are capable of attacking any foe on any range and are more accurate than most classes. Due to their low defensive capabilities they prefer to act from the back row and have tanks shield them from any harm.
+2350613696512,CHARACTERCLASS2,Assassin
+2350613696513,CHARACTERCLASS2_DESCR,Assassins are masters of the killing arts and few are as feared as them. Capable of causing devastating damage to single targets or inflicting grievous wounds that kill their victims slowly.
+2350613696514,CHARACTERCLASS3,Bard
+2350613696515,CHARACTERCLASS3_DESCR,The heart of any Adventuring Party. They support their comrades by invigorating them with encouraging songs. 
+2350613696516,CHARACTERCLASS4,Beastmaster
+2350613696517,CHARACTERCLASS4_DESCR,"The Beastmaster is never alone in Battle. They're always accompanied by their trusted animal companions, who fight and defend their master with unparalleled ferocity."
+2350613696518,CHARACTERCLASS5,Bishop
+2350613696519,CHARACTERCLASS5_DESCR,Bishops are even stronger divine spell casters compared to priests. The divines grant them their protection and have also granted them even stronger spells to buff their whole Party or smite evil-doers. 
+2350613696520,CHARACTERCLASS6,Warrior
+2350613696521,CHARACTERCLASS6_DESCR,Capable warriors who can deal great physical damage and are sturdy enough to stand on the frontlines.
+2350613696522,CHARACTERCLASS7,Dragon Knight
+2350613696523,CHARACTERCLASS7_DESCR,"The Dragon Knight is very likely the mightiest class in terms of raw strength, wielding powers harnessed from the remains of a dragon. On the battlefield they render their enemies asunder with their mighty greatsword or burn them to ashes with their fiery breath."
+2350613696524,CHARACTERCLASS8,Guardian
+2350613696525,CHARACTERCLASS8_DESCR,Guardians act as the very first line of defense with their shields and take the brunt of the damage to protect their allies. Their durability can't be matched by any other class and are therefore the prime choice to act as the tank in a party. 
+2350613696526,CHARACTERCLASS9,High Mage
+2350613696527,CHARACTERCLASS9_DESCR,"High Mages are even stronger spell casters than wizards with access to even more powerful spells. Few can match the level of destruction a High Mage can cause on the battlefield, or, if you're the enemy, live to tell the tale."
+2350613696528,CHARACTERCLASS10,Knight
+2350613696529,CHARACTERCLASS10_DESCR,The Knight is a warrior who has honed their skills for many years. Few can match their Battle Prowess on the battlefield. They're capable frontliners who can dish out as much as they can take.
+2350613696530,CHARACTERCLASS11,Mage
+2350613696531,CHARACTERCLASS11_DESCR,Mages are versatile adventurers who can use a wide varities of skills to deal with any situation. But their low health and physical resistance make them very susceptible to physical damage.
+2350613696532,CHARACTERCLASS12,Monk
+2350613696533,CHARACTERCLASS12_DESCR,Monks have dedicated their life to hone their bodies and spirits beyond the limits of men. Many have made the grave mistake of underestimating a monk just because of their lack of armor and weapon.
+2350613696534,CHARACTERCLASS13,Paladin
+2350613696535,CHARACTERCLASS13_DESCR,Paladins are holy warriors of the divine with the sole mission to eradicate evil. They can use divine skills to support their allies or themselves and are capable warriors who don't need to hide behind allies.
+2350613696536,CHARACTERCLASS14,Priest
+2350613696537,CHARACTERCLASS14_DESCR,"While priests do not have many options to deal damage to their enemies, they excel in supporting their comrades. Be it by healing their wounds or granting them courage for the fight."
+2350613696538,CHARACTERCLASS15,Ranger
+2350613696539,CHARACTERCLASS15_DESCR,"Rangers are deadly foes on the battlefield who are capable of picking any target they wish to. They can easily turn the tides of battle by taking out those high value targets, and unlike other classes, rangers rarely miss."
+2350613696540,CHARACTERCLASS16,Reaper
+2350613696541,CHARACTERCLASS16_DESCR,"The Reaper is a master of the shadows that walks the thin line between life and death. From the darkness they bring swift death upon their foes, striking fear into the hearts of even the bravest warriors."
+2350613696542,CHARACTERCLASS17,Rogue
+2350613696543,CHARACTERCLASS17_DESCR,Rogues are adventurers who don't fight fair. They can use skills which impose debilitating effects on their enemies or can get themselves out of harm's way. But by comparison they aren't as resilient as other frontline warriors.
+2350613696544,CHARACTERCLASS18,Saint
+2350613696545,CHARACTERCLASS18_DESCR,"Chosen by the gods, the saint is the embodiment of their will on the realm of men. They will perform miracles that will forever etch their faith into the non-believers."
+2350613696546,CHARACTERCLASS19,Defender
+2350613696547,CHARACTERCLASS19_DESCR,"The first to stand on the frontline and shielding their allies from harm. They are especially sturdy against physical attacks, however their damage output isn't as impressive as other classes."
+2350613696548,CHARACTERCLASS20,Sword Master
+2350613696549,CHARACTERCLASS20_DESCR,"The Swordmaster has acquired a mastery over the blade that is as deadly as it is beautiful. A true artist of combat, they dance through the battlefield with grace and precision, their foes catching only a fleeting glimpse of the blade before it delivers the final strike."
+2350613696550,CHARACTERCLASS21,Witch
+2350613696551,CHARACTERCLASS21_DESCR,"The Witch has delved deep into the forbidden arts introduced by the demons into our realm, a form of magic rightfully dreaded for its sole intent is to inflict pain and wreak destruction upon the living."

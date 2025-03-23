@@ -1,0 +1,281 @@
+ID,Key,String
+57498010044502000,PRETTY_SIMPLE_EFFECT,"Increases the amount of BP gained through this adventurer by {POTENCY}%.
+More likely to become a romance interest. "
+57498550954528800,SCARED_FIRE_EFFECT,"Everytime this character receives or causes fire damage, they lose BP."
+57498843054247900,TALENTED_EFFECT,Growth of Talents are increased by {POTENCY}. (Character is guaranteed at least 2 Talents if they're not scouted).
+57499251403296800,KIND_EFFECT,Heal- and BP-effects caused by this Character are {POTENCY}% stronger.
+57499510162493400,BORN_LEADER_EFFECT,"If character is the leader of the party, increase Chain Attack Chance by {POTENCY}%.
+(Needs the Party Leader Upgrade and the group that is on the quest has to be the party the character is leading)"
+57499742526935000,CREATIVE_EFFECT,+2 Modifier on all Attribute Checks
+57499882021097500,GREED_EFFECT,Wage is increased by 50% but find 20% more loot during quests.
+57500498902552600,SADIST_EFFECT,Character will always gain {POTENCY} BP on damaging an enemy(Amount is not influenced by bravery).  Has a chance to lose BP if they haven't damaged anyone in a round.
+57501586812735500,IRON_SKIN_EFFECT,Suffers {POTENCY}% more damage from Arcane skills.
+57501862449811500,LUCKY_EFFECT,Increases the total value of Loot found by {POTENCY}%
+57502045631844400,BORING_EFFECT,More likely to have negative Relationship Events with other characters.
+57502347500097500,OPTIMIST_EFFECT,Permanent Positive Moodbuff.
+57502479872331800,PESSIMIST_EFFECT,Permanent Mood Debuff
+57502716070367200,POPULAR_EFFECT,More likely to have positive Relationship Events with other characters.
+57503126281687000,ASCETIC_EFFECT,Does not consume any supplies during camping.
+57503246289113100,PACIFIST_EFFECT,"Everytime the character causes damage, they lose BP. Buff effects cast by this character, last 1 turn longer."
+57503466095808500,FAST_LEARNER_EFFECT,Earns {POTENCY}% more Experience Points.
+57503639052128300,SELFISH_EFFECT,Doesn't lose BP when allies get critted or die. However cannot target allies with any skills or items unless they're best friends or lovers(Allies are still affected by AoE-Skills).
+57503879335415800,BELEPHEGOR_EFFECT,Character will flee if health goes below 20% or if BP hits zero.
+57504053680050200,TRAIT_GAIN_SKILL_EFFECT,Gains the Skill <color=orange>{SKILL}</color>
+57504321972899800,ANIMAL_HATER_EFFECT,{POTENCY}% more damage against animal-like monsters.
+57504518299881500,TRAIT_CLASS_CHANGE,This Character can change to the {CLASS}-Class.
+57505518037405700,CORPSE_PILFERER_EFFECT,Increases the Loot Chance after a battle.
+57505768156336100,CURSED_EFFECT,Character has a {POTENCY}% chance to fail to execute a skill.
+57505996817207300,DEATHWISH_EFFECT,"Bravery State can never get lower than ""{NORMAL}"" and Character can never gain the {SHAKEN} status. However, there is a {POTENCY}% chance to gain the {MARKED} Status at the beginning of the turn."
+57507219431657500,DETERMINED_EFFECT,Always starts a Quest {CONFIDENT}.
+57508329018003500,GLUTTON_EFFECT,Consumes 1 more Supply during camping.
+57508778857107500,IFRIT_EFFECT01,Gains the skill <color=orange>{SKILL}</color>. Once per battle the Character can trigger an explosion that deals fire damage to themself and all other units around them.
+57509024576213000,IFRIT_EFFECT02,"Gains the skill <color=orange>{SKILL}</color>. Once per battle the Character can overheat, gaining buffs but also getting burned in the process."
+57509335185395700,INTIMIDATING_EFFECT,"Every enemy in a 3-Tile-Radius whose level is lower, will have {POTENCY} less accuracy."
+57510010078269400,LONE_WOLF_EFFECT,"As long there are no allies within 3 tiles, increase PAB, MAB, Accuracy, Crit, Dodge, Block, Initiative, Movement, Bravery and all resistances by {POTENCY}%."
+57510305105612800,LOYAL_TO_FRIEND_EFFECT,Chain Attack Chance with Friends or higher are increased by {POTENCY}%.
+57510459959316500,MAGICALLY_DEAF_EFFECT,Character cannot learn arcane or divine Skills
+57510656395350000,MERCHANT_EYE_EFFECT,Increase the value of sold loot at the end of a Quest by {POTENCY}%.
+57510940412645400,ORGANIZED_EFFECT,Increases Camping Action Points by {POTENCY}.(Can stack)
+57511112278446100,RATIONAL_EFFECT,Positive Relationship Events are only {POTENCY}% as effective.
+57511775485988900,IMPATIENT_EFFECT,Will always act first in the first round of Combat(Unless ambushed).
+57511962853937200,TRUE_LOVE_EFFECT,Chain Hit Chance with a lover is always 100%. +{POTENCY} Death Resist as long as Character has a lover.
+57578068599803904,TRAIT1,Pretty
+57578068629164032,TRAIT1_DESCR,{CHARACTER1} has a face that is pleasing to the eye.
+57578068633358336,TRAIT2,Scared of Fire
+57578068633358337,TRAIT2_DESCR,{CHARACTER1} is unusually scared of fire. 
+57578068633358338,TRAIT3,Weak
+57578068633358339,TRAIT3_DESCR,{CHARACTER1} has never exercised in {GENDER1:cond:=1?his|=0?her} life.
+57578068633358340,TRAIT4,Arrogant
+57578068633358341,TRAIT4_DESCR,{CHARACTER1} isn't arrogant. {GENDER1:cond:=1?he|=0?she} is just that damn amazing.
+57578068633358342,TRAIT5,Talented
+57578068633358343,TRAIT5_DESCR,{CHARACTER1} was always meant for this kind of life.
+57578068633358344,TRAIT6,Kind
+57578068633358345,TRAIT6_DESCR,{CHARACTER1} is a kind Soul who likes to take care of people.
+57578068633358346,TRAIT7,Born Leader
+57578068633358347,TRAIT7_DESCR,{CHARACTER1} was always meant to lead. 
+57578068633358348,TRAIT8,Resourceful
+57578068633358349,TRAIT8_DESCR,{CHARACTER1} always has the perfect idea in any situation.
+57578068633358350,TRAIT9,Nimble
+57578068633358351,TRAIT9_DESCR,{CHARACTER1} easily dances around dangers.
+57578068633358352,TRAIT10,Former Alchemist
+57578068633358353,TRAIT10_DESCR,{CHARACTER1} used to be an alchemist. But for whatever reason {GENDER1:cond:=1?he|=0?she} has given up on that life and became an adventurer instead.
+57578068633358354,TRAIT11,Greedy
+57578068633358355,TRAIT11_DESCR,{CHARACTER1} loves money more than {GENDER1:cond:=1?his|=0?her} fellow man.
+57578068633358356,TRAIT12,Brave
+57578068633358357,TRAIT12_DESCR,{CHARACTER1} has the heart of a lion. {GENDER1:cond:=1?He|=0?She} will never be found with an arrow in the back.
+57578068633358358,TRAIT13,Shortsighted
+57578068633358359,TRAIT13_DESCR,{CHARACTER1} should probably not handle bows.
+57578068633358360,TRAIT14,Magically Talented
+57578068633358361,TRAIT14_DESCR,"You're a mage, {CHARACTER1}!"
+57578068633358362,TRAIT15,Sadist
+57578068633358363,TRAIT15_DESCR,{CHARACTER1} loves nothing more than to inflict pain onto others. 
+57578068633358364,TRAIT16,Bright
+57578068633358365,TRAIT16_DESCR,{CHARACTER1} is pretty smart for an adventurer. Most are usually dumb as a brick.
+57578068633358366,TRAIT17,Dumb
+57578068633358367,TRAIT17_DESCR,{CHARACTER1} just thinks differently. Probably...
+57578068633358368,TRAIT18,Strong
+57578068633358369,TRAIT18_DESCR,Look at those biceps!
+57578068633358370,TRAIT19,Iron Skin
+57578068633358371,TRAIT19_DESCR,"{CHARACTER1} has a strange skin that resists cuts and blows.
+Unfortunately not so much magic."
+57578068633358372,TRAIT20,Impatient
+57578068633358373,TRAIT20_DESCR,{CHARACTER1} waits for no one. Either you keep up the pace or stay behind.
+57578068633358374,TRAIT21,Lucky
+57578068633358375,TRAIT21_DESCR,{CHARACTER1} is someone you should never play cards with.
+57578068633358376,TRAIT22,Quick
+57578068633358377,TRAIT22_DESCR,{CHARACTER1} is especially quick on {GENDER1:cond:=1?his|=0?her} feet.Try to keep up!
+57578068633358378,TRAIT23,Oblivious
+57578068633358379,TRAIT23_DESCR,{CHARACTER1} is the last to see it coming.
+57578068633358380,TRAIT24,Boring
+57578068633358381,TRAIT24_DESCR,{CHARACTER1} is as charismatic as a rock. A boring rock.
+57578068633358382,TRAIT25,Optimist
+57578068633358383,TRAIT25_DESCR,{CHARACTER1} doesn't dwell  on the bad stuffs. 
+57578068633358384,TRAIT26,Pessimist
+57578068633358385,TRAIT26_DESCR,{CHARACTER1}'s thoughts always tend to go dark places.
+57578068633358386,TRAIT27,Popular
+57578068633358387,TRAIT27_DESCR,{CHARACTER1} is naturally beloved by others. 
+57578068633358388,TRAIT28,Loves Pain
+57578068633358389,TRAIT28_DESCR,{CHARACTER1} wants people to hit {GENDER1:cond:=1?him|=0?her} harder.
+57578068633358390,TRAIT29,Ascetic
+57578068633358391,TRAIT29_DESCR,{CHARACTER1} is doing this crazy new diet. That can't be healthy.
+57578068633358392,TRAIT30,Resilient
+57578068637552640,TRAIT30_DESCR,{CHARACTER1} knows how to take a hit.
+57578068637552641,TRAIT31,Frail
+57578068637552642,TRAIT31_DESCR,{CHARACTER1} can't take a hit.
+57578068637552643,TRAIT32,Pacifist
+57578068637552644,TRAIT32_DESCR,{CHARACTER1} doesn't like to hurt people. For some inexplicable reason that also extends to monsters.
+57578068637552645,TRAIT33,Fast Learner
+57578068637552646,TRAIT33_DESCR,{CHARACTER1} quickly gets the hang of things.
+57578068637552647,TRAIT34,Magically deaf
+57578068637552648,TRAIT34_DESCR,{CHARACTER1} doesn't like magic and magic doesn't like {CHARACTER1}.
+57578068637552649,TRAIT35,Sickly
+57578068637552650,TRAIT35_DESCR,{CHARACTER1} gets sick easily. Very easily.
+57578068637552651,TRAIT36,Selfish
+57578068637552652,TRAIT36_DESCR,{CHARACTER1} believes that everyone is out for themselves.
+57578068637552653,TRAIT37,Educated
+57578068637552654,TRAIT37_DESCR,"{CHARACTER1} is well learned, which is quite rare nowadays."
+57578068637552655,TRAIT38,Soldier Training
+57578068637552656,TRAIT38_DESCR,{CHARACTER1} has undergone basic soldier training in {GENDER1:cond:=1?his|=0?her} youth.
+57578068637552657,TRAIT39,Huge
+57578068637552658,TRAIT39_DESCR,{CHARACTER1} is big enough to carry other adventurers around {GENDER1:cond:=1?his|=0?her} shoulder.
+57578068637552659,TRAIT40,Tiny
+57578068637552660,TRAIT40_DESCR,{CHARACTER1} is tiny and adorable. Just don't say that to {GENDER1:cond:=1?his|=0?her} face.
+57578068637552661,TRAIT41,Research Assistant
+57578068637552662,TRAIT41_DESCR,{CHARACTER1} has helped Majika with her research and {GENDER1:cond:=1?he|=0?she} learned a lot from it.
+57578068637552663,TRAIT42,Trained By Falken
+57578068637552664,TRAIT42_DESCR,{CHARACTER1} has received some private lessons from Falken.
+57578068637552665,TRAIT43,Experienced Hunter
+57578068637552666,TRAIT43_DESCR,{CHARACTER1} went hunting with Astrid and learned a lot from her.
+57578068637552667,TRAIT44,Partner in Crime
+57578068637552668,TRAIT44_DESCR,"{CHARACTER1} has accompanied Rogue on one of her ""businesses""."
+57578068637552669,TRAIT45,Injured Pup
+57578068637552670,TRAIT45_DESCR,{CHARACTER1} is carrying an injured pup. It makes it a lot harder to fight but it's all worth it to keep the little guy safe.
+57578068637552671,TRAIT46,Loyal Friend
+57578068637552672,TRAIT46_DESCR,{CHARACTER1} is followed by a little wolf {GENDER1:cond:=1?he|=0?she} rescued in one of {GENDER1:cond:=1?his|=0?her} adventures.
+57578068637552673,TRAIT47,Mark of Belephegor the Slothful
+57578068637552674,TRAIT47_DESCR,{CHARACTER1}'s soul belongs to Belephegor. That thought terrifies {GENDER1:cond:=1?him|=0?her}.
+57578068637552675,TRAIT48,Able Tracker
+57578068637552676,TRAIT48_DESCR,{CHARACTER1} has no trouble tracking somebody down.
+57578068637552677,TRAIT49,Hates Animals
+57578068637552678,TRAIT49_DESCR,{CHARACTER1} dislikes anything that walks on 4 feets.
+57578068637552679,TRAIT50,Animal Speaker
+57578068637552680,TRAIT50_DESCR,"As unbelievable as it sounds, {CHARACTER1} can speak with animals."
+57578068637552681,TRAIT51,Arm wrestling Master
+57578068637552682,TRAIT51_DESCR,"After winning one arm wrestling Match, {CHARACTER1} has strangely become obsessed with arm wrestling."
+57578068637552683,TRAIT52,Blessing of Fenrir
+57578068637552684,TRAIT52_DESCR,{CHARACTER1} has met a mystical being that is only known as fairy tale amongst the jotuns.
+57578068637552685,TRAIT53,Omnious Prophecy
+57578068637552686,TRAIT53_DESCR,"""Will you be human or will you be beast?"""
+57578068637552687,TRAIT54,Omnious Prophecy
+57578068637552688,TRAIT54_DESCR,"""Your bravery will truly be tested one day."""
+57578068637552689,TRAIT55,Celebrity
+57578068637552690,TRAIT55_DESCR,{CHARACTER1} is getting offered more free drinks than {GENDER1:cond:=1?he|=0?she} could ever drink.
+57578068637552691,TRAIT56,Clumsy
+57578068637552692,TRAIT56_DESCR,{CHARACTER1} is almost comically clumsy. To the point where {GENDER1:cond:=1?he|=0?she} causes actual harm!
+57578068637552693,TRAIT57,Corpse pilferer
+57578068637552694,TRAIT57_DESCR,{CHARACTER1} has no trouble looting a dead defenseless body.
+57578068637552695,TRAIT58,Cowardly
+57578068637552696,TRAIT58_DESCR,{CHARACTER1} does not have your back. 
+57578068637552697,TRAIT59,Crystal Eye
+57578068637552698,TRAIT59_DESCR,{CHARACTER1} has a third eye. Literally.
+57578068637552699,TRAIT60,Cursed
+57578068637552700,TRAIT60_DESCR,{CHARACTER1} is prone to accidents that seemed too unnatural.
+57578068637552701,TRAIT61,Deathwish
+57578068637552702,TRAIT61_DESCR,{CHARACTER1} isn't fearless. {GENDER1:cond:=1?he|=0?she} is just not that fond of living.
+57578068637552703,TRAIT62,Determined
+57578068637552704,TRAIT62_DESCR,{CHARACTER1} doesn't know the meaning of half-assed.
+57578068637552705,TRAIT63,Disciple of the Azure Blade Style
+57578068637552706,TRAIT63_DESCR,{CHARACTER1} is a disciple of the Azure Blade Style.
+57578068637552707,TRAIT64,Dragon Orb Power
+57578068637552708,TRAIT64_DESCR,{CHARACTER1} has received the power of a Dragon.
+57578068637552709,TRAIT65,Drunkard
+57578068637552710,TRAIT65_DESCR,{CHARACTER1} has an unhealthy Relationship with booze.
+57578068637552711,TRAIT66,Dubious Upbringing
+57578068637552712,TRAIT66_DESCR,{CHARACTER1} grew up in a place where law holds no meaning.
+57578068637552713,TRAIT67,Eagle-Eyed
+57578068637552714,TRAIT67_DESCR,{CHARACTER1} could spot a mole on an ant.
+57578068637552715,TRAIT68,Eternal Youth
+57578068637552716,TRAIT68_DESCR,{CHARACTER1} has gained the boon of eternal youth.
+57578068637552717,TRAIT69,Used to Darkness
+57578068637552718,TRAIT69_DESCR,{CHARACTER1} is used to the darkness.
+57578068637552719,TRAIT70,First Disciple
+57578068637552720,TRAIT70_DESCR,{CHARACTER1} has become Bai's first disciple. Too much attention if you ask {GENDER1:cond:=1?him|=0?her}.
+57578068637552721,TRAIT71,Forbidden Knowledge
+57578068637552722,TRAIT71_DESCR,{CHARACTER1} has aquired knowledge that would be hard to discuss in public.
+57578068637552723,TRAIT72,Glutton
+57578068637552724,TRAIT72_DESCR,{CHARACTER1} did not pack lunch for everyone. So stop asking!
+57578068637552725,TRAIT73,Likes Riddles
+57578068637552726,TRAIT73_DESCR,{CHARACTER1} has for some reason found a new fondness for riddles.
+57578068637552727,TRAIT74,Omnious Prophecy
+57578068637552728,TRAIT74_DESCR,"""Your greed will blind you from your true desire!"""
+57578068637552729,TRAIT75,Guardian Doll
+57578068637552730,TRAIT75_DESCR,A simple doll made by children's hands with the intention to keep their owner safe from harm.
+57578068641746944,TRAIT76,Hardened Knuckles
+57578068641746945,TRAIT76_DESCR,Those knuckles could split boulders.
+57578068641746946,TRAIT77,Haunted by Guilt
+57578068641746947,TRAIT77_DESCR,{CHARACTER1} has made a mistake in the past. The Guilt makes {GENDER1:cond:=1?him|=0?her} doubt {GENDER1:cond:=1?his|=0?her} own adequacy.
+57578068641746948,TRAIT78,Healthy Body
+57578068641746949,TRAIT78_DESCR,{CHARACTER1} is the very picture of health.
+57578068641746950,TRAIT79,Hopeful
+57578068641746951,TRAIT79_DESCR,{CHARACTER1} feels hopeful about the future again.
+57578068641746952,TRAIT80,Hotblooded
+57578068641746953,TRAIT80_DESCR,"Unfortunately, {CHARACTER1} more often than not acts first and thinks later."
+57578068641746954,TRAIT81,Humble
+57578068641746955,TRAIT81_DESCR,{CHARACTER1} knows that there is always someone better.
+57578068641746956,TRAIT82,Herald of Ifrit
+57578068641746957,TRAIT82_DESCR,All hail Ifrit!
+57578068641746958,TRAIT83,Herald of Ifrit
+57578068641746959,TRAIT83_DESCR,All hail Ifrit!
+57578068641746960,TRAIT84,Herald of Ifrit
+57578068641746961,TRAIT84_DESCR,All hail Ifrit!
+57578068641746962,TRAIT85,Insightful
+57578068641746963,TRAIT85_DESCR,Sometimes {CHARACTER1} is so sharp that people mistakenly believe that {GENDER1:cond:=1?he|=0?she} can read minds.
+57578068641746964,TRAIT86,Intimidating
+57578068641746965,TRAIT86_DESCR,There are few people who could look into {CHARACTER1}'s eyes and not get scared.
+57578068641746966,TRAIT87,Omnious Prophecy
+57578068641746967,TRAIT87_DESCR,"""Your kindness will be your downfall!"""
+57578068641746968,TRAIT88,Lazy
+57578068641746969,TRAIT88_DESCR,{CHARACTER1} likes to take it easy.
+57578068641746970,TRAIT89,Living For Two
+57578068641746971,TRAIT89_DESCR,{CHARACTER1} has promised to live a life that is enough for two. 
+57578068641746972,TRAIT90,Lone Wolf
+57578068641746973,TRAIT90_DESCR,{CHARACTER1} is used to working alone and is often better off like that.
+57578068641746974,TRAIT91,Loyal to Friends
+57578068641746975,TRAIT91_DESCR,{CHARACTER1} will never leave {GENDER1:cond:=1?his|=0?her} friends behind.
+57578068641746976,TRAIT92,Mana Core
+57578068641746977,TRAIT92_DESCR,"For some reason, mages always want to cut {GENDER1:cond:=1?him|=0?her} open and see what's inside."
+57578068641746978,TRAIT93,Mark of Belephegor the Slothful
+57578068641746979,TRAIT93_DESCR,{CHARACTER1}'s soul belongs to Belephegor.
+57578068641746980,TRAIT94,Enhanced Mind 
+57578068641746981,TRAIT94_DESCR,{CHARACTER1} has successfully endured a time of abstinence and meditation.
+57578068641746982,TRAIT95,Merchant Eye
+57578068641746983,TRAIT95_DESCR,{CHARACTER1} has a discerning eye for valuables and never undersells.
+57578068641746984,TRAIT96,Mind over Body
+57578068641746985,TRAIT96_DESCR,Pain is an illusion. A very painful illusion.
+57578068641746986,TRAIT97,Organized
+57578068641746987,TRAIT97_DESCR,Sometimes you'd be surprised how much time you actually have if you have a scheduler.
+57578068641746988,TRAIT98,Omnious Prophecy
+57578068641746989,TRAIT98_DESCR,"""One day your convictions will cost you dearly!"""
+57578068641746990,TRAIT99,Rational
+57578068641746991,TRAIT99_DESCR,{CHARACTER1}'s rational mind makes {GENDER1:cond:=1?him|=0?her} quite mentally resilient but also makes {GENDER1:cond:=1?him|=0?her} seem somewhat cold and distant at the same time.
+57578068641746992,TRAIT100,Penance
+57578068641746993,TRAIT100_DESCR,{CHARACTER1} wants to walk on the road of redemption. No matter how thorny it is.
+57578068641746994,TRAIT101,Sainthood
+57578068641746995,TRAIT101_DESCR,"{CHARACTER1} is a living saint, capable of performing miracles."
+57578068641746996,TRAIT102,Scarred
+57578068641746997,TRAIT102_DESCR,A life of violence has marked this body.
+57578068641746998,TRAIT103,Omnious Prophecy
+57578068641746999,TRAIT103_DESCR,"""Someone will pay for your selfishness. But unfortunately for you it won't be you."""
+57578068641747000,TRAIT104,Skillfull Sneaker
+57578068641747001,TRAIT104_DESCR,You never know where {CHARACTER1}  will appear next.
+57578068641747002,TRAIT105,Workoutaholic
+57578068641747003,TRAIT105_DESCR,{CHARACTER1} works out everyday making everyone feel selfconscious about their body.
+57578068641747004,TRAIT106,Studied Dark Magic
+57578068641747005,TRAIT106_DESCR,{CHARACTER1} studied the dark arts. {GENDER1:cond:=1?he|=0?she} has learned things that can never be forgotten.
+57578068641747006,TRAIT107,Survivor
+57578068641747007,TRAIT107_DESCR,{CHARACTER1} easily survives situations which other would call a death sentence.
+57578068641747008,TRAIT108,Sweet Talker
+57578068641747009,TRAIT108_DESCR,{CHARACTER1} could probably talk a wolf into becoming a herbivore.
+57578068641747010,TRAIT109,Talented Divine Spellcaster
+57578068641747011,TRAIT109_DESCR,{CHARACTER1} has a blessed affinity for the divine arts.
+57578068641747012,TRAIT110,Talented Swordmanship
+57578068641747013,TRAIT110_DESCR,{CHARACTER1} is a prodigy with the sword.
+57578068641747014,TRAIT111,Tournament Winner
+57578068641747015,TRAIT111_DESCR,{CHARACTER1} has won a tournament. A feat that made {GENDER1:cond:=1?him|=0?her} immortal in a way.
+57578068641747016,TRAIT112,Traumatic Memories
+57578068641747017,TRAIT112_DESCR,{CHARACTER1} is haunted by the memories of {GENDER1:cond:=1?his|=0?her} loved ones dying.
+57578068641747018,TRAIT113,Trickshooter
+57578068641747019,TRAIT113_DESCR,{CHARACTER1} knows some neat tricks
+57578068641747020,TRAIT114,True Love
+57578068641747021,TRAIT114_DESCR,{CHARACTER1} knows what true love looks like.
+57578068641747022,TRAIT115,Warrior Spirit
+57578068641747023,TRAIT115_DESCR,{CHARACTER1} believes that there is honor in battle.
+57578068641747024,TRAIT116,Strange Memories
+57578068641747025,TRAIT116_DESCR,{CHARACTER1} sometimes remembers things and events {GENDER1:cond:=1?he|=0?she} is sure to never have experienced. As if it were from another life.
+57578068641747026,TRAIT117,Vampiric Traits
+57578068641747027,TRAIT117_DESCR,"{CHARACTER1} bears an uncanny resemblance to a vampire, despite not actually being one."
+57578068641747028,TRAIT118,Veteran Knowledge
+57578068641747029,TRAIT118_DESCR,{CHARACTER1} has gained insight from a Veteran.
+57980349100306432,LAZY_LOW_VIGOR_LINE2,Aren't you all tired? I was tired hours ago!
+57980649471193088,LAZY_LOW_VIGOR_LINE3,So we still keep going?
+57980812487012352,LAZY_LOW_VIGOR_LINE4,Can someone carry me?

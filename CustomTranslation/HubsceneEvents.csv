@@ -1,0 +1,204 @@
+﻿ID,Key,String
+868035871019008,HUBSCENE_EVENT1,与悲观者的一天
+868035904573440,HUBSCENE_EVENT_DESCR1,{CHARACTER2} 有幸与 **CHARACTER1** 共度了一段时间。不幸的是，对
+868035908767744,HUBSCENE_EVENT2,工作完成得很好
+868035908767745,HUBSCENE_EVENT_DESCR2,在最近的任务中取得成功后，{PARTY}的冒险者们在酒馆举行了一场盛大的宴会庆祝。这肯定会改善每个人的心情。
+868035912962048,HUBSCENE_EVENT3,{CHARACTER1}生病了
+868035912962049,HUBSCENE_EVENT_DESCR3,"今天事情有些混乱，{CHARACTER1}突然倒下。{GENDER1:cond:=1?he|=0?she}被急忙送往伊甸，大家都担心最坏的情况，因为{GENDER1:cond:=1?he|=0?she}
+
+"
+868035912962050,HUBSCENE_EVENT4,阿莉莎
+868035912962051,HUBSCENE_EVENT_DESCR4,"阿莉莎总是为家人去世的记忆所困扰。她加入了公会，希望能找到力量，但没人知道她是否能找到她所寻找的东西。 
+然而，自从与强盗王的任务后，阿莉莎似乎变得更加平和。说她变成了一个开朗的女孩可能有些夸张，但人们确实比以前更常看到她的微笑。 当有人评论她的行为变化时，她回答道： 
+“我想是因为经过这么长时间，我突然又对未来感到希望了。”
+
+
+"
+868035912962052,HUBSCENE_EVENT5,酒馆里的争论
+868035912962053,HUBSCENE_EVENT_DESCR5,"我们的一些冒险者和旅行者发生了争执。看起来他们嘲笑了公会和冒险者。塔维及时阻止了冒险者，避免了事态恶化，但不用说，这让冒险者心情不佳。只要公会没有证明自己的实力，我们就得忍受被人看不起。
+"
+868035912962054,HUBSCENE_EVENT6,{CHARACTER1} 惹恼了所有人
+868035912962055,HUBSCENE_EVENT_DESCR6,{CHARACTER1} 一直表现得有些傲慢，所以大多数冒险者都学会了忍受。但今天，{CHARACTER1} 似乎心情特别好，这反而让那些不幸靠近 {GENDER1:cond:=1?him|=0?her} 的人更加难以忍受。
+868035912962056,HUBSCENE_EVENT7,{CHARACTER1} 正在被人瞧不起
+868035912962057,HUBSCENE_EVENT_DESCR7,CHARACTER1 和 CHARACTER2 今天发生了争执，因为 CHARACTER2 试图让 CHARACTER1 当一天的跑腿，只因为 CHARACTER1 的等级比 {GENDER2:cond:=1?his|=0?her} 低。我们可能应该提醒 CHARACTER2，低等级的冒险者并不是 {GENDER2:cond:=1?his|=0?her} 的私人仆人。
+868035912962058,HUBSCENE_EVENT8,{CHARACTER1} 造访了酒馆。
+868035912962059,HUBSCENE_EVENT_DESCR8,{CHARACTER1} 决定在酒馆度过一天，以此来让{GENDER1:cond:=1?he|=0?she}
+868035912962060,HUBSCENE_EVENT9,{CHARACTER1} 休息一段时间
+868035912962061,HUBSCENE_EVENT_DESCR9,"{CHARACTER1} 最近心情不好，决定休息一段时间放松一下。 不管别人怎么说。 {GENDER1:cond:=1?he|=0?she}
+"
+868035912962062,HUBSCENE_EVENT10,白氏争斗
+868035912962063,HUBSCENE_EVENT_DESCR10,白找到了一个新受害者，就是{CHARACTER1}。经过一段不愉快的短暂交锋，紧接着是一场单方面的拳斗，{CHARACTER1}趴在地上，口袋里的金币少了，心情也变得更糟。
+868035912962064,HUBSCENE_EVENT11,拳斗
+868035912962065,HUBSCENE_EVENT_DESCR11,"今天，Falken不得不去阻止我们一大群冒险者之间的打斗。当被问及他们为何打起来时，没有人能真正说出原因。当受伤的冒险者被带到Eden时，他只能无奈地叹气。 至少看来打斗后没有留下任何芥蒂。目前，我们应该把这次事件看作是他们在发泄一些攻击性。
+"
+868035912962066,HUBSCENE_EVENT12,黑猫
+868035912962067,HUBSCENE_EVENT_DESCR12,冒险者通常不是迷信的人，但当公会的每个角落似乎突然出现黑猫时，他们不禁怀疑这是否是神明的预兆，暗示有什么不好的事情即将发生。
+868035912962068,HUBSCENE_EVENT13,{CHARACTER1} 见到了血
+868035912962069,HUBSCENE_EVENT_DESCR13,{CHARACTER1} 和 {CHARACTER2} 本来就不算朋友，但这次如果不是周围的人阻止，他们几乎要打起来了。显然，{CHARACTER1} 当时有些嗜血，希望激怒 {CHARACTER2} 进行一场打斗。我怀疑他们是否真的想置对方于死地，但在事情真正升级之前，我们可能需要关注他们的关系。
+868035912962070,HUBSCENE_EVENT14,{CHARACTER1} 讲了一个故事
+868035912962071,HUBSCENE_EVENT_DESCR14,"{CHARACTER1} 和 CHARACTER2 被看到在交谈。至少是 {CHARACTER1} 在说话，CHARACTER2 一直插不上话，只能全程倾听。从人们的观察来看，这个故事并不怎么精彩，但 CHARACTER2 仍然坐在那里听完了。 
+整整三个小时。
+"
+868035912962072,HUBSCENE_EVENT15,勇敢与懦弱
+868035912962073,HUBSCENE_EVENT_DESCR15,看起来 {CHARACTER1} 和 {CHARACTER2} 在讨论战斗中勇气的价值时发生了争论。{CHARACTER1} 认为只有战胜恐惧，他们才能击败敌人，而 {CHARACTER2} 则认为只有恐惧才能让他们活下来并做出明智的决定。最终，他们都无法理解对方的观点，讨论只导致了对彼此的评价降低。
+868035912962074,HUBSCENE_EVENT16,{CHARACTER2} 失去了愚钝特质
+868035917156352,HUBSCENE_EVENT_DESCR16,最近，CHARACTER1 和 **CHARACTER2** 经常被看到在一起。令人惊讶的是，CHARACTER1 似乎在教 **CHARACTER2** 基本的算术和读写能力。大多数人可能认为 **CHARACTER2** 无法学习这些东西，但显然 CHARACTER1 并不这么认为。更令人惊讶的是，**CHARACTER2** 似乎真的变得更聪明了。也许 {GENDER2:cond:=1?he|=0?she} 从来没有像人们认为的那样愚笨。
+868035917156353,HUBSCENE_EVENT17,感恩的礼物
+868035917156354,HUBSCENE_EVENT_DESCR17,一份礼物被送到了冒险者公会。显然，所有在上次任务中被冒险者救出的俘虏们凑钱为公会购买了一份特别的礼物。
+868035917156355,HUBSCENE_EVENT18,感恩之礼
+868035917156356,HUBSCENE_EVENT_DESCR18,一份礼物被送到了冒险者公会。显然，冒险者在上次任务中救出的少数俘虏为冒险者公会送了一份礼物。
+868035917156357,HUBSCENE_EVENT19,意外
+868035917156358,HUBSCENE_EVENT_DESCR19,{CHARACTER1} 又发生了一次意外，并且伤到了{GENDER2:cond:=1?his|=0?her}
+868035917156359,HUBSCENE_EVENT20,可怕的强盗
+868035917156360,HUBSCENE_EVENT_DESCR20,旅行者们越来越多地讲述关于强盗残暴行为增加的故事。这些故事足以让人毛骨悚然。{CHARACTER1} 听了所有这些故事后，忍不住比平时更加害怕被派去执行另一个任务。
+868035917156361,HUBSCENE_EVENT21,活下去的理由
+868035917156362,HUBSCENE_EVENT_DESCR21,{CHARACTER2} 曾是那种让人好奇 {GENDER2:cond:=1?his|=0?her} 是如何活到现在的疯狂人物。但似乎现在这种疯狂被
+868035917156363,HUBSCENE_EVENT22,蛋孵化了
+868035917156364,HUBSCENE_EVENT_DESCR22,"当冒险者们带回来的所谓龙蛋意外开始孵化时，公会中的人们兴奋之情开始蔓延。蛋摇晃着，外壳上出现了小裂缝。冒险者们围成一个紧密的圈子，想看看会有什么东西从中出来。
+当蛋壳裂开时，一只小生物从壳中爬了出来。它看起来确实像一条龙，除了一个细节——它没有翅膀。现场的玛吉卡指出，这生物看起来像是一只蛇怪，而不是龙。
+冒险者们发出一声失望的叹息，但很快被小生物用大大的绿色眼睛盯着他们的目光所安静下来。小生物用小脚摇摇晃晃地走向他们，意外地抱住了一位冒险者的腿，似乎把他们误认为是家人。冒险者们被这一举动感动，转向公会会长，用恳求的眼神望着他。
+对此，公会会长只是叹了口气，告诉冒险者们他们可以留下它。
+
+
+"
+868035917156365,HUBSCENE_EVENT23,酒后骚扰
+868035917156366,HUBSCENE_EVENT_DESCR23,今天，{CHARACTER1} 对 {CHARACTER2} 的外貌发表了非常粗鲁的评论。这个评论让 {CHARACTER2} 感到非常不快。毫无疑问，{GENDER1:cond:=1?he|=0?she} 发表这番言论时，像往常一样喝醉了。
+868035917156367,HUBSCENE_EVENT24,喝到死
+868035917156368,HUBSCENE_EVENT_DESCR24,看来 {CHARACTER1} 无法承受压力，一直在借酒消愁。无论白天黑夜，大多数时候你都能在酒馆找到
+868035917156369,HUBSCENE_EVENT25,{CHARACTER1} 喝醉了
+868035917156370,HUBSCENE_EVENT_DESCR25,{CHARACTER1} 又喝酒了，并在酒馆里醉倒了。看来今天我们不能指望{GENDER1:cond:=1?him|=0?her}了。
+868035917156371,HUBSCENE_EVENT26,{CHARACTER1} 鼓励
+868035917156372,HUBSCENE_EVENT_DESCR26,很明显，{CHARACTER2} 最近情绪低落。尤其是对CHARACTER1来说，作为密友，CHARACTER1 把 {CHARACTER2} 拉到一旁，花时间陪伴{GENDER2:cond:=1?him|=0?her}，以此来安慰{GENDER2:cond:=1?him|=0?her}。无论CHARACTER1 做了什么或说了什么，似乎都起到了作用。
+868035917156373,HUBSCENE_EVENT27,被留下的人
+868035917156374,HUBSCENE_EVENT_DESCR27,{CHARACTER1} 仍在努力应对失去 {GENDER1:cond:=1?his|=0?her} 朋友 {CHARACTER2} 的痛苦。虽然冒险者经历同伴的死亡并不罕见，但对{CHARACTER1}来说，要轻松释怀仍然不容易。
+868035917156375,HUBSCENE_EVENT28,{CHARACTER1} 到了补给处
+868035917156376,HUBSCENE_EVENT_DESCR28,"昨晚，{CHARACTER1} ""不小心"" 闯入了我们的补给室，并为{GENDER1:cond:=1?his|=0?her}"
+868035917156377,HUBSCENE_EVENT29,宿醉
+868035917156378,HUBSCENE_EVENT_DESCR29,昨晚我们请喝酒的冒险者们喝得有点过头了。今天我们不能对他们有太多期待。至少他们看起来玩得很开心。
+868035917156379,HUBSCENE_EVENT30,隐藏的天赋
+868035917156380,HUBSCENE_EVENT_DESCR30,在训练中，Majika 感受到{CHARACTER1}身上意想不到的魔法潜力。如果这个天赋得到培养，{CHARACTER1}很容易成为一位强大的法师。
+868035917156381,HUBSCENE_EVENT31,隐藏的天赋
+868035917156382,HUBSCENE_EVENT_DESCR31,在训练中，Falken 发现 {CHARACTER1} 在剑术方面有着意想不到的天赋。{CHARACTER1} 毫不费力地模仿了展示给
+868035917156383,HUBSCENE_EVENT32,激烈的争论
+868035917156384,HUBSCENE_EVENT_DESCR32,"**CHARACTER1** 和 CHARACTER2 简单地交谈着，直到他们触及了一个对 **CHARACTER1** 来说很重要的话题。我们不知道他们说了什么，但话题演变成了一场争论。CHARACTER2 尝试转移话题，但 **CHARACTER1** 不愿意放手。最后，CHARACTER2 不得不在
+
+"
+868035917156385,HUBSCENE_EVENT33,{CHARACTER1} 很嫉妒
+868035917156386,HUBSCENE_EVENT_DESCR33,像 {CHARACTER2} 这样有才华的人总是会引起他人的嫉妒，所以像 {CHARACTER1} 这样傲慢的人有同样的感觉也不足为奇。{CHARACTER1} 抓住每一个机会，在别人面前贬低 {CHARACTER2}，只要 {GENDER1:cond:=1?he|=0?she} 能找到任何缺点。
+868035917156387,HUBSCENE_EVENT34,{CHARACTER1} 帮助了伤员
+868035921350656,HUBSCENE_EVENT_DESCR34,{CHARACTER1} 已经帮助照料了伤员。在{GENDER1:cond:=1?his|=0?her}帮助下，伤员恢复得更快。
+868035921350657,HUBSCENE_EVENT35,{CHARACTER1} 打破了一张桌子
+868035921350658,HUBSCENE_EVENT_DESCR35,"在和其他冒险者玩牌时，CHARACTER1 因为{CHARACTER1}的力量不小心弄坏了一张桌子。尽管CHARACTER1 是个肌肉发达的巨汉，{CHARACTER1}也是个心地善良的人，讨厌给别人带来麻烦。
+当其他冒险者开始帮助{CHARACTER1}
+"
+868035921350659,HUBSCENE_EVENT36,{CHARACTER1} 找不到了
+868035921350660,HUBSCENE_EVENT_DESCR36,{CHARACTER1} 无处可寻。最近，{GENDER1:cond:=1?he|=0?she} 比平时更懒散，还经常抱怨工作。{GENDER1:cond:=1?he|=0?she}
+868035921350661,HUBSCENE_EVENT37,{CHARACTER1} 已经离开了公会
+868035921350662,HUBSCENE_EVENT_DESCR37,对当前状况不满，{CHARACTER1} 离开了公会。也许我们本可以做些什么来阻止这种情况。
+868035921350663,HUBSCENE_EVENT38,不再软弱
+868035921350664,HUBSCENE_EVENT_DESCR38,{CHARACTER1} 曾经是一个看起来不适合冒险生活的弱者。那个人已经不复存在。{CHARACTER1} 和我们在一起的时间足够长，已经摆脱了过去的软弱和柔弱，{GENDER1:cond:=1?himself|=0?herself}
+868035921350665,HUBSCENE_EVENT39,三角恋
+868035921350666,HUBSCENE_EVENT_DESCR39,"看起来 {CHARACTER1} 和 {CHARACTER2} 发生了争执，但他们不愿透露争执的原因。 然而，一些其他冒险者在传言说他们两人都喜欢上了同一个人，这导致了争执。
+"
+868035921350667,HUBSCENE_EVENT40,不舒服的训练
+868035921350668,HUBSCENE_EVENT_DESCR40,"今天，**CHARACTER2** 邀请 **CHARACTER1** 与 {GENDER2:cond:=1?he|=0?she} 切磋，**CHARACTER1** 同意了，却不知道
+"
+868035921350669,HUBSCENE_EVENT41,完美的切磋伙伴
+868035921350670,HUBSCENE_EVENT_DESCR41,"今天，****CHARACTER2****邀请******CHARACTER1******与GENDER2:cond:=1?他|=0?她切磋，******CHARACTER1******同意了。在用训练武器交手了几招后，******CHARACTER1******意识到****CHARACTER2****几乎没有进行任何防御。相反，****CHARACTER2****似乎故意让GENDER2:cond:=1?他|=0?她更容易被击中，每次被击中时，{GENDER2:cond:=1?he|=0?she}
+
+"
+868035921350671,HUBSCENE_EVENT42,药品捐赠
+868035921350672,HUBSCENE_EVENT_DESCR42,Me'can带来了一批珍贵的药品，说他突然有了慷慨的冲动。我们可以免费使用这些药品，无需任何回报。有了这些，我们的冒险者应该能在一段时间内更快恢复。
+868035921350673,HUBSCENE_EVENT43,{CHARACTER1} 消失了
+868035921350674,HUBSCENE_EVENT_DESCR43,"{CHARACTER1} 没有任何通知就从公会消失了。没有人知道{GENDER1:cond:=1?he|=0?she}去了哪里，也没有人知道为什么。然而，一些冒险者相信{GENDER1:cond:=1?he|=0?she}
+"
+868035921350675,HUBSCENE_EVENT44,播种冲突
+868035921350676,HUBSCENE_EVENT_DESCR44,一些冒险者相互指责对方做了某些事情，而每个人都否认自己被指控的不当行为。整个情况让人觉得有人故意在冒险者之间制造冲突。
+868035921350677,HUBSCENE_EVENT45,{CHARACTER1} 很有动力
+868035921350678,HUBSCENE_EVENT_DESCR45,{CHARACTER1} 最近表现出异常的积极性。GENDER1:cond:=1?他|=0?她 比其他人起得更早，即使没有被分配训练任务也会去训练，并努力向经验丰富的冒险者学习任何能学到的东西。
+868035921350679,HUBSCENE_EVENT46,惨重的损失
+868035921350680,HUBSCENE_EVENT_DESCR46,{CHARACTER1}因{CHARACTER2}的去世而悲痛欲绝。有时你会看到{GENDER1:cond:=1?him|=0?her}独自坐在纪念碑前，抚摸着{CHARACTER2}的名字，抽泣不已。暂时无法派遣{CHARACTER1}去执行其他任务。
+868035921350681,HUBSCENE_EVENT47,蛋孵化了
+868035921350682,HUBSCENE_EVENT_DESCR47,"公会中的人们开始感到兴奋，因为冒险者们带回来的神秘蛋突然开始孵化。蛋壳摇晃着，外壳上出现了小裂缝。冒险者们紧紧围成一圈，想看看会有什么从中孵化出来。 
+当蛋壳裂开时，一只小生物从壳中爬了出来。它看起来确实像是一条龙，除了一个细节——它没有翅膀。现场的玛吉卡评论说，这个生物似乎是一只蛇怪。 
+这只小生物用它的大绿眼睛盯着他们。它用小脚摇摇晃晃地朝他们走去，意外地抱住了一位冒险者的腿，似乎误以为他们是家人。冒险者们被这个举动感动了，转向公会会长，眼中充满了恳求。 
+作为回应，公会会长只是叹了口气，告诉冒险者们他们可以收养它。
+
+
+"
+868035921350683,HUBSCENE_EVENT48,突然消失
+868035921350684,HUBSCENE_EVENT_DESCR48,{CHARACTER1} 今天早上神秘消失了，只留下了一张便条，上面写着 {GENDER1:cond:=1?he|=0?she} 需要确认一些事情，几天内不会回来。这只是围绕着 {CHARACTER1} 的一系列奇怪事件中的又一个，{GENDER1:cond:=1?he|=0?she} 似乎有些记不清自己是谁。
+868035921350685,HUBSCENE_EVENT49,致命决斗
+868035921350686,HUBSCENE_EVENT_DESCR49,看来{CHARACTER1}和{CHARACTER2}决定秘密地用真正的武器决斗来解决他们的恩怨。当人们发现他们并强行结束决斗时，两人都已经身负重伤，失血过多。没有人知道如果没有人干预，他们可能会走到哪一步。
+868035921350687,HUBSCENE_EVENT50,夜行
+868035925544960,HUBSCENE_EVENT_DESCR50,昨晚{CHARACTER1}发生了一些奇怪的事情。一些冒险者发现{CHARACTER1}在夜里漫无目的地游荡，并且对他们试图与{GENDER1:cond:=1?he|=0?she}
+868035925544961,HUBSCENE_EVENT51,团队训练
+868035925544962,HUBSCENE_EVENT_DESCR51,{PARTY}被看到在进行一些团队训练。看起来他们决定需要加强团队合作。这并不是个坏主意。
+868035925544963,HUBSCENE_EVENT52,匿名威胁
+868035925544964,HUBSCENE_EVENT_DESCR52,"****CHARACTER1**** 在
+
+"
+868035925544965,HUBSCENE_EVENT53,{CHARACTER1} 情绪低落
+868035925544966,HUBSCENE_EVENT_DESCR53,{CHARACTER1} 又陷入了抑郁的情绪中。{GENDER1:cond:=1?him|=0?her}
+868035925544967,HUBSCENE_EVENT54,幸运牌局
+868035925544968,HUBSCENE_EVENT_DESCR54,"今天，一些冒险者决定在酒馆里互相打牌，玩了几轮。不幸的是，其中也有 **CHARACTER1**。 不用说，那个幸运的家伙
+
+"
+868035925544969,HUBSCENE_EVENT55,{CHARACTER1} 人缘好
+868035925544970,HUBSCENE_EVENT_DESCR55,{CHARACTER1} 天生魅力非凡，总能吸引人们主动靠近{GENDER1:cond:=1?he|=0?she}
+868035925544971,HUBSCENE_EVENT56,小狗时光
+868035925544972,HUBSCENE_EVENT_DESCR56,最近，{CHARACTER1} 花了更多时间陪伴那只小狼崽，{GENDER1:cond:=1?his|=0?her}
+868035925544973,HUBSCENE_EVENT57,小狼康复
+868035925544974,HUBSCENE_EVENT_DESCR57,{CHARACTER1} 带回来的小狼似乎终于康复了。它似乎也对 {CHARACTER1} 产生了好感，开始无论 {GENDER1:cond:=1?he|=0?she} 去哪里都跟着。经过商量，{GENDER1:cond:=1?he|=0?she} 被允许留下这只狼。这个决定似乎让他们都很开心。
+868035925544975,HUBSCENE_EVENT58,该怪谁？
+868035925544976,HUBSCENE_EVENT_DESCR58,在他们上次的任务失败后，{CHARACTER1} 和 {CHARACTER2} 开始互相指责对方拖了后腿。争论变得非常激烈，以至于他们开始互相辱骂。其他冒险者不得不介入以防止事态进一步升级。
+868035925544977,HUBSCENE_EVENT59,内讧
+868035925544978,HUBSCENE_EVENT_DESCR59,{CHARACTER1}和{CHARACTER2}总是争吵不休，大家对此已经习以为常。然而，今天的争吵升级成了一场斗殴，因为说出的话无法收回。幸运的是，他们都没有携带武器，最终在其他冒险者的干预下，斗殴以鼻青脸肿告终。
+868035925544979,HUBSCENE_EVENT60,骚扰
+868035925544980,HUBSCENE_EVENT_DESCR60,{CHARACTER2}最近心情不好，因为{CHARACTER1}，{GENDER2:cond:=1?his|=0?her}竞争对手，一个似乎乐于见到他人痛苦的人，整天都在骚扰{CHARACTER2}。
+868035925544981,HUBSCENE_EVENT61,施虐者与善良者
+868035925544982,HUBSCENE_EVENT_DESCR61,"**CHARACTER2** 喜欢伤害事物。幸运的是，{GENDER2:cond:=1?he|=0?she}
+"
+868035925544983,HUBSCENE_EVENT62,老兵的证明
+868035925544984,HUBSCENE_EVENT_DESCR62,最近的战斗在{GENDER1:cond:=1?his|=0?her}
+868035925544985,HUBSCENE_EVENT63,{CHARACTER1} 避开
+868035925544986,HUBSCENE_EVENT_DESCR63,"最近，{CHARACTER1}甚至公开拒绝与最近身体不适的CHARACTER2互动。{CHARACTER1}表示，{GENDER1:cond:=1?he|=0?she}
+"
+868035925544987,HUBSCENE_EVENT64,太过友善
+868035925544988,HUBSCENE_EVENT_DESCR64,CHARACTER1 最近开始利用 **CHARACTER2** 的善良。**CHARACTER2** 以真诚友好著称，几乎从不拒绝任何请求——这一特质被 CHARACTER1 毫不掩饰地用来谋取私利。然而，即使是像 **CHARACTER2** 这样有耐心的人也有其极限。这最终导致了 CHARACTER1 和 **CHARACTER2** 之间的一场激烈争吵。
+868035925544989,HUBSCENE_EVENT65,目光短浅 vs 小巧
+868035925544990,HUBSCENE_EVENT_DESCR65,{CHARACTER1} 总是因为视力不好而难以立刻认出人。这次，{GENDER1:cond:=1?he|=0?she} 把 CHARACTER2 错认成了小孩。{GENDER1:cond:=1?he|=0?she} 大声喊着寻找走失孩子的父母，同时拖着 CHARACTER2 走。大多数冒险者都觉得这场景很有趣，但 CHARACTER2 可不这么觉得。
+868035925544991,HUBSCENE_EVENT66,切磋事故
+868035925544992,HUBSCENE_EVENT_DESCR66,今天，{CHARACTER1} 和 CHARACTER2 在训练场上进行切磋，但由于一个意外，CHARACTER2 受伤了。Falken 认为这是 {CHARACTER1} 的无心之失，但 CHARACTER2 却很难相信。
+868035925544993,HUBSCENE_EVENT67,我们中间的窃贼
+868035925544994,HUBSCENE_EVENT_DESCR67,有几个人报告说他们的一些财物被偷了。由于最近我们接待的旅客很少，小偷很可能是我们的一位冒险者。许多受害者指责CHARACTER1是小偷，因为{GENDER1:cond:=1?his|=0?her}
+868035925544995,HUBSCENE_EVENT68,强者对决
+868035925544996,HUBSCENE_EVENT_DESCR68,冒险者们一直以来都是一群粗犷的人。因此，得知{CHARACTER1}和{CHARACTER2}想知道谁更强，并认为最简单的方法就是打一架，这并不令人惊讶。直到他们互相打了几拳（并且非常生气的Falken出现）后，他们才终于停手。两人都伤痕累累，但出于某种奇怪的原因，他们的关系反而变好了。冒险者有时就是这么傻。
+868035929739264,HUBSCENE_EVENT69,短笑话
+868035929739265,HUBSCENE_EVENT_DESCR69,{CHARACTER1}和{CHARACTER2}今天一起度过了一段时间，试图彼此相处融洽。一切似乎进展得很顺利，但当{CHARACTER1}不小心开了一个关于{CHARACTER2}身高的玩笑后，气氛变得尴尬了。之后，他们都陷入了尴尬的沉默。
+868035929739266,HUBSCENE_EVENT70,训练事故
+868035929739267,HUBSCENE_EVENT_DESCR70,在训练中，{CHARACTER1} 不小心伤到了{GENDER1:cond:=1?himself|=0?herself}。虽然伤势不重，但{CHARACTER1} 现在应该休息一下。
+868035929739268,HUBSCENE_EVENT71,心痛
+868035929739269,HUBSCENE_EVENT_DESCR71,每个人都知道CHARACTER2爱上了CHARACTER1，但不幸的是，对{GENDER2:cond:=1?him|=0?her}来说，CHARACTER1并没有同样的感觉。今天，CHARACTER2试图约CHARACTER1出去，但再次被拒绝了。下次好运，CHARACTER2。
+868035929739270,HUBSCENE_EVENT72,不安全的道路
+868035929739271,HUBSCENE_EVENT_DESCR72,由于最近盗贼活动的增加，连通往冒险者公会的道路也变得极其危险。越来越少的旅行者能够到达公会，使得公会在雇佣新成员时选择变少。
+868035929739272,HUBSCENE_EVENT73,流浪艺人
+868035929739273,HUBSCENE_EVENT_DESCR73,一群流浪艺人来到了公会。他们正前往克雷格蒙德城，询问是否可以在继续旅行前在公会休息几天。作为交换，他们将为冒险者免费表演。
+868035929739274,HUBSCENE_EVENT74,名声显赫
+868035929739275,HUBSCENE_EVENT_DESCR74,今天，一些冒险者接待了他们事迹的粉丝，看来他们很享受这种关注。
+868035929739276,HUBSCENE_EVENT75,猎人的礼物
+868035929739277,HUBSCENE_EVENT_DESCR75,"今天，一份来自未知发送者的包裹送到了冒险者公会。里面有一条信息，上面写着： 
+“从一位伟大的猎人送给另一位的礼物。”
+"
+868035929739278,HUBSCENE_EVENT76,吸血副作用
+868035929739279,HUBSCENE_EVENT_DESCR76,"今天发生了一件奇怪而恐怖的事情。**CHARACTER1** 突然袭击了 CHARACTER2，试图吸食
+
+"
+868035929739280,HUBSCENE_EVENT77,神使的感激
+868035929739281,HUBSCENE_EVENT_DESCR77,神圣使者为了感谢公会拯救了因她而陷入危险的女孩，赠送了一件礼物。这是一件曾属于她前任的长袍。
+11332498287210496,THE_OLD_GRIMOIRE,古老的魔法书
+11332595863498752,THE_OLD_GRIMOIRE_DESCR,"冒险者带回的古老魔法书引起了公会所有人的不安注意。
+
+虽然大多数人觉得它的内容相当令人厌恶，但他们还是忍不住被它吸引。尽管它提供了一些好处，许多冒险者还是表示希望摆脱它。"
+11336781162328064,THE_GRIMOIRE_IS_GONE,魔法书不见了
+11337008367775744,THE_GRIMOIRE_IS_GONE_DESCR,魔法书不见了，随之而去的还有它的好处。然而，冒险者们相信这样做是最好的。

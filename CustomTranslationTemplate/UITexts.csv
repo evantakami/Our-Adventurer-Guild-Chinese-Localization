@@ -1,0 +1,1215 @@
+ID,Key,String
+167298109440,AP_PROMPT_TEXT,{AMOUNT} AP
+357446881280,BP_PROMPT_TEXT,{AMOUNT} BP
+2503277973504,UNLOCKED_AT_LEVEL_TEXT,Unlocked at Level {LEVEL}
+3673878859776,RESISTANCES,Resistances
+3833979637760,EMPOWEREMENTS,Empowerment
+4230815322112,PENETRATION,Penetration
+10886743756800,USE_SKILL_LOG,{CHARACTER} uses <color=lightblue>{SKILL}</color>
+11280765063168,OVERWATCH_TRIGGERED_LOG,{CHARACTER} triggered Overwatch of {SOURCE}
+11756864704512,ATTACK_OF_OPPORTUNITY_LOG,{CHARACTER} triggered Attack of Opportunity of {SOURCE}
+12027992903680,TOOK_DAMAGE_LOG,{CHARACTER} took <color=red>{AMOUNT}</color> damage
+12228564520960,GAINED_HEALTH_LOG,{CHARACTER} healed for <color=green>{AMOUNT}</color>
+12504969154560,GAINED_SP_LOG,{CHARACTER} gained <color=lightblue>{AMOUNT}</color> SP
+12660703662080,BP_LOST_LOG,{CHARACTER} lost {AMOUNT} BP
+12961129074688,BP_GAINED_LOG,{CHARACTER} gained {AMOUNT} BP
+13155115634688,CHAIN_ATTACK_TRIGGERED_LOG,"{CHARACTER} Chain Attack Triggered(Roll: {ROLL}, Chance: {CHANCE})"
+13477183655936,COUNTER_ATTACK_LOG,{CHARACTER} retaliated( Remaining Counters: {AMOUNT})
+13890330988544,STATUS_EFFECT_RESISTED_LOG,"{CHARACTER} resisted <color=orange>{STATUSEFFECT}</color>(Roll: {ROLL}, Chance: {CHANCE})"
+14426597920768,STATUS_EFECT_GAINED_LOG,"{CHARACTER} gained <color=orange>{STATUSEFFECT}</color>(Roll: {ROLL}, Chance: {CHANCE})"
+14678910472192,DEATH_RESIST_SUCCEED_LOG,"{CHARACTER} hasn't given up! (Roll: {ROLL}, Chance: {CHANCE})"
+14955818422272,DEATH_RESIST_FAILED_LOG,"{CHARACTER} hit their limit. (Roll: {ROLL}, Chance: {CHANCE})"
+15297197019136,CHARACTER_DIED_LOG,{CHARACTER} has died
+15492152463360,CHARACTER_DEFEATED_LOG,{CHARACTER} has been defeated
+15709396439040,CHARACTER_FLED_LOG,{CHARACTER} has fled
+16009062682624,SUMMON_LOG,{CHARACTER} has been summoned
+16163379515392,TRANSFORM_LOG,{CHARACTER} transformed into {TRANSFORM}
+16453780541440,FLEEING_FAILED_LOG,"Party tried to <color=orange>flee</color> but failed!(Roll: {ROLL}, Chance: {CHANCE})"
+16811902799872,CURSED_LOG,"{CHARACTER}'s curse did not activate!(Roll: {ROLL}, Chance: 5)"
+17172067684352,CURSED_FAILED_LOG,"{CHARACTER}'s curse activated!(Roll: {ROLL}, Chance: 5)"
+25912783310848,CHAIN_PROMPT_TITLE,Chain Attack Warning
+26053766451200,CHAIN_HIDDEN_PROMPT_TEXT,{CHARACTER1} would lose their hidden effect if they chain attack. Do you still want to trigger it?
+26756597583872,CHAIN_COUNTER_PROMPT_TEXT,{CHARACTER1} would trigger a counter if they chain attack. Do you still want to trigger it?
+27237734584320,CHAIN_BOTH_PROMPT_TEXT,{CHARACTER1} would trigger a counter and lose their hidden effect if they chain attack. Do you still want to trigger it?
+27588168683520,CHAIN_PROMPT_CONFIRM_ALL,Confirm All
+27786265661440,CHAIN_PROMPT_DONT_TRIGGER,Don't Trigger Chain Attack
+27985742565376,ALLY_HIT_TITLE,Ally will get hit!
+28119196930048,ALLY_HIT_DESCR,You're about to damage an ally. Do you still want to continue?
+28422407360512,COUNTER_PROMPT_TITLE,Counter Attack?
+28567979069440,COUNTER_PROMPT_DESCR,Do you want {CHARACTER1} to counter?
+28784996552704,COUNTER_PROMPT_NO,Don't counter
+28939393077248,COUNTER_PROMPT_ALL,Counter All
+29082389483520,AOT_WARNING_TITLE,Attack Of Opportunity
+29193240743936,AOT_WARNING_DESCR,"If you move, you'll trigger an Attack Of Opportunity. You will not be able to cancel the movement, even if the attack misses. Do you still want to move?"
+29835610984448,PATH_HAZARD_WARNING_TITLE,Dangerous Tiles
+29969904209920,PATH_HAZARD_WARNING_DESCR,Dangerous tiles on the path! Do you still want to continue?
+30231209349120,SKIP_AP_LEFT_DESCR,You still have AP left. Are you sure you want to end your turn?
+30346384936960,FLEE_WARNING_TITLE,The Cost of Retreat
+30397396062208,SKIP_AP_LEFT_TITLE,AP left
+30773583187968,FLEE_WARNING_TEXT,If you flee now the Quest will fail. Do you still want to flee?
+31016072679424,FLEE_GENERIC_WARNING_TEXT,"If you flee now, the adventurers will lose BP. Do you still want to flee?"
+31228178632704,FLED_SUCCESSFULLY,Successfully Escaped
+31351797354496,FLED_FAILED,Escape failed
+31474300391424,BATTLE_START_NORMAL,Start Battle
+31612079083520,BATTLE_START_AMBUSH,Enemy Ambush
+31764621725696,BATTLE_START_HERO_AMBUSH,Ambush
+31908054339584,TIME_LIMIT,Rounds left until defeat
+32065663700992,ROTATE_TEXT_KEY,{KEY}
+32287181672448,WAVE_TIMER_TEXT,"Next Wave in
+{AMOUNT} Rounds"
+126911237754880,HIT_UI,HIT: {HIT}%
+127160211640320,DMG_UI,DMG: {MIN}~{MAX}
+129287034146816,GRAZED,GRAZED! {AMOUNT}
+129800169492480,DEATH_RESISTED,DEATH RESISTED
+132768226775040,CRIT_UI,CRIT! {AMOUNT}
+133003523035136,MISS_UI,MISS
+133356545019904,BLOCKED_UI,BLOCKED
+133765217030144,DELAYED_UI,DELAYED
+134531927412736,SKIPPED_UI,SKIPPED
+138663513985024,HIT_CHANCE_LINEUI,"HIT:
+"
+138850856767488,CRIT_HITLINE_CHANCE,"CRIT:
+"
+139171624554496,CHAIN_LINE_CHANCE,"CHAIN:
+"
+139314247667712,STUN_LINE_CHANCE,"STUN:
+"
+139543533490176,POISON_CHANCE_LIEN,"POI:
+"
+139670004338688,BLEEDING_LINE_CHANCE,"BLD:
+"
+139790083067904,SNEAK_ATTACK_LINE_CHANCE,SNEAK ATTACK
+143622917754880,WARN_SKIP_ALL_TITLE,Skip All?
+143751997460480,WARN_SKIP_ALL_TEXT,You're about to automatically skip all remaining units' turn. Are you sure?
+144034253148160,WARN_DELAY_ALL_TITLE,Delay All?
+144115194826752,WARN_DELAY_ALL_TEXT,You're about to automatically delay all remaining units' turn. Are you sure?
+149541659512832,AP_RECOVERED_TEXT,+{AMOUNT} AP
+306996616007680,UNAFFILIATED,Unaffiliated
+307266599161856,NO_TITLE,No Title
+307808570347520,EXPERIENCE_LIMIT_REACHED,Experience Limit Reached
+309086583164928,SHOW_SKILL_TREE,Show Skilltree
+309343454924800,SHOW_ALL_SKILLS,Show All Skills
+313274713149440,CHANGE_NAME_UPDATE_BIO_TITLE,Update Bio?
+313451138158592,CHANGE_NAME_UPDATE_BIO_TEXT,Do you want to automatically replace all occurences of the old name with the new name?
+313814121615360,DISMISS_WARNING_TITLE,Dismiss {CHARACTER1}
+313987765800960,DISMISS_WARNING_TEXT,"Do you want to pay {COST} gold as a settlement? (If you don't pay, depending on their relationship, the remaining adventurers will lose mood.)"
+314421662355456,DISMISS_OPTION1,Pay
+314501291216896,DISMISS_OPTION2,Don't pay
+314667922526208,ATTRIBUTES,Attributes
+314841126309888,STATS,Stats
+315226767396864,ATTRIBUTE_GROWTHS,Attribute Growths
+315422066774016,PAY_BONUS,"Pay Bonus
+({AMOUNT})"
+318139468255232,ASSIGNMENT_EXPIRE_DAYS,Expires in {DAYS} Days
+318408474136576,ASSIGNMENT_IN_PROCESS,In Process - {DAYS} Days remaining
+318697793032192,DOES_NOT_EXPIRE,Does not expire
+421533475647488,ALLY_JOINED,{CHARACTER1} has temporarily joined your group.
+422493891571712,ANY_KEY,Any Key
+422890068750336,CONTINUE_PROMPT,Press {KEY} to continue
+423231497678848,EVENT_TRAIT_GAINED,The following people gained the following Trait:
+423417485701120,EVENT_TRAIT_LOST,The following people lost the following Trait:
+423656095461376,EVENT_ITEMS_GAINED,The following items have been gained:
+424490145394688,EVENT_ITEMS_LOST,The following items are lost:
+431640301252608,GEM_SLOT_ALREADY_FILLED_TITLE,Slot already has a gem!
+433336616202240,GEM_SLOT_ALREADY_FILLED_TEXT,"If you choose to put another gem into this slot, the old gem will be lost. Do you still want to continue?"
+439103146668032,CONFIDENT_PERSONALITY,Confident
+439245060943872,DEAULT_PERSONALITY,Default
+439867025895424,EAGER_PERSONALITY,Eager
+440080759238656,INDIFFERENT_PERSONALITY,Indifferent
+440223508180992,JOKER_PERSONALITY,Joker
+440383353106432,KIND_PERSONALITY,Kind
+440475430662144,RATIONAL_PERSONALITY,Rational
+440543684571136,RELIGIOUS_PERSONALITY,Religious
+440659044708352,RENEGADE_PERSONALITY,Renegade
+440960497725440,WISE_PERSONALITY,Wise
+475664827527168,ASSIGNMENT_OUTCOME_GOLD_REWARD,Adventurer Guild receives <color=#83720D>{AMOUNT}</color> gold.
+475836265508864,ASSIGNMENT_OUTCOME_GAIN_TRAIT,All assigned Characters gain the following trait:
+476144462966784,ASSIGNMENT_OUTCOME_LOSE_TRAIT,All assigned Characters lose the following trait:
+476245583441920,ASSIGNMENT_OUTCOME_STAT_GAIN,All assigned Characters gain {STAT_GAINS}:
+476563176140800,ASSIGNMENT_OUTCOME_RELATIONSHIP_EVENT,"All assigned Characters get the following Relationship Event:
+
+<color={HEX_COLOR}>{RELATIONSHIPCHANGE_EVENT_DESCRIPTION}"
+476803266490368,ASSIGNMENT_OUTCOME_GAIN_GUILD_EFFECT,The Guild gains the following Effect:
+476971479052288,ASSIGNMENT_OUTCOME_LOSE_GUILD_EFFECT,The Guild loses the following Effect:
+479058782826496,ASSIGNMENT_OUTCOME_EXPERIENCE,All assigned Characters receive <color=#B76D00>{EXPERIENCE_POINTS}</color> experience points.
+479761156780032,CHARACTER_IS_BUSY_RED,<color=red> Character is  currently busy.
+484644735922176,CUSTOMIZATION_POINTS_LEFT_TITLE,Points Left
+484744128344064,CUSTOMIZATION_POINTS_LEFT_TEXT,You still have some customization points. Do you really want to recruit the current adventurer?
+484971405094912,CUSTOMIZATION_REMAINING_POINTS,Remaining Points: {AMOUNT}
+485213005393920,CUSTOMIZATION_PERSONALITY,"<b>Personality({COUNT})</b>
+{NAME}"
+485535908081664,ALL_ASSIGNMENTS,All({AMOUNT})
+485672839524352,STORY_ASSIGNMENTS,Story({AMOUNT})
+485818411233280,TRAINING_ASSIGNMENTS,Training({AMOUNT})
+486024896819200,RESOURCE_ASSIGMENT,Resources({AMOUNT})
+486397007081472,MONSTER_HUNT_ASSIGNMENTS,Monster Hunt({AMOUNT})
+486626901078016,MISC_ASSIGNMENTS,Misc.({AMOUNT})
+661533605736448,DELETE_LOADOUT_WARNING_TITLE,Clear Loadout
+662768345919488,DELETE_LOADOUT_WARNING_TEXT,You're about to clear a loadout. Are you sure?
+663084525137920,LOADOUTS_TEXT,Loadouts({CLASSNAME})
+666408108404736,HAIR_INDEX,Hair({INDEX})
+667421267701760,FACE_INDEX,Face({INDEX})
+667613962416128,FACIAL_HAIR_INDEX,Facial Hair({INDEX})
+685000292020224,GUILD_EFFECT_EXPIRE,Expires in {DAYS} days
+685671795896320,SKILL_LEARNED_TEXT,Skill learned
+685804725972992,BLESSINGS_RECEIVED,Blessing Received
+685929447796736,ITEM_CRAFTED,Item Received
+686053968293888,TRAINER_UNLOCKED,New Trainer Unlocked
+686170171486208,Adventurer joined,Adventurer joined
+686506588221440,CHARACTER_GAINED_TITLE,<b>Is now known as <color=green>{TITLE}</b>
+687123188658176,CHARACTER_REVIVED,Adventurer revived
+689154947264512,HEALED,Healed
+692259852103680,LEVEL_UP_READY_HINT,There are adventurers who are ready to level up.({AMOUNT})
+692610575609856,HIGHER_CLASS_AVAILABLE_HINT,There are adventurers who can change into a higher class.({AMOUNT})
+692879598268416,TARGET_CLASS_AVAILABLE_HINT,There are adventurers who can change into their Target class.({AMOUNT})
+693084871700480,LEARN_SKILL_HINT,There are adventurers who can learn new skills.({AMOUNT})
+693284889669632,BAD_MOOD_HINT,Some adventurers are in a really bad mood. Deal with it!
+693492126035968,NEARLY_OUT_OF_MONEY_HINT,We're nearly out of money!!
+693673789730816,STORY_QUEST_EXPIRE_HINT,A story quest is close to expiring!
+694375509372928,TITLE_IMPROVEMENT_HINT,Titles of adventurers can be improved.({AMOUNT})
+705439219298304,CONFESS_UI,"Confess
+({AMOUNT})"
+705722796191744,NO_SKILLS,No Skills
+706514366214144,HEAL_UI,"Heal
+({AMOUNT})"
+706664908173312,RESTING,Resting
+707818337579008,DRINKING,Drinking
+707883470925824,BUY_DRINK,"Buy Drink
+({AMOUNT})"
+708109028012032,DRINK_NOT_AVAILABLE_DAY,Not Available until Day 3
+709365565992960,DISBAND_WARNING_TITLE,Disband Party
+709468137697280,DISBAND_WARNING_TEXT,Are you sure you want to disband the Party?
+711715814879232,NO_TITLE_AVAILABLE,No Title Available
+711843963449344,TITLE_ELIGIBLE,<color=#2aa136>Eligible for a Title</color>
+715686726053888,ADVENTURER_LIMIT,Adventurer Limit: {AMOUNT}/{LIMIT}
+715893798842368,SCOUT,"Scout
+({COST})"
+717108041461760,BUY_DRINK_MOOD_GAIN,Mood Gain per Drink: {AMOUNT}
+717270050648064,BUY_DRINK_EVERYONE,Buy drink for everyone({COST})
+717571432361984,BUY_DRINK_FOR_ALL_WARNING_TITLE,Buying Drinks for Everyone
+717723702374400,BUY_DRINK_FOR_ALL_WARNING_TEXT,Are you sure you want to buy drinks for every available adventurer?
+730022047625216,TITLE_ALREADY_ASSIGNED_TITLE,Title Already Assigned
+730180130942976,TITLE_ALREADY_ASSIGNED_TEXT,Title has already been assigned to another adventurer. The previous Adventurer will lose the title. Do you still want to continue?
+730400713584640,SPREAD_TITLE,"Spread new Title
+({AMOUNT})"
+730604992966656,IMPROVE_TITLE,"Improve Title
+({AMOUNT})"
+733649319473152,ENEMY_STRENGTH,+{LEVEL} Level
+733794786324480,LEVEL_CAP,Adventurer Max Lvl: {LEVEL_CAP}
+733948792778752,END_DAY_WARNING_TITLE,Warning
+734032704024576,END_DAY_WARNING_TEXT,"There are some things that should be resolved before ending the day:
+{WARNING}
+
+Do you still want to end the day?"
+734524561666048,BROKE_WARNING,"If you end the day, you'll be in debt. Adventurers will lose mood until you're debtless again."
+734718447562752,BAD_MOOD_WARNING,There are adventurers who are in a very bad mood and might leave the Guild!
+734870986010624,END_DAY_EVENTDIALOGUE_EXIST,<color=#FF6969>Somebody wants to talk to you
+735152641912832,END_DAY_ERROR_OBJECTIVE,<color=#FF6969>You need to fullfill the Objective first.
+735384473677824,END_GAME_TITLE,You've reached the end...
+735573825531904,END_DEMO_TEXT,END_DEMO_TITLE
+748756162293760,RECRUIT,Recruit
+750455002214400,MEAL_EFFECT,"Raise Mood by {MOOD_AMOUNT}.
+Improve Relationship between adventurers by {RELATION_VALUE}."
+751611501850624,ALREADY_HAD_MEAL,You already had a meal today.
+753110332190720,TRAINING_HIGHER_CLASS_AVAILABLE,Higher Class Available
+753269405364224,TRAINING_TARGET_CLASS_AVAILABLE,Target Class Available
+753434170208256,IN_TRAINING,In Training
+797773550301184,SWORD_SHIELD_TRAINING,Sword and Shield Training({AMOUNT})
+798069827547136,SWORDMASTER_TRAINING_AMOUNT,Swordmaster Training({AMOUNT})
+798270411747328,ARCANE_KNIGHT_TRAINING,Arcane Knight Training({AMOUNT})
+799375006871552,ARCANE_TRAINING,Arcane Training({AMOUNT})
+799649171746816,ASSASSIN_TRAINING,Assassin Training( {AMOUNT})
+799933914656768,BARD_TRAINING,Bard Training({AMOUNT})
+800123694329856,BATTLE_TACTICS_TRAINING,Battle Tactics Training({AMOUNT})
+810708951609344,BEASTMASTER_TRAINING,Beastmaster Training({AMOUNT})
+810921510547456,BISHOP_TRAINING,Bishop Training({AMOUNT})
+811183025401856,BOW_TRAINING,Bow Training({AMOUNT})
+811398486798336,DAGGER_TRAINING,Dagger Training({AMOUNT})
+811579466821632,DIVINE_TRAINING,Divine Training({AMOUNT})
+811830592385024,DRAGON_KNIGHT_TRAINING,Dragon Knight Training({AMOUNT})
+812050814316544,GREATSWORD_TRAINING,Greatsword Training({AMOUNT})
+812250056339456,GUARDIAN_TRAINING,Guardian Training({AMOUNT})
+812429446721536,HIGH_MAGE_TRAINING,High Mage Training({AMOUNT})
+812638125928448,KNIGHT_TRAINING,Knight Training({AMOUNT})
+812846092103680,MARTIAL_ART_TRAINING,Martial Art Training({AMOUNT})
+813041370509312,MONK_TRAINING,Monk Training({AMOUNT})
+813231934517248,ADVENTURER_TRAINING,Adventurer Training({AMOUNT})
+813509186400256,PALADIN_TRAINING,Paladin Training({AMOUNT})
+813767391948800,RANGER_TRAINING,Ranger Training({AMOUNT})
+814034757857280,REAPER_TRAINING,Reaper Training({AMOUNT})
+814268837769216,SAINT_TRAINING,Saint Training({AMOUNT})
+814506096963584,SCOUNDREL_TRAINING,Scoundrel Training({AMOUNT})
+814727786901504,WITCH_TRAINING,Witch Training({AMOUNT})
+814951624323072,MERCHANTS_DAUGHTER,Merchant's Daughter({AMOUNT})
+815314108657664,EXPERIENCED_ADVENTURER,Experienced Adventurer({AMOUNT})
+815567247486976,HARD_WORKER,Hard Worker({AMOUNT})
+815932718166016,PRIESTESS_VICE,Priestess of Vices({AMOUNT})
+816568750813184,DRIFTER,Drifter({AMOUNT})
+817838421159936,TRAIN_DURATION,"Train
+({DURATION} Days)"
+828941859532800,TRAINING_DURATION,Training Duration: {DAYS} Days
+829160898670592,TRAINING_MAX_LEVEL,Up to Lvl: {LEVEL}
+1418733689221120,MELEE_ARCHER_RANGE_LIMIT,(Limited due to Title)
+1842166394761216,REMOVE_BY_HAND,Remove by Hand
+1895147127418880,TRAIN,"Train
+({AMOUNT})"
+1895354531557376,LEVEL_TOO_HIGH,Level is too high
+1895509699833856,LEVEL_UP_FIRST,Needs to level up first
+1896507034021888,NOT_ALL_ADVENTURERS_AVAILABLE,<color=#a12a2a>Not all adventurers available
+1898318792994816,NO_LEADER,No Leader
+1899391968587776,PARTY_ICON_UI,Party Icon ({COUNT})
+1899828557885440,BACKGROUND_UI,Background ({COUNT})
+1962542621765632,LEADER_PARTY_SYNERGY,<color=green>+{AMOUNT}</color> points from having a Party Leader.
+1963474369622016,PARTY_AGE,{DAYS} Days
+1963591541698560,PARTY_INFORMATION,Party Information
+1963722307514368,TEAMWORK_SKILLS,Teamwork Skills
+1967051284656128,RECOMMENDED_SUPPLY_AMOUNT,"Recommended:
++{AMOUNT}({COST})"
+1967206234828800,SELECTED_ADVENTURERS,Selected Adventurers
+1967306008932352,LOW_SUPPLIES,Low Supplies
+1967608418250752,LOW_SUPPLIES_DESCR,You have less than the recommended Amount of Supplies in your Inventory(Recommended: {AMOUNT}). Are you sure you want to continue?
+1968005325238272,NOT_ENOUGH_ADVENTURER,Not enough adventurers
+1968173411971072,NOT_ENOUGH_ADVENTURER_DESCR,You're sending less than the maximum of {AMOUNT} adventurers. Are you sure you want to embark with the current selected adventurers?
+1968368459689984,UNEQUIP_ALL_WARNING,Unequip all?
+1968655618519040,UNEQUIP_ALL_WARNING_DESCR,All Adventurers not currently selected will unequip their items. Do you want to continue?
+1968783624482816,QUEST_INVENTORY,"Party Inventory
+({INVENTORY_LIMIT})"
+1968929154248704,DONATE,"Donate
+({COST})"
+1969950458884096,CHARACTER_IS_BUSY_LIGHTRED,<color=#FF6969> Character is  currently busy.
+1970311970140160,CHOOSE_LOADOUT,Choose a Loadout
+2105828900581376,LEADER_CHANGE_WARNING_DESCR,{CHARACTER1} is currently the Leader and {GENDER1:cond:=1?he|=0?she} might not like getting replaced. Are you still sure you want to replace the current leader?
+2108654330556416,CHANGE_OF_LEADERSHIP,Change of Leadership
+2117266012614656,ALREADY_IN_PARTY,<color=#FF6969>Character is already in the Party.
+2182423136940032,HAVE_BECOME_X,have become {STAGE}
+2183056170659840,FRIENDS,friends
+2183211636731904,AQUAINTANCES,Aquaintances
+2183323805003776,BEST_FRIENDS,Best Friends
+2183526230503424,LOVERS,Lovers
+2183833534574592,RIVALS,Rivals
+2183909363396608,NEMESIS,Nemesis
+2187389801050112,NORMAL_QUESTS_AMOUNT,Normal Quests({AMOUNT})
+2187542121394176,STORY_QUESTS_AMOUNT,Story Quests({AMOUNT})
+2200948522070016,CHARACTER_STATE_OUTCOME,{CHARACTER_STATE} for {DAYS} days.
+2201142873534464,EXPERIENCE_OUTCOME,has received {EXPERIENCE_POINTS} Experience Points
+2201364236316672,RECOVER_INJURY_OUTCOME,has <color={HEX_COLOR}>recovered</color> from some injuries
+2201778528694272,GAIN_INJURY_OUTCOME,has <color={HEX_COLOR}>gained</color> some injuries
+2203345227067392,GAIN_MOOD_OUTCOME,has <color={HEX_COLOR}>gained</color> mood
+2203646839468032,LOSE_MOOD_OUTCOME,has <color={HEX_COLOR}>lost</color> mood
+2203884371292160,GAIN_TRAIT_OUTCOME,has gained the following trait:
+2204047856873472,LOSE_TRAIT_OUTCOME,has lost the following trait:
+2204248864698368,RELATIONSHIP_IMPROVED_OUTCOME,<color=#2aa136> Relationship has improved.
+2204430272540672,RELATIONSHIP_DETORIATED_OUTCOME,<color=#a12a2a> Relationship has deteriorated.
+2204634883272704,GAINS_STAT_OUTCOME,gains {STAT_GAINS}
+2204806551941120,GAINS_OUTCOME,gains
+2204892543561728,LOSES_OUTCOME,loses
+2205944244318208,QUEST_INVENTORY_AMOUNT,"Inventory
+({INVENTORY_SPACE})"
+2208090964602880,PRESS_ANY_KEY_TO_CONTINUE,PRESS ANY KEY TO CONTINUE
+2211642860613632,KEY_AVAILABLE_TITLE,Key available
+2211745298100224,KEY_AVAILABLE,"Do you want to use a key?
+(Difficulty: <color=red>{DIFFICULTY}</color>, Current Highest Modifier: <color=#2aa136>{MODIFIER}</color>)"
+2212957217075200,USE_KEY,Use Key
+2213189715734528,Lockpick,Lockpick
+2219157409214464,REMAINING_SUPPLIES,Remaining Supplies: {AMOUNT}
+2219364289064960,REMAINING_CAMP_POINTS,Camp Action Points: {AMOUNT}
+2219775330856960,AMBUSH_CHANCE,Ambush: {AMOUNT}%
+2221678714400768,PROMOTED_TITLE,<size=46>P</size>ROMOTED!
+2221893370490880,LEVEL_PROMOTION_TEXT,<size=46>L</size>EVEL <size=46>U</size>P!
+2222101391192064,GROWNSTRONGER_TITLE_TEXT,{CHARACTER1} has grown stronger.
+2222404513542144,REROLL_ATTRIBUTE_GROWTH,Reroll({AMOUNT})
+2226035870642176,DISCARD_WARNING,Are you sure you want to discard the selected item?
+2228716790067200,QUEST_LENGTH,Quest Length: {LENGTH}
+2228863301300224,RECOMMENDED_LEVEL,Recommended Level : {LEVEL}
+2229553713098752,RECOMMENDED_SUPPLIES,Recommended Supplies per Adventurer: {AMOUNT}
+2229829920600064,QUEST_LOCATION,Location: {LOCATION}
+2232604096180224,ABANDON_QUEST_TITLE,Abandon Quest?
+2232772157747200,ABANDON_QUEST_DESCR,If you leave now the Quest will fail. Do you really want to leave?
+2234997684809728,ENEMIES_SCOUTED_TITLE,Enemies Scouted
+2235101338644480,ENEMIES_SCOUTED_DESCR,The following enemies are in this group:
+2251744110424064,LOADOUT_INCOMPLETE_MESSAGE,Couldn't load all items.
+2251970317627392,SOMETHING_WENT_WRONG_MESSAGE,<color=#a12a2a>An error occured. Please send report(F1). Logs are attached.
+2252321322151936,TITLE_LOST_MESSAGE,{CHARACTER1} lost {GENDER1:cond:=1?his|=0?her} title
+2252787670036480,TITLE_UPGRADABLE_MESSAGE,{CHARACTER1} can improve {GENDER1:cond:=1?his|=0?her} title
+2253242030600192,PARTY_TRAINING_FINISHED_MESSAGE,{PARTY} finished their Training
+2253586982744064,NEW_SIDESTORY_MESSAGE,New Sidestory available
+2253746030751744,NEW_STORY_QUEST_AVAILABLE,"Story Quest ""{QUEST}"" is now available."
+2254282704531456,PROPOSAL_COMPLETED_MESSAGE,"Proposal ""{PROPOSAL}"" completed"
+2254529329606656,CLASS_CHANGED_MESSAGE,{CHARACTER1} has finished {GENDER1:cond:=1?his|=0?her} Class Change.
+2259878929477632,LOADOUT_SAVED_MESSAGE,Loadout Saved
+2260042566053888,FORMATION_SAVED_MESSAGE,Formation Saved
+2260186246131712,QUICKSAVED_MESSAGE,Quicksaved
+2265423656759296,BP_COST,BP Cost: {AMOUNT}
+2270173752176640,ACHIEVEMENTS_SOURCE,From Achievements
+2270346796576768,ATTRIBUTE_SOURCE,From Attributes
+2270435841650688,BRAVERY_SOURCE,Due to Bravery State
+2270550828494848,CLASS_SOURCE,From Class
+2270698132451328,EQUIPMENT_SOURCE,From Equipment
+2270838540972032,LEVEL_SOURCE,Due To Current Level
+2270968962854912,OTHER_SOURCE,From Other Sources
+2271114048024576,PASSIVES_SOURCE,From Passive Skills
+2271225385824256,TITLE_SOURCE,From Current Title
+2271416746749952,TRAITS_SOURCE,From Traits
+2289102625157120,GUILDMASTER_NAME_PROMPT,What's your name?
+2466265731149824,ROLL_SUCCESS,Success
+2466328557629440,ROLL_CRITICAL_SUCCESS,Critical Success
+2466432639283200,ROLL_FAILED,Failed
+2466794238619648,ROLL_CRITICAL_FAILURE,Critical Failure
+2473215608991744,SPEND_BP_REROLL,"Spend 10 BP to Reroll:
+{AMOUNT}"
+2474935776948224,INJURY_HP_REDUCTION,Max HP reduced to {AMOUNT}
+2475350207737856,INJURY_DAY_DURATION,{INJURY} for {DAYS} days
+2481285055623168,QUITTING_GAME_WARNING_TITLE,Quitting Game
+2481449644306432,QUITTING_GAME_WARNING_DESCR,If you quit now any unsaved progress will be lost. Do you wish to continue?
+2487017591255040,MOODCHANGE_TEXT,{PREFIX}{AMOUNT} - {DESCRIPTION} {DURATION} {COUNT}
+2487308663369728,MOODCHANGE_DURATION,({DURATION} Days)
+2488423530344448,ACTION_USE_ITEM,Use Item
+2488532162818048,ACTION_USE_ITEM_DESCR,Use an item from your inventory.
+2488702430588928,ACTION_MOVE,Move
+2488793090469888,ACTION_MOVE_DESCR,Move to a reachable Tile
+2489221282770944,ACTION_DELAY,Delay
+2489399318392832,ACTION_DELAY_DESCR,Put your current turn at the end of the timeline. Can only be done once per round and only if no other action has been taken. Hold left-ctrl to automatically delay turn for all remaining adventurers if possible.
+2489601005694976,ACTION_FLEE,Flee
+2489697990586368,ACTION_FLEE_DESCR,Flee from Combat. Has a chance to fail.
+2489926034894848,ACTION_END_TURN,End Turn
+2490087423324160,ACTION_END_TURN_DESCR,End your turn for this round and let the next character act. Hold left-ctrl to automatically skip turn for all remaining adventurers if possible.
+2490283125354496,ACTION_INTERACT,Interact
+2490371906187264,ACTION_INTERACT_DESCR,Interact with an interactable object in range.
+2491223836438528,CONFIRM_BUTTON,Confirm[{BUTTON}]
+2492822235361280,BRAVERY_NORMAL,Normal
+2492919069257728,BRAVERY_WAVERING,Wavering
+2493999920427008,BRAVERY_BREAKING,Breaking
+2494082367860736,BRAVERY_CONFIDENT,Confident
+2494153813635072,BRAVERY_HEROIC,Heroic
+2494322051362816,BRAVERY_NORMAL_DESCR,Adventurer will perform normally
+2495079320367104,BRAVERY_WAVERING_DESCR,"-10 Dodge
+-10 Block"
+2512347966189568,MOOD_BP_INFO,Starts quests at {AMOUNT} BP
+2512575364575232,CURRENT_MOOD,Current Mood: {MOOD}
+2515726150905856,ROLL_KEY,Roll {KEY}
+2516085275602944,ATTRIBUTE_CHECK,{ATTRIBUTE} Check
+2517710224470016,TIME_PLAYED,"Time played:
+{TIME}"
+2517891586174976,IRONMAN,(Ironman)
+2518553963245568,CORRUPTED_SAVE,Corrupted Save
+2518641536118784,INCOMPATIVE_SAVE,Incompatible Save
+2518746100117504,OVERWRITE_WARNING_TITLE,Overwrite Save?
+2518930708213760,OVERWRITE_WARNING_DESCR,There is already a save file for this slot. Do you want to overwrite it?
+2519303456010240,DELETE_SAVE_WARNING_TITLE,Delete Save?
+2519432950951936,DELETE_SAVE_WARNING_DESCR,You're about to delete a save? Are you sure?
+2520546911956992,CLOSE_UI,Close
+2521091701714944,GO_BACK_GUILD,Go back to the Guild
+2523954897203200,OVERWRITE_SAVE_BUTTON,Overwrite
+2524101475545088,LOAD_SAVE_BUTTON,Load
+2527717414383616,USE_SWORD_SHIELD,This class uses Swords and Shields as Weapon.
+2527984159535104,USE_DAGGER,This class uses Daggers as Weapon.
+2528120394723328,USE_STAFF,This class uses Staffs as Weapon.
+2528248602013696,USE_BOW,This class uses Bows as Weapon.
+2528355271553024,USE_GREATSWORD,This class uses Greatswords as Weapon.
+2528505326972928,USE_FISTS,This class uses their Fists as Weapon.
+2528760839778304,USE_LIGHTARMOR,This class wears Light Armors
+2528892574478336,USE_MEDIUMARMOR,This class wears Medium Armors
+2529000590389248,USE_HEAVYARMOR,This class wears Heavy Armors
+2529144375324672,USE_NO_ARMOR,This class wears no Armors
+2529421853700096,GROWTH_TOOLTIP,"S: 110 Growth
+A: 90 Growth
+B: 75 Growth
+C: 50 Growth
+D: 20 Growth"
+2535640421085184,TARGET_CLASS,Target Class
+2535996215504896,UNLOCKED_THROUGH_PROPOSAL,Unlocked through a Proposal
+2536171801653248,GIVE_TITLE_BUTTON_TOOLTIP,Give an adventurer a Title
+2536460503986176,CLEAR_LOADOUT,Clear Loadout
+2540828355702784,ICE_EMPOWEREMENT_TOOLTIP,How much the ice damage inflicted by this adventurer is boosted
+2541409614934016,ENEMY_SCALING_TOOLTIP,"The world is a dangerous place. Enemies are growing stronger and stronger with each passing day.
+Enemies receive bonus level depending on how many days have passed."
+2548248775733248,GENERAL_OVERVIEW,General Overview
+2548408801013760,EQUIPMENT_LABEL,Equipment
+2548552082632704,SKILLS_LABEL,Skills
+2548624216272896,RELATIONSHIPS_LABEL,Relationships
+2548755548319744,VIEW_CLASS_DETAILS,View Class Details
+2549012743041024,ALL,All
+2549690244771840,SET_TARGETCLASS_TOOLTIP,"Set a target class for this Adventurer.
+If an adventurer has a target class the game will only notify you about an available class change if the Adventurer can change to the target class.
+Gets reset during a class change."
+2549917177589760,PAY_BONUS_TOOLTIP,Pay a bonus to improve mood. Can stack.
+2550998980866048,LEADER_TOOLTIP,"A Party with a leader will have an additional 5% chance to trigger a chain attack. Additionally, all Party members gain a bonus on their bravery depending on the leader's willpower. A character will lose mood if they lose their position as leader."
+2551580886020096,AUTO_RESIZE_TOOLTIP,This setting will automatically resize and center custom portraits to always fit the frames they're used in. This will look best for most custom portraits.
+2551978015305728,CUSTOM_CONFIGURATION_FILE_TOOLTIP,"You'll find an .ini file in C:\Users[username]\AppData\LocalLow\TheGreenGuy that allows you to modify certain values in the game.
+<color=#FF6969>BACK UP YOUR SAVES BEFORE USING IT!</color>"
+2552654875308032,AUTOSAVE_SLOTNUMBER_TOOLTIP,How many auto saves the game will manage. Does not apply for Ironman.
+2553171630338048,ADVENTURER_SCOUTING_TOOLTIP,You'll be able to create completely custom characters in the tavern for a fee with a point system.
+2553846091198464,LEVEL_CAP_TOOLTIP,Adventurers will not be able to level beyond the maximal allowed level dictated by the current Rank of the Guild.
+2554484367798272,NO_HIT_CHANCE_CAP_TOOLTIP,The hit chance will no longer be restricted between 5% and 95%.
+2554687007207424,NO_PERMA_DEATH_TOOLTIP,All Quests will have the <color=orange>{NON_LETHAL}</color>-Modifier. Adventurers can not die on quests but will still be gone from the Quest when they fail their Death Resist check.
+2555019556794368,STATIC_GROWTH_TOOLTIP,Attribute gains will no longer be rolled. Attributes will statically increase according to their growth.
+2555263971471360,ENABLE_ENEMY_GROWTH_TOOLTIP,Enemies will gain bonus level depending on how many days have passed. (Changing the settings here will not have any effects on enemies who have already spawned on the Questmap.)
+2555454296403968,ENEMY_GROWTH_START_DAY_TOOLTIP,The day from which the enemy will start scaling.
+2555634693419008,ENEMY_GROWTH_PERIOD_TOOLTIP,How many days need to pass each time starting from the start day until enemies will gain a bonus level.
+2555821490941952,ENEMY_DAMAGE_MULTIPLIER_TOOLTIP,A bonus multiplier that will apply on Physical Attack Bonus and Magical Attack Bonus of enemies.
+2555981633662976,ENEMY_HEALTH_MULTIPLIER_TOOLTIP,A bonus multiplier that will apply on hitpoints of enemies.
+2556197476741120,ENEMY_BONUS_ACCURACY_TOOLTIP,A flat bonus to enemy accuracy.
+2556358659649536,ADVENTURER_BONUS_ACCURACY_TOOLTIP,A flat bonus to adventurer accuracy.
+2556503098896384,QUEST_REWARD_MULTIPLIER_TOOLTIP,A bonus multiplier that will apply on the gold and item rewards of Quests. Item rewards for story quests are unaffected.
+2556778752749568,QUEST_ITEMVALUE_MULTIPLIER_TOOLTIP,A bonus multiplier to the total value of items that can be found in chests or resource nodes.
+2557123025416192,ENEMY_EXP_MULTIPLIER,A bonus multiplier on the amount of experience points adventurers gain from defeating enemies.
+2557248086978560,QUEST_EXP_MULTIPLIER,A bonus multiplier for the experience points reward for quests.
+2557386490621952,ENEMY_POINTS_MULTIPLIER,A bonus multiplier on how many points will be used to generate random encounters.(Will not change encounters that are already roaming on the map.)
+2557758269534208,TRAIN_ADVENTURERS,Train Adventurers
+2557968089591808,UNEQUIP_ADVENTURER,Completely Unequip Adventurer
+2558141737971712,LOAD_EQUIPMENT_LOADOUT,Load an equipment loadout
+2558329202388992,SAVE_EQUIPMENT_LOADOUT,Save current equipment loadout
+2558539311853568,MANAGE_ADVENTURER_PARTIES,Manage Adventurer Parties
+2558612435349504,MANAGE_ADVENTURERS,Manage Adventurers
+2558849036038144,TAVERN_BUY_DRINK_OPTION,Buy drinks for your adventurers.
+2558959920852992,TAVERN_EATLUCNH_OPTION,Eat lunch with your adventurers
+2560007330836480,DIALOGUE_HISTORY,Dialogue History
+2560227619876864,PARTY_WINDOW_MEMBERS,Members
+2560467559231488,PLAY_RANDOM_LONE,Play a random line
+2560759491178496,TEACH_SKILLS,Teach Skills
+2560856501235712,CHANGE_CLASS,Change Classes
+2560938298552320,TEAMWORK_TRAINING,Teamwork Training
+2561065587290112,DONATE_BUTTON_TOOLTIP,Donate to receive a random blessing for the next quest.
+2561249109061632,UNEQUIP_ALL_UNSELECTED_CHARACTER_TOOLTIP,Completely unequip all non-selected adventurers.
+2561934651273216,CONFESS_BUTTON_TOOLTIP,Adventurers confess their sins (Respec)
+2574977078636544,ASSIGNMENT_SUCCESS_CHANCE_TOOLTIP,The success chance of the assignment. It can be increased by assigning adventurers with relevant stats.
+2582702323904512,ASSIGNMENT_INJURY_CHANCE_TOOLTIP,The likelihood of the assigned characters getting injured during the assignment. The injury chance will be rolled for every character individually.
+2582950983217152,ASSIGNMENT_MOODCHANGE_TOOLTIP,How the mood of the adventurers will be changed after completing the assignment.
+2584340841345024,PARTY_SYNERGY_BONUS_I,"Party gains the following stats during Battle:
++5 Initiative"
+2584527949246464,PARTY_SYNERGY_BONUS_II,"If the corresponding Guild Upgrade is unlocked, the party can learn low-tier Teamwork Skills. If the synergy level is lower than this, acquired low-tier Teamwork skills will become inactive."
+2585043773140992,PARTY_SYNERGY_BONUS_III,"If the corresponding Guild Upgrade is unlocked, the party can learn mid-tier Teamwork Skills. If the synergy level is lower than this, acquired mid-tier Teamwork skills will become inactive."
+2585273834909696,PARTY_SYNERGY_BONUS_IV,"If the corresponding Guild Upgrade is unlocked, the party can learn high-tier Teamwork Skills. If the synergy level is lower than this, acquired high-tier Teamwork skills will become inactive."
+2585653696245760,GUILD_INVENTORY,Guild Inventory
+2585781467328512,SIDESTORIES_LABEL,Sidestories
+2585950938181632,FORCED_HEAL_ADVENTURERS,Forcefully heal Adventurers
+2586299174465536,TAVERN_RECREUIT_ADVENTURERS_OPTION,Recruit Adventurers
+2586456116932608,CLEAR_REPORTS_BUTTON,Clear all reports
+2586562333487104,ASSIGNMENT_COMPLETION_TIME_TOOLTIP,The total amount of time the adventurers will need to complete the assignment.
+2586873857028096,BLACKSMITH_CRAFT_EQUIPMENTS,Craft Equipments
+2587009895084032,BLACKSMITH_ENHANCE_EQUIPMENTS,Enhance Equipments
+2587179789561856,GAME_MENU,Game Menu
+2587871778418688,PARTY_SYNERGY_TOOLTIP,"How well the Party works together. Their Synergy depend on their relationship to each other and how many times they have gone on a quest together as a Party.
+
+Currrent Synergy:
+{RELATION_SYNERGY} points from their Relationship
+{EXPERIENCE_SYNERGY} points from doing Quests together{LEADER_SYNERGY}"
+2591476812066816,QUESTMAP_OPEN_INVENTORY,Open Inventory
+2591660690354176,QUESTMAP_OPEN_CHARACTER_INFORMATION,Open Character Page
+2591853326348288,TOGGLE_BATTLE_SPEED,Toggle Battle Speed
+2592006472970240,TOGGLE_UNIT_REPRESENTATION,Toggle Unit Representation
+2592189789220864,HIDE_SHOW_TALL_OBJECTS,Permantly Hide/Show Tall Objects
+2592424607330304,RESET_CAMERA,Reset Camera
+2592557449326592,QUEST_EXP_MULTIPLIER_TOOLTIP,Multiplier to the Exp. Reward upon completing the Quest. Increases when defeating enemies.
+2593418703515648,BATTLE_SHOW_ADDITIONAL_ROW,Show an additional row
+2593575587262464,BATTLE_HIDE_ADDITIONAL_ROW,Hide an additional row
+2593709603663872,AMBUSH_TOOLTIP,The likelyhood of the party getting ambushed during their rest.
+2594190799384576,CAMP,Camp
+2594323331002368,QUESTMAP_OPEN_MAP,Open Map
+2594421456744448,CHANGE_FORMATION,Change Formation
+2594505422516224,VIEW_QUEST,View Quest
+2594974005964800,STAMINA_TOOLTIP,"Your current Stamina is displayed here. It's determined by the cumulative sum of the endurance stats of your adventurers. If it reaches zero, your adventurers will become exhausted. In this state, enemies move at double speed on the map, and adventurers start battle encounters with 1 less AP. Stamina can be replenished by camping."
+2595621996572672,NOT_ENOUGH_AP_COLOR,<color={COLOR}>Not Enough AP
+2596659319255040,QUESTMAP_LEAVE_QUEST,Return to Guild
+2608061048139776,IRONMAN_TOOLTIP,Only a single savefile and no manual saving.
+2608210726072320,JOIN_DISCORD,Join Discord
+2621952285192192,EQUIPPED_BRACKET,(Equipped)
+2625528151650304,TARGET_RESTRICTION_TAG,Has {TAG} Tag
+2627146498682880,TURN_DONE,Has no future turn
+2628039294038016,SUMMONER_RESTRICTION,Is the Summoner of the unit.
+2628640279080960,MULTI_SELECTION,Choose up to {AMOUNT} targets:
+2628853387472896,SP_COST,SP: {AMOUNT}
+2629075954020352,SP_COST_PER_TURN,SP Per Turn: {AMOUNT}
+2629271811239936,LIMITED_PER_ENCOUNTER,Per Encounter({AMOUNT})
+2629458097057792,LIMITED_PER_REST,Per Rest({AMOUNT})
+2629616880824320,LIMITED_PER_ROUND,Per Round({AMOUNT})
+2629787605774336,LIMITED_PER_QUEST,Per Quest({AMOUNT})
+2629921425043456,PARTY_REQUIREMENT_TEXT,"Party:
+{REQUIREMENT}"
+2630044062298112,EVERYCHARACTER_REQUIREMENT_TEXT,"Every Character:
+{REQUIREMENT}"
+2630230666883072,CAN_TARGET_HIDDEN,Can Target Hidden
+2665635936186368,ENTER_THE_GUILD,Enter the Guild
+2667832786792448,NEW_GAME_SAVE_ALREADY_EXISTS_TITLE,Save already exists
+2668276263137280,NEW_GAME_SAVE_ALREADY_EXISTS,A save file with the same name already exists. Do you want to overwrite it?
+2668861607620608,NEW_GAME_LETTER_INTRO_TEXT,"Dear friend,
+<waitfor=1>
+It has been a long time, hasn't it? I always thought about writing to you but I've never found the courage to do so. 
+
+How ironic that my very first letter to you would also be my last.
+
+Because by the time you receive this letter,<waitfor=0.7> I will already be dead.
+
+Friend, <waitfor=0.7>I have a favor I want to ask of you. It concerns the Adventurer Guild. 
+
+It has been...difficult these last couple of years. It shames me to admit that we have been struggling and I'm afraid of what will become of the Guild, now that I'm gone. 
+
+I fear that without the right leadership it will cease to exist.
+
+<waitfor=0.7>That's why I want you to become the new Guild Master.
+
+I know it might be selfish of me to ask this of you but I ask you as your friend. As someone who considered you family...
+<waitfor=0.5>
+Please don't let our dream die.
+<waitfor=1><speed=5>
+<i>Former Guild Master of the Adventurer Guild and your old friend
+Fran</i>"
+2669051232104448,PRESS_ESC_TO_SKIP,Press Esc to skip
+2669196455686144,PRESS_ANY_KEY_TO_CONTINUE_NO_CAP,Press any key to continue
+2678283784400896,PARTY_HAS_LEADER_REQUIREMENT,Party has leader
+2678425153417216,PARTY_AT_LEAST_THREE_MEMBERS_REQUIREMENT,Party has at least 3 Members
+2683916592066560,THREE_MEMBER_REQUIREMENT,Party has exactly three members
+2684052659482624,LEADER_BARD_REQUIREMENT,The Leader is a bard
+2860185766047744,RECOVER_X_AP,Recover {MAGNITUDE} AP
+2861660789518336,RESET_CD_ALL_SKILLS,Reset Cooldown of all Skills
+2985741627142144,MAIN_MENU_CONTINUE,Continue
+2985982371803136,MAIN_MENU_START_GAME,Start Game
+2986189675278336,MENU_LOAD_GAME,Load Game
+2986492407558144,MENU_OPTIONS,Options
+2986841973436416,CREDITS,Credits
+2986986026807296,MENU_QUIT_GAME,Quit Game
+2998817055289344,MENU_HELP,Help
+2999279015931904,MENU_SAVE_GAME,Save Game
+2999622252605440,MENU_MAIN_MENU,Quit to Main Menu
+3014254929358848,LEAVE_LOOT_WARNING_TITLE,Leave Loot Behind?
+3014426837102592,LEAVE_LOOT_WARNING_DESCR,You're about to leave loot behind. Are you sure?
+3230023181119488,ATTRIBUTECHECK_CONFIRM_WARNING_TITLE,Attributecheck Failed
+3230437876150272,ATTRIBUTECHECK_CONFIRM_WARNING,You failed the check. Are you sure you want to accept the result?
+3234820890275840,ACCEPT_BUTTON,Accept {BUTTON}
+3335569838157824,DIFFICULTY_EASY_DESCRIPTION,"<color=#2aa136>Easy Difficulty</color>: 
+A more forgiving experience. Enemies have 20% less hitpoints, physical and magical attack."
+3335753338957824,DIFFICULTY_NORMAL_DESCRIPTION,"Normal Difficulty(Recommended): 
+For players who are familiar with tactical games. No difficulty modifiers."
+3335875179294720,DIFFICULTY_HARD_DESCRIPTION,"<color=#a12a2a>Hard Difficulty</color>: 
+Be prepared to lose adventurers. Enemies have 20% more hitpoints, physical and magical attack and 10 more accuracy. Quest rewards are reduced by 10%. Loot is reduced by 20%."
+3335972520701952,DIFFICULTY_VERYHARD_DESCRIPTION,"<color=#a12a2a>Very Hard Difficulty</color>: 
+You've asked for it! Enemies have 30% more hitpoints, physical and magical attack and 20 more accuracy. Quest rewards are reduced by 20%. Loot is reduced by 30%."
+4022590785171456,DELETE_UI,Delete
+4022787820990464,SAVES_LIST_TITLE,Saves
+4023027470938112,BACK_UI,Back
+4023890260242432,NEW_GAME_SETTINGS,New Game Settings
+4024151473106944,DIFFICULTY,Difficulty
+4024900642910208,ENTER_SAVE_NAME,Enter Save name
+4025313874128896,F1_FEEDBACK_MESSAGE,Press F1 at any point in time to give Feedback
+4026079816953856,CUSTOM_DIFFICULTY_SETTINGS,Custom Difficulty Settings
+4027917496725504,GAMEPLAY_MODIFICATION,Gameplay Modification
+4028349237407744,ALLOW_SCOUTING_ADVENTURERS,Allow Scouting Adventurers
+4029574179696640,LEVEL_CAP_SETTING,Level Cap
+4029874219233280,NO_HITCHANCE_CAP_SETTING,No Hit Chance Cap
+4030227249606656,NO_PERMADEATH,No Permadeath
+4030816159248384,STATIC_ATTRIBUTE_GROWTH_SETTING,Static Attribute Growth
+4047483207659520,ENEMY_BONUS_LEVEL_OVER_TIME_SETTING,Enemy bonus level over time
+4047903107821568,ENEMY_GROWTH_START_DAY_SETTING,Start Day
+4048283396976640,ENEMY_GROWTH_PERIOD_SETTING,Level Increase every X Days
+4048621441101824,MODIFIERS,Modifiers
+4048867776770048,ENEMY_DAMAGE_BONUS_SETTING,Enemy Damage bonus modifier
+4049258157420544,ENEMY_HEALTH_MULTIPLIER_SETTING,Enemy Health bonus modifier
+4049533156962304,ENEMY_BONUS_ACCURACY_SETTING,Enemy Bonus Accuracy
+4049840200986624,ADVENTURER_BONUS_ACCURACY_SETTING,Adventurer Bonus Accuracy
+4050232020283392,QUEST_REWARD_MULTIPLIER_SETTING,Quest Reward Bonus Modifier
+4051349559029760,QUEST_ITEMVALUE_MULTIPLIER_SETTING,Chest/Resources Bonus Modifier
+4053613489139712,ENEMY_EXP_MULTIPLIER_SETTING,Enemy Exp. Bonus Modifier
+4057565601443840,QUEST_EXP_MULTIPLIER_SETTING,Quest Exp. Bonus Modifier
+4057901573582848,ENEMY_POINTS_MULTIPLIER_SETTING,Random Enemy Encounter Points Modifier
+4071598404644864,DIFFICULTY_EASY,Easy
+4071732425240576,DIFFICULTY_NORMAL,Normal
+4071849131749376,DIFFICULTY_HARD,Hard
+4073016293306368,DIFFICULTY_VERYHARD,Very Hard
+4073161852432384,DIFFICULTY_CUSTOM,Custom
+4087827613855744,SETTINGS_GENERAL,General
+4088190878330880,SETTINGS_GAMEPLAY,Gameplay
+4088476288135168,SETTINGS_KEYBINDINGS,Keybindings
+4088946817740800,VIDEO_SOUND_LABEL,Video & Sound
+4089318378549248,FULLSCREEN_LABEL,Fullscreen
+4089650181550080,BGM_LABEL,BGM
+4089795572903936,SFX_LABEL,SFX
+4090034732118016,UI_SCALE_LABEL,UI Scale(Experimental)
+4090516556984320,TURN_OFF_BUTTON_HOVER_SOUND,Turn Off Button Hover Sound
+4092951237210112,DIFFICULTY_SETTINGS_LABEL,Difficulty Settings
+4094308509790208,DIALOGUE_LABEL,Dialogue
+4094709984374784,DIALOGUE_SPEED_LABEL,Dialogue Speed
+4095619103961088,DISABLE_FLASH_EFFECT_SETTING,Disable Flash Effects during dialogue scenes
+4096417460367360,WARNINGS_PROMPTS_LABEL,Warnings and Prompts
+4096722340130816,COUNTER_PROMPT_LABEL,Counter Prompt
+4097236490498048,CHAIN_ATTACK_PROMPT_SETTING_TOOLTIP,You'll get a Prompt for a Chain Attack if there is the risk of a counter or the unit would lose hidden
+4097979465314304,AP_LEFT_WARNING_SETTING,Receive a warning when ending a turn with remaining AP
+4098431766474752,DANGEROUS_TILE_WARNING_SETTING,Receive a warning when moving through dangerous tiles
+4101630657277952,CONFIRMATION_PROMPT_LEARNING_SKILL,Ask for confirmation when learning skills
+4102724594675712,EMBARK_WARNING_UNPREPARED,Warn when embarking on a Quest underprepared
+4103398497693696,BATTLE,Battle
+4105430252105728,UNIT_TURN_CUE_LABEL,Unit Turn Cue
+4113166058631168,UNIT_TURN_CUE_OPTION1,Play cue on every unit's turn
+4113240142622720,UNIT_TURN_CUE_OPTION2,Play cue only on player turns
+4113268663889920,UNIT_TURN_CUE_OPTION3,Don't play any cues
+4267703331434496,AUTO_HIDE_BARS,Auto-Hide Bars during Battle
+4268364014006272,AUTO_MOVESELECTION_SETTING,Automatically start Movement Selection on Unit's turn
+4269951109279744,NO_CURSOR_LOCK_HIDE_SETTING,Don't lock and hide cursor during Battle Animations
+4270433181609984,NO_AUTO_CAMERA_BATTLE_SETTING,No automatic camera movement during battle
+4270974817251328,UNIT_MARKER_SETTING,Display a Unit Marker during Battle
+4275467755696128,BATTLE_SCREENSHAKE_SETTING,Disable Screen Shake Effects during Battle
+4278349074771968,INSTANT_CAST_SETTING,Instantly cast certain skills on click
+4279726920413184,QUEST_MAP_LABEL,Quest Map
+4280538367242240,DISABLE_CAMP_DIALOGUE_SETTING,Disable Camp Dialogues
+4281338338455552,INSTANT_DICE_RESULT_SETTING,Immediately show Dice Results
+4281712671698944,SETTINGS_MISC_LABEL,Misc.
+4282275819925504,AUTO_SLOT_SETTING_LABEL,Auto Save Slots
+4282494561267712,AUTO_PORTRAIT_SETTING,Automatically center and resize Custom Portraits to frame
+4282852251512832,CUSTOM_CONFIGURATION_FILE_SETTING,Use Custom Configuration File (Needs a restart)
+4283190484381696,RUN_IN_BACKGROUND_SETTING,Run Game in Background
+4283411469676544,AUTO_SCENE_SETTING,Automatically start scene when loading is done
+4284112186880000,ANY_TO_CONTINUE_DIALOGUE_SETTING,Any key to continue dialogue
+4284737133981696,ANY_TO_CONTINUE_EVENTTEXT_SETTING,Any key to continue event text
+4285496709853184,SETTINGS_EXPLORATION,Exploration
+4286722180624384,CHANGED_RESOLUTION_TITLE,Changed Resolution
+4286983871639552,ACCEPT_NEW_RESOLUTION,Accept new  Resolution?
+4287534403399680,REVERT_UI,Revert
+4288197371867136,APPLY_UI,Apply
+4291937759899648,CREDITS_TEXT,"
+
+
+<size=26><b>A Game made by:</b></size>
+GreenGuy
+
+
+
+<size=26><b>Music by:</b></size>
+Andrew Goodwin
+Sara Garrard
+WOW Sound
+
+
+
+<size=26><b>Japanese Localization by:</b></size>
+Japanese Localization
+Matsurika Games LLC
+Chisato Saito
+Yusuke Tsujita
+Hiroyuki Narita"
+4294800175247360,AVAILABLE_QUESTS_UI,Available Quests
+4295298223681536,UPGRADES_LABEL,Upgrades
+4295795701690368,ASSIGNMENTS_LABEL,Assignments
+4296095950942208,MAIN_OBJECTIVE_LABEL,<b>Main Objective<b>
+4296896727461888,SIDE_OBJECTIVES_LABEL,<b>Side Objectives<b>
+4297326526181376,HUB_RIGHT_CLICK_HINT,Right-click on a character to view their Character page
+4297800880992256,SHOW_ONLY_AVAILABLE,Show only available
+4298819127980032,TRAINING_GROUND_DESCR,"<b>Training Ground</b>
+Train Adventurers"
+4299146250137600,TAVERN_DESCR,"<b>Tavern</b>
+Hire new Adventurers"
+4299672958251008,DORMITORY_DESCR,"<b>Dormitory</b>
+Manage Adventurers and Parties"
+4299926961106944,MEMORIAL_DESCR,"<b>Memorial</b>
+Visit those who have fallen"
+4300150332960768,TEMPLE_DESCR,"<b>Temple</b>
+Heal Adventurers"
+4302011635052544,BLACKSMITH_DESCR,"<b>Blacksmith</b>
+Craft Equipment"
+4302421162700800,MERCHANT_DESCR,"<b>Merchant</b>
+Buy/Sell Items"
+4302899883782144,ALCHEMIST_DESCR,"<b>Alchemist</b>
+Craft Potions"
+4304370369015808,TEMPLE,Temple
+4305382035140608,CURRENT_BLESSING_LABEL,Current Blessing
+4305869211938816,DONATE_INFO_TEXT,Donate to receive a random blessing for the next quest. (Max. 1 active)
+4307727708041216,DONATE_BUTTON_TEXT,"Donate
+{COST} Gold"
+4308527427596288,MARKETSTALL,Marketstall
+4309316258738176,MERCHANDISE,Merchandise
+4309877024600064,AUTO_SORT_BUTTON,Auto-Sort
+4312882969030656,HOLD_BUTTON_TO_MULTISELLBUY_PART1,Hold
+4313471845117952,HOLD_BUTTON_TO_MULTISELLBUY_PART2,to buy/sell 10 units at once
+4314669478293504,FORCED_HEAL,Forced Healing
+4315025419513856,CLASS_LABEL,Class
+4315295058735104,NAME_LABEL,Name
+4315591877046272,CURRENT_INJURY_LABEL,Current Injury
+4316060775067648,CONFESSION_BOOTH,Confession Booth
+4317683358347264,LEARNED_SKILLS_LABEL,Learned Skills
+4318079741046784,BLACKSMITH,Blacksmith
+4318485749673984,BLUEPRINTS_LABEL,Blueprints
+4318863169925120,ALL_RARITIES,All Rarities
+4319479027970048,ITEM_LABEL,Item
+4319587912101888,INGREDIENTS_LABEL,Ingredients
+4320044118159360,CRAFT_LABEL,Craft
+4320266655346688,ONLY_SHOW_CRAFTABLE,Only show craftable
+4320716649639936,SELECT_ITEM_LABEL,Select an Item
+4320978504232960,ENHANCEMENTS_LABEL,Enhancements
+4322087381741568,CHOOSE_A_GEM_TITLE,Choose a Gem
+4325824108146688,TAVERN,Tavern
+4326636624523264,CURRENT_MOOD_LABEL,Current Mood
+4327622952857600,ADVENTURERS_FOR_HIRE_LABEL,Adventurers for hire
+4328727438929920,TRAITS_LABEL,Traits
+4329067001393152,DETAILS_LABEL,Details
+4329450230755328,CHOOSE_MEAL_LABEL,Choose a Meal
+4329717663772672,NORMAL_MEAL_OPTION,Normal Meal
+4329938711982080,GENEROUS_MEAL_OPTION,Generous Meal
+4330203963961344,OPPULENT_MEAL_OPTION,Opulent Meal
+4330850016800768,KITCHEN_CLOSED_TEXT,Kitchen is closed for today.
+4331423327825920,INVITE_ADVENTURERS_LABEL,Invite Adventurers
+4331963591929856,DISMISS,Dismiss
+4332348427710464,CURRENT_RELATIONSHIP_LABEL,Current Relationship
+4333164869955584,EAT_MEAL,Eat Meal
+4333619134050304,SHOW_ONLY_ELIGBLE_TITLES,Show only eligible Titles
+4334655265550336,OPEN_CHARACTER_PAGE,Open Character Page
+4334922723733504,SELECTED_CHARACTER_LABEL,Selected Character
+4335509091627008,CURRENT_TITLE_LABEL,Current Title
+4336295041282048,SELECT_UI,Select
+4336547936841728,SELECT_CHARACTER_LABEL,Select a character
+4346963740045312,DORMITORY,Dormitory
+4347289448722432,ADVENTURER_PARTIES_LABEL,Adventurer Parties
+4347945676943360,CREATE_LABEL,Create
+4348097070346240,MANAGE_LABEL,Manage
+4348208269733888,DISBAND_PARTY_LABEL,Disband
+4348492719042560,AVAILABLE_MEMBERS_LABEL,Available Members
+4348662760321024,TOTAL_WAGE_LABEL,Total Wage
+4349567765295104,ADVENTURERS_LABEL,Adventurers
+4351036941905920,WAGE_LABEL,Wage
+4351319772213248,TRAINING_GROUND_LABEL,Training Ground
+4351720496017408,TEACH_LABEL,Teach
+4352153801175040,TOGGLE_ONLY_ADVENTURERS_WITH_CLASS_AVAIL,Only Adv. with higher classes available
+4355494904049664,RETRAINING_DURATION_LABEL,Training Duration: {DURATION} {DURATION:cond:=1?Day|Days}
+4356556604026880,NOVICE_LABEL,Novice
+4356822220910592,VETERAN_LABEL,Veteran
+4357017180549120,MASTER_LABEL,Master
+4357447008628736,PREVIOUS_CHARACTER_LABEL,Previous Adventurer
+4359077582057472,NEXT_CHARACTER_LABEL,Next Adventurer
+4360636084760576,REMOVE_LABEL,Remove
+4361973904158720,SKILLPOINTS_LABEL,Skillpoints
+4363093707829248,ONLY_ADV_WITH_SKILLPOINTS,Only Adv. with skillpoints
+4367829060268032,ONLY_TRAINABLE_ADVENTURERS,Show only trainable adventurers
+4371028315975680,TRAININGGOAL_LABEL,Training Goal
+4371474560561152,NAME_AZ,Name A~Z
+4371954355384320,DAYS_HIRED_SORTING_OPTION,Days hired
+4372318915899392,PARTY_SORTING_OPTION,Party
+4372563779366912,AVAILABILITY_SORTING_OPTION,Availability
+4372865827975168,MOOD_LABEL,Mood
+4373003795410944,SORTING_ASCENDING,Ascending
+4373207907020800,SORTING_DESCENDING,Descending
+4373682840645632,ALCHEMIST,Alchemist
+4375340026933248,MEMORIAL_REMEMBER_THE_DEATH_LABEL,Always Remember
+4376083182104576,VIEW_LABEL,View
+4377291988905984,DAY_OF_DEATH_LABEL,Day of Death
+4445031747530752,NO_BLESSING_LABEL,No Blessings
+4447374635413504,BUY_SUPPLIES_LABEL,Buy Supplies
+4447916845674496,START_QUEST_LABEL,Start Quest
+4449790621626368,HOLD_BUTTON_TRANSFER_X_UNITS_PART1,Hold
+4450110902874112,HOLD_BUTTON_TRANSFER_X_UNITS_PART2,+/- {AMOUNT} Units
+4451240923869184,MAKE_EQUIPMENT_AVAILBLE_LABEL,Free up Equipment
+4452715599212544,LOAD_ITEMLOADOUT_LABEL,Load Loadout
+4453199856775168,SAVE_ITEMLOADOUT_LABEL,Save Loadout
+4453622881693696,MAKE_YOUR_PREPARATIONS_LABEL,Make your Preparations
+4455016661495808,AVAILABLE_ASSIGNMENTS_LABEL,Available Assignments
+4455743110754304,ASSIGN_CHARACTERS_LABEL,Assign Characters
+4455975991095296,DESCRIPTION_LABEL,Description
+4456287325892608,OVERVIEW_LABEL,Overview
+4456560861622272,ASSIGNMENT_CHARACTERS_NO_HEAL_HINT,Adventurers will not heal during this assignment.
+4457531025108992,ASSIGNMENT_SEND_LABEL,Send
+4458081619783680,ASSIGNMENT_RELEVANT_STATS_LABEL,Relevant Stats:
+4458243758993408,ASSIGNMENT_BASE_INFORMATION_LABEL,Base Information:
+4459565006696448,ASSIGNMENT_IF_SUCCESS_LABEL,If successful:
+4463079711813632,ENTER_TEXT_LABEL,Enter text...
+4463736871170048,NAME_ITEMLOADOUT_LABEL,Name Loadout
+4464234223349760,CHOOSE_ITEMLOADOUT_LABEL,Choose a Loadout
+4465649075335168,HP_LABEL,HP
+4465841166069760,SP_LABEL,SP
+4466287557455872,EXPERIENCE_LABEL,Experience
+4466626876649472,RANK_LABELV2,Rank:
+4466872834830336,CLASS_LABELV2,Class:
+4467554459561984,WAGE_LABELV2,Wage:
+4668186902638592,PROPOSALS_LABEL,Proposals
+4670002465845248,PARTY_SYNERGY_LABEL,Party Synergy
+4670620072914944,PARTY_OVERVIEW_LEADER_LABEL,Leader:
+4671028749119488,PARTY_OVERVIEW_AGE_LABEL,Age:
+4671497072521216,CHANGE_EMBLEM_LABEL,Change Emblem
+4672009918459904,CUSTOM_PARTY_ICON_LABEL,Custom Party Icon
+4672289972137984,CUSTOM_BACKGROUND_LABEL,Custom Background
+4673698893377536,CHANGE_NAME_LABEL,Change Name
+4676324435406848,EDIT_PARTY_LABEL,Edit Party
+4677830668693504,FRONT_ROW_LABEL,Front Row
+4678173800509440,BACK_ROW_LABEL,Backrow
+4679593345921024,HIDE_HELMET_TOGGLE,Hide Helmet
+4680639468253184,CLASS_GOAL_LABEL,Class Goal:
+4681449157668864,PARTY_LABELV2,Party:
+4682419157577728,SET_CLASS_GOAL_LABEL,Set Class Goal
+4682753359720448,DISMISS_ADVENTURER,Dismiss
+4683154196770816,CHANGE_APPEARANCE_LABEL,Change Appearance
+4683434686656512,CHANGE_PORTRAIT_LABEL,Change Portrait
+4683657009934336,CHANGE_BIOGRAPHY_LABEL,Change Biography
+4684237241561088,BIOGRAPHY_LABEL,Biography
+4684570399322112,ACHIEVEMENTS_LABEL,Achievements
+4685187431772160,ARMOR_LABEL,Armor
+4685346517528576,WEAPON_LABEL,Weapon
+4685524511207424,ACCESSORY_X,Accessory {X}
+4686533199376384,HUB_EQ_ITEMS_LABEL,Items
+4687047089696768,ACTIVE_SKILLS_LABEL,Active Skills
+4687212546600960,PASSIVE_SKILLS_LABEL,Passive Skills
+4689002369363968,RELATIONSHIPS_FILTER_DEAD,Filter out Characters that are dead or gone
+4692228825133056,RANDOM_LABEL,Random
+4693889513664512,CLASS_GOAL_LABELV2,Class Goal
+4694331903684608,CUSTOM_PORTRAIT_LABEL,Custom Portrait
+4695305204510720,SKINCOLOR_LABEL,Skin Color
+4695700345696256,STATIC_COLORS_LABEL,Static Colors
+4696019054080000,COLOR_SLIDERS_LABEL,Color Sliders
+4697484762001408,RELOAD_LABEL,Reload
+4697632405696512,OPEN_CUSTOM_PORTRAITS_FOLDER_LABEL,Open Custom Portraits Folder
+4698202336112640,RECOMMENDED_PORTRAIT_IMAGE_SIZE,Recommend: Use PNG format for all images and maintain a size of {SIZE} pixels.
+4698662426095616,CHOOSE_PORTRAIT_LABEL,Choose a Portrait
+4698952504160256,NO_PORTRAIT,No Portrait
+4700942156148736,READ_LABEL,Read
+4702209809035264,CHOOSE_CLASS_LABEL,Choose a Class
+4704549219840000,GENDER_LABEL,Gender
+4704811707772928,SEXUAL_ORIENTATION,Sexual Orientation
+4707762891370496,PERSONAL_INFORMATION_LABEL,Personal Information
+4708072326148096,GENDER_LABELV2,Gender:
+4708638838206464,TITLE_LABELV2,Title:
+4709535098056704,DAYS_HIRED_LABELV2,Days Hired:
+4710101064855552,ACCOMPLISHMENTS_LABEL,Accomplishments
+4710354862190592,QUESTS_CLEARED_LABELV2,Quests Cleared:
+4710724011274240,QUESTS_FAILED_LABELV2,Quests Failed:
+4710938394734592,DAMAGE_DEALT_LABELV2,Total Damage Dealt:
+4711257581268992,DAMAGE_HEALED_LABELV2,Total Hitpoints Healed:
+4711495113093120,ENEMIES_KILLED_LABELV2,Enemies Killed:
+4711771060547584,STRONGEST_FOE_SLAIN_LABELV2,Strongest Foe Slain:
+4712594423394304,MEMBERS_LABELV2,Members:
+4712805979893760,AVERAGE_RANK_LABELV2,Average Rank:
+4713690512470016,DAYS_SINCE_FOUNDING_LABELV2,Days since founding:
+4713948915150848,MEMBERS_LOST_LABELV2,Members lost:
+4714170777055232,PARTY_SYNGERGY_LABELV2,Party Synergy:
+4714740564865024,GOLDS_EARNED_LABELV2,Gold Earned:
+4715257500250112,PARTY_REGISTRATION_FORM_LABEL,Party Registration Form
+4715667602518016,ENTER_A_NAME_LABEL,Enter a name...
+4716477770084352,NAME_OF_PARTY_LABEL,Name of Party
+4718482542538752,PARTY_EMBLEM_LABEL,Party Emblem
+4718988652425216,NO_USER_IMAGE,No User Image
+4726680699777024,BONUS_RESISTANCES_LABEL,Bonus Resistances
+4727228337467392,BONUS_STATS_LABEL,Bonus Stats
+4729231541252096,CLASS_EQUIPMENT_LABEL,Class Equipment
+4739815741566976,UNIQUE_SKILLS_LABEL,Unique Skills
+4742221116190720,CAMPING_SKILLS_LABEL,Camping Skills
+4746132053012480,CAMP_SELECT_CHARACTER_FOR_ACTION,Select a Character to perform an action
+4748406141726720,CAMP_REST_LABEL,Rest
+4749192775053312,CHECK_DIFFICULTY_LABELV2,Difficulty:
+4750766616326144,CHECK_DIFFICULTY_LABEL,Difficulty
+4751347204468736,CHECK_MODIFIER_LABEL,Modifier
+4752915102412800,REWARDS_LABEL,Rewards
+4753079426854912,LOCATION_MODIFIERS_LABEL,Location Modifiers
+4753878223663104,QUEST_REPORT_LABEL,Quest Report
+4754258839973888,VALUABLES_LABEL,Valuables
+4754607994810368,REMAINING_LOOT_LABEL,Remaining Loot
+4766518589239296,AMOUNTSLIDER_HOW_MUCH_LABEL,How much?
+4766991169859584,INSPECT_LABEL,Inspect
+4773214694912000,QUEST_GOALS_LABEL,Quest Goals
+4773648700518400,CHOOSE_AN_OPTION_LABEL,Choose an Option
+4774675055095808,PARTY_LABEL,Party
+4777423788027904,ENEMY_LABEL,Enemy
+4778931422212096,HERBS_LABEL,Herbs
+4779128491585536,ORES_LABEL,Ores
+4779312101437440,WOOD_LABEL,Wood
+4779400215375872,OBSTACLE_LABEL,Obstacle
+4779527734800384,POINT_OF_INTEREST_LABEL,Point of Interest
+4783239005974528,TRAP_LABEL,Trap
+4783505159729152,CHEST_LABEL,Chest
+4783658746753024,QUEST_ITEM_LABEL,Quest Item
+4784441944944640,SET_WAYPOINTS_LABEL,Set waypoints
+4784791657623552,EXECUTE_LABEL,Execute
+4785004321419264,SELECT_AN_ITEM_LABEL,Select an Item
+4785825310289920,ROTATE_LABEL,Rotate
+4786870270799872,VICTORY,Victory
+4787034733654016,DEFEAT_LABEL,DEFEAT
+4789671499640832,LOOT_LABEL,Loot
+4789918875496448,INVENTORY_LABEL,Inventory
+4790984052551680,COMPOSITION_LABEL,Composition
+4791608274038784,BOUND_SKILLS_LABEL,Bound Skills
+4792823187746816,CAN_BE_ROTATED_LABEL,Can be Rotated
+4793087202406400,HEIGHT_TOLERANCE_LABEL,Height Tolerance
+4793306921021440,COOLDOWN_LABEL,Cooldown
+4793875668643840,RANGE_LABEL,Range
+4794147392434176,AFFECTED_UNITS_LABEL,Affected Units
+4794466172121088,SELECTION_TYPE,Selection Type
+4794744195756032,LIMITED_LABEL,Limited
+4795128041680896,CAN_BE_BLOCKED_LABEL,Can Be Blocked
+4795351904268288,CAN_BE_DODGED_LABEL,Can Be Dodged
+4795870555123712,NEED_CLEAR_SIGHT,Need Clear Sight
+4796843952418816,TARGET_RESTRICTION_LABEL,Target Restriction
+4797267338047488,SKILL_REQUIREMENTS_LABEL,Skill Requirements
+4797789382094848,RELATED_SKILLS_LABEL,Related Skills
+4798399909179392,HOLD_RIGHTMOUSE_BUTTON_DETAILS,Hold Right-Mouse Button for details
+4800410738208768,EQUIPMENT_BONUS_LABEL,Equipment Bonus
+4802281137745920,RANGE_TYPE_LABEL,Range Type
+4802566761459712,REQUIREMENTS_LABEL,Requirements
+4803076788826112,EFFECTS_LABEL,Effects
+4817468146298880,RELATIONSHIP_EVENTS_LABEL,Events
+4824679991980032,QUEST_COMPLETED,Quest Completed
+4824800293007360,QUEST_FAILED,Quest Failed
+4830134520754176,GO_BACK_TO_GUILD_LABEL,Go back to the Guild
+4830451215872000,CONTINUE_EXPLORING,Continue exploring
+6211036144447488,PRESS_ESC_SKIP,Press Esc to Skip
+6307601597050880,AUTO_LOOT,Auto-Loot
+7181760643108864,REMAINING_COUNTERS,Remaining Counters
+7688716361306112,THANKS_FOR_PLAYINGS,Thanks for playing!
+8313805134008320,LANGUAGE_LABE,Language
+8355556406235136,LOADING_DATABASES,Loading Databases
+8355737549836288,LOADING_ASSETS,Loading Assets
+8356003502264320,INITIALIZING_SCENE,Initializing Scene
+8356272373927936,LOADING_SCENE,Loading Scene
+8356437650477056,GENERATING_DUNGEON,Generating Dungeon
+8356639417470976,DRAWING_DUNGEON,Drawing Dungeon
+8356754333011968,SPAWNING_EVENTS,Spawning Events
+8356947291967488,SPAWNING_ENEMIES,Spawning Enemies
+8357078775009280,SPAWNING_ADVENTURER,Spawning Adventurers
+8357229073698816,DRAWING_MAP,Drawing Map
+8357372376289280,INITIALIZING_HOTKEYS,Initializing Hotkeys
+8357866691792896,HOLD_TO_MOVE,Hold to move
+8392184835248128,CAMPING_SUPPLY_BONUS_TEXT,"{HP}% HP
+{SP}% SP
+{BP} BP
+{CP:cond:=0?|+{CP} Camp Points}"
+8393069460099072,NO_MEAL_LABEL,No Meal
+8393175383052288,MEAGER_MEAL,Meager Meal
+8393312507432960,SATISFYING_MEAL_LABEL,Satisfying Meal
+8393529160011776,HEARTY_MEAL,Hearty Meal
+8464461786419200,SKILLTREES_LABEL,Skill Trees
+8474711121891328,SUBMIT_LABEL,Submit
+8476784353775616,SUMMARY_LABEL,Summary
+8476956995522560,EMAIL_OPTIONAL_LABEL,Email (optional)
+8477355647340544,BASIC_INFO_LABEL,Basic system information and a screenshot will be sent with your report.
+8489325536645120,FEEDBACK_LABEL,Feedback
+8493373958557696,OPEN_INVENTORY_LABEL,Open Inventory
+8493618738139136,TAKE_ALL_AND_CONTINUE,Take all and continue
+8495100795457536,NO_LOOT_LABEL,No Loot
+8497244525203456,CTRL_KEY,Ctrl
+8497923746598912,SAVE_FORMATION,Save Formation
+8670461609021440,RESISTED,Resisted
+8782528292040704,BATTLE_STATS_LABEL,Battle Stats
+8783077745864704,STATUS_EFFECTS_LABEL,Status Effects
+8783320843530240,TAGS_LABEL,Tags
+9004511055294464,ASSIGNMENT_UNASSIGNED_LABEL,Unassigned
+9063500690468864,KILLED_BY_LABELV2,Killed by:
+9072676820987904,MEMBERS_LABEL,Members
+9074806168465408,CHOOSE_A_CLASSGOAL_LABEL,Choose a Class Goal
+9075067637182464,NO_CLASS_GOAL_LABEL,No Class Goal
+9086393101037568,LOADOUT_SLOT_X,Slot {X}
+9090495503642624,BACK_LABEL,Back
+9091022366945280,CHOOSE_TRAITS_LABEL,Choose Up to 3 Traits
+9092707428577280,SEARCH_TRAIT,Search Trait
+9093325174059008,POINTS_SORTING_OPTION,Points
+9093990218706944,CUSTOMIZE_ADVENTURER,Customize your Adventurer
+9098096723341312,CHAIN_ATTACK_PROMPT,Conditional Chain Attack Prompt
+9140567301926912,FASTER_RESSOURCE_SETTING,Faster Gather Resource Animation
+9150369981771776,BACKSPACE_KEY,Back
+9150731182649344,DELETE_KEY,Del
+9150838254841856,TAB_KEY,Tab
+9151184658214912,RETURN_KEY,Enter
+9151337012113408,ESCAPE_KEY,Esc
+9151506260668416,SPACE_KEY,Space
+9151742269960192,INSERT_KEY,Insert
+9152028841586688,HOME_KEY,Home
+9152118503223296,END_KEY,End
+9152289937010688,PAGE_UP_KEY,Page Up
+9152436628598784,PAGE_DOWN_KEY,Page Down
+9152968084664320,NUMLOCK_KEY,Num
+9153107939536896,CAPSLOCK_KEY,Caps Lock
+9153421941911552,RSHIFT_KEY,R-Shift
+9153650778943488,SHIFT_KEY,Shift
+9154516403597312,R_CTRL_KEY,R-Ctrl
+9155017820057600,RALT_KEY,R-Alt
+9155531798458368,ALT_KEY,Alt
+9155905489973248,PRINT_KEY,Print
+9158293076553728,GAME_DIFFICULTY_LABEL,Game Difficulty
+9520695735463936,WAVES_REMAINING_LABEL,Waves Remaining
+9521149890506752,BONUS_EXP_LABEL,Bonus Exp
+9521370737389568,EXP_LABEL_SHORT,XP
+9533810795589632,ENEMY_WILL_SOON_ARRIVE,Enemy reinforcements will soon arrive
+9534197384589312,ENEMY_ARRIVED,Enemy reinforcements have arrived
+9576667120119808,HEAL_EMPOWER_ADVENTURER_SETTING_TOOLTIP,A flat bonus to the {HEAL_EMPOWEREMENT} of the adventurers. It affects healing and regeneration.
+9578222850387968,HEAL_EMPOWER_ADVENTURER_SETTING,Adventurer Bonus Heal Potency
+9578764519583744,HEAL_EMPOWER_ENEMY_SETTING_TOOLTIP,A flat bonus to the {HEAL_EMPOWEREMENT} of the enemies. It affects healing and regeneration.
+9579262895173632,HEAL_EMPOWER_ENEMY_SETTING,Enemy Bonus Heal Potency
+9744578132553728,BREAK_CAMP_LABEL,Break Camp
+9763110631223296,RIGHT_CLICK_DETAILS,Right-Click for more details
+9782990424223744,TOGGLE_ASSIGNMENTVISIBILITY,Toggle Assignment Visibility
+9785853221253120,SHOW_HIDDEN_LABEL,Show Hidden
+9833240971161600,SOLD_OUT_LABEL,Sold Out
+9843055135010816,HOLD_CTRL_HINT,"<size=7>Hold</size>
+Ctrl"
+9923894715854848,INSTANT_CAST_SETTING_TOOLTIP,Instantly activate/deactivate Stances and Skills that only target and affect the unit themself.
+9927513213218816,UNAVAILABLE_LABEL,Unavailable
+10069978691907584,TITLE_CAN_BE_IMPROVED,<color=#2aa136>(Can be improved)</color>
+10169075876737024,SELECT_A_TITLE,Select a Title
+10888964199395328,STRAINED_ERROR_TEXT,Character is strained
+11717749119365120,TOOLTIP_DELAY,Tooltip Delay
+11718194344734720,NO_DELAY_TOOLTIP,No Delay
+11718386313834496,SECONDS_TOOLTIP_DELAY,{TIME} {TIME:cond:<1?Seconds|Second}
+12002353822806016,DIALOGUE_SOUND_SETTING_LABEL,Dialogue Sound effect
+15306056256434176,SEALED_GODESS_EFFECT,"On Interact: 
+The seal has been weakened. The Battle gains the Effect <color=orange>Holy Support</color>."
+16996373569449984,MAIN_MENU_START_NEWGAMEPLUS,New Game+
+17329346818846720,NG_REMAINING_POINTS,Remaining Points: {POINTS}
+17369517731852288,ADD_LABEL,Add
+17881907128938496,LOADING_DATA,Loading Data
+17882126524592128,LOADING_LABEL,Loading...
+17882550187044864,LOAD_VALID_SAVES_LABEL,Loading Valid Saves
+18520026371043328,IRONMAN_WARNING_TITLE,Ironman
+18520148710502400,IRONMAN_WARNING_TEXT,The save has Ironman enabled. Do you still want to keep it enabled?
+18983396358467584,SKIP_TUTORIAL_TOOLTIP,"You will skip the Tutorial Quest and certain some dialogues. Additionally, you will receive no tutorial messages during your playthrough."
+18984287270580224,SKIP_TUTORIAL_LABEL,Skip Tutorial
+19250741832298496,NOT3LIMIT_TOOLTIP,Master Classes no longer require a specific trait.
+19251465018388480,KEEP_PROPOSALS_TOOLTIP,Keep all the proposals you've already unlocked.
+19253105393905664,NOT3LIMIT_LABEL,No Master Class Limit
+19253274504048640,KEEP_PROPOSALS_LABEL,Keep All Proposals
+19253445526794240,NGP_EMERGENCY_FUND_LABEL,Fran's Emergency Funds
+19253567300022272,NGP_EMERGENCY_FUND_TOOLTIP,Start the game with 10000 Gold.
+19253856405008384,DEADLY_COMBAT_X_LABEL,Deadly Combat {X}
+19254183392948224,DEADLY_COMBAT_X_TOOLTIP,The likelihood of surviving a deathblow is {AMOUNT}% less.
+19265995110854656,RESTART_GROWTH_TOOLTIP,All adventurers you take with you will start at level 1. They'll lose all the skills they've learned and all their attributes will be set to 5. They'll start with a single skill point.
+19268707185569792,SNEAKY_LEPHOZ_TOOLTIP,Lephoz with physical skills gain <color=orange>{SNEAKATTACK}</color> at level 6.
+19270202740158464,SNEAKY_LEPHOZ_LABEL,Sneaky Lephoz
+19270484198928384,BANDIT_KING_REMNANT_TOOLTIP,Bandits will still spawn with demonic marks even after the Bandit King is defeated.
+19271124572680192,BANDIT_KING_REMNANT_LABEL,Bandit King's Remnants
+19271504614371328,ICEFANG_PACT_TOOLTIP,Jotuns also have access to demonic marks.
+19272617249976320,ICEFANG_PACT_LABEL,Icefang Pact
+19277050927099904,SPEEDY_ENEMIES_LABEL,Speedy Enemies
+19277363549548544,SPEEDY_ENEMIES_TOOLTIP,Enemies have 50% more Initiative.
+19277669301727232,GOBLIN_PACT_TOOLTIP,Hobgoblins also have access to demonic marks.
+19277778517209088,GOBLIN_PACT_LABEL,Goblin Pact
+19278260912500736,UNDYING_LABEL,Undying
+19278343968108544,UNDYING_TOOLTIP,"Vampires, Ghosts and Wraiths also have regeneration."
+19279032786071552,MAGICAL_PROTECTION_LABEL,Magical Protection
+19283050807668736,MAGICAL_PROTECTION_TOOLTIP,"All enemies gain +20 Resistance against Fire, Earth, Lightning, Ice, Holy and Dark Damage."
+19283509752606720,PHYSICAL_PROTECTION_LABEL,Physical Protection
+19283966864633856,PHYSICAL_PROTECTION_TOOLTIP,All enemies gain +25 Physical Resistance.
+19284216878706688,ADDITIONAL_TURNS_TOOLTIP,Boss-Enemies gain an additional turn per round.
+19284249896267776,ADDITIONAL_TURNS_LABEL,Additional Turn
+19284968300851200,SECOND_IN_COMMAND_LABEL,Second in Command
+19285158550286336,SECOND_IN_COMMAND_TOOLTIP,Most boss fights will also have an additional elite.
+19285592467812352,BOSS_ADDITIONAL_SKILL_LABEL,Additional Skills
+19286090453331968,BOSS_ADDITIONAL_SKILL_TOOLTIP,Some Boss-Enemies will gain additional skills
+19288165895614464,BODYGUARDS_TOOLTIP,"In battles that would end with the boss being eliminated, the boss gains an ability that reduces the damage taken by 10% (up to 50%) for each ally. This does not apply to battles with endless reinforcements."
+19544850685997056,ASSIGNMENT_NOTREPEATABLE,Assignment will not reappear.
+19601926267318272,STOP_LEVELING,Stop Leveling
+19851225823686656,DIALOGUE_1X_OPTION,1X
+19851328995176448,DIALOGUE_2X_OPTION,2X
+19853177504641024,DIALOGUE_3X_OPTION,4X
+19853221695827968,DIALOGUE_INSTANT_OPTION,Instant
+20284492293058560,NGPTIMES_TOOLTIP,For each New Game Plus Run enemies will gain +10% HP and +10% Physical/Magical Damage. You will also gain 100 points for each run.
+20419957813915648,ITEMS_LABEL,Items
+20420142652698624,MODIFIERS_LABEL,Modifiers
+20420863158628352,UNLIMITED_POINTS,Unlimited Points
+20421218646863872,NGP_ADVENTURERS_ADD_HINT,"Select the adventurers you like to keep. They will retain their levels and their traits.
+Adding adventurers will cost you 40 points for each one."
+20421746860732416,NGP_ITEMS_HINT,"Select the items you like to keep.
+Divine Items cost 40 points, Legendary 30,  Epic 20, Rare 10, Uncommon 5 and Common are free."
+20422095986208768,NEW_GAME_PLUS_SETTING_LABEL,New Game Plus Settings
+20423027964751872,GENERAL_MODIFIERS,General Modifiers
+20423258185904128,GENERAL_ENEMY_MODIFIERS,General Enemy Modifiers
+20423491217240064,BOSS_MODIFIERS,Boss Modifiers
+21074201638318080,NG_READY_LABEL,NG+ Ready
+21092208993349632,NG_AMOUNT_LABEL,"NG+
+<size=20>{AMOUNT}"
+22393247289815040,SKILLCHECK_MODIFIER_SETTING,Attribute Check Modifier
+22396113941409792,MINHITPOINTS_LOSS_SETTING_TOOLTIP,The percentage of the max. hit points an adventurer has to lose during a Quest before they are considered injured.
+22820015758880768,MINHITPOINTS_LOSS_SETTING,Min. Hitpoint Loss for Injuries
+23235052675772416,SKILLCHECK_MODIFIER_SETTING_TOOLTIP,A modifier for the difficulty of Attribute Checks.
+24739986670522368,ONLY_SHOW_ELIGIBLE_FOR_TITLE,Only show who can gain titles
+30799554391478272,LEARN_SKILL_CONFIRM_TITLE,Confirm Choice
+30799770477826048,LEARN_SKILL_CONFIRM,"{CHARACTER} will learn 
+<b><color=orange>{SKILL}</color></b>. 
+Are you sure?"
+31131627115417600,FILTER_LABEL,Filter
+34033341489385472,INFO_LABEL,Info
+35151867109347328,ALL_LABEL,All
+35153451721592832,RELATION_FILTER,Relation
+35973013312540672,SELECT_LABEL,Select
+36607424592777216,VISIT_LOCATION_LABEL,Visit Location
+36954142727376896,MENU_CHECK_ACHIEVEMENTS,Check Achievements
+38849644523851776,ADDITIONAL_ACTIONS,Additional Actions
+38864000598839296,SHOW_CLASS_LABEL,Show Class
+38876020769460224,UNEQUIP_LABEL,Unequip
+39091636935757824,HIDE_UNHIDE,Hide/Unhide
+39427467311484928,EXPAND_SHRINK,"Expand/
+Shrink"
+39428700575272960,MAIN_ACTIONS_LABEK,Main Actions
+39458113895436288,ASSIGN_LABEL,Assign
+39488803621998592,EXPLORE_QUEST_FILTER,Explore
+39488978054713344,COLLECT_QUEST_FILTER,Collect
+39489507250049024,CLEAR_QUEST_FILTER,Clear
+39489901560762368,HUNT_QUEST_FILTER,Hunt
+39490233959354368,SURVIVAL_QUEST_FILTER,Survival
+39492231123341312,DAYS_REMAINING_FILTER,Days Remaining
+40189500143341568,SORT_LABEL,Sort
+40214073672896512,REPORTS_LABEL,Reports
+40214820489695232,END_DAY_LABEL,End Day
+41048346608963584,TOGGLE_TALENT_LABEL,Toggle Talent
+41049659929432064,REMOVE_TRAIT,Remove Trait
+41050533540040704,ADD_TRAIT_LABEL,Add Trait
+41360883758043136,REVIVE_LABEL,Revive
+41434907427115008,BUY_LABEL,Buy
+41435247518060544,SELL_LABEL,Sell
+42148264895483904,CHANGE_POSITION_LABEL,Change Position
+42477318748147712,PLACE_LABEL,Place
+44305503615168512,DIALOGUE_HISTORY_CONTROLLER,Dialogue History
+44502299452878848,TALK_LABEL,Talk
+44569150312656896,SKIP_UI,Skip
+45950050275405824,LEVEL_UP_LABEL,Level Up
+48225270319263744,USE_SKILL_LABEL,Use Skill
+49249615040720896,FAVOURITES_LABEL,Favourites
+49249730723819520,BRAVE_ACTION,Brave Actions
+49337509235372032,MAIN_ACTIONS_LABEL,Main Actions
+49376764083023872,REVERSE_MOVEMENT_LABEL,Reverse Movement
+50498267066044416,MOVE_MAP_LABEL,Move Map
+50503462156144640,ZOOM_IN_LABEL,Zoom In
+50503660299259904,ZOOM_OUT_LABEL,Zoom Out
+50814019237220352,EDIT_TEXT_LABEL,Edit Text
+51139478810431488,ADDED_ADVENTURERS_LABEL,Added Adventurers
+51139687363809280,AVAILABLE_ADVENTURERS_LABEL,Available Adventurers
+51143653749329920,ADDED_ITEMS_LABEL,Added Items
+51144098437828608,AVAILABLE_ITEMS_LABEL,Available Items
+51393529850531840,TIMELINE_LABEL,Timeline
+51406760841220096,TOGGLE_FAVORITE,Toggle Favorite
+51440855700901888,NO_REPORTS_LABEL,<color=#FF6969>No Reports
+51789729212829696,TUTORIAL1_PAGE3_CONTROLLER,"There will also be several interactable objects on the Quest Map, highlighted with a sparkle effect. To interact with them, get next to them and press the A-Button."
+53007607656255488,SET_LEADER_LABEL,Set Leader
+53253741045780480,RESOLUTION_LABEL,Resolution
+53309317826121728,ENTER_KEYBOARD_LABEL,Enter
+53314460156071936,CONTINUE_WITH_CONTROLLER_PROMPT,Continue with Controller
+53314909529608192,CONTINUE_WITH_PCINPUT_PROMPT,Continue with Keyboard/Mouse
+53347054671269888,ACTION_USE_SKILL,Use Skill
+53347241032585216,ACTION_USE_SKILL_DESCR,Use a skill that is available to the unit.
+53409261958369280,CONTROLLER_DETECTED_TITLE,Controller Detected
+53681054182969344,CHANGE_PRIORITY_LABEL,Change Priority
+53681162303737856,CHANGE_FEEDBACKTYPE_LABEL,Change Feedback Type
+53967699486609408,VIEW_HINTS_LABEL,View Hints
+53967855422443520,TOGGLE_HINTS_LABEL,Toggle Hints
+54870507584917504,UPGRADE_IN_PROCESS_WARNING_TITLE,Proposal in Process
+54871306759213056,UPGRADE_IN_PROCESS_WARNING_DESCR,"Another Proposal hasn't finished processing. If you activate this Proposal, the process for the other one will be halted. However, you can finish the Implementation of the halted Proposal later without any additional cost. Do you still want to continue?"
+55797502577643520,BUY_X,Buy {X}
+55799113739833344,SELL_X_LABEL,Sell {X}
+55808378227560448,SELECT_X_LABEL,Select  {X}
+56497576337117184,CHANGE_EQUIPMENT_LABEL,Change Equipment
+57291127832612864,TURN_OFF_SELECTION_SOUND,Turn Off Selection Sound
+57562940265369600,MOOD_INFO_LABEL,Mood Info
+57974421171638272,PRESS_ANY_BUTTON_TO_CONTINUE,PRESS ANY BUTTON TO CONTINUE
+59818003021074432,QUEST_ITEM_HINTS,You cannot leave behind Quest Items
+62278901467877376,END_DAY_QUESTION_TITLE,End Day?
+62279081386741760,END_DAY_QUESTION_DESCRIPTION,Do you really want to end the day?
+62280966126604288,END_DAY_WARNING_SETTING,Ask for confirmation when ending the day
+62688153730715648,ORGANIZE_SKILLS_LABEL,Skill Bar
+64099239948357632,LEGEND_MAP_LABEL,Legend
+63428909282004992,CRIT_COMBAT_LOG,"{CHARACTER} has been <color=orange>critically hit</color>!(Roll: {ROLL}, Chance: {CHANCE}, Crit Chance: {CRIT})"
+63429545130102784,HIT_COMBAT_LOG,"{CHARACTER} has been <color=orange>hit</color>!(Roll: {ROLL}, Chance: {CHANCE}, Crit Chance: {CRIT})"
+63431252174082048,DODGE_COMBAT_LOG,"{CHARACTER} has <color=orange>dodged</color>!(Roll: {ROLL}, Chance: {CHANCE}, Crit Chance: {CRIT})"
+63431744174329856,GLANCINGBLOW_COMBAT_LOG,"{CHARACTER} has <color=orange>narrowly dodged</color>!(Roll: {ROLL}, Chance: {CHANCE}, Crit Chance: {CRIT})"
+63432193547866112,BLOCK_COMBAT_LOG,"{CHARACTER} has <color=orange>blocked</color>!(Roll: {ROLL}, Chance: {CHANCE}, Crit Chance: {CRIT})"
+64149787321995264,TAGS_LABEL_V2,Tags:
+64150851626635264,MEMORIAL_LABEL,Memorial
+65215252735627264,ADD_MEMBER_LABEL,Add Member
+65216164501819392,STAT_BUFF_STATUS_EFFECT_DESCR,{BUFF} {STAT} {DURATION}
+65351666395680768,GAIN_SKILL_EFFECT,<color=green> Gain the following Skills:
+65702888688488448,BACK_TO_THE_ROOTS_LABEL,Back to the roots
+68126802739892224,BADMOOD_LEAVE_HINT,There is a 30% chance every day that they leave. Only one adventurer can leave at a time.
+68139504975646720,SORTING_DIRECTION_LABEL,Sorting Direction
+68140548543647744,SORT_BY_LABEL,Sort By
+72831420830298112,INSUFFICIENT_SPACE_LABEL,Not enough space
+72832346869706752,SELECT_PARTY_LABEL,Select a Party
+81193873632899072,KB_MOUSE_STEAMDECK_SETTING,(Not Recommended)Use KB+Mouse Input on Steam Deck (Restart Required)
+100369785339228160,STORY_COMPLETED,Story Completed
+100733356925497344,CUSTOM_LANGUAGE,Custom

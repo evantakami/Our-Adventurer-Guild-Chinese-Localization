@@ -1,0 +1,171 @@
+ID,Key,String
+44947451904,EMPOWERED,Empowered
+48224116712312832,UNTOUCHABLE,Untouchable
+48227259017760768,STUNNED,Stunned
+48227428564111360,TAUNTED,Taunted
+48227801337073664,EXHAUSTED,Exhausted
+48227951644151808,SEVERELY_EXHAUSTED,Severely Exhausted
+48228440498671616,MARKED,Marked
+48228507951468544,PROTECTED_AMOUNT,Protected({AMOUNT})
+48228718287425536,SHAKEN,Shaken
+48228989709225984,INSPIRED,Inspired
+48229183465099264,UNYIELDING,Unyielding
+48229388159717376,HIDDEN,Hidden
+48565542880972800,BACKSTABBER,Backstabber
+48565712225996800,STAGGERED,Staggered
+48565947287375872,EXTENDED_RANGE,Extended Range({AMOUNT})
+48646275318321152,FROZEN,Frozen
+48657910300839936,PHOENIX_MINOR,Phoenix Minor
+48658043755204608,VANGUARD,Vanguard
+48658255789854720,REJECT_HELP,Reject Help
+48658370848002048,BARRIER,Barrier
+48658472685703168,TRUE_SIGHT,True Sight
+48658635902849024,CHILLED,Chilled
+48659136350425088,SHOCKED,Shocked
+48663241529659392,ROOTED,Rooted
+48664280395845632,ELITE,Elite
+48664352172969984,WET,Wet
+48664417071435776,OVERWATCH,Overwatch
+48665606668324864,REFLECTION,Reflection({AMOUNT})
+48665858196541440,EMPOWERED_AMOUNT,Empowered({AMOUNT})
+48666233305731072,VULNERABLE_AMOUNT,Vulnerable({AMOUNT})
+48666706045734912,WEAKENED_AMOUNT,Weakened({AMOUNT})
+48666904394371072,NIGHTTIME,Nighttime
+48667093305823232,MARK_OF_LILITH,Mark of Lilith
+48667262957031424,SPELL_PREPARED,Spell Prepared
+48667445249871872,FREEDOM_MOVEMENT,Freedom of Movement
+48667564842061824,BLIND,Blind
+48667644743553024,MARK_OF_BELEPHEGOR,Mark of Belephegor
+48674796690378752,ADRENALINE,Adrenaline
+48674890181414912,MARK_OF_BEELZEBUB,Mark of Beelzebub
+48674992572764160,MARK_OF_MAMMON,Mark of Mammon
+48675101712748544,MARK_OF_LUCIFER,Mark of Lucifer
+48677269450690560,TERRIFIED,Terrified
+48677818283757568,DEMONIC_WHISPERS,Demonic Whispers
+48677968968323072,DETERMINED,Determined
+48678129413033984,ANGELIC_BLESSING,Angelic Blessing
+48679237334241280,REVELATION_AMOUNT,Revelation({AMOUNT})
+48679451541540864,TOXIC_AMOUNT,Toxic({AMOUNT})
+48680729231396864,DEMONIC_RAGE,Demonic Rage
+48680864522866688,SHIELD_CHARGE,Shield Charge
+48680976233959424,DRAGONIC_FURY,Dragonic Fury
+48681129485438976,DRAGON_SCALE,Dragon Scale
+48681244736524288,EXPOSED,Exposed
+48681681489399808,CURSED_WOUND,Cursed Wound
+48682494802694144,SLOWED,Slow
+48682591225548800,HASTE,Haste
+48682711191031808,GOLDEN_TEMPTATION,Golden Temptation
+48682873401544704,SLEEP,Sleep
+48682947300986880,METAMAGIC_EXTEND,Metamagic: Extend
+48683262825893888,METAMAGIC_QUICKEN,Metamagic: Quicken
+48683481823088640,METAMAGIC_EMPOWER,Metamagic: Empower
+48683704901341184,METAMAGIC_PIERCING,Metamagic: Piercing
+48683767090286592,CURSE_OF_PAIN,Curse of Pain
+48683940155658240,WITHERING,Withering
+48684150550335488,SHADOW_WALK,Shadow Walk
+48684233509474304,FLURRY_OF_FIST,Flurry Of Fist
+48684550712102912,CHARMED,Charmed
+48684694845165568,MISSILE_PROTECTION,Missile Protection
+48684888064167936,GUARDIAN_ANGEL,Guardian Angel
+48685238997389312,LONE_WOLF,Lone Wolf
+48686092240457728,ACID,Acid
+48686877745516544,IMMORTAL_FIRE,Immortal Fire
+48686977649643520,TARGET,Target
+48687043361804288,SHADOW_CLOAK,Shadow Cloak
+48687132557873152,TARGET_OF_ENVY,Target Of Envy
+48687243262332928,UNWORTHY,Unworthy
+48687445213876224,OBSCURED,Obscured
+48687605717307392,CRYOSTASIS,Cryostasis
+48687775511121920,SLOTH,Sloth
+48687855836237824,FROSTBITE,Frostbite
+48688574647668736,BLEEDING,<color=red>Bleeding</color>
+48688688183283712,BURNING,<color=orange>Burning</color>
+48688835227193344,POISONED,<color=purple>Poisoned</color>
+48689090979074048,WITHERING_DOT,<color=purple>Withering</color>
+49637949158887424,PROTECTED,Protected
+49684690868539392,VULNERABLE,Vulnerable
+56630783162355712,BARRIER_DESCR,"Absorbs x amount of damage(Not including Poison-, Burn- or Bleeding-Effects). Does not stack. Weaker barriers will be replaced by stronger barriers."
+56630885641785344,TRUESIGHT_DESCR,Can target hidden enemies. Prevents Blind.
+56631020610293760,CHILLED_DESCR,"Removes the Burned Status. Reduces ice resistance by 30, initiative by 50% and movement by 1. Gets removed if the Burned Status is applied."
+56631096502030336,FROSTBITE_DESCR,"Reduces ice resistance by 30, initiative by 50% and movement by 1. Does not stack with Chilled."
+56631168258183168,EXHAUSTED_DESCR,-1 AP
+56631238663770112,FROZEN_DESCR,Removes the Burned and Wet Status. Can not act for the next x turns. Gets removed if the Burned Status is applied.
+56631316094816256,HIDDEN_DESCR,Can not be targeted. Will be removed immediately if the character uses any skill (Unless it only affects themself). Hidden characters will not trigger counters.
+56631395463630848,MARKED_DESCR,Increase crit chance against the target by 50%.
+56631460513091584,ROOTED_DESCR,Cannot move. Movement Skills can't be used
+56631529924628480,SHAKEN_DESCR,"Reduces accuracy, dodge, block, physical attack bonus and magical attack bonus  by 20%. BP can not increase beyond 50 and there is a chance the character skips their turn. Any death blow will kill this unit. Lasts until end of quest."
+56631613328363520,SHOCKED_DESCR,Reduces lightning resistance by 30 and AP by 1.
+56631676578467840,STAGGERED_DESCR,Reduces earth resistance by 30 and accuracy and dodge by 50%.
+56631730122952704,STUNNED_DESCR,Can not act on the next turn. Dodge and block values are set to 0.
+56631785756200960,TAUNTED_DESCR,Can only target source of taunt.
+56631842777763840,ELITE_DESCR,All stats except for movement are increased by 50%. Increase movement by 1.
+56631904262066176,WET_DESCR,"Removes the Burned Status. Increase Fire resistance by 30 but reduce Lightning Resistance and Ice Resistance by 30. Effects, that add the Shocked Status, will add the Stunned Status instead and effects, that add the Chilled Status will add the Frozen Status instead. Gets removed if the Burned Status is applied."
+56631954501439488,REFLECT_DAMAGE_DESCR,Reflects X damage back to the aggressor as true damage.
+56632017730572288,DAMAGE_STACK_DESCR,"Increase damage dealt by 10% for each stack.
+Can only stack up to 6 times unless unit has <color=orange>Offensive Mastery</color>"
+56632077625233408,VULNERABLE_DESCR,Increase damage received by 10% for each stack.
+56632154792038400,PROTECTED_DESCR,"Decrease damage received by 10% for each stack. 
+Can only stack up to 6 times unless unit has <color=orange>Defense Mastery</color>"
+56632248773808128,WEAKENED_DESCR,Decrease damage dealt by 10% for each stack. Can only stack up to 6 times.
+56632317019328512,NIGHTTIME_DESCR,Accuracy is decreased by 20.
+56632391170428928,MARK_OF_LILITH_DESCR,All Weapon Skills cause guaranteed 30%  PAB points of bleeding. Crit Chance is increased by 2% for every point of bleeding.
+56632455737544704,PREPARED_SPELL_DESCR,The next arcane Skill will cost no AP or SP.
+56632537937514496,FREEDOM_OF_MOVEMENT_DESCR,Negates the effects of Rooted.
+56632604241072128,BLIND_DESCR,"Hit Chance cannot exceed 50%.
+Reduce range of skills by 2(Minimum 1)."
+56632656959279104,MARK_OF_BELEPHEGOR_DESCR,"Decrease the hit chance against this Character by 10. Every time this character is hit, the aggressor loses 10 accuracy for 1 turn."
+56632731974406144,OVERWATCH_DESCR,"Will attack the next enemy acting in range. If enemy is hit, its turn will be interrupted."
+56632944759836672,DEATH_DEFYING_DESCR,Health cannot fall below 1. Receiving Damage does not reduce BP.
+56633005858263040,ADRENALINE_DESCR,AP cost of all skills reduced by 1. Cannot reduce cost to 0 and does not stack with other AP-Reduction effects.
+56633072539308032,MARK_OF_BEELZEBUB_DESCR,"At the end of the round, 50% of damage received this round, will be healed."
+56633144098328576,MARK_OF_MAMMON_DESCR,"Every enemy in a 2-Tile Radius loses 5 Accuracy, 5 Dodge, 5 Block, 2 PAB and 2 MAB. Character gains the sum of the stats that the enemies have lost."
+56633193809219584,GREATER_MARK_OF_LUCIVER_DESCR,Character deals 20% more damage and receives 20% less damage as long as their health is above 50%.
+56633358070747136,TERRIFIED_DESCR,Character loses 2-5 BP at the end of their turn.
+56633634768982016,DETERMINED_DESCR,Character gains 2-5 BP at the end of their turn.
+56633700695052288,ANGELIC_BLESSING_DESCR,Character is imbued with holy power raising resistances by 30 and movement by 1. Damage against enemies is increased by 10%. If they're demon or undead increase the damage by 20% instead. And Character can fly now.
+56633790935502848,DIVINATION_DESCR,"Character gains bonuses depending on the amount of stacks they have.
+At least 1 Stack: Receive 10% less damage.
+At least 3 Stacks: Increase MAB by 15%.
+At least 5 Stacks: Increase Dodge and Accuracy by 20.
+At least 7 Stacks: Reduce SP cost of Divine Skills by 20%.
+At 10 Stacks: Recover 4 BP every turn.(Amount is not affected by bravery)"
+56633850440093696,DANGEROUS_CONCOCTION_DESCR,"For each stack beyond 1, deal 10% of the Character's health as true damage on turn start. "
+56633922666008576,RAGE_DESCR,Increase crit chance by 5 for each stack. Can only stack up to 10 times.
+56633996208934912,DEMONIC_SHIELD_CHARGE_DESCR,Increase block by 2 for each stack. Can only stack up to 10 times.
+56634085069459456,DRAGONIC_FURY_DESCR,"Increase Damage by 20%. All dragonic skills have additional effects. At turn end, gain a Dragon Scale stack."
+56634152224460800,DRAGON_SCALE_DESCR,"For every instance of damage, the damage will be reduced by 10 points. 1 Stack will be removed when that happens."
+56634231417114624,EXPOSED_DESCR,Hit Chance against this target is increased by 30%. Target can not become hidden.(Ongoing hidden effects are unaffected)
+56634283657170944,CURSED_WOUNDS_DESCR,Reduce healing received to 0%.
+56634345854504960,SLOWED_DESCR,Initiative is reduced by 50%. AP and Movement is reduced by 1. Hit chance against this target is increased by 20%. Removes Haste.
+56634398132310016,HASTED_DESCR,Initiative is increased by 50%. AP and Movement is increased by 1. Hit chance against this target is reduced by 20%. Removes Slow.
+56634462565208064,SLEEP_DESCR,Character can not act on their turn. Crit chance against character is increased by 30. Gets removed early if the character gets damaged. 
+56634541317459968,EXTENDED_RANGE_DESCR,Increase the range of ranged skills by X.
+56634607805566976,PILEOFGOLD_GREED_DESCR,Decrease Accuracy by 10. There is a 25% chance for the Character to lose their turn on start. If character is greedy the chance is increased to 50%.
+56634695072256000,METAMAGIC_EXTEND_DESCR,Buffs or Debuffs of the next arcane or divine skill will last 2 turns longer.
+56634779360989184,METAMAGIC_QUICKEN_DESCR,The next arcane or divine skill will cost 1 AP.
+56634851834368000,METAMAGIC_EMPOWER_DESCR,The next arcane or divine skill will deal 50% more damage.
+56634911817109504,METAMAGIC_PIERCING_DESCR,The next arcane or divine skill will ignore resistances above 0 when dealing damage.
+56634981107011584,TRANSFER_DAMAGE_DESCR,All Damage to the Caster will be transferred to this Character. <color=red>(Careful! The effect duration will be reduced on this unit's turn and not on the Caster's turn!)
+56635054754795520,WITHERING_DESCR,Reduce damage dealt by 20%. Increase damage received by 20%. At the start of the turn deal 30% of the Caster's MAB as dark damage to the Character.
+56635116675305472,SHADOW_WALK_DESCR,Using skills does not remove Hidden
+56635177295581184,FLURRY_OF_FIST_DESCR,Fist Skills cost 1 less AP
+56635256463069184,CHARMED_DESCR,Character can not target the source of their Charmed Status. They'll lose BP when the source of their charmed status gets damaged and there is a 75% chance for them to turn hostile on their turn.
+56635318920450048,MISSILE_PROTECTION_DESCR,Reduce Damage of ranged physical attacks to 0.
+56635406090670080,GUARDIAN_ANGEL_DESCR,50% of the damage is transferred to their guardian.
+56635485409153024,LONEWOLF_DESCR,"As long there are no allies within 3 tiles, increase PAB, MAB, Accuracy, Crit, Dodge, Block, Initiative, Movement, Bravery and all resistances by 20%."
+56635554346733568,ACID_DESCR,Prevents regeneration effects.
+56635608738467840,IMMORTAL_FIRE_DESCR,Upon Death: Summon <color=orange>Phoenix Ashes</color> at the unit's location. It will immediately receive a turn. Can be removed through the Status effects <color=lightblue>Wet</color> or <color=lightblue>Chilled</color>.
+56635682696630272,HUNT_TARGET_DESCR,Animal Companions will prefer this unit as target and deal 30% more damage against this target.
+56635764682690560,SHADOW_CLOAK_DESCR,"Reduce Hit-Chance of enemies against this target by 20. If the unit gets hit by a hostile melee skill, the aggressor gets blinded."
+56635825814671360,TARGET_OF_ENVY_DESCR,"Caster has +30 Accuracy against this target and deals 30% more damage against this unit. Additionally, the Caster gains +50 Dodge against Attack Of Opportunities or Overwatches from other units."
+56635897616961536,UNWORTHY_DESCR,All damage this unit deals to the source unit is reduced to 0. Can only be removed by using the BP-Action <color=orange>{DEFY}</color>.
+56635956916031488,UNTOUCHABLE_DESCR,Reduce Enemy Hit Chance by 30% for each stack. Lose a stack every round or each time the unit has been the target of a hostile skill.
+56636027963346944,OBSCURED_DESCR,Reduce Enemy Hit Chance by 10%. Sneak Attacks are enabled as long as the target does not have True Sight.
+56636094434676736,CRYOSTASIS_DESCR,"Reduce damage received to 0 (Does not affect damage over time).
+Unit can not act."
+56636159169564672,SLOTH_CURSE_DESCR,For each Stack reduce max. HP by 5% and damage dealt by 5%. Can stack up to 19 times.
+56636257505021952,BLEEDING_DESCR,Deals X true damage on the start of the unit's turn. Damage bypass barrier.
+56636330808872960,POISON_DESCR,Deals X true damage on the start of the unit's turn. Damage bypass barrier.
+56636416985042944,BURNING_DESCR,Deals X true damage on the start of the unit's turn. Reduces fire resistance by 30 and prevents health regeneration.
+67797313163341824,STRAINED,Strained
+67797939725250560,STRAINED_DESCR,This unit deals 30% less damage and can't use brave actions.
