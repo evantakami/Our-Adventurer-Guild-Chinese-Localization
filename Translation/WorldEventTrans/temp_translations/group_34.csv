@@ -1,0 +1,45 @@
+ID,Key,String,EventID,TranslatedString
+1834453827489797,WORLDEVENT105_PAGE1,"The Party managed to slay the lizard men who came for them and saw that the other group also managed to survive. One of them, probably the leader of the group, approached the Party.  He thanked the Party for saving their lives and told them that, as expected, they were Adventurers who were doing a quest.
+
+The Party asked him if they still needed some help with their quest.",105,"队伍成功击败了前来袭击的蜥蜴人，并看到另一组人也成功生还。其中一人，可能是那组的领袖，走近了队伍。他感谢队伍救了他们的命，并告诉他们，果然，他们是正在执行任务的冒险者。
+
+队伍询问他是否还需要帮助完成他们的任务。"
+1834453827489798,WORLDEVENT105RESULT0_PAGE1,"The young man shook his head. ""After this experience, I don't feel like that this kind of life suits me. And I'm sure the rest of my group feels the same. We'll probably all go home now."" the young adventurer said.
+
+""But we can't leave before giving some rewards to our saviours. Here is the gold we received for doing this quest. We were supposed to slay this group of lizardmen. Seeing as how most of them were killed by you I'd say this gold rightly belongs to you."" He hands the party a big sack of gold.
+
+With this the young adventurer group once again thanked the Party for their rescue and bid them farewell. The Party continued their journey. Some of them couldn't help but smile. Saving others like this doesn't feel too bad. ",105,"年轻人摇了摇头。“经过这次经历，我觉得这种生活不适合我。我相信我组里的其他人也有同样的感觉。我们可能都要回家了。”年轻的冒险者说道。
+
+“但我们不能在给我们的救命恩人一些奖励之前就离开。这里是我们为完成这个任务而获得的金币。我们本该击败这组蜥蜴人。既然大部分都是被你们杀掉的，我想这金币理应归你们。”他递给队伍一个装满金币的大袋子。
+
+说完，年轻的冒险者们再次感谢队伍的救援，并向他们告别。队伍继续他们的旅程。有些人忍不住微笑。像这样拯救他人并不算太糟糕。"
+1834453831684096,WORLDEVENT106_PAGE1,"Before the group was a camp that seemed to have been freshly set up. It was a strange sight because there was no sign of whoever it was that set it up. Even when the group waited for a while it didn't seem like anyone was about to return to the camp.
+The group started to realize that they were slightly tired and hungry. Coincidentally around the campfire was enough food prepared to feed the whole Party. For some reason it felt like that the place wanted them to take a break and rest.",106,"在他们面前是一个似乎刚刚搭建好的营地。这是一个奇怪的景象，因为没有任何迹象表明是谁搭建了它。即使队伍等了一会儿，似乎也没有人要回到营地。
+队伍开始意识到他们有些疲惫和饥饿。巧合的是，篝火旁准备了足够的食物来喂饱整个队伍。出于某种原因，这个地方让他们觉得想要休息一下。"
+1834453831684097,WORLDEVENT106_DECISION1,Take a break and rest at the camp.,106,在营地休息一下。
+1834453831684098,WORLDEVENT106_DECISION1RESULT0_PAGE1,Not questioning the situation the Party starts to drop their guard and occupy the camp. They eat the food around the camp fire and immediately after they went to sleep despite it not even being dark yet. ,106,队伍没有质疑这种情况，开始放下警惕，入住营地。他们在篝火旁吃了食物，随后尽管天色还没黑就立刻入睡了。
+1834453831684099,WORLDEVENT106_DECISION2,Try to resist the allure of the camp.,106,尝试抵抗营地的诱惑。
+1834453831684100,WORLDEVENT106_DECISION2RESULT0_PAGE1,"{CHARACTER1} realized that something was wrong with them. {GENDER1:cond:=1?He|=0?She} mustered up all of {GENDER1:cond:=1?his|=0?her} willpower and managed to break free from whatever it was that had them in their grasp.
+{GENDER1:cond:=1?he|=0?she} immediately snapped everyone else out of their trance. 
+
+Now realizing that this was a trap the group left the camp alone and continued with their journey.
+ ",106,"{CHARACTER1}意识到他们身上有些不对劲。{GENDER1:cond:=1?他|=0?她}鼓起所有的意志力，成功挣脱了束缚他们的东西。
+{GENDER1:cond:=1?他|=0?她}立刻让其他人也从恍惚中醒来。
+
+现在意识到这是一个陷阱，队伍独自离开了营地，继续他们的旅程。"
+1834453831684101,WORLDEVENT106_DECISION2ALTRESULT0_PAGE1,"Instinctively the adventurers realized that something was off but they couldn't put their finger on it.
+But who cares? They were tired and hungry and the camp was begging them to stay. Without any further resistance the party started to occupy the camp.
+
+The ate the food at the camp without hesitation and after that they went to bed without even setting up a nightwatch. ",106,"冒险者们本能地意识到有什么不对劲，但他们无法确切说出是什么。
+但谁在乎呢？他们疲惫又饥饿，营地在恳求他们留下。没有进一步的抵抗，队伍开始入住营地。
+
+他们毫不犹豫地吃了营地的食物，之后甚至没有设置夜间警戒就上床睡觉了。"
+1834453831684102,WORLDEVENT108_PAGE1,"A little bit later shadows start to emerge out of nowhere and they started to approach the sleeping adventurers, like predators to their preys.
+
+Luckily, never dropping their guards fully, the adventurers noticed their presence and woke up just in time to put up a fight.
+
+Prepare for Battle!",108,"不久后，阴影开始从无处出现，向沉睡的冒险者们逼近，像捕食者对待猎物一样。
+
+幸运的是，冒险者们没有完全放下警惕，及时察觉到了他们的存在，并醒来准备迎战。
+
+准备战斗！"

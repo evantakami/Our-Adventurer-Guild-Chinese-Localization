@@ -1,0 +1,98 @@
+ID,Key,String,EventID,TranslatedString
+1834453668106242,WORLDEVENT25_DECISION1,Ignore the provocation and accept the result,25,忽视挑衅，接受结果
+1834453668106243,WORLDEVENT25_DECISION1RESULT0_PAGE1,"{CHARACTER1} declined the offer. 
+
+""Very well."" the Master of the Arena replied. ""It was still an impressive feat and that might have been the wiser decision.""
+
+The female adventurer ,however, seemed disappointed in {CHARACTER1}'s response and lost interest in {CHARACTER1} quickly. Instead she focused on bathing in the cheers of the crowd.",25,"{CHARACTER1} 拒绝了这个提议。  
+
+“很好。”竞技场的主人回应道。“这仍然是一个令人印象深刻的壮举，这可能是更明智的决定。”  
+
+然而，女冒险者似乎对 {CHARACTER1} 的回应感到失望，迅速对 {CHARACTER1} 失去了兴趣。相反，她专注于沉浸在观众的欢呼声中。"
+1834453668106244,WORLDEVENT25_DECISION2,Take her up on the challenge.,25,接受她的挑战。
+1834453668106245,WORLDEVENT25_DECISION2RESULT0_PAGE1,"{CHARACTER1} accepted the challenge.
+""Wonderful!"" the Master of the Arena replied. Another stack of tiles, even greater than before, was placed before {CHARACTER1}.
+{CHARACTER1} took another deep breath and, once again, swung {GENDER1:cond:=1?his|=0?her} fist toward the tiles with all {GENDER1:cond:=1?his|=0?her} might.
+
+
+All the tiles were completely shattered.
+
+
+The female adventurer demanded more tiles. They were swiftly provided, and once again, both of them broke the tiles with a single strike.",25,"{CHARACTER1} 接受了挑战。  
+“太好了！”竞技场的主人回应道。又一堆比之前更大的瓦片被放在 {CHARACTER1} 面前。  
+{CHARACTER1} 深吸一口气，再次用尽全力挥动 {GENDER1:cond:=1?他的|=0?她的} 拳头朝瓦片砸去。  
+
+所有的瓦片都被完全击碎。  
+
+女冒险者要求更多的瓦片。它们很快被提供，再次，两人都以一击打碎了瓦片。"
+1834453668106246,WORLDEVENT25_DECISION2RESULT0_PAGE2,"Both of them continued to compete, and the crowd went wild, captivated by the intense rivalry between the two.
+
+Then, when the tile towers nearly surpassed them in height, the female adventurer left a single tile intact in her attempt.
+
+{CHARACTER1}, however, managed to break them all in a single strike again. The crowd erupted in a loud cheer for {CHARACTER1}.
+
+
+""That will earn you some great bonus points,"" the Master of the Arena commented.
+
+
+The female adventurer seemed slightly dissatisfied and mentioned that she wanted a rematch someday. {CHARACTER1} replied that she could come at {GENDER1:cond:=1?him|=0?her} at any time.",25,"两人继续竞争，观众们为之疯狂，被两人之间激烈的对抗所吸引。  
+
+然后，当瓦片塔几乎超过他们的高度时，女冒险者在尝试中留下了一块瓦片完好无损。  
+
+然而，{CHARACTER1} 再次成功地一击击碎了所有的瓦片。观众们为 {CHARACTER1} 发出了热烈的欢呼。  
+
+“这将为你赢得一些额外的积分，”竞技场的主人评论道。  
+
+女冒险者似乎有些不满意，并提到她希望有一天能再来一场比赛。{CHARACTER1} 回应说她可以随时来找 {GENDER1:cond:=1?他|=0?她}。"
+1834453672300544,WORLDEVENT25_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} accepted the challenge.
+
+""Wonderful!"" the Master of the Arena replied. Another stack of tiles, even greater than before, was placed before {CHARACTER1}.
+
+{CHARACTER1} took another deep breath and, once again, swung {GENDER1:cond:=1?his|=0?her} fist toward the tiles with all {GENDER1:cond:=1?his|=0?her} might.
+This time, however, {CHARACTER1} was only able to shatter about half of the tiles.
+
+""What a shame!"" the Master of the Arena commented. ""However, rules are rules. The new result will be used instead of the previous one in the evaluation.""
+
+
+The female adventurer raised her arms in triumph, and the crowd responded with cheers.",25,"{CHARACTER1} 接受了挑战。  
+
+“太好了！”竞技场的主人回应道。又一堆比之前更大的瓦片被放在 {CHARACTER1} 面前。  
+
+{CHARACTER1} 深吸一口气，再次用尽全力挥动 {GENDER1:cond:=1?他的|=0?她的} 拳头朝瓦片砸去。  
+然而这次，{CHARACTER1} 只击碎了大约一半的瓦片。  
+
+“真可惜！”竞技场的主人评论道。“不过，规则就是规则。新的结果将替代之前的结果进行评估。”  
+
+女冒险者高举双臂庆祝，观众们回应以欢呼。"
+1834453672300545,WORLDEVENT26_PAGE1,"After the Party entered the old wooden cabin, several shadowy figures appeared out of the darkness surrounding the adventurers. It seemed like Rogue's enemies have gotten to the hideout before them.
+
+Before they could wonder what might have happened to Rogue's friend, one of the ambushers, presumably the leader started to question the adventurers.
+
+""You! Where is the traitor to the Hand?!",26,"当队伍进入那间旧木屋时，几道阴影从黑暗中浮现，包围了冒险者们。看起来盗贼的敌人在他们之前就已经到达了藏身之处。  
+
+在他们还未想明白盗贼的朋友可能发生了什么之前，一名伏击者，可能是首领，开始质问冒险者们。  
+
+“你们！叛徒在哪里？！"
+1834453672300546,WORLDEVENT26RESULT0_PAGE1,"The adventurers didn't quite understand what the man was talking about.
+
+""Feigning ignorance, are we? No matter. We have ways to make you talk."" the man said while pulling out his daggers.
+
+Prepare for Battle!",26,"冒险者们并不太明白那人所说的内容。  
+
+“假装无知，是吗？没关系。我们有办法让你们开口。”那人一边说，一边拔出了他的匕首。  
+
+准备战斗！"
+1834453672300547,WORLDEVENT27_PAGE1,"The adventurers managed to defeat the ambushers. 
+
+While catching their breaths they noticed more presences hiding somewhere in the dark. The Party got into formation ready for the next ambush. 
+
+However, something unexpected happened.",27,"冒险者们成功击败了伏击者。  
+
+在喘息的时候，他们注意到黑暗中还有更多的身影隐藏着。队伍迅速进入阵型，准备迎接下一次伏击。  
+
+然而，意想不到的事情发生了。"
+1834453672300548,WORLDEVENT27RESULT0_PAGE1,"A flash of light suddenly appeared in the darkness, only to disappear and reappear in another location again. This happened several times and everytime it did so, the Party could hear a slashing sound and a scream of death.
+
+At last the light appeared in front of the Party and a woman stepped out of it.",27,"一道光芒突然在黑暗中闪现，随即消失又在另一个地方重新出现。这种情况发生了几次，每次出现时，队伍都能听到撕裂的声音和死亡的尖叫。  
+
+最后，光芒出现在队伍面前，一名女子从中走了出来。"

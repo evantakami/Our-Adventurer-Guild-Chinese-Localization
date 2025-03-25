@@ -1,0 +1,57 @@
+ID,Key,String,EventID,TranslatedString
+1834454041399296,WORLDEVENT180_PAGE1,"The adventurers arrived at the lair of the man once known as Edmund, the only modern necromancer who had achieved lichdom by sacrificing numerous innocent lives and continued to do so to extend his immortal existence.
+
+As they entered, a gruesome scene awaited them in the hallway. Blood was splattered across the castle's walls and floor, with various bones scattered about in different shapes. The walls seemed to have absorbed the pain and struggle of Edmund's victims, creating an atmosphere where the adventurers could almost sense their fear and agony. An overwhelming feeling of despair enveloped them, as if the anguished screams of the victims echoed in their minds.",180,"冒险者们来到了曾被称为爱德蒙的人的巢穴，他是唯一一个通过牺牲无数无辜生命而实现巫妖化的现代死灵法师，并且为了延续自己的不朽存在而继续这样做。
+
+当他们走进时，走廊里等待他们的是一个可怕的场景。鲜血溅满了城堡的墙壁和地面，各种形状的骨骼散落在四周。墙壁似乎吸收了爱德蒙受害者的痛苦与挣扎，营造出一种氛围，冒险者们几乎能感受到他们的恐惧与痛苦。绝望的感觉笼罩着他们，仿佛受害者的痛苦尖叫在他们的脑海中回响。"
+1834454041399297,WORLDEVENT180_DECISION1,The Adventurers needed to move on.,180,冒险者们需要继续前进。
+1834454041399298,WORLDEVENT180_DECISION1RESULT0_PAGE1,"The adventurers moved on, trying their best to ignore the atmosphere of despair the place was exuding.  Silently, they made a vow to the victims, promising that they would ensure the lich paid dearly for the atrocities he had inflicted upon them.",180,冒险者们继续前进，尽力忽视这个地方散发的绝望气氛。他们默默地向受害者发誓，承诺一定会让巫妖为他所施加的暴行付出沉重的代价。
+1834454041399299,WORLDEVENT181_PAGE1,"Suddenly, the adventurers heard something. A barely audible sound that they stumbled upon by chance. Straining to listen, they realized that what they heard was unmistakenly the sound of a sobbing child.",181,突然，冒险者们听到了什么。一个几乎听不见的声音，他们偶然发现了这个声音。竭力倾听后，他们意识到听到的声音无疑是一个哭泣孩子的声音。
+1834454041399300,WORLDEVENT181_DECISION1,Ignore it and move on. There could not possibly be a child here.,181,忽略它，继续前进。这里不可能有孩子。
+1834454041399301,WORLDEVENT181_DECISION1RESULT0_PAGE1,"The adventurers chose to disregard the sound. It seemed impossible for a child to have survived in this grim environment. They considered it a trick of the mind, a mirage, or possibly something more sinister.",181,冒险者们选择无视这个声音。在这个阴暗的环境中，孩子存活下来的可能性似乎是不可能的。他们认为这只是心灵的幻觉，一个海市蜃楼，或者可能是更阴险的东西。
+1834454041399302,WORLDEVENT181_DECISION2,Look for the source of the sobbing.,181,寻找哭泣声的来源。
+1834454041399303,WORLDEVENT181_DECISION2RESULT0_PAGE1,"The adventurers started to look around. Trying to find the sobbing child.
+
+However, all they found were lifeless bodies strewn about, left to decay without care.",181,"冒险者们开始四处寻找，试图找到那个哭泣的孩子。
+
+然而，他们发现的只是散落一地的无生命尸体，任其腐烂，无人问津。"
+1834454041399304,WORLDEVENT182_PAGE1,The sobbing still continued.,182,哭泣声仍在继续。
+1834454041399305,WORLDEVENT182_DECISION1,The adventurers have already searched everywhere. There was no child.,182,冒险者们已经搜索过所有地方。这里没有孩子。
+1834454041399306,WORLDEVENT182_DECISION1RESULT0_PAGE1,"The adventurers were certain of it. There was nobody else in this hallway. 
+
+ It didn't matter if there was a sobbing. 
+They were helpless to do anything about it.",182,"冒险者们对此深信不疑。这条走廊里没有其他人。
+
+哭泣声并不重要。  
+他们无能为力，无法对此做任何事情。"
+1834454045593600,WORLDEVENT182_DECISION2,{DECISIONCHARACTER1} found the source of the sobbing.,182,{DECISIONCHARACTER1} 找到了哭泣声的来源。
+1834454045593601,WORLDEVENT182_DECISION2RESULT0_PAGE1,"
+{CHARACTER1} discovered the source of the sobbing, but only {GENDER1:cond:=1?he|=0?she} could see it.
+
+A faint, flickering soul remained concealed in a corner, small and youthful, barely noticeable.
+
+{CHARACTER1} could sense its fear and confusion about its situation. The soul seemed to lack understanding of what had transpired, or perhaps it did comprehend but wasn't ready to move on.
+
+As it gazed at {CHARACTER1}, or at least {CHARACTER1} believed it did, there was a sense of understanding that the adventurers meant no harm.
+
+{CHARACTER1} could tell what the soul wished for. It still longed to witness the world, to explore what life had to offer, even if only through the eyes of another.
+",182,"{CHARACTER1} 发现了哭泣声的来源，但只有 {GENDER1:cond:=1?他|=0?她} 能看到它。
+
+一个微弱、闪烁的灵魂藏在角落里，幼小而年轻，几乎不易察觉。
+
+{CHARACTER1} 能感受到它对自身处境的恐惧与困惑。这个灵魂似乎不理解发生了什么，或者说它理解了，但还没有准备好继续前行。
+
+当它凝视着 {CHARACTER1}，或者至少 {CHARACTER1} 认为它在凝视时，冒险者们感受到了一种理解，明白他们并无恶意。
+
+{CHARACTER1} 能够感知到这个灵魂的愿望。它仍然渴望见证这个世界，探索生活所能提供的一切，即使只是通过他人的眼睛。"
+1834454045593602,WORLDEVENT182_DECISION2RESULT0_PAGE2,"{CHARACTER1} smiled and offered to let it join {GENDER1:cond:=1?his|=0?her} life and promised to live a life enough for the two of them. 
+A warmth emanated from the soul, and it vanished into a sea of light, visible even to the other adventurers.
+
+As the light dimmed, {CHARACTER1} could tell:
+
+The soul wasn't gone.",182,"{CHARACTER1} 微笑着，愿意让它加入 {GENDER1:cond:=1?他的|=0?她的} 生活，并承诺将为他们两个过上足够的生活。  
+灵魂散发出一股温暖，随后消失在一片光海中，连其他冒险者也能看到。
+
+当光芒渐渐暗淡时，{CHARACTER1} 能感觉到：
+
+灵魂并没有消失。"

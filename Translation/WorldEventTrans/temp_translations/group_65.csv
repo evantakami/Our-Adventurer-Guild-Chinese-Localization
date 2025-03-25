@@ -1,0 +1,145 @@
+ID,Key,String,EventID,TranslatedString
+1834454079148039,WORLDEVENT201_PAGE1,"The adventurers stumbled upon an ancient shrine, seemingly neglected for an eternity. A small flame flickered in its center, and as they approached, the fire unexpectedly intensified, taking on a humanoid form. Though the adventurers were cautious, the entity showed no immediate hostility.
+
+""Have you come to pay respect to my shrine, humans?"" inquired the being. The adventurers denied any such intention.
+
+The being became agitated and began to express its frustration. ""This is unbelievable! You humans seem to have forgotten who I am! I am Ifrit! Once, I had countless followers! Yet, not a single one of you has paid me any respect in centuries!""
+",201,"冒险者们偶然发现了一个古老的神殿，似乎被遗弃了无尽的岁月。中央有一小团火焰在闪烁，当他们靠近时，火焰意外地变得更加旺盛，呈现出人形。尽管冒险者们十分谨慎，但这个存在并没有表现出立即的敌意。  
+
+“你们是来向我的神殿致敬的，凡人吗？”那存在询问道。冒险者们否认了这样的意图。  
+
+那存在变得激动，开始表达它的沮丧。“这简直不可思议！你们凡人似乎已经忘记我是谁！我是伊夫利特！曾经，我有无数的追随者！然而，几个世纪以来，你们中没有一个人向我致敬！”"
+1834454083342336,WORLDEVENT201_PAGE2,"The adventurers suspected that this fiery entity may be a particular powerful fire elemental which was probably once revered as a deity. It seemed likely that it lost its followers over the years. No wonders, given the church's usual suppression of beliefs that worshipped false gods.
+
+""This cannot stand!"" declared the spirit. ""I must reclaim my glory once again!"" It fixed its gaze on the adventurers.
+
+""I may also need a human to be my herald. Is there anyone among you worthy to spread my faith?""",201,"冒险者们怀疑这个火焰实体可能是某个曾经被崇敬为神明的强大火元素。看来它在岁月中失去了追随者。难怪，考虑到教会通常压制崇拜虚假神明的信仰。  
+
+“这不能就这样结束！”灵魂宣称。“我必须重新夺回我的荣耀！”它将目光锁定在冒险者们身上。  
+
+“我可能还需要一个人类来做我的传令官。你们中有谁值得传播我的信仰？”"
+1834454083342337,WORLDEVENT201_DECISION1,One of the adventurers volunteered to be the herald.,201,一名冒险者自愿成为传令官。
+1834454083342338,WORLDEVENT201_DECISION1RESULT0_PAGE1,"{CHARACTER1} stepped forward and declared, that {GENDER1:cond:=1?he|=0?she} would be its herald.",201,{CHARACTER1} 走上前，宣布 {GENDER1:cond:=1?他|=0?她} 将成为它的传令官。
+1834454083342339,WORLDEVENT201_DECISION2,Refuse the Offer,201,拒绝这个提议
+1834454083342340,WORLDEVENT201_DECISION2RESULT0_PAGE1,"The spirit scoffed.
+
+""You dare to refuse me?"" It started to vanish but its voice still echoed in the air.
+
+""For this insolence you shall die!""
+
+Suddenly, a multitude of fire elementals materialized and attacked the party.",201,"灵魂嗤之以鼻。  
+
+“你竟敢拒绝我？”它开始消失，但声音仍在空中回荡。  
+
+“因这无礼，你将死！”  
+
+突然，成群的火元素显现出来，向队伍发起攻击。"
+1834454083342341,WORLDEVENT202_DECISION1,The spirit inspects the chosen adventurer.,202,灵魂检查了被选中的冒险者。
+1834454083342342,WORLDEVENT202_DECISION1RESULT0_PAGE1,"The spirit glanced disdainfully at {CHARACTER1} and scoffed, ""This one is not worthy at all. It seems I have to do it myself after all."" With that, it vanished, leaving only the echoes of its voice.
+
+""One more thing. For being so disrespectful, you should do me the courtesy of dying.""
+
+Suddenly, a multitude of fire elementals materialized and attacked the party.",202,"灵魂不屑地瞥了 {CHARACTER1} 一眼，嗤笑道：“这个根本不配。看来我还是得亲自来。”说完，它消失了，只留下声音的回响。  
+
+“还有一件事。因你如此不尊重，你应该给我一个死去的礼遇。”  
+
+突然，成群的火元素显现出来，向队伍发起攻击。"
+1834454083342343,WORLDEVENT202_DECISION1CONDRESULT1_PAGE1,"""Oh, I like this one,"" the spirit remarked.
+
+""Unyielding and hot-tempered. That's how a follower of mine should be.""
+
+The spirit placed a finger on {CHARACTER1}'s forehead.
+
+""You have passed. Here is a gift from me!"" The finger began to glow, and {CHARACTER1} could feel a new power surging within {GENDER1:cond:=1?him|=0?her}.
+
+As the spirit started to vanish, its voice echoed in the air.
+
+""Now go forth and spread my name, my herald!""",202,"“哦，我喜欢这个，”灵魂说道。  
+
+“坚定而火爆。这才是我的追随者应有的样子。”  
+
+灵魂用手指轻触 {CHARACTER1} 的额头。  
+
+“你通过了。这里有我送给你的礼物！”手指开始发光，{CHARACTER1} 能感受到一股新力量在 {GENDER1:cond:=1?他|=0?她} 体内涌动。  
+
+当灵魂开始消失时，它的声音在空中回荡。  
+
+“现在去吧，传播我的名字，我的传令官！”"
+1834454083342344,WORLDEVENT202_DECISION1CONDRESULT2_PAGE1,"""Oh, I like this one,"" the spirit remarked.
+
+""Completely unafraid of death. A fire that burns short but brightly.""
+
+The spirit placed a finger on {CHARACTER1}'s forehead.
+
+""You have passed. Here is a gift from me!"" The finger began to glow, and {CHARACTER1} could feel a new power surging within {GENDER1:cond:=1?him|=0?her}.
+
+As the spirit started to vanish, its voice echoed in the air.
+
+""Now go forth and spread my name, my herald!""",202,"“哦，我喜欢这个，”灵魂说道。  
+
+“完全不怕死亡。短暂而明亮的火焰。”  
+
+灵魂用手指轻触 {CHARACTER1} 的额头。  
+
+“你通过了。这里有我送给你的礼物！”手指开始发光，{CHARACTER1} 能感受到一股新力量在 {GENDER1:cond:=1?他|=0?她} 体内涌动。  
+
+当灵魂开始消失时，它的声音在空中回荡。  
+
+“现在去吧，传播我的名字，我的传令官！”"
+1834454087536640,WORLDEVENT202_DECISION1CONDRESULT3_PAGE1,"""Oh, I like this one,"" the spirit remarked.
+
+""You know how to wield fire and are not afraid to get burned by it.""
+
+The spirit placed a finger on {CHARACTER1}'s forehead.
+
+""You have passed. Here is a gift from me!"" The finger began to glow, and {CHARACTER1} could feel a new power surging within {GENDER1:cond:=1?him|=0?her}.
+
+As the spirit started to vanish, its voice echoed in the air.
+
+""Now go forth and spread my name, my herald!""",202,"“哦，我喜欢这个，”灵魂说道。  
+
+“你知道如何驾驭火焰，并且不怕被烧伤。”  
+
+灵魂用手指轻触 {CHARACTER1} 的额头。  
+
+“你通过了。这里有我送给你的礼物！”手指开始发光，{CHARACTER1} 能感受到一股新力量在 {GENDER1:cond:=1?他|=0?她} 体内涌动。  
+
+当灵魂开始消失时，它的声音在空中回荡。  
+
+“现在去吧，传播我的名字，我的传令官！”"
+1834454087536641,WORLDEVENT202_DECISION1CONDRESULT4_PAGE1,"""Are you insulting me?"" The disdain could be clearly heard from its voice.
+
+""A human afraid of fire wants to be my herald? I give you something to be afraid of!""
+
+Suddenly, the adventurers felt like real fire was burning in their veins. The spirit started to vanish but its arrogant voice could still be heard.
+
+""I hope you die a painful death, humans!""
+
+Suddenly, a multitude of fire elementals materialized and attacked the party.",202,"“你在侮辱我吗？”它的声音中清晰地听出了轻蔑。  
+
+“一个害怕火焰的人类想要成为我的传令官？我给你点真正该害怕的东西！”  
+
+突然，冒险者们感觉到真实的火焰在他们的血管中燃烧。灵魂开始消失，但它傲慢的声音仍然可以听到。  
+
+“我希望你们痛苦地死去，凡人！”  
+
+突然，成群的火元素显现出来，向队伍发起攻击。"
+1834454087536642,WORLDEVENT203_PAGE1,"As the adventurers continued their journey, an arrow suddenly flew right past them, embedding itself into the ground nearby. They scanned the area for the shooter but couldn't find anyone nearby.
+
+Upon closer inspection, the adventurers noticed that there was a message attached to the arrow. They retrieved it and read:
+",203,"当冒险者们继续他们的旅程时，一支箭突然飞过他们，嵌入附近的地面。他们扫描周围寻找射手，但没有发现任何人。  
+
+经过仔细检查，冒险者们注意到箭上附着了一条信息。他们取下信息并阅读："
+1834454087536643,WORLDEVENT203_PAGE2,"""A group of beasts nearby has grown too strong and threatens the balance of these lands. Hunt them down, and a reward will be yours.""
+
+It was then that they also noticed the arrow had embedded itself close to what appeared to be wyvern tracks. It was reasonable to believe that these tracks belonged to the group of beasts the message was referring to.",203,"“附近一群野兽变得过于强大，威胁到这些土地的平衡。猎杀它们，奖励将属于你。”  
+
+这时，他们还注意到箭嵌入的位置靠近似乎是飞龙的足迹。合理推测这些足迹属于信息所提到的野兽群体。"
+1834454087536644,WORLDEVENT203_DECISION1,Hunt the beasts.,203,狩猎野兽。
+1834454087536645,WORLDEVENT203_DECISION1RESULT0_PAGE1,"The adventurers followed the tracks and soon came upon a large group of wyverns. As they drew closer, the keen senses of the beasts detected their presence, prompting the creatures to spread their wings and advance menacingly toward the adventurers.
+
+Prepare for battle!",203,"冒险者们沿着足迹前进，很快就遇到了一大群飞龙。当他们靠近时，野兽敏锐的感知到他们的存在，促使这些生物展开翅膀，威胁性地向冒险者们逼近。  
+
+准备战斗！"
+1834454087536646,WORLDEVENT203_DECISION2,Ignore the message.,203,忽视这个信息。
+1834454087536647,WORLDEVENT203_DECISION2RESULT0_PAGE1,The adventurers  ignored the message and simply moved on. They would not do a task for somebody whose face they didn't know.,203,冒险者们忽视了这个信息，继续前行。他们不会为一个陌生人的任务而去做事。

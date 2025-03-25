@@ -1,0 +1,41 @@
+ID,Key,String,EventID,TranslatedString
+1834454033010691,WORLDEVENT177_PAGE1,"The party once again encountered the same priest, who appeared just as they remembered him, except for the addition of a blue eye, an apparent recent acquisition.
+
+""Ah, travelers! It seems fate has brought us together once more, now that I find myself in dire need of assistance again. Some rather unsavory characters are claiming that I owe them money. It's utterly preposterous, of course, but as a man of peace, I prefer to settle matters amicably. Alas, I once again find myself without money.""
+
+He extended his hands with a clear message: he was once again seeking a pittance.",177,"这次聚会再次遇到了同样的牧师，他的模样和他们记忆中的一模一样，唯一的不同是多了一只蓝色的眼睛，显然是最近获得的。
+
+“啊，旅行者们！命运似乎再次将我们聚集在一起，现在我再次陷入了迫切需要帮助的境地。一些相当不怀好意的人声称我欠他们钱。这当然是荒谬的，但作为一个和平的人，我更愿意友好地解决问题。唉，我再次发现自己身无分文。”
+
+他伸出双手，传达出一个明确的信息：他再次在寻求一小笔施舍。"
+1834454033010692,WORLDEVENT177_DECISION1,Help him out. <color=orange>(You'll randomly lose items in your inventory until you have no items or the total value exceed 500 gold),177,帮助他。<color=orange>(你将随机失去你背包中的物品，直到你没有物品或总价值超过500金币)
+1834454033010693,WORLDEVENT177_DECISION1RESULT0_PAGE1,"""Much obliged, my dear travelers. I hope you'll sleep soundly tonight, knowing that you may have very well saved my life! Now, excuse me. The earlier I settle my matter, the better."" With those words, he excused himself and moved on.",177,“非常感谢，亲爱的旅行者们。我希望今晚你们能安然入睡，因为你们可能真的救了我的命！现在，打扰了你们。越早解决我的问题越好。”说完这些话，他便告辞离开了。
+1834454033010694,WORLDEVENT177_DECISION2,Decline to help.,177,拒绝帮助。
+1834454033010695,WORLDEVENT177_DECISION2RESULT0_PAGE1,"""I guess it was too much to ask for this time,"" he replied with a hint of resignation. ""Don't worry about me, my dear travelers. I'll surely be able to find a way to settle this matter myself. Now if you excuse me, the earlier I do so, the better."" With those words, he excused himself and moved on.",177,“我想这次要求太过分了，”他带着一丝无奈的口气回答。“别担心我，亲爱的旅行者们。我一定能找到办法自己解决这个问题。现在请你们原谅我，我越早解决越好。”说完这些话，他便告辞离开了。
+1834454033010696,WORLDEVENT178_PAGE1,"
+Before the adventurers stood the priest they had encountered so many times before. Suspicion crept into their minds as they began to wonder if he was actually following them. When he noticed the adventurers, he quickly pretended not to see them and gave out a loud, exaggerated sigh that couldn't be ignored. When none of them reacted, he sighed even louder, until finally one of the adventurers asked him what was troubling him.
+",178,在冒险者面前站着的是他们之前多次遇到的牧师。怀疑悄然涌上心头，他们开始想知道他是否真的在跟踪他们。当他注意到冒险者时，他迅速假装没有看到他们，发出一声响亮而夸张的叹息，无法被忽视。当没有人反应时，他叹息得更大声，直到最终有一位冒险者问他到底怎么了。
+1834454037204992,WORLDEVENT178_PAGE2,"""I do not wish to burden you with the concerns of my heart,"" he began, his voice laden with feigned distress, ""but I know that kind-hearted souls such as yourselves could not bear to see me suffer in silence. The truth is, I am hopelessly in love with a woman who does not spare me a single glance, for I am too poor to catch her attention. If only there were a group of people kind and <b>wealthy</b> enough to help a pitiful man find love."" He glanced meaningfully at the adventurers as he spoke.",178,“我不想把我内心的烦恼加诸于你们，”他开始说道，声音中带着假装的忧虑，“但我知道像你们这样善良的灵魂无法忍受我默默受苦。其实，我对一个女人无可救药地爱着她，而她却从未给我一个眼神，因为我太穷了，无法引起她的注意。如果能有一群善良而<b>富有</b>的人来帮助一个可怜的人找到爱情，那该多好。”他在说话时意味深长地看了看冒险者。
+1834454037204993,WORLDEVENT178_DECISION1,Help him out. <color=orange>(You'll randomly lose items in your inventory until you have no items or the total value exceed 1000 gold),178,帮助他。<color=orange>(你将随机失去你背包中的物品，直到你没有物品或总价值超过1000金币)
+1834454037204994,WORLDEVENT178_DECISION1RESULT0_PAGE1,"As the adventurers handed over their valuables once more, the atmosphere around the priest seemed to shift. His demeanor softened, and he offered them a genuine warm smile as he expressed his gratitude for their gifts.
+
+Before departing, he addressed the adventurers one last time: ""I hope to see you again. I truly hope so."" With those final words, the priest vanished from their sight.",178,"当冒险者再次将他们的贵重物品交给他时，牧师周围的气氛似乎发生了变化。他的态度变得柔和，向他们表达了对他们馈赠的真诚感激，露出了温暖的微笑。
+
+在离开之前，他最后一次对冒险者说道：“我希望能再次见到你们。我真的希望如此。”说完这句话，牧师便消失在他们的视线中。"
+1834454037204995,WORLDEVENT178_DECISION2,Decline to help.,178,拒绝帮助。
+1834454037204996,WORLDEVENT178_DECISION2RESULT0_PAGE1,"""I see, you're not a believer in love,"" the priest replied saddened. ""Very well. It seems I have to try to win the heart of my sweetheart the old-fashioned way. Excuse me, my dear travelers, I have a matter of the heart to attend to."" With those final words, the priest vanished from their sight.",178,“我明白了，你们并不相信爱情，”牧师悲伤地回答。“很好。看来我得以传统的方式去赢得我心上人的心。请原谅我，亲爱的旅行者们，我有一件心事要去处理。”说完这些话，牧师便消失在他们的视线中。
+1834454037204997,WORLDEVENT179_PAGE1,"By now, the priest's face had become a familiar sight on their travels, yet something seemed off about him, and it wasn't solely due to the beautifully crafted shield and weapon he carried.
+
+""I wasn't sure what to think of you,"" the priest began, his tone thoughtful. ""No matter how absurd my requests seemed, you still extended a helping hand. Each time we met, it should have been obvious that you were being taken advantage of. And yet, despite it all, you continued to assist me. Was it because you are fools who are unaware of what happens around them?"" He smiled at them. ""Or is it because you understand the true essence of kindness? Where one continues to reach out their hand even knowing the potential for harm. Where one accepts the risk to oneself for the chance of truly helping someone. "" He fell silent for a moment.
+",179,"到现在为止，牧师的面孔在他们的旅途中已经变得熟悉，但他身上似乎有些不对劲，这不仅仅是因为他手中携带的精美盾牌和武器。
+
+“我不知道该如何看待你们，”牧师开始说道，语气沉思。“无论我的请求多么荒谬，你们仍然伸出援手。每次我们见面，应该很明显你们被利用了。然而，尽管如此，你们依然继续帮助我。是因为你们是对周围发生的事情一无所知的傻瓜吗？”他对他们微笑。“还是因为你们理解善良的真正本质？即使知道可能会受到伤害，依然愿意伸出援手。为了真正帮助某人而接受对自己的风险。”他沉默了一会儿。"
+1834454037204998,WORLDEVENT179RESULT0_PAGE1,"""I like to believe that the latter is the case."" With that, he handed them the shield and sword he carried.
+
+""This weapon is meant for good people like you. Good deeds will not always be rewarded, and that's not why we do them. So do not see this as a reward, but as a selfish gift from myself to you.""
+
+The adventurers thanked the priest for his generous gift and bid their farewells. Since then, they never crossed paths with the priest again, but his words and the gift he bestowed upon them stayed with them, a reminder of the true meaning of kindness.",179,"“我喜欢相信后者是事实。”说完这句话，他将自己携带的盾牌和剑递给了他们。
+
+“这把武器是为像你们这样善良的人准备的。善行并不总会得到回报，而这并不是我们行善的原因。所以不要把这看作是奖励，而是我送给你们的自私礼物。”
+
+冒险者们感谢牧师的慷慨馈赠，并向他告别。从那时起，他们再也没有与牧师相遇，但他的言辞和他赐予他们的礼物始终铭刻在心，提醒着他们善良的真正意义。"

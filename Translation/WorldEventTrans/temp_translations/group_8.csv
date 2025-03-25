@@ -1,0 +1,135 @@
+ID,Key,String,EventID,TranslatedString
+1834453655523333,WORLDEVENT22_PAGE1,"After the archery range had been dismantled, a single colossal plate was brought into the center of the arena. A man, appearing to be a wizard, stepped forward and cast a spell upon the plate.
+
+The Master of the Arena redirected his attention to the contestants and began to explain the rules of the forthcoming challenge.
+
+""The next challenge will test your willpower,"" he announced. ""Don't be deceived by the plate's harmless appearance. It conceals a powerful illusion spell, making it feel as though you're standing on unimaginably hot coals. How long can you endure the searing sensation before finally yielding?""
+",22,"在射箭场被拆除后，一块巨大的金属板被带入竞技场中央。一名看似是巫师的男子走上前，向金属板施下了一个法术。  
+
+竞技场的主持人将注意力转向参赛者，开始解释即将到来的挑战规则。  
+
+“下一个挑战将考验你们的意志力，”他宣布道。“不要被金属板无害的外表所欺骗。它隐藏着一个强大的幻觉法术，让你感觉仿佛站在难以想象的炽热煤炭上。你能忍受这种灼热的感觉多久，才会最终屈服？”"
+1834453655523334,WORLDEVENT22_PAGE2,"One by one, contestants took their turns standing on the searing plate. Some couldn't endure even a second, leaping away in agony as soon their feet touched the plate. Others managed to withstand the intense discomfort a bit longer, but the difference amounted to mere seconds.
+
+Then, a man from Falken's former party stepped onto the plate and remained resolute.
+
+Ten seconds passed...
+Twenty seconds passed...
+
+As the moments ticked by, contestants who had previously experienced the torment of the plate stared in disbelief. They knew firsthand just how excruciating it was to endure, and they could scarcely fathom how anyone could withstand it for so long.",22,"参赛者们一个接一个地站上了炽热的金属板。有些人甚至连一秒钟都无法忍受，脚一接触到金属板就痛苦地跳开。其他人则稍微坚持得久一点，但差别也不过是几秒钟。  
+
+然后，来自法肯前队伍的一名男子走上了金属板，坚定不移地站在那里。  
+
+十秒过去了……  
+二十秒过去了……  
+
+随着时间的推移，之前经历过金属板折磨的参赛者们目瞪口呆。他们亲身知道忍受这种痛苦是多么的折磨，几乎无法想象有人能坚持这么久。"
+1834453659717632,WORLDEVENT22_PAGE3,"A full minute passed before the man finally descended from the plate, not in agony like the earlier contestants, but calmly and collected. He was welcomed with open arms by his comrades, drenched in sweat from the intense ordeal. The other contestants who had attempted the challenge before began to applaud, showing their deep respect for the man's exceptional resolve.
+
+Now, it was time for the adventurers' turn to face this daunting test of willpower.",22,"一整分钟过去了，这名男子才从金属板上下来，并没有像之前的参赛者那样痛苦，而是冷静而从容。他的同伴们热情地欢迎他，尽管他因激烈的考验而满身是汗。之前尝试过挑战的其他参赛者们开始鼓掌，表达对这名男子非凡毅力的深深敬意。  
+
+现在，冒险者们也该面对这个艰巨的意志力考验了。"
+1834453659717633,WORLDEVENT22_DECISION1,Choose an adventurer to compete.,22,选择一名冒险者参赛。
+1834453659717634,WORLDEVENT22_DECISION1RESULT0_PAGE1,"{CHARACTER1} cautiously placed {GENDER1:cond:=1?himself|=0?herself} on the plate. What followed was the feeling of searing heat and pain. Despite the knowledge that it was all a mere illusion, it took all of {GENDER1:cond:=1?his|=0?her} resolve to remain standing on it.
+
+Ten seconds passed...
+
+Twenty seconds passed...
+
+
+The intense heat continued to intensify, causing {CHARACTER1} great discomfort. Every fiber of {GENDER1:cond:=1?his|=0?her} being screamed at {GENDER1:cond:=1?him|=0?her} to jump off the damn plate.",22,"{CHARACTER1} 小心翼翼地将 {GENDER1:cond:=1?他自己|=0?她自己} 放在金属板上。接下来是炽热和疼痛的感觉。尽管知道这一切只是幻觉，但 {GENDER1:cond:=1?他|=0?她} 仍然竭尽全力地坚持站在上面。  
+
+十秒过去了……  
+
+二十秒过去了……  
+
+强烈的热度不断加剧，让 {CHARACTER1} 感到极大的不适。{GENDER1:cond:=1?他|=0?她} 的每一根神经都在尖叫着让 {GENDER1:cond:=1?他|=0?她} 跳下那该死的金属板。"
+1834453659717635,WORLDEVENT22_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} cautiously placed a foot on the plate. Despite the knowledge that the searing heat and pain were mere illusions, the intensity of the sensation made {GENDER1:cond:=1?him|=0?her} swiftly jump back. 
+
+Unfortunately, this brief attempt counted, and the result was that {CHARACTER1} didn't even last a second on the plate.",22,"{CHARACTER1} 小心翼翼地将一只脚放在金属板上。尽管知道炽热和疼痛只是幻觉，但这种强烈的感觉让 {GENDER1:cond:=1?他|=0?她} 迅速跳了回来。  
+
+不幸的是，这短暂的尝试算作一次，结果是 {CHARACTER1} 在金属板上连一秒钟都没有坚持住。"
+1834453659717636,WORLDEVENT23_DECISION1,Jump off.,23,跳下去。
+1834453659717637,WORLDEVENT23_DECISION1RESULT0_PAGE1,"{CHARACTER1} immediately leaped off the plate. {GENDER1:cond:=1?he|=0?she} had already endured more than most.
+
+""35 seconds!"" the Master of the Arena announced, earning {CHARACTER1} some well-deserved respect from the other contestants.",23,"{CHARACTER1} 立刻从金属板上跳了下来。{GENDER1:cond:=1?他|=0?她} 已经忍受了比大多数人更多的痛苦。  
+
+“35秒！”竞技场的主持人宣布道，赢得了其他参赛者对 {CHARACTER1} 的应得尊重。"
+1834453659717638,WORLDEVENT23_DECISION2,Try to endure it longer than the previous best time.,23,尝试比之前的最佳时间坚持更久。
+1834453659717639,WORLDEVENT23_DECISION2RESULT0_PAGE1,"{CHARACTER1} stood resolute, enveloped in pain, with sweat pouring from {GENDER1:cond:=1?him|=0?her} like a waterfall. {GENDER1:cond:=1?he|=0?she} was determined to outlast everyone who had attempted this challenge before. Time passed, and {CHARACTER1} remained on the plate, losing track of how long it had been.
+
+Finally, {CHARACTER1} realized that {GENDER1:cond:=1?he|=0?she} could endure no longer and slowly descended from the plate, squeezing as many seconds as possible into the final result.
+
+""8-85 seconds..."" the Master of the Arena stuttered, as if in disbelief of what had just transpired. ""This is a new record! In the history of the tournament, no one has ever lasted this long!"" Silence enveloped the other contestants who witnessed this inhumane feat of willpower.
+
+None of the following contestants would surpass {CHARACTER1}'s time.",23,"{CHARACTER1} 坚定地站着，痛苦包围着他，汗水像瀑布一样从 {GENDER1:cond:=1?他|=0?她} 身上流下。{GENDER1:cond:=1?他|=0?她} 决心要超过之前所有尝试过这个挑战的人。时间流逝，{CHARACTER1} 仍然站在金属板上，完全忘记了已经过去了多久。  
+
+最终，{CHARACTER1} 意识到 {GENDER1:cond:=1?他|=0?她} 再也忍受不住了，缓缓从金属板上下来，尽量将尽可能多的秒数压缩到最终结果中。  
+
+“8-85秒……”竞技场的主持人结结巴巴地说道，似乎不敢相信刚刚发生的事情。“这是新的记录！在比赛历史上，从未有人能坚持这么久！”目睹这一非人类意志力壮举的其他参赛者们陷入了沉默。  
+
+接下来的参赛者们都无法超越 {CHARACTER1} 的时间。"
+1834453663911936,WORLDEVENT23_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} resolved {GENDER1:cond:=1?himself|=0?herself} to stand longer on the plate. A vain attempt.
+
+Just moments after {CHARACTER1} couldn't hold it much longer and fell screaming from the plate. {GENDER1:cond:=1?his|=0?her} feet felt like burning and the pain didn't stop even when {GENDER1:cond:=1?he|=0?she} was off the plate.
+
+""35 seconds."" The Master of the Arena announced. ""However, I will take a few points away from the result. You should know your limits.""
+For a while {CHARACTER1} couldn't stand up without succumbing to mind-numbing pain.",23,"{CHARACTER1} 决心要在金属板上坚持更久。这是一场徒劳的尝试。  
+
+就在 {CHARACTER1} 再也无法坚持，尖叫着从金属板上摔下来的那一刻。{GENDER1:cond:=1?他|=0?她} 的脚感觉像在燃烧，疼痛即使在 {GENDER1:cond:=1?他|=0?她} 离开金属板后也没有停止。  
+
+“35秒。”竞技场的主持人宣布道。“不过，我会从结果中扣掉几分。你应该知道自己的极限。”  
+一段时间里，{CHARACTER1} 无法站立，脑海中充斥着令人难以忍受的疼痛。"
+1834453663911937,WORLDEVENT24_PAGE1,"The plate had been carried away, and in its place, workers were stacking tiles made of stone or similar on top of each other to create several towers that reached the contestants' hips.
+
+""Now, for the final challenge!"" the Master of the Arena announced. ""At the end of the day, this is a fighting tournament, and might makes right! Prove your strength by breaking as many tiles as possible in a single strike with your bare fist!""",24,"金属板被搬走，工人们开始在其位置上堆叠石头或类似材料的瓷砖，形成几座高达参赛者腰部的塔。  
+
+“现在，进行最后的挑战！”竞技场的主持人宣布道。“归根结底，这是一场格斗比赛，强者为尊！用你的赤手证明你的力量，一击打碎尽可能多的瓷砖！”"
+1834453663911938,WORLDEVENT24_DECISION1,Choose an adventurer to compete.,24,选择一名冒险者参赛。
+1834453663911939,WORLDEVENT24_DECISION1RESULT0_PAGE1,"{CHARACTER1} positioned {GENDER1:cond:=1?himself|=0?herself} before the stack of tiles. All around {GENDER1:cond:=1?him|=0?her}, the sounds of breaking tiles echoed, intermingled with the agonized cries of those who had injured their fists in their attempts.
+
+{CHARACTER1} took a deep breath and swung {GENDER1:cond:=1?his|=0?her} fist down toward the tiles with all {GENDER1:cond:=1?his|=0?her} might.
+
+All the tiles shattered without fail.
+
+Before {CHARACTER1} could fully appreciate the result of {GENDER1:cond:=1?his|=0?her} feat, a series of loud breaking noises reverberated next to {GENDER1:cond:=1?him|=0?her}. A female adventurer standing beside {CHARACTER1} had also managed to break all the tiles with a single, impressive strike.
+",24,"{CHARACTER1} 在瓷砖堆前站定，{GENDER1:cond:=1?他|=0?她} 周围传来瓷砖破碎的声音，夹杂着那些在尝试中受伤的人的痛苦呼喊。  
+
+{CHARACTER1} 深吸一口气，竭尽全力将 {GENDER1:cond:=1?他|=0?她} 的拳头挥向瓷砖。  
+
+所有的瓷砖都毫无例外地破碎了。  
+
+在 {CHARACTER1} 还未完全欣赏到 {GENDER1:cond:=1?他|=0?她} 壮举的结果时，旁边传来一阵响亮的破碎声。一名站在 {CHARACTER1} 旁边的女冒险者也成功地用一击打碎了所有的瓷砖。"
+1834453663911940,WORLDEVENT24_DECISION1RESULT0_PAGE2,"If {CHARACTER1} remembered correctly, the female adventurer was yet another one of Falken's former companions. She initially smiled confidently at her accomplishment, but her expression changed when she saw that {CHARACTER1} had achieved the same result. She motioned for the Master of the Arena and whispered something in his ear.
+
+""What a delightful idea!"" he exclaimed with excitement. ""I'll arrange it immediately.""
+
+Shortly afterward, workers arrived with more tiles and stacked an even taller tower in front of the female adventurer. With another powerful strike, she managed to break them all in half as well. The crowd erupted in cheers, thrilled by the impressive display of strength.",24,"如果 {CHARACTER1} 没记错，这名女冒险者也是法肯的前队友之一。她最初自信地微笑着庆祝自己的成就，但当她看到 {CHARACTER1} 也取得了同样的结果时，表情发生了变化。她向竞技场的主持人示意，并在他耳边低语了几句。  
+
+“真是个好主意！”他兴奋地说道。“我马上安排。”  
+
+不久之后，工人们带着更多的瓷砖到来，在女冒险者面前堆起了一座更高的塔。她又一次用强有力的一击将它们全部打成了两半。人群欢呼雀跃，兴奋于这场令人印象深刻的力量展示。"
+1834453663911941,WORLDEVENT24_DECISION1RESULT0_PAGE3,"The female adventurer then looked at {CHARACTER1} and gave {GENDER1:cond:=1?him|=0?her} a smug smirk, as if daring {CHARACTER1} to try to do the same.
+
+""Want me to get you another stack of tiles?"" the Master of the Arena asked. ""Careful, though. The new result will count in place of this one. What would be a challenge without a bit of thrill.""",24,"然后，女冒险者看向 {CHARACTER1}，对 {GENDER1:cond:=1?他|=0?她} 露出一抹得意的微笑，仿佛在挑战 {CHARACTER1} 尝试同样的事情。  
+
+“要我再给你拿一堆瓷砖吗？”竞技场的主持人问道。“不过要小心哦，新的结果将取代这个结果。没有一点刺激，挑战又算什么呢。”"
+1834453668106240,WORLDEVENT24_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} positioned {GENDER1:cond:=1?himself|=0?herself} before the stack of tiles. All around {GENDER1:cond:=1?him|=0?her}, the sounds of breaking tiles echoed, intermingled with the agonized cries of those who had injured their fists in their attempts.
+
+{CHARACTER1} took a deep breath and swung {GENDER1:cond:=1?his|=0?her} fist down toward the tiles with all {GENDER1:cond:=1?his|=0?her} might.
+
+
+...{CHARACTER1} only managed to break a few tiles and the reward for {GENDER1:cond:=1?his|=0?her} effort was agonizing pain.
+
+Next to {GENDER1:cond:=1?him|=0?her}, a loud series of breaking sounds resonated. A female adventurer standing beside {CHARACTER1} had managed to break all the tiles with a single powerful strike.",24,"{CHARACTER1} 在瓷砖堆前站定，{GENDER1:cond:=1?他|=0?她} 周围传来瓷砖破碎的声音，夹杂着那些在尝试中受伤的人的痛苦呼喊。  
+
+{CHARACTER1} 深吸一口气，竭尽全力将 {GENDER1:cond:=1?他|=0?她} 的拳头挥向瓷砖。  
+
+……{CHARACTER1} 只打碎了几块瓷砖，而 {GENDER1:cond:=1?他|=0?她} 的努力换来的却是令人痛苦的疼痛。  
+
+在 {GENDER1:cond:=1?他|=0?她} 旁边，响亮的破碎声回荡。一名站在 {CHARACTER1} 旁边的女冒险者成功地用一击打碎了所有的瓷砖。"
+1834453668106241,WORLDEVENT24_DECISION1ALTRESULT0_PAGE2,"If {CHARACTER1} remembered correctly, she was another one of Falken's former companions. As the crowd began to cheer for her, she basked in the glory, laughing confidently. Her gaze then shifted toward {CHARACTER1} and the remaining tiles.
+
+A smug smirk graced her face as she noticed the pitiful state of {CHARACTER1}'s fist.",24,"如果 {CHARACTER1} 没记错，她也是法肯的前队友之一。当人群开始为她欢呼时，她沉浸在荣耀中，自信地笑着。她的目光随即转向 {CHARACTER1} 和剩下的瓷砖。  
+
+当她看到 {CHARACTER1} 的拳头可怜的状态时，脸上露出了得意的微笑。"

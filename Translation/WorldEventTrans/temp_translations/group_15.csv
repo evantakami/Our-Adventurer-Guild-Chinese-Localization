@@ -1,0 +1,85 @@
+ID,Key,String,EventID,TranslatedString
+1834453701660680,WORLDEVENT44_PAGE1,"The adventurers found a group of soldiers, who looked at the adventurers suspiciously. 
+It seemed like they were trying to hide from the bandits and being found by a group of strangers put them on the edge. Even if the adventurers didn't look like the bandits, who were chasing them.
+
+The soldiers asked the party to identify themselves or they will attack the party.",44,"冒险者们发现了一群士兵，他们用怀疑的目光打量着冒险者。  
+看起来他们正试图躲避强盗，而被一群陌生人发现让他们感到紧张。即便冒险者们看起来并不像追赶他们的强盗。  
+
+士兵们要求队伍自我介绍，否则就会攻击他们。"
+1834453701660681,WORLDEVENT44_DECISION1,Tell them their Objective.,44,告诉他们他们的目标。
+1834453705854976,WORLDEVENT44_DECISION1RESULT0_PAGE1,"The soldiers seemed to believe the adventurers and stopped putting up their guards.
+The soldiers told the party that the young master was still alive and that he and the rest of their comrades were currently at a nearby hideout.
+
+One of the soldiers said that they will follow the adventurers and help them reach the hideout.
+
+The adventurers accepted thankfully.",44,"士兵们似乎相信了冒险者，停止了戒备。  
+士兵们告诉队伍，年轻的少主仍然活着，他和其他同伴目前在附近的藏身处。  
+
+其中一名士兵表示他们会跟随冒险者，并帮助他们到达藏身处。  
+
+冒险者们感激地接受了。"
+1834453705854977,WORLDEVENT44_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} failed to persuade the soldiers. In their eyes the adventurers grew more and more suspicious by the minute. When the adventurers decided that it was better to leave, they were stopped by the soldiers.
+
+""We don't trust you! We can't let you leave alive!"".
+
+Prepare for battle.",44,"{CHARACTER1}未能说服士兵。在他们眼中，冒险者们的可疑程度与日俱增。当冒险者们决定离开时，却被士兵们拦住了。  
+
+“我们不信任你们！我们不能让你们活着离开！”  
+
+准备战斗。"
+1834453705854978,WORLDEVENT44_DECISION2,Back off and try to leave in peace.,44,后退，试图和平离开。
+1834453705854979,WORLDEVENT44_DECISION2RESULT0_PAGE1,"Not to agitate the soldiers any further, the adventurers backed away from the soldiers.
+
+While not entirely hostile, the soldiers decided to change location and kept an eye on the adventurers until they were out of sight.",44,"为了不进一步激怒士兵，冒险者们从士兵面前退了回来。  
+
+虽然士兵们并不完全敌对，但他们决定换个地方，并一直盯着冒险者，直到他们消失在视线中。"
+1834453705854980,WORLDEVENT45_PAGE1,"The adventurers found a group of soldiers, who immediately raised their guards when they saw the adventurers, only to lower it again after they saw one of their comrades amongst the adventurers.
+
+They were shortly briefed about the situation. 
+
+After hearing about the adventurers' mission, the group of soldiers decided to have one of them join the adventurers too and help them reach the hideout.
+
+After this, both sides continued on their seperate ways.
+",45,"冒险者们发现了一群士兵，当他们看到冒险者时，士兵们立刻提高了警惕，但在看到其中一名同伴后又放下了警惕。  
+
+他们很快就被简要告知了情况。  
+
+在听到冒险者的任务后，这群士兵决定让其中一人加入冒险者的队伍，帮助他们到达藏身处。  
+
+之后，双方继续各自的旅程。"
+1834453710049280,WORLDEVENT46_PAGE1,"The arena had undergone a transformation, with more spectators now filling the stands. The atmosphere was electric, resonating with the eager chatter and palpable anticipation of the townspeople who had come to witness the grand tournament.
+
+In the heart of the arena, the Master of the Arena stepped to the forefront. His voice carried across the expanse as he addressed the spectators.
+
+""Welcome, good people! Welcome to this year's grand tournament, a spectacle of valor and glory! Today, we shall witness the clash of champions. Who will grasp the mantle of victory, and who will depart with the sting of defeat?""
+
+The crowd responded with a cacophony of enthusiasm, their cheers rising to a deafening crescendo.",46,"竞技场发生了变化，观众席上现在坐满了更多的观众。气氛电力十足，充满了前来观看盛大比赛的市民们急切的交谈和明显的期待。  
+
+在竞技场的中央，竞技场的主持人走到了前面。他的声音在广阔的空间中回荡，向观众们致辞。  
+
+“欢迎，亲爱的朋友们！欢迎来到今年的盛大比赛，一个勇气与荣耀的盛宴！今天，我们将见证冠军的对决。谁将获得胜利的桂冠，谁又将带着失败的苦涩离去？”  
+
+人群回应着热烈的欢呼，欢呼声逐渐高涨，达到震耳欲聋的程度。"
+1834453710049281,WORLDEVENT46_PAGE2,"""Out of the myriad warriors who assembled, only 8 teams remain,"" the Master of the Arena continued. ""They have endured the trials, and today, they vie for the coveted title of champion. The arena shall be the crucible, and courage and skill the alchemical blend that will forge legends!""
+
+The crowd's excitement continued to swell, and the adventurers could sense the palpable energy in the air as the tournament was about to begin.",46,"“在众多集结的战士中，只有8支队伍仍然留存，”竞技场的主持人继续说道。“他们经历了重重考验，今天，他们争夺的是备受追捧的冠军头衔。竞技场将是熔炉，勇气与技巧的结合将铸就传奇！”  
+
+人群的兴奋情绪不断高涨，冒险者们能感受到比赛即将开始时空气中的紧张能量。"
+1834453710049282,WORLDEVENT46_PAGE3,"""In the opening round, we present a formidable team of adventurers hailing from none other than the illustrious Adventurer Guild! You might have heard of it! For their feat in thwarting the Bandit King, has resonated far and wide! Today, we gather to witness if they shall unleash the full might of the Adventurer Guild or if their reputation stands taller than their actual prowess.""
+
+As the adventurers made their grand entrance into the arena, a symphony of cheers erupted from the enthusiastic crowd. Some even recognized them and couldn't help but call out the adventurers' names. In that moment, a profound sense of pride swelled within the hearts of the adventurers.",46,"“在首轮比赛中，我们呈现出一支来自著名冒险者公会的强大冒险者团队！你们可能听说过他们！因为他们成功阻止了强盗之王的壮举，已经传遍四方！今天，我们聚集在此，见证他们是否能释放出冒险者公会的全部力量，还是他们的声誉高于实际的能力。”  
+
+当冒险者们盛大入场时，观众席上爆发出一阵欢呼的交响曲。有些人甚至认出了他们，忍不住呼喊冒险者的名字。在那一刻，冒险者们的心中涌起了一种深深的自豪感。"
+1834453710049283,WORLDEVENT46_PAGE4,"""Facing them is a budding team of adventurers, a group of youthful talents hailing from the same humble village. Inexperienced, but brimming with ambition, they've defied expectations to reach this stage. Will this be the start of a new legend or will the upstarts be taught reality by their seniors?""
+
+A group of young adventurers entered from the opposite side of the arena. The most enthusiastic cheers erupted from a section of the stands, likely comprising people from their own village. However, the overall sentiment in the arena appeared to favor the young adventurers. After all, it's a universal sentiment to root for the underdogs in a contest.
+
+""Old vs new! Who shall emerge victorious in this timeless struggle? There's but one way to uncover the answer:
+
+Let the battle begin!""",46,"“与他们对阵的是一支新兴的冒险者团队，这是一群来自同一个小村庄的年轻才俊。虽然经验不足，但他们充满了雄心壮志，凭借着超出预期的表现走到了这个阶段。这将是新传奇的开始，还是这些新手将被前辈们教训现实？”  
+
+一群年轻的冒险者从竞技场的另一侧走入。观众席上最热情的欢呼声来自于一部分人群，可能是他们自己村庄的人。然而，竞技场的整体情绪似乎更倾向于年轻的冒险者。毕竟，在比赛中支持弱者是普遍的情感。  
+
+“老将对新秀！谁将在这场永恒的斗争中胜出？只有一个方法可以揭晓答案：  
+
+让战斗开始！”"

@@ -1,0 +1,87 @@
+ID,Key,String,EventID,TranslatedString
+1834453873627140,WORLDEVENT122_PAGE1,"As the group pressed forward, their eyes fell upon something deeply unsettling amidst the snow—a lifeless, abandoned figure. The corpse of an elderly woman lay before them, clad in clothing that hinted at her belonging to a peaceful monastery. It was evident that she was one of the unfortunate souls captured during the jotuns' raid. The harsh march her captors had forced her to endure had proven too much for her frail body.
+
+Upon seeing the lifeless form, the Divine Messenger's expression darkened for the first time the Guild Master has ever seen her. For a moment it seemed like she wanted to say something, but then stopped.",122,"当队伍继续前进时，他们的目光落在雪地中一个令人不安的景象上——一个无生命的、被遗弃的身影。一个年迈女性的尸体躺在他们面前，身穿暗示她属于一个和平修道院的衣物。显然，她是被巨人袭击时不幸被捕的灵魂之一。她的劫持者强迫她忍受的严酷行军对她脆弱的身体来说实在是太过沉重。  
+
+看到这具无生命的身躯，神圣使者的表情第一次显得阴沉，这是公会会长所见过的。她似乎想说些什么，但又停住了。"
+1834453873627141,WORLDEVENT122_DECISION1,Bury the body,122,埋葬尸体
+1834453873627142,WORLDEVENT122_DECISION1RESULT0_PAGE1,"The Guild Master's suggestion to bury the body was met with unanimous agreement. Leaving the deceased woman abandoned in the snow without a proper burial felt wrong to each member of the group. She had already endured a harrowing journey far away from her home, and the least they could do for her was to lay her to rest with dignity.
+
+They gathered what materials they could find to fashion a makeshift grave and gently lowered the woman into her final resting place. As they stood around the grave, they offered a prayer for the departed soul. During the prayer, the Guild Master noticed a faint whisper from the Divine Messenger's direction. Her words were almost imperceptible but carried a profound weight: ""Forgive me,...""
+
+Once the burial rites were completed, they continued their march.",122,"公会会长提议埋葬尸体，得到了全体成员的一致同意。将死去的女性遗弃在雪地中而不进行适当的葬礼，对每个队员来说都感觉不对。她已经经历了远离家乡的艰难旅程，他们能为她做的最起码的事情就是以尊严安葬她。  
+
+他们收集了能找到的材料，制作了一个简易的坟墓，并小心翼翼地将女性放入她的最后安息之地。当他们围绕坟墓站立时，向逝去的灵魂祈祷。在祈祷期间，公会会长注意到神圣使者方向传来微弱的低语。她的话几乎听不见，但却蕴含着深刻的分量：“原谅我，……”  
+
+一旦葬礼仪式完成，他们继续前行。"
+1834453873627143,WORLDEVENT122_DECISION2,Continue your journey,122,继续你的旅程
+1834453877821440,WORLDEVENT122_DECISION2RESULT0_PAGE1,"Despite the grim sight before them, the Guild Master urged the group to move on, emphasizing the importance of saving the captives that were still alive. The adventurers followed along although reluctantly.
+
+However, as the group was about to move on, the Guild Master realized that someone was still not moving. To their surprise it was the Divine Messenger, who kept silently staring at the corpse. When she realized that the others were waiting for her, she put up another smile and apologized for her tardiness.
+
+With that the group finally left the body behind.",122,"尽管眼前的景象令人沮丧，公会会长还是鼓励队伍继续前进，强调拯救仍然活着的俘虏的重要性。冒险者们虽然不情愿，但还是跟了上去。  
+
+然而，当队伍准备继续前进时，公会会长意识到还有人没有动。令他们惊讶的是，竟然是神圣使者，她默默地盯着尸体。当她意识到其他人在等她时，她露出了另一个微笑，并为自己的迟到道歉。  
+
+就这样，队伍终于将尸体抛在了身后。"
+1834453877821441,WORLDEVENT123_PAGE1,"Before the adventurers stood an ancient stone door, adorned with mystical engravings that seemed to stir with life as they drew near. Radiant words started to appear before them.
+
+<i>Behold, the Seven gods, in divine artistry, wove the tapestry of the world across seven wondrous days. With every dawn, a celestial deity imprinted their divinity upon their masterpiece. Yet, answer me thus: which among these divine beings graced the world with the first mark, igniting the symphony of creation?</i>
+",123,"在冒险者面前，矗立着一扇古老的石门，上面装饰着神秘的雕刻，似乎随着他们的靠近而活了过来。耀眼的文字开始在他们面前显现。  
+
+<i>看啊，七位神明，在神圣的艺术中，编织了世界的挂毯，历经七个奇妙的日子。每当黎明来临，一位天神便在他们的杰作上印下了神圣的印记。然而，请回答我：在这些神明中，谁首先在世界上留下了印记，点燃了创造的交响曲？</i>"
+1834453877821442,WORLDEVENT123_DECISION1,Look in the notes,123,查阅笔记
+1834453877821443,WORLDEVENT123_DECISION1RESULT0_PAGE1,"The adventurers looked through the notes to see if they could find any hint to the riddle. They found a passage that caught their attention:
+
+""During my recent research endeavors, I have acquired substantial knowledge concerning the ancestral lineage of the illustrious Herathia family. Among the wealth of information, one aspect captured my attention. It was their unwavering devotion to the seven gods—an esteemed practice that in stark contrast with our present times, waned in the later period of the ancient empire's era. Nonetheless, the Herathia family stood as a rare exception, upholding this sacred tradition with steadfast dedication. So profound was their faith that they even etched their unique rendition of the creation narrative within the hallowed walls of their ancestral abode. I have transcribed this chronicle and preserved it within these pages in the prospect that this narrative may bear relevance to our upcoming undertakings.""",123,"冒险者们翻阅笔记，寻找与谜语相关的线索。他们发现了一段引起他们注意的文字：  
+
+“在我最近的研究中，我获得了关于赫拉西亚家族显赫血统的丰富知识。在众多信息中，有一方面引起了我的注意。那就是他们对七位神明的坚定信仰——这一崇高的做法与我们现在的时代形成鲜明对比，在古代帝国后期逐渐衰退。然而，赫拉西亚家族却是一个罕见的例外，以坚定的信念维护这一神圣的传统。他们的信仰如此深厚，以至于甚至在他们祖传的住所的神圣墙壁上刻下了自己独特的创造叙事。我已将这一记载抄录并保存在这些页面中，希望这一叙事能与我们即将进行的任务相关。”"
+1834453877821444,WORLDEVENT123_DECISION1RESULT0_PAGE2,"<i>In the age when the cosmos was yet a vast void, seven celestial beings converged, each holding within them the essence of life's wonders. Together, they set forth on a divine quest to craft a world of marvels and mysteries.
+
+The first to step forth was Ignis, the radiant God of Fire and Passion. With an ethereal blaze, he breathed life into existence, birthing the humans - beings teeming with life's purpose and boundless potential.
+
+Witnessing the birth of these curious creatures, Aelwyn, the God of Wisdom and Knowledge, descended next. He bestowed upon them the gift of insight, igniting the flames of understanding and enlightenment within their souls.
+",123,"<i>在宇宙仍是广阔虚空的时代，七位天体存在汇聚在一起，每个都蕴含着生命奇迹的本质。它们共同踏上了一场神圣的使命，创造一个充满奇迹与奥秘的世界。  
+
+第一个迈出的是伊格尼斯，光辉的火焰与激情之神。凭借着超凡的火焰，他赋予了生命，诞生了人类——充满生命目的与无限潜能的存在。  
+
+目睹这些好奇生物的诞生，智慧与知识之神艾尔温接着降临。他赋予他们洞察的礼物，点燃了理解与启蒙的火焰在他们的灵魂中。"
+1834453882015744,WORLDEVENT123_DECISION1RESULT0_PAGE3,"<i>Ghanenta, the benevolent God of Love and Emotion, followed suit. He graced the humans with the profound capacity to love and care for one another, fostering harmony and compassion that would bind them together.
+
+Terra, the nurturing Earth Mother and Goddess of Nature, descended gracefully to lay the foundation of their home. With tender touch, she molded the earth, crafting a fertile land where humans could thrive and find solace.
+
+As life unfolded on the lands, Aquarius, the mighty God of Seas and Oceans, made his presence known. He blessed the world with vast oceans, teeming with diverse life, providing a thriving habitat around the humans' abode.
+",123,"<i>仁爱与情感之神甘亨塔随后降临。他赋予人类深厚的爱与关怀的能力，培养出将他们紧密相连的和谐与同情。  
+
+大地母亲与自然女神泰拉优雅地降临，奠定了他们的家园基础。她以温柔的触碰塑造大地，创造出一个肥沃的土地，让人类能够繁荣生存，找到安慰。  
+
+随着生命在这片土地上展开，海洋与海洋之神阿奎里乌斯显现出他的存在。他为世界带来了辽阔的海洋，生机勃勃的生命在其中繁衍生息，为人类的栖息地提供了丰富的栖息环境。"
+1834453882015745,WORLDEVENT123_DECISION1RESULT0_PAGE4,"<i>Solara, the luminous Goddess of Light and Dawn, radiated her brilliance upon the world. With every sunrise, her warm rays illuminated the beauty and wonders of this new realm, filling hearts with awe and reverence.
+
+
+Lastly, Zephyrus, the adventurous God of Wind and Change, descended from the skies. He breathed life into the air, empowering the humans to explore and discover the far reaches of their magnificent world.",123,"<i>光明与黎明女神索拉拉将她的光辉洒向世界。每当日出时，她温暖的光线照亮了这个新领域的美丽与奇迹，填满了人们的心灵以敬畏与崇敬。  
+
+最后，风与变革之神泽菲鲁斯从天空降临。他将生命注入空气，使人类能够探索与发现他们宏伟世界的遥远角落。"
+1834453882015746,WORLDEVENT123_DECISION2,Ask Majika to disable the magic on the door.,123,请求玛吉卡解除门上的魔法。
+1834453882015747,WORLDEVENT123_DECISION2RESULT0_PAGE1,"""Very well. I will do as you ask, but prepare yourself. The guardians will most likely start their attack as soon as I'm finished,"" Majika warned the adventurers.
+
+Approaching the stone door, she began to weave a spell, and ethereal lights started to dance around her hands, enveloping the stone door. As the light touched the door, sparks flew as if some form of resistance tried to block Majika's spell. However, it was futile. The magic that once filled the stone door started to drain until it was finally gone. With a simple gesture of her hand, the now ordinary stone door flew open, revealing the next room to the adventurers.
+
+However, true to Majika's warning, the guardians around them finally started to move, emerging from their slumber. The adventurers now had to fight their way through.",123,"“很好。我会按照你的要求去做，但请做好准备。守护者们很可能会在我完成后立刻发起攻击，”玛吉卡警告冒险者们。  
+
+她走近石门，开始施法，虚幻的光芒在她的手中舞动，包围着石门。当光芒触碰到门时，火花四溅，似乎某种抵抗试图阻挡玛吉卡的法术。然而，这一切都是徒劳的。曾经充满魔法的石门开始逐渐失去魔力，直到最终消失。随着她手的一挥，现在普通的石门打开了，向冒险者们揭示了下一个房间。  
+
+然而，正如玛吉卡的警告，周围的守护者们终于开始移动，从沉睡中苏醒。冒险者们现在必须奋力战斗。"
+1834453882015748,WORLDEVENT123_DECISION3,"Solara, the Goddess of Light and Dawn",123,索拉拉，光明与黎明女神
+1834453882015749,WORLDEVENT123_DECISION3RESULT0_PAGE1,"The magical light around the stone door started to turn red and stood still in its place. Nothing else the adventurers tried to say, seemed to matter anymore. The stone door was now denying them entrance to the next room.",123,石门周围的魔法光芒开始变为红色，静止不动。冒险者们尝试说的其他任何话似乎都不再重要。石门现在拒绝他们进入下一个房间。
+1834453882015750,WORLDEVENT123_DECISION4,"Zephyrus, the God of Wind and Change",123,泽菲鲁斯，风与变革之神
+1834453882015751,WORLDEVENT123_DECISION5,"Terra, the Earth Mother and Goddess of Nature",123,泰拉，大地母亲与自然女神
+1834453882015752,WORLDEVENT123_DECISION6,"Aquarius, the God of Seas and Oceans",123,阿奎里乌斯，海洋与海洋之神
+1834453882015753,WORLDEVENT123_DECISION7,"Aelwyn, the God of Wisdom and Knowledge",123,艾尔温，智慧与知识之神
+1834453886210048,WORLDEVENT123_DECISION8,"Ghanenta, the God of Love and Emotion",123,甘亨塔，仁爱与情感之神
+1834453886210049,WORLDEVENT123_DECISION9,"Ignis, the God of Fire and Passion",123,伊格尼斯，火焰与激情之神
+1834453886210050,WORLDEVENT123_DECISION9RESULT0_PAGE1,"The magical light around the stone door started to turn yellow, slowly shifting away and revealing the next room to the adventurers. It seems like they answered correctly and were now allowed to pass further.",123,石门周围的魔法光芒开始变为黄色，缓缓移开，向冒险者们揭示了下一个房间。看起来他们回答正确，现在被允许继续前进。
+1834453886210051,WORLDEVENT123_DECISION10,"<color=#2aa136>[High Wisdom]</green>{CHARACTER1} knows the answer. It's Ignis, the God of Fire and Passion.",123,<color=#2aa136>[高智慧]</green>{CHARACTER1}知道答案。是伊格尼斯，火焰与激情之神。
+1834453886210052,WORLDEVENT123_DECISION11,Leave,123,离开
+1834453886210053,WORLDEVENT123_DECISION11RESULT0_PAGE1,The adventurers decided to leave the stone door alone for now.,123,冒险者们决定暂时不去碰石门。
+1834453886210054,WORLDEVENT124_PAGE1,"<i>Behold, the Seven gods, in divine artistry, wove the tapestry of the world across seven wondrous days. With every dawn, a celestial deity imprinted their divinity upon their masterpiece. Yet, answer me thus: which among these divine beings graced the world with the first mark, igniting the symphony of creation?</i>",124,<i>看啊，七位神明，在神圣的艺术中，编织了世界的挂毯，历经七个奇妙的日子。每当黎明来临，一位天神便在他们的杰作上印下了神圣的印记。然而，请回答我：在这些神明中，谁首先在世界上留下了印记，点燃了创造的交响曲？</i>

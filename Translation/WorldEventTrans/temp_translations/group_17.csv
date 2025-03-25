@@ -1,0 +1,55 @@
+ID,Key,String,EventID,TranslatedString
+1834453718437888,WORLDEVENT50_PAGE1,"The adventurers entered a dark room where the stench of blood and corpses was strong. They saw a group of robed people surrounding a stone table. On it was a man, gagged and tied onto the table. He was struggling to break free and muffled sounds of panic could be heard.
+
+Before the stone table was another robed person with a dagger in their hand. Before the party could do anything, the dagger swung down at the bound victim. A stab directly to his heart, instantly killing him.
+
+""For the God-Emperor!"" the person with the dagger shouted.
+
+""For the God-Emperor!"" the other robed people repeated.",50,"冒险者们走进一个黑暗的房间，浓烈的血腥味和尸体的气味扑面而来。他们看到一群披着长袍的人围绕着一张石桌。桌子上躺着一个被绑住、嘴被塞住的男人。他正在挣扎，发出压抑的恐慌声。
+
+在石桌前，又一个披着长袍的人手握匕首。在队伍还来不及做出反应时，匕首向被绑的受害者挥下。匕首直接刺入他的心脏，瞬间致命。
+
+“为了神皇！”手握匕首的人喊道。
+
+“为了神皇！”其他披着长袍的人重复道。"
+1834453718437889,WORLDEVENT50RESULT0_PAGE1,"Suddenly one of the robed people spotted the party.
+
+""Intruders!"", he shouted.
+
+""Great! More sacrifices for our beloved emperor!"" the leader said, swinging his bloodied dagger.
+
+""Get them!""",50,"突然，其中一个披着长袍的人发现了队伍。
+
+“入侵者！”他喊道。
+
+“太好了！又多了些献祭给我们心爱的皇帝！”首领说道，挥舞着沾满血迹的匕首。
+
+“抓住他们！”"
+1834453718437890,WORLDEVENT51_PAGE1,"The adventurers were oddly aware that if they go one step further, they will have to fight the Bandit King. There would be no going back.",51,冒险者们奇怪地意识到，如果再向前一步，他们将不得不与强盗王作战。已经没有退路了。
+1834453718437891,WORLDEVENT51_DECISION1,The Party is ready.,51,队伍准备好了。
+1834453718437892,WORLDEVENT51_DECISION1RESULT0_PAGE1,There was no hesitation amongst the adventurers. They were ready to face the Bandit King.,51,冒险者们毫不犹豫。他们准备好面对强盗王。
+1834453718437893,WORLDEVENT51_DECISION2,The Party needs to prepare.,51,队伍需要准备。
+1834453718437894,WORLDEVENT51_DECISION2RESULT0_PAGE1,The Party agreed that they weren't ready yet and stepped back.,51,队伍一致认为他们还没有准备好，于是退了回来。
+1834453718437895,WORLDEVENT52_PAGE1,"The adventurers stood at the front of the soldiers from House Greyhorn, side by side with Gilbert who was leading the newly raised subjugation force.
+
+On the other side were the bandits who have entrenched themselves in a defensive position, ready to meet them in battle.",52,"冒险者们站在灰角家族士兵的前面，和吉尔伯特并肩而立，他正在指挥新组建的征讨部队。
+
+另一边是已经固守防御阵地的强盗，准备迎接他们的战斗。"
+1834453718437896,WORLDEVENT52_PAGE2,"""Soldiers!"" Gilbert yelled.
+
+""For far too long have the bandits and their so-called 'Bandit King' been plaguing these lands. They plundered innocent villages, murdered travellers in cold blood and abducted people from their families.
+
+I ask of you, not as your master; not as a noble, but as a fellow man who love these lands and their people: Will you lend me your strength to put an end to their atrocities?""
+
+""WE WILL!"" the soldiers responded in unison, their voices vibrating the air. ",52,"“士兵们！”吉尔伯特大喊。
+
+“强盗和他们所谓的‘强盗王’在这片土地上肆虐已久。他们掠夺无辜的村庄，冷血杀害旅人，并从家庭中绑架人们。
+
+我请求你们，不是作为你们的主人；不是作为贵族，而是作为一个热爱这片土地和人民的同胞：你们愿意借我力量，结束他们的暴行吗？”
+
+“我们愿意！”士兵们齐声回应，声音震动了空气。"
+1834453722632192,WORLDEVENT52RESULT0_PAGE1,"""Thank you, comrades!"" Gilbert pulled his weapon.
+
+""NOW CHARGE!!!""",52,"“谢谢你们，战友们！”吉尔伯特拔出了武器。
+
+“现在，冲锋！！！”"

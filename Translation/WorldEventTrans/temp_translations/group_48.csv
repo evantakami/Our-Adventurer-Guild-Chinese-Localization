@@ -1,0 +1,62 @@
+ID,Key,String,EventID,TranslatedString
+1834453953318919,WORLDEVENT150_PAGE1,"The party find the remains of a camp that seems to have been hastily abandoned. Whoever put on the tent clearly had no time to break camp in an orderly fashion and had to leave their belongings behind. Seeing as it was very unlikely for said person to return, the party pilfered through the remains.
+Most of the things the party recovered were things you'd expect of a traveller. But among the remains there was one thing out of the ordinary. A book with notes written in a foreign language.",150,"队伍发现了一个似乎被匆忙遗弃的营地遗迹。搭建帐篷的人显然没有时间以有序的方式收拾营地，只能留下自己的物品。考虑到这个人很可能不会再回来，队伍开始翻找遗留的东西。  
+大多数队伍找到的东西都是旅行者常见的物品。但在遗迹中，有一样东西显得格外不同。一本用外语写的笔记本。"
+1834453957513216,WORLDEVENT150_DECISION1,Try to understand the content of the notes.,150,尝试理解笔记的内容。
+1834453957513217,WORLDEVENT150_DECISION1RESULT0_PAGE1,"After going through the notes {CHARACTER1} realized that the notes weren't written in a foreign language. The writer just used an old dialect which is very hard to read for people of this generation. Luckily {CHARACTER1} was able to understand the writing and it turned out that the owner of the book was an adventurer themself.
+
+The notes were full of useful information and insights of the life of an adventurer and the party learned a lot from it.",150,"在翻阅笔记后，{CHARACTER1}意识到这些笔记并不是用外语写的。作者只是使用了一种对这一代人来说非常难以阅读的古老方言。幸运的是，{CHARACTER1}能够理解这些文字，结果发现这本书的主人是一位冒险者。  
+笔记中充满了有用的信息和冒险者生活的见解，队伍从中学到了很多。"
+1834453957513218,WORLDEVENT150_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} tried {GENDER1:cond:=1?his|=0?her} best to make sense of the notes but eventually had to give up. It wouldn't be so bad if {CHARACTER1} didn't waste the better part of the day assuring everyone that {GENDER1:cond:=1?he|=0?she} only needed more time.
+Despite all that they still managed to find some useful items from the camp remains.",150,"{CHARACTER1}尽力尝试理解笔记，但最终不得不放弃。如果不是因为{CHARACTER1}浪费了大部分时间向大家保证{GENDER1:cond:=1?他|=0?她}只需要更多时间，这也许不会那么糟糕。  
+尽管如此，他们还是从营地的遗迹中找到了些有用的物品。"
+1834453957513219,WORLDEVENT150_DECISION2,Ignore the book.,150,忽略这本书。
+1834453957513220,WORLDEVENT150_DECISION2RESULT0_PAGE1,The Party decided to ignore the book. There wasn't any reason to waste time understanding the notes. It was unlikely there was anything written on it that would benefit them. Instead they took from the camp everything else that could be of use.,150,队伍决定忽略这本书。没有理由浪费时间去理解笔记。它上面写的内容不太可能对他们有帮助。相反，他们从营地中拿走了其他所有可能有用的东西。
+1834453957513221,WORLDEVENT151_PAGE1,"The Party found what seems to be an abandoned shack.
+When the group entered it, they were greeted by an abundance of rare herbs, flasks, mortars and pestle and anything else that would be required to mix potions. It was evident that whoever lived here before was an alchemist.  
+
+But considering the run-down state of the shack the previous owner either died or abandoned the shack a long time ago.
+In one corner of the house there was a chest that caught the attention of the group. It clearly looked like it held something of value. But the glowing runes on the lock clearly stated that a poor handling could have dangerous results.",151,"队伍发现了一个似乎被遗弃的小棚屋。  
+当他们进入时，迎接他们的是大量稀有草药、瓶子、研钵和其他混合药水所需的物品。显然，之前住在这里的人是一位炼金术士。  
+但考虑到小棚屋的破旧状态，前任主人要么已经死去，要么早已遗弃了这个地方。  
+在房子的一个角落，有一个箱子引起了队伍的注意。它显然看起来装着一些有价值的东西。但锁上的发光符文清楚地表明，处理不当可能会导致危险的后果。"
+1834453957513222,WORLDEVENT151_DECISION1,Ignore the chest and collect everything else.,151,忽略箱子，收集其他所有东西。
+1834453957513223,WORLDEVENT151_DECISION1RESULT0_PAGE1,Despite the potential riches the party decided to forego the risk and instead collected everything else the shack had to offer.,151,尽管有潜在的财富，队伍还是决定放弃风险，收集小棚屋里其他所有的东西。
+1834453957513224,WORLDEVENT151_DECISION2,Try to pick the lock.,151,尝试撬锁。
+1834453961707520,WORLDEVENT151_DECISION2RESULT0_PAGE1,The lock was picked sucessfully. The chest contained several potions which were now part of the loot the party collected from the shack.,151,锁成功被撬开。箱子里装着几瓶药水，现在成为了队伍从小棚屋收集的战利品。
+1834453961707521,WORLDEVENT151_DECISION2ALTRESULT0_PAGE1,"The lockpicking failed...
+Immediately the runes on the lock started to glow even brighter.  Knowing that something went wrong, the party instantly dashed outside. Not long after the chest exploded and with it everything that could have been pilfered from the shack. 
+
+The party was fast enough not to receive any fatal injuries but still received some damage from the blast.",151,"撬锁失败了……  
+锁上的符文立即开始更加明亮地闪烁。意识到出了问题，队伍立刻冲了出去。不久后，箱子爆炸了，连同它里面所有可能被盗走的东西一起消失了。  
+队伍反应迅速，没有受到致命伤害，但仍然受到了一些爆炸的伤害。"
+1834453961707522,WORLDEVENT152_PAGE1,The group comes across what seems to be an injured young wolf puppy. When it saw the adventurers it started to growl but it was in no condition to actually put up a fight. The best it could probably do is to try to bite at them when they get to close.,152,队伍遇到了一只受伤的小狼崽。当它看到冒险者时开始低吼，但它的状态根本无法进行反抗。它能做的最好的事情就是在他们靠近时试图咬他们。
+1834453961707523,WORLDEVENT152_DECISION1,Leave it alone.,152,不理会它。
+1834453961707524,WORLDEVENT152_DECISION1RESULT0_PAGE1,"The Party ignored the little wolf. They didn't care what happens to it so they decided to move on. At least most of them didn't care. {TARGET1} didn't like the fact that they just abandoned it. If it were up to {TARGETGENDER1:cond:=1?him|=0?her}, {TARGETGENDER1:cond:=1?he|=0?she} would have tried to heal the injured animal.
+But in the end {TARGETGENDER1:cond:=1?he|=0?she} abided to the decision of the group and they moved on. {TARGET1} couldn't help but look back and wondered what would happen to it, now that they've left it.",152,"队伍忽视了这只小狼。他们不在乎它的命运，因此决定继续前进。至少大多数人不在乎。{TARGET1}不喜欢他们就这样抛弃它。如果由{TARGETGENDER1:cond:=1?他|=0?她}决定，{TARGETGENDER1:cond:=1?他|=0?她}会尝试去治愈这只受伤的动物。  
+但最后，{TARGETGENDER1:cond:=1?他|=0?她}还是遵从了队伍的决定，他们继续前进。{TARGET1}忍不住回头，想知道它会发生什么，现在他们已经离开了它。"
+1834453961707525,WORLDEVENT152_DECISION1ALTRESULT0_PAGE1,"The Party ignored the injured wolf. If it didn't pose any threat, then there was no reason to occupy themselves with it.
+It will eventually die on it's own after all. So the party continued their travels and left the young wolf without looking back.",152,"队伍忽视了这只受伤的狼。如果它不构成威胁，那么就没有理由去关注它。  
+毕竟它最终会自己死去。所以队伍继续他们的旅程，离开了这只小狼，没有回头。"
+1834453961707526,WORLDEVENT152_DECISION2,Kill it for supplies.,152,为了补给而杀掉它。
+1834453965901824,WORLDEVENT152_DECISION2RESULT0_PAGE1,"The Party decided that this was an easy opportunity to replenish some of their supplies. It was still a very young animal so it wouldn't provide that much meat. Nevertheless the party started to close in on the animal, which started to bark at the adventurers, trying to keep them away. Unfortunately for it, the bark of an injured animal meant nothing.
+
+After a while the Party continued their journey with a bag from which blood was slowly dripping.",152,"队伍决定这是一个补充一些补给的好机会。它仍然是一只非常年轻的动物，所以提供的肉并不多。尽管如此，队伍开始靠近这只动物，它开始对冒险者吠叫，试图将他们赶走。不幸的是，对于一只受伤的动物来说，吠叫毫无意义。  
+过了一会儿，队伍带着一袋慢慢滴血的物品继续他们的旅程。"
+1834453965901825,WORLDEVENT152_DECISION2CONDRESULT1_PAGE1,"The Party started move in on the injured wolf until {CHARACTER1} put {GENDER1:cond:=1?himself|=0?herself} between them. {CHARACTER1} told the Group that it wouldn't allow them to kill the young wolf. It was defenseless and has done nothing to them. This wasn't right. 
+{GENDER1:cond:=1?he|=0?she} asked if they couldn't just leave it alone and move on or even better try to help it.",152,"队伍开始靠近受伤的狼，直到{CHARACTER1}站在他们面前。{CHARACTER1}告诉队伍，{GENDER1:cond:=1?他|=0?她}不允许他们杀掉这只小狼。它是无助的，什么也没做。这样做不对。  
+{GENDER1:cond:=1?他|=0?她}问他们是否不能就这样离开它，继续前进，或者更好的是，试着帮助它。"
+1834453965901826,WORLDEVENT152_DECISION3,Try to help it.,152,尝试帮助它。
+1834453965901827,WORLDEVENT152_DECISION3RESULT0_PAGE1,"{CHARACTER1} started to move in on the little wolf with some bandages in hand. The little wolf started to growl even louder when {CHARACTER1} got closer. {CHARACTER1} tried {GENDER1:cond:=1?his|=0?her} best to calm it down and made several gestures, trying to tell the animal {GENDER1:cond:=1?he|=0?she} didn't mean to harm it.
+
+It understood none of it.
+
+When {CHARACTER1} started to reach out with {GENDER1:cond:=1?his|=0?her} hand, it immediately bit it and ran off. Apparently it was well enough to at least run away.",152,"{CHARACTER1}手里拿着一些绷带，开始靠近小狼。当{CHARACTER1}靠近时，小狼开始更加大声地低吼。{CHARACTER1}尽力让它平静下来，并做出几种手势，试图告诉动物{GENDER1:cond:=1?他|=0?她}并不想伤害它。  
+它完全没有理解。  
+当{CHARACTER1}开始伸出{GENDER1:cond:=1?他|=0?她}的手时，它立刻咬了{GENDER1:cond:=1?他|=0?她}并逃跑了。显然它至少能跑得动。"
+1834453965901828,WORLDEVENT152_DECISION3RESULT0_PAGE2,"While putting the bandages now on {GENDER1:cond:=1?his|=0?her} own wounds, {CHARACTER1} silently promised {GENDER1:cond:=1?himself|=0?herself} to never try to help another animal again.",152,当{CHARACTER1}现在在给{GENDER1:cond:=1?他|=0?她}自己的伤口包扎时，{CHARACTER1}默默地向{GENDER1:cond:=1?他|=0?她}承诺以后再也不尝试帮助其他动物了。
+1834453965901829,WORLDEVENT152_DECISION4,<color=#2aa136>[Kind]</color>Let a kind adventurer try to help it.,152,<color=#2aa136>[善良]</color>让一个善良的冒险者尝试帮助它。
+1834453965901830,WORLDEVENT152_DECISION4RESULT0_PAGE1,"{CHARACTER1} slowly moves towards the little wolf with a fresh set of bandages. It started to growl at {GENDER1:cond:=1?him|=0?her}, probably trying to tell {GENDER1:cond:=1?him|=0?her} to back off. But {CHARACTER1} didn't stop. Instead {GENDER1:cond:=1?he|=0?she} started to slowly reach out for the injured animal trying {GENDER1:cond:=1?his|=0?her} best not to scare the little wolf.
+Miraculously it seems like the wolf somewhat understood that {CHARACTER1} had no ill intention and let {GENDER1:cond:=1?him|=0?her} touch them. {CHARACTER1} was successfully able to treat the little wolf's wound.",152,"{CHARACTER1}慢慢走向小狼，手里拿着一套新的绷带。小狼开始对{GENDER1:cond:=1?他|=0?她}低吼，可能是在告诉{GENDER1:cond:=1?他|=0?她}退后。但{CHARACTER1}没有停下。相反，{GENDER1:cond:=1?他|=0?她}开始慢慢伸出手，试图不吓到这只小狼。  
+奇迹般地，这只狼似乎理解了{CHARACTER1}没有恶意，允许{GENDER1:cond:=1?他|=0?她}触摸它。{CHARACTER1}成功地为小狼处理了伤口。"
+1834453970096128,WORLDEVENT152_DECISION4RESULT0_PAGE2,The Party thought that was all they could do for it and wanted to move on. {CHARACTER1} had a different idea and started to carry the injured little wolf with {GENDER1:cond:=1?him|=0?her}. {GENDER1:cond:=1?he|=0?she} said that after all this they just can't leave it behind and just hope for the best. {GENDER1:cond:=1?he|=0?she} decided to take the little guy with {GENDER1:cond:=1?him|=0?her} until it fully recovered. The others gave {CHARACTER1} weird looks but they knew that there was no point in arguing with {GENDER1:cond:=1?him|=0?her}.,152,队伍认为这就是他们能为它做的所有事情，想要继续前进。{CHARACTER1}有不同的想法，开始抱着受伤的小狼。{GENDER1:cond:=1?他|=0?她}说，经过这一切，他们不能就这样抛下它，指望一切都会好起来。{GENDER1:cond:=1?他|=0?她}决定在小狼完全康复之前带着它。其他人用奇怪的眼神看着{CHARACTER1}，但他们知道和{GENDER1:cond:=1?他|=0?她}争论没有意义。

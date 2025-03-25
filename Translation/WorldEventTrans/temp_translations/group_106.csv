@@ -1,0 +1,59 @@
+ID,Key,String,EventID,TranslatedString
+1834454397915143,WORLDEVENT331_DECISION1,"Ghosts, ethereal and elusive, manifested in fleeting glimpses as the adventurers turned their heads",331,幽灵，虚幻而难以捉摸，在冒险者转头时闪现出短暂的身影。
+1834454397915144,WORLDEVENT331_DECISION1RESULT0_PAGE1,"Ethereal warriors started to flicker into the corners of the adventurers eyes, only to vanish when they tried to focus their gaze upon them. It was as if the spirits of the fallen warriors were unsettled by the disturbance, their very presence an accusation at the grave robbers.
+
+Haunting voices echoed through their minds, whispering admonishments in a foreign language, their meanings still clear to the adventurers.",331,"虚幻的战士开始在冒险者的眼角闪烁，然而当他们试图将目光集中在上面时，它们又瞬间消失。仿佛是亡灵战士的灵魂因骚动而不安，它们的存在对掘墓者发出了控诉。  
+
+缥缈的声音在他们心中回荡，以一种陌生的语言低语着谴责，尽管如此，冒险者们依然能清楚地理解其含义。"
+1834454397915145,WORLDEVENT331_DECISION1RESULT0_PAGE2,"Overwhelmed by the presence of these tormented spirits, the adventurers felt dread and remorse. Unable to defend themselves in any way, they had to let the souls torment them until it was finally over.
+
+Drenched in sweat the adventurers were finally freed from the spirits torment and the treasures were now theirs.
+
+But was the price worth it?",331,"被这些受折磨的灵魂的存在所压倒，冒险者们感到恐惧与悔恨。无力自卫，他们只能任由灵魂折磨，直到一切终于结束。  
+
+冒险者们满身是汗，最终从灵魂的折磨中解脱出来，宝藏现在属于他们。  
+
+但这代价值得吗？"
+1834454402109440,WORLDEVENT332_PAGE1,"While travelling the adventurers stumbled upon a rune stone, standing tall and proud amidst the frozen terrain. Carved from a rugged slab of ancient rock, the rune stone bore an intricate symbol from a foreign culture.
+
+The adventurers knew that this stone was set up by a friendly jotun tribe, to ensure the well-being of travellers.",332,"在旅行中，冒险者们偶然发现了一块符文石，屹立在冰冻的地形中，显得高大而骄傲。符文石由一块古老的粗糙岩石雕刻而成，上面刻有来自异国文化的复杂符号。  
+
+冒险者们知道，这块石头是由一个友好的巨人部落设立的，以确保旅人的安康。"
+1834454402109441,WORLDEVENT332_DECISION1,Pray for healing and restoration.,332,祈求治愈与恢复。
+1834454402109442,WORLDEVENT332_DECISION1RESULT0_PAGE1,"Gathering around the rune stone, the adventurers bowed their heads and offered a prayer for healing and restoration. Not long after, a wave of warmth and vitality spread through their bodies, dispelling the lingering fatigue and wounds that had plagued them.",332,冒险者们聚集在符文石周围，低下头，祈求治愈与恢复。不久后，一阵温暖与活力在他们体内蔓延，驱散了困扰他们的疲惫与伤痛。
+1834454402109443,WORLDEVENT332_DECISION2,Pray for protection.,332,祈求保护。
+1834454402109444,WORLDEVENT332_DECISION2RESULT0_PAGE1,"Gathering around the rune stone, the adventurers bowed their heads and offered a prayer for protection against their enemies. Not long after, the adventurers felt a profound sense of reassurance envelop them. A subtle shield seemed to form around their beings, warding off the malevolent forces that sought to do them harm. It was as if an invisible barrier of protection had materialized, encircling them in a cocoon of safety.",332,冒险者们聚集在符文石周围，低下头，祈求保护以抵御敌人。不久后，冒险者们感到一种深刻的安慰感笼罩着他们。似乎有一层微妙的护盾在他们周围形成，抵挡着那些企图伤害他们的恶意力量。仿佛一层无形的保护屏障显现出来，将他们包裹在安全的茧中。
+1834454402109445,WORLDEVENT332_DECISION3,Pray for strength.,332,祈求力量。
+1834454402109446,WORLDEVENT332_DECISION3RESULT0_PAGE1,"Gathering around the rune stone, the adventurers bowed their heads and offered a prayer for protection against their enemies. Not long after, the adventurers felt a surge of energy course through their veins. They were infused with an inner strength that transcended their mortal limitations.",332,冒险者们聚集在符文石周围，低下头，祈求力量以抵御敌人。不久后，冒险者们感到一股能量在他们的血管中奔涌而过。他们被注入了一种超越凡人极限的内在力量。
+1834454402109447,WORLDEVENT333_PAGE1,"The adventurers path led them to an unexpected spectacle. Amidst the frozen landscape, two jotun tribes were locked in a fierce skirmish, waging war with thunderous roars and thundering footsteps.
+
+From their current vantage point they were safe to not be noticed by the warriors but could hardly discern any details of the battle.",333,"冒险者的道路将他们引向一个意想不到的景象。在冰冻的景观中，两支巨人部落正在激烈交战，发出雷鸣般的吼声和震耳欲聋的脚步声。  
+
+在他们目前的视角下，冒险者们安全地没有被战士们注意到，但几乎无法辨别战斗的细节。"
+1834454402109448,WORLDEVENT333_DECISION1,Get closer to study the way jotuns wage war.,333,靠近以研究巨人如何作战。
+1834454406303744,WORLDEVENT333_DECISION1RESULT0_PAGE1,"Eager to witness the jotun skirmish firsthand, the adventurers stealthily approached the site of the battle. They carefully navigated the treacherous terrain, their movements calculated to avoid detection. 
+
+From a hidden vantage point, the adventurers observed the clash between the rival jotun tribes. The adventurers took in the sight, mesmerized by the display of jotun might and ferocity. The ground trembled beneath the giants' feet, and the air filled with the sound of metal meeting metal. ",333,"渴望亲眼目睹巨人的冲突，冒险者们悄悄接近战斗现场。他们小心翼翼地穿越险恶的地形，动作经过精心计算以避免被发现。  
+
+从一个隐蔽的观察点，冒险者们观察着敌对巨人部落之间的冲突。冒险者们目不转睛地看着，陶醉于巨人力量与凶猛的展示中。大地在巨人的脚下颤抖，空气中充满了金属相撞的声音。"
+1834454406303745,WORLDEVENT333_DECISION1RESULT0_PAGE2,"Among the jotun ranks, brute force and sheer determination reigned supreme. The warriors lunged forward, their massive frames propelling them with astonishing speed. The adventurers witnessed the raw power behind every swing and parry, the impact resonating through the snowy expanse.
+
+They notice the lack of magic and ranged weaponry amongst the jotuns. Combat styles they're either unable to use or do not favor. However, it was apparent that even without them, they were deadly warriors.",333,"在巨人的队伍中，蛮力与坚定的决心占据了主导地位。战士们向前冲锋，庞大的身躯以惊人的速度推进。冒险者们目睹了每一次挥击与格挡背后的原始力量，冲击波在雪白的广袤中回响。  
+
+他们注意到巨人中缺乏魔法和远程武器。这是他们无法使用或不喜欢的战斗风格。然而，很明显，即使没有这些，他们依然是致命的战士。"
+1834454406303746,WORLDEVENT333_DECISION1RESULT0_PAGE3,"At some point in the skirmish the adventurers decided to withdraw, believing that they've seen everything they could. To avoid becoming collateral in the jotuns' conflict, they retreated silently leaving the skirmish behind them.
+
+The firsthand experience had provided them with invaluable insights into the combat prowess and relentless nature of the jotun tribes.",333,"在冲突的某个时刻，冒险者们决定撤退，认为自己已经看到了所有能看到的东西。为了避免成为巨人冲突中的附带损失，他们悄然退去，留下了战斗在身后。  
+
+这次亲身经历为他们提供了对巨人部落战斗能力与无情本性的宝贵见解。"
+1834454406303747,WORLDEVENT333_DECISION1ALTRESULT0_PAGE1,"As the adventurers cautiously approached the site of the jotun skirmish, their footsteps crunching softly in the snow, fate had a different plan in store for them. Despite their attempts to remain unnoticed, a sudden shift in the battle dynamics drew the attention of the keen-eyed jotun warriors.
+
+With a thunderous roar, one of the towering jotuns locked eyes with the adventurers, sensing their presence amidst the chaos of combat. A mix of surprise and curiosity flickered across the jotun's face before a fierce determination replaced it. In an instant, the giant altered its course, charging towards the intruders with a primal fury.
+
+The adventurers' hearts pounded in their chests as they realized their cover was blown. Forced to defend themselves, the adventurers drew their weapons. Now they were part of this skirmish.",333,"当冒险者们小心翼翼地接近巨人冲突的现场时，脚步在雪地上轻轻发出咯吱声，命运却为他们准备了不同的计划。尽管他们试图保持隐蔽，战斗动态的突然变化吸引了敏锐的巨人战士的注意。  
+
+伴随着雷鸣般的吼声，一位高大的巨人与冒险者们目光相遇，感知到他们在战斗混乱中的存在。惊讶与好奇在巨人的脸上闪过，随即被强烈的决心所取代。瞬间，这位巨人改变了方向，带着原始的愤怒朝着入侵者冲去。  
+
+冒险者们的心脏在胸腔中狂跳，他们意识到自己的掩护已经暴露。被迫自卫，冒险者们拔出了武器。现在，他们成为了这场冲突的一部分。"
+1834454406303748,WORLDEVENT333_DECISION2,Leave the battlefield,333,离开战场
+1834454406303749,WORLDEVENT333_DECISION2RESULT0_PAGE1,It became evident to the adventurers that this was a conflict they should not entangle themselves in. The adventurers turned into another direction and left the jotuns to their own devices.,333,冒险者们意识到这是一个他们不应卷入的冲突。冒险者们转向另一个方向，离开了巨人们，让他们自行处理。

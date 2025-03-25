@@ -1,0 +1,29 @@
+ID,Key,String,EventID,TranslatedString
+1834454301446148,WORLDEVENT292_PAGE1,The Adventurers' and the Guild Master's stomachs were rumbling.,292,冒险者和公会会长的肚子在咕咕叫。
+1834454301446149,WORLDEVENT293_PAGE1,"Despite Fiola looking much healthier now, she still wore a worried expression on her face.
+
+""Some of the adventurers on the lookout have reported that the enemy has built a ram,"" she said. ""I think this is it. They're intending to end it with the next assault.""
+
+Now the Guild Master also became worried. Although their food situation had been solved, it was still a fact that they were outnumbered, and defending the Guild if the gates were breached seemed challenging. However, the Guild Master could not see any way to stop the ram.
+
+After pondering it for a while, they began to sigh. ""At this point, there is nothing else we can do than to do our best in the upcoming fight."" Hearing the answer, Fiola fell silent.",293,"尽管菲奥拉现在看起来健康多了，但她脸上依然挂着担忧的神情。
+
+“在岗哨上的一些冒险者报告说，敌人已经建造了攻城锤，”她说道。“我想这就是了。他们打算在下一次攻击中结束这一切。”
+
+现在公会会长也开始感到担忧。虽然他们的食物问题已经解决，但他们人数确实处于劣势，如果大门被攻破，防守公会似乎将面临挑战。然而，公会会长并没有看到阻止攻城锤的办法。
+
+经过一番思考，他们开始叹气。“在这个时候，我们别无选择，只能在即将到来的战斗中尽力而为。”听到这个答案，菲奥拉沉默了。"
+1834454301446150,WORLDEVENT293_PAGE2,"""If we..."" she started, ""If we do not make it..."" It seemed like she had trouble saying it, but then she looked at the Guild Master and said, ""I want you to know that I do not hate you."" The Guild Master was startled for a moment and didn't know how to respond, wondering if she was trying to make a joke. However, she looked at the Guild Master with serious eyes. There was only one right answer the Guild Master could give back. ""I do not hate you either. Despite what I might be saying..."" they admitted.
+
+For a moment, it was silent around them until the Guild Master excused themself to watch over the enemy's activity.
+<i>It will be really weird talking to her next time</i>, the Guild Master thought to themself.
+
+",293,"“如果我们……”她开始说道，“如果我们做不到……”看起来她在说这句话时有些困难，但随后她看着公会会长说：“我想让你知道，我并不恨你。”公会会长愣了一下，不知道该如何回应，心里想着她是否在开玩笑。然而，她用严肃的眼神看着公会会长。公会会长能给出的唯一正确答案是：“我也不恨你。尽管我可能会这么说……”他们承认。
+
+周围一时安静下来，直到公会会长借口去观察敌人的动向。  
+<i>下次和她说话会很奇怪</i>，公会会长心想。"
+1834454301446151,WORLDEVENT293_DECISION1,Take a look around.,293,四处看看。
+1834454301446152,WORLDEVENT293_DECISION1RESULT0_PAGE1,The Guild Master and the adventurers decided to look around and see if they could make any final preparations.,293,公会会长和冒险者决定四处看看，看看是否能做最后的准备。
+1834454301446153,WORLDEVENT293_DECISION2,Wait for the final assault. <color=orange>[This will immediately start the final battle.],293,等待最后的攻击。<color=orange>[这将立即开始最后的战斗。]
+1834454305640448,WORLDEVENT293_DECISION2RESULT0_PAGE1,There was nothing else to do. The next battle will decide the fate of the Guild.,293,别无选择。下一场战斗将决定公会的命运。
+1834454305640449,WORLDEVENT294_PAGE1,This might be the last moments of peace the Guild will have before the final assault.,294,这可能是公会在最后攻击前的最后几刻平静。

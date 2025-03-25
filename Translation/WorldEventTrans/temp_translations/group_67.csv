@@ -1,0 +1,36 @@
+ID,Key,String,EventID,TranslatedString
+1834454091730949,WORLDEVENT207_PAGE1,"The battle was over!
+
+The Lich has stopped raising itself from the dead and finally lay motionless on the cold ground. A great evil has finally been purged from this world, and many lifes will be saved now thanks to the deeds of the adventurers.",207,"战斗结束了！  
+
+巫妖不再从死去的状态复生，终于静静地躺在冰冷的地面上。这个世界上伟大的邪恶终于被驱逐，许多生命将因冒险者的英勇行为而得以拯救。"
+1834454091730950,WORLDEVENT208_PAGE1,In front of the adventurers was a stone door marked with the symbol of the demon lord Lilith the Lustful.,208,在冒险者面前是一扇刻有魔王莉莉丝（Lilith the Lustful）符号的石门。
+1834454091730951,WORLDEVENT208_DECISION1,Enter,208,进入
+1834454091730952,WORLDEVENT208_DECISION1CONDRESULT1_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",208,当接触到门时，冒险者们发现自己被传送到了一个完全不同的地方。
+1834454095925248,WORLDEVENT209_PAGE1,"The adventurers reached the cave where Andrey and the other cultists had last been seen. Inside, an unsettling scene unfolded as hobgoblins escorted another group of captives, led by humans who were unmistakably the cultists. Notably, a man with an impressive bow among them stood out amongst them. He had the air of a seasoned adventurer around him.
+
+As the adventurers strategized the best approach, the situation became more urgent when they witnessed some screaming captives being forcibly separated. Time was running short, and it became clear that they didn't have the luxury for prolonged planning. The cultists and hobgoblins held a defensive advantage, making an immediate assault a challenging and grueling prospect without proper preparation. The adventurers faced a difficult decision as the captives' fates depended on their action.",209,"冒险者们到达了安德烈（Andrey）和其他邪教徒最后被看到的洞穴。里面展开了一个令人不安的场景，地精护送着另一组被俘者，领头的明显是那些邪教徒。特别是一名手持令人印象深刻的弓箭的男子在他们中显得格外突出，他散发着资深冒险者的气息。  
+
+当冒险者们策划最佳的接近方式时，情况变得更加紧急，因为他们目睹了一些尖叫的被俘者被强行分开。时间紧迫，显然他们没有时间进行长时间的计划。邪教徒和地精占据了防御优势，立即发起攻击在没有充分准备的情况下是一个艰难而痛苦的前景。冒险者们面临艰难的决定，因为被俘者的命运取决于他们的行动。"
+1834454095925249,WORLDEVENT209_DECISION1,Attack immediately.,209,立即攻击。
+1834454095925250,WORLDEVENT209_DECISION1RESULT0_PAGE1,"The adventurers decided that they had no choice and needed to act immediately. 
+
+They charged in!",209,"冒险者们决定别无选择，必须立即行动。  
+
+他们冲了进去！"
+1834454095925251,WORLDEVENT209_DECISION2,Prepare and forego the captives.,209,准备并放弃被俘者。
+1834454095925252,WORLDEVENT209_DECISION2RESULT0_PAGE1,"The adventurers weighed the risks and concluded that attempting to save a few captives wouldn't be worth jeopardizing the safety of all the captives.
+
+Continuing their assessment of the situation, the adventurers crafted a plan for the initial assault against the enemy, accompanied by the haunting screams of the captives in the background.
+
+With their plan now set in stone, the adventurers started their assault against the enemy.",209,"冒险者们权衡了风险，得出结论认为试图拯救几个被俘者不值得冒着所有被俘者安全的风险。  
+
+在继续评估形势时，冒险者们制定了对敌人初步攻击的计划，背景中回荡着被俘者的凄惨尖叫声。  
+
+随着计划的确定，冒险者们开始了对敌人的攻击。"
+1834454095925253,WORLDEVENT209_DECISION3,<color=#2aa136>[Born Leader]</color>{DECISIONCHARACTER1} has a plan and everyone needs to listen.,209,<color=#2aa136>[天生领袖]</color>{DECISIONCHARACTER1}有一个计划，大家都需要听从。
+1834454095925254,WORLDEVENT209_DECISION3RESULT0_PAGE1,"{CHARACTER1} announced to the group that {GENDER1:cond:=1?he|=0?she} already had a plan for the assault. Describing the details of {GENDER1:cond:=1?his|=0?her} plan, the others quickly agreed to it. It was a well-devised strategy.
+
+With their assault plan in place, the adventurers wasted no time and charged forward, determined to rescue the captives before it was too late. ",209,"{CHARACTER1}向小组宣布，{GENDER1:cond:=1?他|=0?她}已经有了攻击的计划。描述了{GENDER1:cond:=1?他|=0?她}计划的细节后，其他人迅速同意了。这是一个精心设计的策略。  
+
+在攻击计划确定后，冒险者们毫不犹豫地向前冲去，决心在为时已晚之前拯救被俘者。"

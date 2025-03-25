@@ -1,0 +1,68 @@
+ID,Key,String,EventID,TranslatedString
+1834453651329027,WORLDEVENT19_PAGE1,"""Enough!"" declared Bai and took off her blindfolds. She was grinning from ear to ear.
+
+""It seems like not all of you are weaklings after all."" She clapped her hands.
+""Alright! It's decided! I will be staying here and teach my martial arts.""
+
+She looked at {TARGET1} and moved her face very close towards {TARGET1}'s face. With a mischievous smile she said:
+""I hope you will be there."" ",19,"""够了！"" 白宣告道，解开了她的眼罩。她笑得合不拢嘴。  
+
+""看来你们并不是全都是弱者。"" 她拍了拍手。  
+""好吧！决定了！我会留在这里教你们武术。""  
+
+她看着 {TARGET1}，脸凑得很近，带着顽皮的微笑说道：  
+""希望你能在这里。"""
+1834453651329028,WORLDEVENT20_PAGE1,"The Party finally found the person they were looking, matching the description they were given.
+
+""...W-Who are you...?"" the young man asked weakly, while holding his stomach. He was pale and it looked like he had trouble to just sit upright.
+
+The Party told him that they were adventurers from the Adventurer Guild and that they were sent here to find him. 
+He looked at his wounds, his face contorted by pain. ""...A-am I...going to...make it?"" It was clear that the young man wasn't going to last long if his wounds were left untreated for much longer.",20,"队伍终于找到了他们要找的人，符合他们得到的描述。  
+
+""...你...你是谁...？"" 年轻人虚弱地问，手捂着肚子。他脸色苍白，看起来连坐直都很困难。  
+
+队伍告诉他他们是来自冒险者公会的冒险者，被派来找他的。  
+他看着自己的伤口，脸上扭曲着痛苦的表情。 ""...我...会活下去吗？"" 显然，如果他的伤口再不治疗，他是撑不久的。"
+1834453651329029,WORLDEVENT20_DECISION1,Use a potion to heal him.,20,使用药水来治疗他。
+1834453651329030,WORLDEVENT20_DECISION1RESULT0_PAGE1,"Fortunately they had a healing potion to stabilize the young man's condition.
+
+After he drank the potion, his breathing became more stable and color finally returned to his face. He was still too weak on his own so the party decided to carry him.
+
+""I-I thought I was going to die there..."" The young man said close to tears. ""Thank you...Thank you so very much..."".",20,"幸运的是，他们有一瓶治疗药水来稳定年轻人的状况。  
+
+在他喝下药水后，他的呼吸变得更加稳定，脸色终于恢复了一些颜色。 他仍然太虚弱，队伍决定抬着他。  
+
+""我...以为我会死在那儿..."" 年轻人泪眼汪汪地说道。 ""谢谢你们...非常感谢...""。"
+1834453655523328,WORLDEVENT20_DECISION2,Have {DECISIONCHARACTER1} heal him.,20,让 {DECISIONCHARACTER1} 来治疗他。
+1834453655523329,WORLDEVENT20_DECISION2RESULT0_PAGE1,"{CHARACTER1} used {GENDER1:cond:=1?his|=0?her} healing skills to stabilize the young man's condition.
+
+After {CHARACTER1} was done, his breathing became more stable and color finally returned to his face. However, he was still too weak on his own so the party decided to carry him.
+
+""I-I thought I was going to die there..."" The young man said close to tears. ""Thank you...Thank you so very much..."".",20,"{CHARACTER1} 使用了 {GENDER1:cond:=1?他的|=0?她的} 治疗技能来稳定年轻人的状况。  
+
+在 {CHARACTER1} 完成后，他的呼吸变得更加稳定，脸色终于恢复了一些颜色。然而，他仍然太虚弱，队伍决定抬着他。  
+
+""我...以为我会死在那儿..."" 年轻人泪眼汪汪地说道。 ""谢谢你们...非常感谢...""。"
+1834453655523330,WORLDEVENT20_DECISION3,There was nothing the party could do to help the young man.,20,队伍无能为力，无法帮助年轻人。
+1834453655523331,WORLDEVENT20_DECISION3RESULT0_PAGE1,"The Party told him the truth that there was nothing they could do for him.
+They young man looked disappointed. It was clear that that was not the answer he was hoping for.
+
+""I-I...don't want to die like this..."" he said in a low voice. He began to silently sob. The Party decided to at least stay by his side until the end so he wasn't alone.
+
+After a while the young man stopped breathing. There was nothing else left to do now but to report to the Guild.",20,"队伍告诉他真相，他们无能为力。  
+年轻人看起来很失望。显然，这并不是他所希望的答案。  
+
+""我...不想就这样死去..."" 他低声说道，开始默默地抽泣。队伍决定至少陪在他身边直到最后，让他不再孤单。  
+
+过了一会儿，年轻人停止了呼吸。现在他们只能向公会报告。"
+1834453655523332,WORLDEVENT21RESULT0_PAGE1,"The Party finally found the person they were looking for, matching the description they were given.
+
+But unfortunately they were too late. The person before them was already dead, having succumbed to their injuries.
+He died young and alone in some remote cave. A sad but not uncommon end for adventurers.
+
+There was nothing left for them do now but to report their findings to the Guild.",21,"队伍终于找到了他们要找的人，符合他们得到的描述。  
+
+但不幸的是，他们来得太晚了。眼前的人已经死去，因伤重而亡。  
+他年轻时孤独地死在某个偏远的洞穴里。对于冒险者来说，这是一个悲伤但并不罕见的结局。  
+
+现在他们无能为力，只能向公会报告他们的发现。"

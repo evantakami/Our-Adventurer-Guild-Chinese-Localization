@@ -1,0 +1,52 @@
+ID,Key,String,EventID,TranslatedString
+1834454024622084,WORLDEVENT174_PAGE1,"Suddenly, the adventurers spotted a lone figure crawling before them, clutching their stomach in agony. They desperately pleaded the adventurers for help.",174,突然，冒险者们发现前方有一个孤独的身影在爬行，痛苦地捂着肚子。他们急切地恳求冒险者们给予帮助。
+1834454024622085,WORLDEVENT174_DECISION1,Something is wrong. <color=orange>(Only one adventurer has to succeed.),174,有些不对劲。<color=orange>(只需一位冒险者成功即可。)
+1834454024622086,WORLDEVENT174_DECISION1RESULT0_PAGE1,"The adventurers realized what was wrong. Upon closer inspection, they noticed that the man was actually uninjured. Sensing their hesitation, the man ceased his charade and swiftly donned a mask.
+
+It was a cultist.",174,"冒险者们意识到了问题所在。经过仔细观察，他们发现那个男人实际上并没有受伤。感受到他们的犹豫，男人停止了他的伪装，迅速戴上了面具。  
+
+他是一个邪教徒。"
+1834454024622087,WORLDEVENT174_DECISION1RESULT0_PAGE2,"Several others emerged seemingly from thin air, ready to engage the adventurers.
+
+Prepare for battle!",174,"几个其他人似乎凭空出现，准备与冒险者们交战。  
+
+准备战斗！"
+1834454024622088,WORLDEVENT174_DECISION1ALTRESULT0_PAGE1,"Something seemed amiss, but the adventurers had no time to question the situation. They rushed towards the wounded man, only to realize the truth when they got closer. There were no wounds on the man; instead, he removed his hands from his stomach, revealing a mask which he swiftly donned.
+
+
+It was a cultist! ",174,"事情似乎有些不对劲，但冒险者们没有时间质疑情况。他们冲向受伤的男人，直到靠近时才意识到真相。男人身上没有任何伤口；相反，他从肚子上移开手，露出了一个面具，并迅速戴上了它。  
+
+他是一个邪教徒！"
+1834454028816384,WORLDEVENT174_DECISION1ALTRESULT0_PAGE2,"Before the adventurers could react, several others emerged seemingly from thin air, surrounding them. It was a trap, and they had fallen right into it.
+
+Prepare for Battle!",174,"在冒险者们反应过来之前，其他几个身影似乎凭空出现，包围了他们。这是一个陷阱，他们正好掉进了其中。  
+
+准备战斗！"
+1834454028816385,WORLDEVENT175_PAGE1,"The adventurers stumbled upon a peculiar man. Though his attire marked him as a man of faith, there was an unmistakably shady air about him. When he caught sight of the adventurers, he gave them a smile that made them uncomfortable.
+
+""Ah, hello, dear travelers! Might you be willing to aid a priest who has fallen on hard times? I've recently lost my money, through no fault of my own, and I was hoping you might lend me a small sum. I assure you, I'll repay it in due time!""
+",175,"冒险者们偶然遇到一个奇怪的男人。尽管他的服装表明他是一位信士，但他身上散发着不可否认的阴暗气息。当他看到冒险者时，露出了让人不安的微笑。  
+
+“啊，亲爱的旅行者们，你们愿意帮助一位陷入困境的牧师吗？我最近失去了我的钱，完全不是我的错，我希望你们能借我一小笔钱。我向你们保证，我会按时还的！”"
+1834454028816386,WORLDEVENT175_PAGE2,"He grinned, but for reasons unknown, the adventurers couldn't shake the feeling that they would never see their money again if they were to lend it to him.",175,他露出了微笑，但出于某种未知的原因，冒险者们无法摆脱这样的感觉：如果借钱给他，他们可能再也见不到这些钱。
+1834454028816387,WORLDEVENT175_DECISION1,Help him out. <color=orange>(You'll randomly lose items in your inventory until you have no items or the total value exceed 100 gold),175,帮助他。<color=orange>(你将随机失去库存中的物品，直到没有物品或总价值超过100金币)
+1834454028816388,WORLDEVENT175_DECISION1RESULT0_PAGE1,"""You're good people! I'm sure the gods will smile upon you for your generous gifts!"" the priest praised them after receiving the items from the adventurers. They couldn't help but notice that he now referred to it as a gift, implying it wouldn't be repaid. 
+
+Before the adventurers could respond, the priest vanished without a trace. They'll probably never see him again.",175,"“你们真是好人！我相信神明会因你们的慷慨馈赠而微笑！”牧师在收到冒险者的物品后赞美道。他们不禁注意到，他现在称之为馈赠，暗示不会还款。  
+
+在冒险者们来得及回应之前，牧师便无影无踪。他们可能再也见不到他了。"
+1834454028816389,WORLDEVENT175_DECISION2,Decline to help.,175,拒绝帮助。
+1834454028816390,WORLDEVENT175_DECISION2RESULT0_PAGE1,"""I suppose it can't be helped,"" the priest responded with surprising ease. The adventurers were taken aback by how readily he accepted their decision.
+
+With a respectful bow, the priest bid them farewell and wished them safe travels before continuing on his way.",175,"“我想这也没办法，”牧师轻松地回答道。冒险者们对他如此轻松地接受他们的决定感到惊讶。  
+
+牧师恭敬地鞠了一躬，祝他们一路平安，然后继续前行。"
+1834454028816391,WORLDEVENT176_PAGE1,"The adventurers encountered a familiar face on their journey. It was the same priest who had once approached them for charity. He appeared slightly drunk, reeking of alcohol. When he spotted the adventurers, the same shady smile they remembered from their previous encounter appeared once more.
+
+""Oh, it'sh you, my dear travelers! *hiccups* You came at the perfect time! *hiccups* I'm out of money again! Have no idea how, but could you help me out once more?""",176,"冒险者们在旅途中遇到了一个熟悉的面孔。正是那位曾经向他们乞求施舍的牧师。他看起来有些醉酒，身上散发着酒精的气味。当他看到冒险者时，之前记忆中的阴暗微笑再次浮现。  
+
+“哦，是你们，我亲爱的旅行者们！*打嗝* 你们来得正是时候！*打嗝* 我又没钱了！不知道怎么回事，但你们能再帮我一次吗？”"
+1834454028816392,WORLDEVENT176_DECISION1,Help him out. <color=orange>(You'll randomly lose items in your inventory until you have no items or the total value exceed 300 gold),176,帮助他。<color=orange>(你将随机失去库存中的物品，直到没有物品或总价值超过300金币)
+1834454033010688,WORLDEVENT176_DECISION1RESULT0_PAGE1,"""Godsh, blessh ya all! *hiccups*"" the priest slurred his thanks. ""Now, don't ye worry about me. I'll be fine. Just go, have fun on yer adventuresh! *hiccups*"" Despite feeling slightly concerned, the adventurers continued on their journey as the priest had instructed.",176,“神啊，保佑你们！*打嗝*”牧师含糊不清地表达了感谢。“现在，别担心我。我会没事的。去吧，尽情享受你们的冒险！*打嗝*”尽管感到有些担忧，冒险者们还是按照牧师的指示继续前行。
+1834454033010689,WORLDEVENT176_DECISION2,Decline to help.,176,拒绝帮助。
+1834454033010690,WORLDEVENT176_DECISION2RESULT0_PAGE1,"""Too bad,"" the priest remarked nonchalantly. ""Now, don't ye worry about me. I'll be fine. Just go, have fun on yer adventuresh! *hiccups*"" Despite feeling slightly concerned, the adventurers continued on their journey as the priest had instructed.",176,“太可惜了，”牧师若无其事地说道。“现在，别担心我。我会没事的。去吧，尽情享受你们的冒险！*打嗝*”尽管感到有些担忧，冒险者们还是按照牧师的指示继续前行。

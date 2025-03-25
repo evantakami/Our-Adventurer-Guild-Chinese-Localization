@@ -1,0 +1,87 @@
+ID,Key,String,EventID,TranslatedString
+1834454351777793,WORLDEVENT316_DECISION1,{CHARACTER1} starts {GENDER1:cond:=1?his|=0?her} counterattack,316,{CHARACTER1} 发起了 {GENDER1:cond:=1?他的|=0?她的} 反击
+1834454351777794,WORLDEVENT316_DECISION1RESULT0_PAGE1,"Gritting {GENDER1:cond:=1?his|=0?her} teeth, {CHARACTER1} deflected a particularly powerful strike from the jotun warrior's battle axe, using the momentum to launch a counterattack of {GENDER1:cond:=1?his|=0?her} own. 
+
+The jotun warrior, caught off guard by {CHARACTER1}'s sudden offensive, staggered backward, momentarily disoriented. Sensing the opportunity, {CHARACTER1} pressed {GENDER1:cond:=1?his|=0?her} advantage, launching a relentless assault of strikes upon {GENDER1:cond:=1?his|=0?her} faltering opponent.
+
+
+",316,"{GENDER1:cond:=1?他|=0?她} 咬紧牙关，{CHARACTER1} 挡下了来自巨人战士战斧的强力一击，借助这个势头发起了 {GENDER1:cond:=1?他的|=0?她的} 反击。  
+
+巨人战士被 {CHARACTER1} 突如其来的攻击所震惊，踉跄后退，片刻间失去了方向感。感知到机会，{CHARACTER1} 乘势而上，向 {GENDER1:cond:=1?他|=0?她} 衰弱的对手发起了无情的攻击。"
+1834454351777795,WORLDEVENT316_DECISION1RESULT0_PAGE2,"Blow after blow, {CHARACTER1}'s weapon hammered against the jotun warrior's defenses, weakening them with each resounding impact. The tundra shook beneath their feet as the intensity of the clash reached its zenith, the air thick with the sounds of battle.
+
+In a final, decisive maneuver, {CHARACTER1} unleashed a devastating strike that found its mark with lethal accuracy. The jotun warrior, caught off guard and unable to defend, fell to the ground, defeated.
+
+",316,"一击接一击，{CHARACTER1} 的武器不断撞击巨人战士的防御，每一次响亮的撞击都削弱了对方的抵抗。随着冲突的强度达到巅峰，冰原在他们脚下震动，空气中充满了战斗的声音。  
+
+在最后一个决定性的动作中，{CHARACTER1} 发出了致命一击，准确无误地击中了目标。巨人战士措手不及，无法防御，倒在地上，战败了。"
+1834454351777796,WORLDEVENT316_DECISION1RESULT0_PAGE3,"The tundra fell silent, save for the labored breaths of {CHARACTER1}. The fallen jotun warrior lay on the ground motionless, with a satisfied smile on his face. It seems like {CHARACTER1} was able to give him the death he has been longing for.",316,冰原上寂静无声，只有 {CHARACTER1} 的喘息声。倒下的巨人战士静静躺在地上，脸上挂着满足的微笑。看起来 {CHARACTER1} 给予了他一直渴望的死亡。
+1834454351777797,WORLDEVENT316_DECISION1ALTRESULT0_PAGE1,"Gritting {GENDER1:cond:=1?his|=0?her} teeth, {CHARACTER1} deflected a particularly powerful strike from the jotun warrior's battle axe, using the momentum to launch a counterattack of {GENDER1:cond:=1?his|=0?her} own. 
+
+The jotun warrior, caught off guard by {CHARACTER1}'s sudden offensive, staggered backward, momentarily disoriented. Sensing the opportunity, {CHARACTER1} pressed {GENDER1:cond:=1?his|=0?her} advantage, launching a relentless assault of strikes upon {GENDER1:cond:=1?his|=0?her} faltering opponent.
+
+
+",316,"{GENDER1:cond:=1?他|=0?她} 咬紧牙关，{CHARACTER1} 挡下了来自巨人战士战斧的强力一击，借助这个势头发起了 {GENDER1:cond:=1?他的|=0?她的} 反击。  
+
+巨人战士被 {CHARACTER1} 突如其来的攻击所震惊，踉跄后退，片刻间失去了方向感。感知到机会，{CHARACTER1} 乘势而上，向 {GENDER1:cond:=1?他|=0?她} 衰弱的对手发起了无情的攻击。"
+1834454351777798,WORLDEVENT316_DECISION1ALTRESULT0_PAGE2,"Blow after blow, {CHARACTER1}'s weapon hammered against the jotun warrior's defenses, but the jotun was able to match {CHARACTER1}'s ferocity.
+
+{CHARACTER1}'s movements started to become more sluggish. Fatigue settled into {GENDER1:cond:=1?his|=0?her} muscles, making each swing of {GENDER1:cond:=1?his|=0?her} two-handed weapon feel heavier than before. 
+
+Sensing an opening, the jotun warrior seized the opportunity to counter {CHARACTER1}'s offensive. Swift as lightning, his battle axe cleaved through the air, finding its mark with brutal precision.",316,"一击接一击，{CHARACTER1} 的武器不断撞击巨人战士的防御，但巨人能够与 {CHARACTER1} 的凶猛相抗衡。  
+
+{CHARACTER1} 的动作开始变得迟缓。疲惫侵袭了 {GENDER1:cond:=1?他的|=0?她的} 肌肉，使得每一次挥动 {GENDER1:cond:=1?他|=0?她} 的双手武器都显得比之前更重。  
+
+感知到一个机会，巨人战士抓住时机反击 {CHARACTER1} 的攻击。迅如闪电，他的战斧在空中划出一道恐怖的弧线，精准地命中了目标。"
+1834454355972096,WORLDEVENT316_DECISION1ALTRESULT0_PAGE3,"The force of the jotun warrior's devastating strike sent {CHARACTER1} sprawling backward, their two-handed weapon slipping from their grasp and clattering onto the icy ground. 
+
+The Rest of the party couldn't stand idly by anymore and rushed in to help {CHARACTER1}. Enraged by the disruption, the jotun warrior started to attack the party indiscriminately.
+
+The jotun fought with a ferocity that belied his age and only with great cost were they finally able to put him down in the end.",316,"巨人战士的强力一击将 {CHARACTER1} 撞得向后摔去，{CHARACTER1} 的双手武器从手中滑落，叮当作响地掉在冰冷的地面上。  
+
+其余的队伍再也无法袖手旁观，冲上前去帮助 {CHARACTER1}。因被打扰而愤怒的巨人战士开始无差别地攻击队伍。  
+
+巨人以一种与其年龄不相符的凶猛作战，最终他们付出了巨大的代价才将他击倒。"
+1834454355972097,WORLDEVENT317_DECISION1,The jotun tries to close the gap.,317,巨人试图缩短距离。
+1834454355972098,WORLDEVENT317_DECISION1RESULT0_PAGE1,"The jotun warrior, relentless and undeterred, gradually closed the distance between himself and {CHARACTER1}. With each powerful stride, the ground quaked beneath his massive frame.
+
+He evaded {CHARACTER1}'s arrows with surprising dexterity, navigating through the flurry of projectiles. Closing in, he brought his battle axe crashing down with a force that seemed to rend the very air.
+",317,"巨人战士不屈不挠，逐渐缩短了与 {CHARACTER1} 之间的距离。每一步强有力的迈进都让地面在他庞大的身躯下颤动。  
+
+他以惊人的灵活性躲避了 {CHARACTER1} 的箭矢，穿梭于飞来的箭雨中。逼近时，他将战斧猛然砸下，似乎要撕裂空气。"
+1834454355972099,WORLDEVENT317_DECISION1RESULT0_PAGE2,"{CHARACTER1}'s instincts and agility surged forth in the face of the jotun warrior's battle axe swinging down on {GENDER1:cond:=1?him|=0?her}. Time seemed to slow as {GENDER1:cond:=1?his|=0?her} body reacted with lightning speed, evading the oncoming blow that would have surely killed {GENDER1:cond:=1?him|=0?her}. The warrior's battle axe crashed into the ground, sending tremors through the snowy landscape.
+",317,面对巨人战士的战斧向 {GENDER1:cond:=1?他|=0?她} 砸来，{CHARACTER1} 的本能和敏捷在此刻涌现。时间似乎放慢，{GENDER1:cond:=1?他的|=0?她的} 身体以闪电般的速度反应，躲过了那一击，若是被击中必定致命。战士的战斧重重砸在地面上，震动传遍雪白的地面。
+1834454355972100,WORLDEVENT317_DECISION1ALTRESULT0_PAGE1,"The jotun warrior, relentless and undeterred, gradually closed the distance between himself and {CHARACTER1}. With each powerful stride, the ground quaked beneath his massive frame.
+
+He evaded {CHARACTER1}'s arrows with surprising dexterity, navigating through the flurry of projectiles. Closing in, he brought his battle axe crashing down with a force that seemed to rend the very air.
+
+",317,"巨人战士不屈不挠，逐渐缩短了与 {CHARACTER1} 之间的距离。每一步强有力的迈进都让地面在他庞大的身躯下颤动。  
+
+他以惊人的灵活性躲避了 {CHARACTER1} 的箭矢，穿梭于飞来的箭雨中。逼近时，他将战斧猛然砸下，似乎要撕裂空气。"
+1834454355972101,WORLDEVENT317_DECISION1ALTRESULT0_PAGE2,"Despite {CHARACTER1}'s best efforts to dodge or parry, the devastating blow found its mark. The impact reverberated through {GENDER1:cond:=1?his|=0?her} body, an explosion of pain and disorientation. The force of the jotun warrior's strike sent {CHARACTER1} sprawling backward. Blood stained the pristine snow, evidence of the jotun warrior's devastating attack.",317,尽管 {CHARACTER1} 竭尽全力躲避或格挡，但致命一击还是找到了目标。冲击波在 {GENDER1:cond:=1?他的|=0?她的} 身体中回荡，带来了剧烈的疼痛和失去方向感。巨人战士的攻击将 {CHARACTER1} 撞得向后摔去。鲜血染红了洁白的雪，证明了巨人战士的致命一击。
+1834454355972102,WORLDEVENT318_DECISION1,{CHARACTER1} aims for the head.,318,{CHARACTER1} 瞄准了巨人的头部。
+1834454360166400,WORLDEVENT318_DECISION1RESULT0_PAGE1,"WIth the missed opportunity the jotun warrior was temporarily vulnerable and without defenses. This was the moment {CHARACTER1} was waiting for.
+
+{CHARACTER1} notched an arrow, drawing the bowstring back in one swift movement, aiming the projectile at the warrior's head. The tension in the air was palpable as {GENDER1:cond:=1?he|=0?she} released the arrow, soaring through the icy air towards its vulnerable target.",318,"在错失的机会中，巨人战士暂时变得脆弱且毫无防御。这正是 {CHARACTER1} 等待的时刻。  
+
+{CHARACTER1} 拉弓搭箭，迅速将箭矢对准战士的头部。空气中的紧张感令人窒息，{GENDER1:cond:=1?他|=0?她} 松开了箭矢，箭矢在冰冷的空气中飞向那个脆弱的目标。"
+1834454360166401,WORLDEVENT318_DECISION1RESULT0_PAGE2,"A resounding thud echoed across the tundra as the jotun warrior stumbled backward, clutching at the shaft that protruded from his head. A single chuckle seemed to leave the the mighty warrior's mouth before finally his knees buckled, his towering figure collapsing into the snowy ground.
+
+A wave of triumph and relief washed over {CHARACTER1}. The battle was over.",318,"一声沉闷的撞击声在冰原上回荡，巨人战士向后踉跄，抓住从他头部突出的箭杆。似乎在他强大的嘴里发出一声轻笑，随后他的膝盖弯曲，庞大的身躯倒在了雪地上。  
+
+一阵胜利与解脱的感觉涌上 {CHARACTER1} 的心头。战斗结束了。"
+1834454360166402,WORLDEVENT318_DECISION1ALTRESULT0_PAGE1,"WIth the missed opportunity the jotun warrior was temporarily vulnerable and without defenses. This was the moment {CHARACTER1} was waiting for.
+
+{CHARACTER1} notched an arrow, drawing the bowstring back in one swift movement, aiming the projectile at the warrior's head. The tension in the air was palpable as {GENDER1:cond:=1?he|=0?she} released the arrow, soaring through the icy air towards its vulnerable target.",318,"在错失的机会中，巨人战士暂时变得脆弱且毫无防御。这正是 {CHARACTER1} 等待的时刻。  
+
+{CHARACTER1} 拉弓搭箭，迅速将箭矢对准战士的头部。空气中的紧张感令人窒息，{GENDER1:cond:=1?他|=0?她} 松开了箭矢，箭矢在冰冷的空气中飞向那个脆弱的目标。"
+1834454360166403,WORLDEVENT318_DECISION1ALTRESULT0_PAGE2,"However, in a cruel twist of fate, the arrow veered off course, missing its intended mark. The jotun warrior, perceiving this momentary weakness, seized the moment to retaliate. With lightning speed, his battle axe arced through the air with a terrifying ferocity towards {CHARACTER1}.
+
+The battle axe collided with {CHARACTER1}'s body. The force of the blow sent shockwaves of pain reverberating through {CHARACTER1}'s body. As they were flung backward by the tremendous force, their grip on their bow slipped away, lost in the chaos of the moment.",318,"然而，在命运的残酷扭曲下，箭矢偏离了轨道，未能命中目标。巨人战士察觉到这一瞬间的弱点，抓住机会进行反击。以闪电般的速度，他的战斧在空中划出一道可怕的弧线，朝 {CHARACTER1} 击来。  
+
+战斧撞击在 {CHARACTER1} 的身上。冲击的力量在 {CHARACTER1} 的身体中引发了剧烈的疼痛。随着巨大的力量将他们向后抛去，{CHARACTER1} 的手中失去了对弓的握持，在混乱中消失不见。"
+1834454360166405,WORLDEVENT318_DECISION1ALTRESULT0_PAGE3,"The Rest of the party couldn't stand idly by anymore and rushed in to help {CHARACTER1}. Enraged by the disruption, the jotun warrior started to attack the party indiscriminately.
+
+The jotun fought with a ferocity that belied his age and only with great cost were they finally able to put him down in the end.",318,"其余的队伍再也无法袖手旁观，冲上前去帮助 {CHARACTER1}。因被打扰而愤怒的巨人战士开始无差别地攻击队伍。  
+
+巨人以一种与其年龄不相符的凶猛作战，最终他们付出了巨大的代价才将他击倒。"

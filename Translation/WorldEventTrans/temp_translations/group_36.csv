@@ -1,0 +1,118 @@
+ID,Key,String,EventID,TranslatedString
+1834453844267012,WORLDEVENT112_PAGE1,"""And leave the loot behind? What kind of bandit are you? And besides I knew the both of us could handle those monsters. The others were just caught off guard and a lot weaker than us.""  argued Will back, seemingly unwilling to think there was any fault to his behaviour.
+""You didn't know that! I could have died out there. You could have died out there!"" Eddie yelled yet again.
+
+""Why are you acting like you're my mother? Just let it go, man!"" said Will. He started to sound frustrated.",112,"""难道要把战利品留给他们？你算什么强盗？而且我知道我们两个可以应付那些怪物。其他人只是措手不及，实力远不如我们。"" 威尔反驳道，似乎不愿意承认自己的行为有任何错误。  
+""你根本不知道那样！我可能会死在外面。你也可能会死在外面！"" 埃迪再次大喊。
+
+""你为什么像我妈一样？放手吧，兄弟！"" 威尔说。他开始听起来有些沮丧。"
+1834453844267013,WORLDEVENT112_DECISION1,Keep on listening.,112,继续倾听。
+1834453844267014,WORLDEVENT112_DECISION1RESULT0_PAGE1,"""I have to act like your mother because you have shit for brains!"" Eddie yelled. 
+""As if someone with an ugly mug like yours could be my mother!"" Will yelled back.
+""Oooh sorry for having an ugly mug!"" Eddie threw back sarcastically. ""We can't all have a handsome face like yours!""
+",112,"""我得像你妈一样，因为你脑子里一团糟！"" 埃迪大喊。  
+""像你这种丑陋的家伙怎么可能是我妈！"" 威尔反驳道。  
+""哦，抱歉我长得丑！"" 埃迪讽刺地回应。""我们可不是每个人都有你那张帅气的脸！"""
+1834453844267015,WORLDEVENT112_DECISION1RESULT0_PAGE2,"...
+...
+""...Y-you think I'm handsome?"" Will asked surprised. It seems like he lost all his previous fervor.
+
+Eddie turned red. Probably realizing what he just said.",112,"...  
+...  
+""...你，你觉得我帅吗？"" 威尔惊讶地问。看起来他失去了之前的热情。
+
+埃迪脸红了。大概意识到自己刚刚说了什么。"
+1834453844267016,WORLDEVENT112_DECISION1RESULT0_PAGE3,"""O-of c-course!"" Eddie started to stutter. ""I-I mean everyone thinks that..you with your lush golden hair. Your deep green eyes....your f-full lips..."".
+",112,"""当然！"" 埃迪开始结结巴巴。""我，我是说每个人都这么认为……你那浓密的金发，你那深邃的绿色眼睛……你那丰满的嘴唇……""。"
+1834453848461312,WORLDEVENT112_DECISION1RESULT0_PAGE4,"<i>What is happening here?</i> The Party thought. 
+
+For some reason the bandits' conversation has started to take a turn in a direction they didn't quite expect.",112,"<i>这里发生了什么？</i> 队伍想。  
+
+出于某种原因，强盗们的谈话开始朝着他们没想到的方向发展。"
+1834453848461313,WORLDEVENT112_DECISION1CONDRESULT1_PAGE1,"""I have to act like your mother because you have shit for brains!"" Eddie yelled. 
+""As if someone with an ugly mug like yours could be my mother!"" Will yelled back.
+""Oooh sorry for having an ugly mug!"" Eddie threw back sarcastically. ""We can't all have a handsome face like yours!""
+",112,"""我得像你妈一样，因为你脑子里一团糟！"" 埃迪大喊。  
+""像你这种丑陋的家伙怎么可能是我妈！"" 威尔反驳道。  
+""哦，抱歉我长得丑！"" 埃迪讽刺地回应。""我们可不是每个人都有你那张帅气的脸！"""
+1834453848461314,WORLDEVENT112_DECISION1CONDRESULT1_PAGE2,"...
+...
+""...Y-you think I'm handsome?"" Will asked surprised. It seems like he lost all his previous fervor.
+
+Eddie turned red. Probably realizing what he just said.",112,"...  
+...  
+""...你，你觉得我帅吗？"" 威尔惊讶地问。看起来他失去了之前的热情。
+
+埃迪脸红了。大概意识到自己刚刚说了什么。"
+1834453848461315,WORLDEVENT112_DECISION1CONDRESULT1_PAGE3,"""O-of c-course!"" Eddie started to stutter. ""I-I mean everyone thinks that..you with your lush golden hair. Your deep green eyes....your f-full lips..."".
+",112,"""当然！"" 埃迪开始结结巴巴。""我，我是说每个人都这么认为……你那浓密的金发，你那深邃的绿色眼睛……你那丰满的嘴唇……""。"
+1834453848461316,WORLDEVENT112_DECISION1CONDRESULT1_PAGE4,"<i>What is happening here?</i> The Party thought. 
+
+For some reason the bandits' conversation has started to take a turn in a direction they didn't quite expect.
+And for some reason {CHARACTER1}'s nose started to bleed.",112,"<i>这里发生了什么？</i> 队伍想。  
+
+出于某种原因，强盗们的谈话开始朝着他们没想到的方向发展。  
+而且出于某种原因，{CHARACTER1}的鼻子开始流血。"
+1834453848461317,WORLDEVENT112_DECISION2,Cut their conversation short and attack.,112,打断他们的谈话并攻击。
+1834453848461318,WORLDEVENT112_DECISION3,Let them sort out their own problems.,112,让他们自己解决问题。
+1834453852655616,WORLDEVENT112_DECISION3RESULT0_PAGE1,"It seemed like the two of them had enough to deal with on their own. No need add themselves to it.
+The Party left and for a while they were accompanied by the sound of two bickering voices.",112,"看起来他们两个有足够的事情要处理，没必要再插手。  
+队伍离开了，暂时伴随着两人争吵的声音。"
+1834453852655617,WORLDEVENT112_DECISION3CONDRESULT1_PAGE1,"It seemed like the two of them had enough to deal with on their own. No need add themselves to it.
+That decision slightly disappointed {CHARACTER1} but {GENDER1:cond:=1?he|=0?she}  went along with the decision.
+
+The Party left and for a while they were accompanied by the sound of two bickering voices.",112,"看起来他们两个有足够的事情要处理，没必要再插手。  
+这个决定让{CHARACTER1}稍感失望，但{GENDER1:cond:=1?他|=0?她}还是接受了这个决定。
+
+队伍离开了，暂时伴随着两人争吵的声音。"
+1834453852655618,WORLDEVENT113_DECISION1,They're already too deep in. Keep listening!,113,他们已经深陷其中。继续倾听！
+1834453852655619,WORLDEVENT113_DECISION1RESULT0_PAGE1,"There was an awkward silence between the two bandits that even the Party could feel. It seemed like Eddie had turned quiet after he listed all of the handsome features of Will. He was seemingly unable to look Will in the eyes, who himself started to stare at something else.
+
+The Party were curious about how Will would react now after hearing that. 
+
+After what felt like an eternity, Will started to speak again:  ""...You know...I didn't really mean it when I said you were ugly...""",113,"两个强盗之间出现了尴尬的沉默，连队伍都能感受到。看起来埃迪在列举完威尔所有帅气的特征后变得沉默。他似乎无法直视威尔，而威尔自己也开始盯着别处。
+
+队伍很好奇威尔在听到这些后会有什么反应。
+
+在经历了似乎无尽的时间后，威尔开始再次开口：“……你知道吗……我说你丑的时候其实并不是那个意思……”"
+1834453852655620,WORLDEVENT113_DECISION1RESULT0_PAGE2,"""No, no! You don't have to lie for my sake. I know I'm ugly. I resemble more a gorilla than a human."" Eddie denied, still unable to look Will into his eyes.
+""That's not true!"" Will shouted with a ferocity that seemed to even surprise Eddie. ""I actually like how manly you look...it's..."" Will turned silent, unable to end the sentence.
+
+<i>It's mutual!</i> The Party thought.
+",113,"""不，不！你不必为了我撒谎。我知道我很丑。我更像是一只大猩猩而不是人类。"" 埃迪否认道，仍然无法直视威尔的眼睛。  
+""那不是真的！"" 威尔怒吼，甚至让埃迪感到惊讶。""我其实喜欢你那种阳刚的样子……就是……"" 威尔沉默了，无法结束这个句子。
+
+<i>这也是相互的！</i> 队伍想。"
+1834453852655621,WORLDEVENT113_DECISION2,This is clearly a situation they shouldn't be listening to. Leave now!,113,这显然是他们不该听的情况。现在就离开！
+1834453852655622,WORLDEVENT113_DECISION2RESULT0_PAGE1,The Party realized that this is a conversation they shouldn't be listening to and started to leave quietly.,113,队伍意识到这是他们不该听的谈话，开始悄悄离开。
+1834453852655623,WORLDEVENT114_PAGE1,"...
+""You know...we don't have to return back to the camp."" Eddie said. ""We have enough loot here to start a new life and I really never liked any of the others except for you.""
+""You mean, run away...together?"" Will asked hopefully.
+""Only if you're fine with me..."" Eddie answered.
+""Eddie...""
+""Will...""",114,"...  
+""你知道吗……我们不必回营地。"" 埃迪说。""我们这里有足够的战利品可以开始新的生活，而我其实从来不喜欢其他人，除了你。""  
+""你是说，一起逃跑……吗？"" 威尔希望地问。  
+""只要你愿意和我在一起……"" 埃迪回答。  
+""埃迪……""  
+""威尔……"""
+1834453856849920,WORLDEVENT114_DECISION1,Alright now is the time to step in.,114,现在是时候插手了。
+1834453856849921,WORLDEVENT114_DECISION1RESULT0_PAGE1,"The Party decided to finally step in on their conversation before it got too awkward.
+
+When the bandits spotted the Party and realized that they were armed, they immediately started to shield each other.
+""Don't get a single step closer to Will or I will make you regret it!"" Eddie warned the Party.
+""I will not let you harm a single hair on Eddie!"" Will added at the same time.
+
+How did they suddenly become the bad guys?",114,"队伍决定在他们的谈话变得太尴尬之前插手。
+
+当强盗们发现队伍并意识到他们是武装的，他们立即开始互相保护。  
+""不要靠近威尔一步，否则我会让你后悔的！"" 埃迪警告队伍。  
+""我不会让你伤害埃迪的一根汗毛！"" 威尔同时补充道。
+
+他们怎么突然成了坏人？"
+1834453856849922,WORLDEVENT114_DECISION2,Alright now is the time to step out.,114,现在是时候退出了。
+1834453856849923,WORLDEVENT114_DECISION2RESULT0_PAGE1,"It was time to leave. Now! Before the Party witnessed something they shouldn't. 
+
+The Party made a hasty retreat.",114,"是时候离开了。现在！在队伍目睹不该见的事情之前。
+
+队伍迅速撤退。"

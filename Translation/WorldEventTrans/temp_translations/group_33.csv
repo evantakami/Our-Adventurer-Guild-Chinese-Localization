@@ -1,0 +1,36 @@
+ID,Key,String,EventID,TranslatedString
+1834453823295488,WORLDEVENT102_DECISION1,Loot the last corpse.,102,掠夺最后一具尸体。
+1834453823295489,WORLDEVENT102_DECISION1RESULT0_PAGE1,"The last corpse was now freed from the spiderwebs and this time they discovered the remains of what seems to be a female adventurer. Unfortunately most of her equipment is in no condition to be used anymore but they still found some items on her to be of use.
+With all the corpses looted the party started to leave the place immediately. They were lucky so far that no giant spiders have returned yet but they all agreed that there was no reason to challenge their luck any further.",102,"最后一具尸体现在已经从蛛网中解脱出来，这次他们发现了似乎是一名女性冒险者的遗骸。不幸的是，她的大部分装备已经无法使用，但他们仍然在她身上找到了些有用的物品。  
+在所有尸体被掠夺后，队伍立刻开始离开这个地方。他们到目前为止运气不错，没有巨型蜘蛛回来，但他们都一致认为没有理由再继续挑战他们的运气。"
+1834453823295490,WORLDEVENT102_DECISION1ALTRESULT0_PAGE1,"While trying to free another corpse from the web wrapped around it, the group heard the noise of skittering legs approaching. The adventurers immediately readied themselves. They knew immediately what those noises meant. The spiders have returned to their nest and this time their preys were already at home.
+
+Prepare for Battle!",102,"在试图解救另一具被蛛网包裹的尸体时，队伍听到了接近的细微腿爬动声。冒险者们立刻做好了准备。他们立刻明白这些声音意味着什么。蜘蛛们已经回到了它们的巢穴，这次它们的猎物已经在家了。
+
+准备战斗！"
+1834453823295491,WORLDEVENT103_PAGE1,Don't translate,103,Don't translate
+1834453823295492,WORLDEVENT103_DECISION1,Don't translate,103,Don't translate
+1834453823295493,WORLDEVENT103_DECISION1RESULT0_PAGE1,Don't translate,103,Don't translate
+1834453823295494,WORLDEVENT103_DECISION2,Don't translate,103,Don't translate
+1834453823295495,WORLDEVENT103_DECISION2RESULT0_PAGE1,Don't translate,103,Don't translate
+1834453823295496,WORLDEVENT103_DECISION3,Don't translate,103,Don't translate
+1834453823295497,WORLDEVENT103_DECISION3RESULT0_PAGE1,Don't translate,103,Don't translate
+1834453827489792,WORLDEVENT104_PAGE1,"Before them a group of young people were fighting another group of lizardmen. Judging from the equipment they were wearing, it seemed like the humans were adventurers; albeit not adventurers associated with the guild. 
+
+It was evident to the Party that the humans were about to lose the battle. They were surrounded and outnumbered and some of them were covered in heavy injuries. If the Party does nothing the young adventurer group will be sure to perish.
+Then again there were also a lot of lizardmen out there.",104,"在他们面前，一群年轻人正在与另一群蜥蜴人作斗争。从他们穿着的装备来看，这些人类似乎是冒险者；尽管不是与公会相关的冒险者。  
+
+队伍很明显地意识到这些人类即将输掉战斗。他们被包围且人数劣势，其中一些人身上有重伤。如果队伍不采取行动，这群年轻的冒险者肯定会灭亡。  
+不过外面还有很多蜥蜴人。"
+1834453827489793,WORLDEVENT104_DECISION1,Intervene and help the young adventurers.,104,干预并帮助年轻的冒险者。
+1834453827489794,WORLDEVENT104_DECISION1RESULT0_PAGE1,"The Party immediately sprung into action and charged into the lizardmen who were surprised by the sudden appearance of reinforcements. Seeing as their original foe were nearly at their end most of the lizardmen turned their attention to the Party.
+
+Prepare for Battle!",104,"队伍立刻行动起来，冲向那些因增援的突然出现而感到惊讶的蜥蜴人。看到他们原本的敌人几乎到了尽头，大多数蜥蜴人将注意力转向了队伍。
+
+准备战斗！"
+1834453827489795,WORLDEVENT104_DECISION2,Abandon them and not risk their lifes for strangers.,104,抛弃他们，不为陌生人冒险。
+1834453827489796,WORLDEVENT104_DECISION2RESULT0_PAGE1,"There was no reason for them to risk their life for strangers they told themselves. It was unfortunate for these young people but life is about survival of the fittest. A lesson they'll probably never learn now. The Party slowly made their escape without anyone noticing them. The lizardmen were far too occupied with the humans before them.
+
+The sound out battle grew more silent with each step they took. A sudden scream and then there was nothing. The battle was over.",104,"他们告诉自己没有理由为陌生人冒险。对于这些年轻人来说，这是不幸，但生活就是适者生存。一个他们现在可能永远无法学到的教训。队伍慢慢地在没有人注意的情况下撤退。蜥蜴人们正忙于与面前的人类作斗争。
+
+随着他们每一步的前进，战斗的声音逐渐变得安静。突然一声尖叫，然后便没有了。战斗结束了。"

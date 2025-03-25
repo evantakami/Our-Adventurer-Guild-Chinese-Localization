@@ -1,0 +1,33 @@
+ID,Key,String,EventID,TranslatedString
+1834453789741059,WORLDEVENT86_PAGE1,In front of the adventurers was a stone door marked with the symbol of the demon lord Azazel the Wrathful.,86,在冒险者面前是一扇刻有恶魔领主阿扎泽尔·怒火之印的石门。
+1834453789741060,WORLDEVENT86_DECISION1,Enter,86,进入
+1834453789741061,WORLDEVENT86_DECISION1RESULT0_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",86,当接触到门时，冒险者发现自己被传送到了一个完全不同的地方。
+1834453789741062,WORLDEVENT86_DECISION1CONDRESULT1_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",86,当接触到门时，冒险者发现自己被传送到了一个完全不同的地方。
+1834453789741063,WORLDEVENT86_DECISION2,Step Back,86,后退
+1834453789741064,WORLDEVENT86_DECISION2RESULT0_PAGE1,The adventurers stepped back.,86,冒险者们后退了。
+1834453789741065,WORLDEVENT87_PAGE1,"The Adventurers did it!
+
+Not only were they able to defeat the Bandit King, they were also able to defeat whatever it was that spawned from his dead body. Though they knew little about the creatures, they were just glad they were dead. Exhausted and drained from the fight, the adventurers began to slump to the ground.",87,"冒险者们做到了！
+
+他们不仅成功击败了强盗王，还击败了从他尸体中产生的生物。尽管他们对这些生物知之甚少，但他们只为它们的死亡感到高兴。经过一场激烈的战斗，冒险者们开始无力地瘫倒在地。"
+1834453793935360,WORLDEVENT87_PAGE2,"Suddenly, the sound of dozens of footsteps echoed down the hallway. Bandits poured into the room, causing the adventurers to scramble to their feet, unsure if they had the energy for another battle. The bandits froze when they saw their leader's lifeless body on the ground. 
+Before any of them could recover from their shock, more people arrived into the hallway.
+This time it was Gilbert and his men. His gaze wandered to the dead Bandit King and he immediately realized that they have achieved their goal.
+
+""Bandits!"" Gilbert shouted.""Your leader is dead, and there's no hope for you to win this battle. Surrender now and avoid any more bloodshed!""
+
+The tension was palpable. The bandits clung nervously to their weapons, seemingly ignoring Gilbert's plea. Gilbert's soldiers stood ready, anticipating a desperate attack. ",87,"突然，走廊里传来了数十双脚步声。强盗们涌入房间，冒险者们慌忙站起，不确定自己是否还有精力进行另一场战斗。当强盗们看到他们首领的尸体时，顿时愣住了。  
+在他们还未从震惊中恢复过来时，更多的人走进了走廊。  
+这次是吉尔伯特和他的手下。他的目光落在死去的强盗王身上，立刻意识到他们达成了目标。
+
+“强盗们！”吉尔伯特大喊。“你们的首领已经死了，你们在这场战斗中没有胜算。现在投降，避免更多的流血！”
+
+紧张的气氛弥漫开来。强盗们紧张地握着武器，似乎无视吉尔伯特的恳求。吉尔伯特的士兵们随时准备着，预料着绝望的攻击。"
+1834453793935361,WORLDEVENT87RESULT0_PAGE1,"Then, suddenly, one of the bandits dropped their weapon. The sound of metal hitting stone cut through the air, followed by more and more bandits surrendering until all of them had laid down their arms.
+
+With a sigh of relief, Gilbert and the adventurers knew that their long battle with the Bandit King was finally over.",87,"然后，突然，一个强盗扔掉了武器。金属落在石头上的声音划破了空气，接着越来越多的强盗投降，直到所有人都放下了武器。
+
+吉尔伯特和冒险者们松了一口气，他们知道与强盗王的漫长战斗终于结束了。"
+1834453793935362,WORLDEVENT88_PAGE1,In front of the adventurers was a stone door marked with the symbol of the demon lord Beelzebub the Gluttonous.,88,在冒险者面前是一扇刻有恶魔领主贝尔泽布·贪食之印的石门。
+1834453793935363,WORLDEVENT88_DECISION1,Enter,88,进入
+1834453793935364,WORLDEVENT88_DECISION1CONDRESULT1_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",88,当接触到门时，冒险者发现自己被传送到了一个完全不同的地方。

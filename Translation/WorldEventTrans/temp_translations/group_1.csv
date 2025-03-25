@@ -1,0 +1,28 @@
+ID,Key,String,EventID,TranslatedString
+1834453596803072,WORLDEVENT1_PAGE1,"The Party came across a lonely camp. From the state they could tell that it had been left alone for several days now. 
+
+However, seeing as there are still several camping supplies and belongings lying around, the owner probably didn't intend to leave the camp for too long. The Party wondered if this might be the camp of the missing person they're searching for.",1,"队伍遇到了一个孤独的营地。从营地的状态来看，它已经被遗弃了好几天。  
+
+然而，看到周围还有几件露营用品和个人物品，营主显然并不打算离开营地太久。队伍开始猜测这是否可能是他们正在寻找的失踪者的营地。"
+1834453605191680,WORLDEVENT1_DECISION1,"See, if there is anything of value to take",1,查看是否有任何有价值的物品可以带走
+1834453609385984,WORLDEVENT1_DECISION1RESULT0_PAGE1,The Party found several items that might be of use to them.,1,队伍找到了一些可能对他们有用的物品。
+1834453609385985,WORLDEVENT1_DECISION2,Look for clues.,1,寻找线索。
+1834453613580288,WORLDEVENT1_DECISION2RESULT0_PAGE1,"The Party looked around and saw if they could find anything that could identify the owner of the camp and where they might be.
+
+Much of the things they found in the tent suggested that the owner in fact was an adventurer, or at least someone who was somewhat experienced in living outdoors. It was likely now that this was the person they were looking for.
+
+{CHARACTER1} was able to find some tracks leading away from the camp. If they follow these tracks, they might find out what happened to the missing son.",1,"队伍四处查看，看看能否找到任何能够识别营主及其去向的线索。  
+
+他们在帐篷里找到的许多东西表明，营主实际上是一名冒险者，或者至少是一个在户外生活方面有些经验的人。现在很可能这就是他们正在寻找的人。  
+
+{CHARACTER1}能够找到一些通往营地外的足迹。如果他们跟随这些足迹，可能会发现失踪的儿子发生了什么。"
+1834453613580289,WORLDEVENT1_DECISION2ALTRESULT0_PAGE1,"The Party looked around and saw if they could find anything that could identify the owner of the camp and where they might be.
+
+Unfortunately they weren't able to find anything that could give them any insights. For now they could only say for sure that there might be another traveller around here.",1,"队伍四处查看，看看能否找到任何能够识别营主及其去向的线索。  
+
+不幸的是，他们没有找到任何能够提供线索的东西。现在他们只能确定这里可能还有其他旅客。"
+1834453613580290,WORLDEVENT1_DECISION3,Leave the Camp.,1,离开营地。
+1834453613580291,WORLDEVENT1_DECISION3RESULT0_PAGE1,The Party left the Camp. There was nothing more to find here.,1,队伍离开了营地。这里没有更多可以发现的东西。
+1834453613580292,WORLDEVENT1_DECISION4,Leave the Camp.,1,离开营地。
+1834453613580293,WORLDEVENT1_DECISION4RESULT0_PAGE1,The Party left the camp for now.,1,队伍暂时离开了营地。
+1834453613580294,WORLDEVENT2_PAGE1,The Party wondered what they should do next.,2,队伍在思考接下来该做什么。

@@ -1,0 +1,57 @@
+ID,Key,String,EventID,TranslatedString
+1834453932347397,WORLDEVENT140_PAGE1,"The adventurers managed to survived the ambush, successfully overcoming the cultists and Lephoz warriors. Unfortunately, the Witch's disciple, unwilling to surrender without a fight, met her demise in the skirmish. Now, all that remained was to gather her belongings and bring them back to the Guild, hoping that some of the items might provide clues to locate the Witch.",140,冒险者们成功地在伏击中幸存下来，成功击败了邪教徒和莱佛兹战士。不幸的是，女巫的弟子不愿意在没有战斗的情况下投降，在冲突中丧命。现在，剩下的就是收集她的 belongings 并带回公会，希望其中一些物品能提供线索以找到女巫。
+1834453936541696,WORLDEVENT141_PAGE1,"The Guild Master and the adventurers followed the lead of the divine messenger as she gracefully wandered through the frozen tundra. Each step purposeful and without hesitation, as it should if one is guided by a higher power. Occasionally, she paused, head tilting as if straining to hear some inaudible whispers, before resuming her track. They traveled with a speed that made them confident that they would eventually catch up to their targets.
+
+However, at a certain point, the divine messenger abruptly came to a standstill. Worry etched across her face as she reported, ""From here on, it seems that the gods cannot track the cultists anymore.""",141,"公会会长和冒险者们跟随神圣使者的引导，她优雅地穿行于冰冻的 tundra。每一步都充满目的且毫不犹豫，正如被更高力量引导时应有的样子。偶尔，她会停下，头微微倾斜，似乎在努力倾听一些听不见的低语，然后继续前行。他们的速度让他们相信最终会追上目标。
+
+然而，在某个时刻，神圣使者突然停了下来。她脸上写满了担忧，报告道：“从这里开始，似乎神明无法再追踪邪教徒了。”"
+1834453936541697,WORLDEVENT141_PAGE2,"""What? Suddenly, out of the blue, they can't scry on them anymore? They're gods, aren't they?"" the Guild Master exclaimed.
+
+""It seems like the demon lords have taken notice and are now interfering,"" the Divine Messenger replied, maintaining a smile but the hint of a nervous voice could be heard. ""Maybe we can still find them on our own. It seems like we are already very close to them!""
+
+The Guild Master sighed. ""I guess we have no choice."" They turned to the adventurers. ""Let's fan out and see if we can find any traces of them.""",141,"“什么？突然之间，他们就无法再窥视他们了吗？他们不是神吗？”公会会长惊呼道。
+
+“看来恶魔领主们已经注意到了，并开始干预，”神圣使者回答，保持微笑，但声音中透出一丝紧张。“也许我们仍然可以自己找到他们。看起来我们已经非常接近他们了！”
+
+公会会长叹了口气。“我想我们别无选择。”他们转向冒险者们。“让我们分散开来，看看能否找到他们的任何痕迹。”"
+1834453936541698,WORLDEVENT141_DECISION1,The adventurers scout the area,141,冒险者们侦查周围区域
+1834453936541699,WORLDEVENT141_DECISION1RESULT0_PAGE1,The adventurers scoured every nook and cranny in search of any trace of their target. Fortune smiled upon them. Not long after they began their search one of the adventurers stumbled upon the remains of a campsite.,141,冒险者们仔细搜寻每一个角落，寻找目标的任何痕迹。幸运之神眷顾了他们。不久之后，他们开始搜索，其中一位冒险者偶然发现了一个露营地的遗迹。
+1834453936541700,WORLDEVENT141_DECISION1ALTRESULT0_PAGE1,"The adventurers scoured every nook and cranny in search of any trace of their target. However, the task proved far from easy. Hours stretched into what felt like an eternity as they painstakingly combed through the rugged terrain.
+
+After what seemed like an eternity, a glimmer of hope appeared. Finally, one of the adventurers stumbled upon the remains of a campsite.",141,"冒险者们仔细搜寻每一个角落，寻找目标的任何痕迹。然而，这项任务远非易事。几个小时仿佛拉长成了无尽的时间，他们费力地穿越崎岖的地形。
+
+经过似乎无尽的时间后，一线希望出现了。最终，其中一位冒险者偶然发现了一个露营地的遗迹。"
+1834453936541701,WORLDEVENT143_PAGE1,"The party arrived near the Lephoz village guided by Hopi. Outside the village borders, they met the Elder, accompanied by several warriors and tamed beasts. The Guild Master felt nervous, aware that Lephoz were typically unfriendly towards humans. The fact that the Elder came with a great number of combatants only added to the tension. In contrast, Emily seemed excited as meeting the Elder was her remaining best lead to the Flower of Eternity.
+
+Gathering in the middle ground, the Guild Master, Emily, and Hopi approached the Elder, with the adventurers positioned further back to emphasize peaceful intentions.
+
+The Elder began to speak first in a language, neither the Guild Master nor Emily understood. However, Hopi was there to translate for them.",143,"队伍在霍皮的引导下抵达了莱佛兹村庄附近。在村庄边界外，他们遇到了长老，身边有几位战士和驯服的野兽。公会会长感到紧张，意识到莱佛兹人通常对人类并不友好。长老带着大量战斗人员的事实更是增加了紧张气氛。相比之下，艾米莉似乎很兴奋，因为见到长老是她寻找永恒之花的最后一个最佳线索。
+
+在中间的空地上，公会会长、艾米莉和霍皮走向长老，冒险者们则稍微站后，强调和平的意图。
+
+长老首先用一种公会会长和艾米莉都听不懂的语言开始讲话。然而，霍皮在场为他们翻译。"
+1834453940736000,WORLDEVENT143_PAGE2,"""Elder says, he come here to meet with human only because Hopi asked. If it up to him, Elder not want even stand on same ground as human. Ask what human want to ask and seperate quickly."" 
+
+<i>Well, that's a good start into the conversation</i>, the Guild Master thought sarcastically.  Emily wasted no time and asked Hopi to ask the Elder about the Flower of Eternity.
+
+As Hopi relayed the question, the atmosphere shifted, and although the Guild Master couldn't see the Elder's face behind his mask, they could notice a reaction to the mention of the flower.
+",143,"“长老说，他来这里见人类只是因为霍皮的请求。如果由他决定，长老甚至不想和人类站在同一块土地上。问人类想问什么，然后迅速分开。”
+
+<i>好吧，这算是一个好的开始</i>，公会会长讽刺地想。艾米莉毫不犹豫地请霍皮问长老关于永恒之花的事情。
+
+当霍皮传达这个问题时，气氛发生了变化，尽管公会会长看不到长老面具下的脸，但他们注意到提到花时长老的反应。"
+1834453940736001,WORLDEVENT143_PAGE3,"""Why you want to know, Elder asked."" Hopi translated back. Emily was visibly hopeful now, as it seemed that Elder knew something.
+""I want to make a potion out of it!"" She declared proudly.
+
+This seemed to be the wrong answer.",143,"“你为什么想知道？”长老问。霍皮翻译回来。艾米莉现在显得充满希望，因为长老似乎知道些什么。“我想用它制作药水！”她自豪地宣称。
+
+这似乎是错误的答案。"
+1834453940736002,WORLDEVENT143RESULT0_PAGE1,"Suddenly, the Elder started shouting loudly. Hopi, in confusion, forgot to translate, but the Guild Master could anticipate what was coming next. Emily was swiftly carried away by the Guild Master, who ran back to the adventurers, who have already pulled out their weapons. Emily started screaming when arrows began to fly past them.
+
+The Guild Masters fears became reality. The Lephoz started to attack them!
+
+Prepare for Battle!",143,"突然，长老开始大声喊叫。霍皮困惑不已，忘记了翻译，但公会会长可以预见接下来会发生什么。艾米莉被公会会长迅速带走，他跑回到已经拔出武器的冒险者们身边。当箭矢开始飞过他们时，艾米莉开始尖叫。
+
+公会会长的恐惧变成了现实。莱佛兹人开始攻击他们！
+
+准备战斗！"

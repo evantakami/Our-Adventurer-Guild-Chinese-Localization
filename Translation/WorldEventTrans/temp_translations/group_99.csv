@@ -1,0 +1,77 @@
+ID,Key,String,EventID,TranslatedString
+1834454326611974,WORLDEVENT310_DECISION1,The Party retaliates,310,队伍进行反击
+1834454330806272,WORLDEVENT310_DECISION1RESULT0_PAGE1,"The party swiftly reacted to the jotun's aggression by unsheathing their weapons and organizing themselves into a defensive formation. A smirk crossed the jotun's face, indicating that this was precisely the response he desired. With a resounding roar, he charged towards the party, initiating a fierce battle.
+
+",310,队伍迅速对巨人的攻击做出了反应，拔出武器并组织成防御阵型。巨人脸上露出一丝得意的微笑，表明这正是他所期待的反应。伴随着震耳欲聋的吼声，他向队伍冲去，发起了一场激烈的战斗。
+1834454330806273,WORLDEVENT310_DECISION1RESULT0_PAGE2,"The jotun warrior fought valiantly, displaying courage, but it became evident that he was outmatched by the combined strength of the party. It didn't take long before the warrior lay lifeless at their feet. As they caught their breath and tended to their wounds, the party pondered the purpose behind this entire encounter, questioning what had motivated the jotun to engage them in combat.",310,巨人战士英勇作战，展现出勇气，但显然他被队伍的联合力量所压制。没过多久，战士便倒在他们的脚下，失去了生命。当他们喘息着，处理伤口时，队伍思考着这场遭遇的意义，质疑是什么促使巨人与他们交战。
+1834454330806274,WORLDEVENT310_DECISION2,Don't respond to the aggression,310,不对攻击做出反应
+1834454330806275,WORLDEVENT310_DECISION2RESULT0_PAGE1,"The party chose to create some space between themselves and the warrior, opting not to engage in combat despite his aggressive behavior. The jotun gazed at them with an expression of disappointment and swung his weapon up and down, seemingly encouraging the adventurers to fight him.
+
+However, the party remained passive and did not respond.
+
+After a while, the jotun let out a sigh of resignation and departed without uttering another word. Although uncertain about the true nature of the encounter, the party felt relieved that they could resume their journey without further trouble.",310,"队伍选择与战士保持距离，尽管他表现得很具攻击性，但他们决定不参与战斗。巨人用失望的眼神看着他们，上下挥动武器，似乎在鼓励冒险者与他战斗。  
+
+然而，队伍保持被动，并没有做出回应。  
+
+过了一会儿，巨人无奈地叹了口气，转身离去，没有再说一句话。尽管对这次遭遇的真实性质感到不确定，队伍还是感到松了一口气，能够在没有进一步麻烦的情况下继续他们的旅程。"
+1834454330806276,WORLDEVENT311_DECISION1,Oblige the warrior by attacking with the whole party.,311,通过全队攻击来满足战士的要求。
+1834454330806277,WORLDEVENT311_DECISION1RESULT0_PAGE1,"The party decided to fullfill the warrior's wish but were hesistant to challenge the warrior in single combat. The jotun didn't seem to mind and raised his weapon in anticipation. With a loud roard he charged towards the adventurers.
+
+
+The jotun warrior fought valiantly, but it became evident that he was outmatched by the combined strength of the party. It didn't take long before the warrior lay lifeless at their feet. As they caught their breath and tended to their wounds, the party wondered if the jotun truly got the death he sought.",311,"队伍决定满足战士的愿望，但对单挑战士感到犹豫。巨人似乎并不在意，举起武器期待着。伴随着一声巨吼，他向冒险者冲去。  
+
+巨人战士英勇作战，但显然他被队伍的联合力量所压制。没过多久，战士便倒在他们的脚下，失去了生命。当他们喘息着，处理伤口时，队伍在思考巨人是否真的得到了他所追求的死亡。"
+1834454330806278,WORLDEVENT311_DECISION2,Challenge the Jotun Warrior to a duel.,311,挑战巨人战士进行决斗。
+1834454330806279,WORLDEVENT311_DECISION2RESULT0_PAGE1,"{CHARACTER1} stepped forward to meet the jotun warrior in a duel. The rest of the party positioned themselves nearby, ready to intervene if the situation became too dangerous. While they understood the jotun's desire for an honorable death, they were not foolish enough to endanger the life of their comrade.",311,{CHARACTER1}走上前，与巨人战士进行决斗。其余队伍成员在附近就位，准备在情况变得过于危险时介入。虽然他们理解巨人对光荣死亡的渴望，但他们并不傻到冒着同伴生命的危险。
+1834454330806280,WORLDEVENT311_DECISION3,The Party does not want to have any part in it.,311,队伍不想参与其中。
+1834454335000576,WORLDEVENT311_DECISION3RESULT0_PAGE1,"Despite not being able to really communicate with the jotun, the party was able to make it absolutely clear to the jotun warrior, that they did not want to have any part in his suicidal quest for glory.
+Through gestures, expressions, and a firm display of their disinterest, they made their stance abundantly clear.
+
+The jotun, seemingly disheartened by the party's rejection, cast one last disappointed gaze upon them before turning away. Without further ado, he walked off into the tundra, bothering the adventurers no more.",311,"尽管无法与巨人进行真正的沟通，队伍却能够明确地向巨人战士表明，他们不想参与他的自杀式荣耀追求。通过手势、表情和坚定的表现，他们清楚地表达了自己的立场。  
+
+巨人似乎因队伍的拒绝而感到沮丧，最后向他们投去一瞥失望的目光，然后转身离去。没有再多说一句话，他走入了冰原，再也没有打扰冒险者。"
+1834454335000577,WORLDEVENT312_DECISION1,[Sword/Shied] {CHARACTER1} raises {GENDER1:cond:=1?his|=0?her} shield.,312,[剑/盾] {CHARACTER1}举起{GENDER1:cond:=1?他的|=0?她的}盾牌。
+1834454335000578,WORLDEVENT312_DECISION1RESULT0_PAGE1,"As the duel commenced, {CHARACTER1}, wielding a sword and shield, faced off against the jotun warrior, who brandished a mighty battle axe.
+
+{CHARACTER1}'s sword glinted in the cold tundra air as {GENDER1:cond:=1?he|=0?she} skillfully deflected the thunderous swings of the jotun's battle axe with {GENDER1:cond:=1?his|=0?her} sturdy shield. The clash of steel echoed through the frozen landscape as the two combatants exchanged powerful strikes and agile parries.",312,"随着决斗的开始，{CHARACTER1}手持剑和盾，面对巨人战士，后者挥舞着一把强大的战斧。  
+
+{CHARACTER1}的剑在寒冷的冰原空气中闪烁着光芒，{GENDER1:cond:=1?他|=0?她}熟练地用{GENDER1:cond:=1?他的|=0?她的}坚固盾牌抵挡住巨人战士的雷霆一击。金属的碰撞声在冰冷的土地上回荡，两个战斗者互相交换着强有力的攻击和灵活的格挡。"
+1834454335000579,WORLDEVENT312_DECISION2,[Greatsword]{CHARACTER1} raises {GENDER1:cond:=1?his|=0?her} greatsword for a charge.,312,[巨剑] {CHARACTER1}举起{GENDER1:cond:=1?他的|=0?她的}巨剑准备冲锋。
+1834454335000580,WORLDEVENT312_DECISION2RESULT0_PAGE1,"With a determined gaze, {CHARACTER1} initiated the clash, taking the first step towards engaging the jotun warrior. The swing of {GENDER1:cond:=1?his|=0?her} weapon sliced through the frigid air, cutting a path towards the jotun.
+
+The jotun warrior, recognizing the imminent threat, reacted immediately, raising his battle axe to intercept the incoming strike. The clash of metal rang out, resonating across the desolate landscape, as {CHARACTER1}'s two-handed weapon collided with the jotun's own weapon.
+
+The impact reverberated through {GENDER1:cond:=1?his|=0?her} arms, sending vibrations up {GENDER1:cond:=1?his|=0?her} spine, but {CHARACTER1} stood resolute, undeterred by the initial clash.",312,"带着坚定的目光，{CHARACTER1}发起了冲突，迈出了与巨人战士交战的第一步。{GENDER1:cond:=1?他的|=0?她的}武器在冰冷的空气中划出一道弧线，直指巨人。  
+
+巨人战士意识到即将到来的威胁，立即做出反应，举起战斧来拦截即将袭来的攻击。金属的碰撞声响起，回荡在荒凉的土地上，{CHARACTER1}的双手武器与巨人的武器相撞。  
+
+冲击波通过{GENDER1:cond:=1?他的|=0?她的}手臂传来，震动着{GENDER1:cond:=1?他的|=0?她的}脊椎，但{CHARACTER1}坚定不移，毫不畏惧地面对初次的交锋。"
+1834454335000581,WORLDEVENT312_DECISION3,[Bow] {CHARACTER1} readies an arrow.,312,[弓] {CHARACTER1}准备一支箭。
+1834454335000582,WORLDEVENT312_DECISION3RESULT0_PAGE1,"With the range advantage firmly on {CHARACTER1}'s side, {CHARACTER1} initiated the battle by unleashing a volley of arrows towards the jotun warrior.
+
+{CHARACTER1}'s arrows whizzed through the air with deadly precision, seeking weak points in the jotun warrior's defenses. Yet, the warrior's immense strength and swiftness allowed him to deflect or evade the incoming projectiles.
+
+Both combatants maneuvered with agility across the snow-covered terrain, trading arrows and powerful strikes with no clear advantage gained.",312,"利用{CHARACTER1}的射程优势，{CHARACTER1}通过向巨人战士发射一阵箭雨来发起战斗。  
+
+{CHARACTER1}的箭矢在空中呼啸而过，精准地寻找着巨人战士防御中的弱点。然而，战士的巨大力量和敏捷使他能够偏转或躲避即将到来的箭矢。  
+
+两位战斗者在覆盖着雪的地形上灵活地移动，互相交换着箭矢和强有力的攻击，却没有一方取得明显的优势。"
+1834454339194880,WORLDEVENT312_DECISION4,[Daggers] {CHARACTER1} pulls {GENDER1:cond:=1?his|=0?her} daggers and waits for an attack.,312,[匕首] {CHARACTER1}拔出{GENDER1:cond:=1?他的|=0?她的}匕首，静待攻击。
+1834454339194881,WORLDEVENT312_DECISION4RESULT0_PAGE1,"{CHARACTER1} stood ready, {GENDER1:cond:=1?his|=0?her} body tense and ready for the imminent clash. The chilling air around them seemed to hold its breath, anticipating the opening move in this deadly dance. And in an instant, the jotun warrior charged with astonishing swiftness, contrary to his massive frame.
+
+The clash of steel echoed through the tundra as each combatant skillfully parried, dodged, and counterattacked.",312,"{CHARACTER1}做好准备，{GENDER1:cond:=1?他的|=0?她的}身体紧绷，随时准备迎接即将到来的冲突。周围的寒冷空气似乎屏住了呼吸，期待着这场致命舞蹈的开场动作。就在这一瞬间，巨人战士以惊人的速度冲了过来，尽管他体型庞大。  
+
+金属的碰撞声在冰原上回荡，两个战斗者灵巧地格挡、躲避和反击。"
+1834454339194882,WORLDEVENT312_DECISION5,[Fists] {CHARACTER1} adapts {GENDER1:cond:=1?his|=0?her} combat stance.,312,[拳头] {CHARACTER1}调整{GENDER1:cond:=1?他的|=0?她的}战斗姿势。
+1834454339194883,WORLDEVENT312_DECISION5RESULT0_PAGE1,"As the battle started, {CHARACTER1} stood poised, {GENDER1:cond:=1?his|=0?her} fists raised in a martial arts stance, ready to face the jotun warrior.
+
+With a thunderous roar, the jotun warrior swung his battle axe with immense power, aiming to cleave through {CHARACTER1}'s defenses. {CHARACTER1}, displaying remarkable agility, evaded the strikes with fluid footwork and precise body movements.",312,"随着战斗的开始，{CHARACTER1}站得稳稳的，{GENDER1:cond:=1?他的|=0?她的}拳头高举，准备面对巨人战士。  
+
+伴随着一声震耳欲聋的吼声，巨人战士用巨大的力量挥动战斧，试图突破{CHARACTER1}的防御。{CHARACTER1}展现出惊人的灵活性，凭借流畅的步伐和精准的身体动作躲避了攻击。"
+1834454339194884,WORLDEVENT312_DECISION5RESULT0_PAGE2,"The dance between {CHARACTER1} and the jotun warrior continued, each exchange a testament to their skills. {CHARACTER1}'s strikes flowed with grace and precision, seeking to exploit any opening in the warrior's defenses. The jotun warrior, undeterred, retaliated with powerful sweeps and thrusts of his battle axe, aiming to overwhelm his opponent.",312,{CHARACTER1}与巨人战士之间的舞蹈继续着，每一次交锋都证明了他们的技能。{CHARACTER1}的攻击流畅而精准，试图利用战士防御中的任何空隙。巨人战士毫不退缩，反击以强有力的挥砍和刺击，试图压倒对手。
+1834454339194885,WORLDEVENT312_DECISION6,[Low Health] The Party interferes,312,[低生命值] 队伍介入
+1834454339194886,WORLDEVENT312_DECISION6RESULT0_PAGE1,"Seeing the state {CHARACTER1} was in the party decided to intervene. The jotun seemed less than happy about the interruption and started to attack the party indiscriminately.
+
+He fought with a ferocity that belied his age, fuelled even more by his rage over the tainted duel. It took the party a great deal of effort to finally put the jotun down, but they suffered greatly in the fight.",312,"看到{CHARACTER1}的状态，队伍决定介入。巨人似乎对这一干预不太满意，开始无差别地攻击队伍。  
+
+他以一种与他年龄不符的凶猛战斗，愤怒的情绪使他在这场被玷污的决斗中更加愤怒。队伍花费了大量的精力才最终将巨人击倒，但在战斗中他们也遭受了巨大的损失。"

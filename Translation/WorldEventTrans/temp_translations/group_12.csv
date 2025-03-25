@@ -1,0 +1,53 @@
+ID,Key,String,EventID,TranslatedString
+1834453684883460,WORLDEVENT35_PAGE1,"While waiting, the adventurers observed the soldiers around them. The amount of injured people were staggeringly high.
+
+Many of the soldiers would be unable to fight if they were forced into a fight with the bandits. Some of the injured soldiers would even need to be carried when they were to move out.",35,"在等待期间，冒险者们观察着周围的士兵。受伤的人数令人震惊地高。
+
+许多士兵如果被迫与强盗作战，将无法战斗。有些受伤的士兵甚至在移动时需要被抬着。"
+1834453684883461,WORLDEVENT35_PAGE2,"The adventurers also observed their Quest Target Gilbert Greyhorn. 
+From what they could tell, he seemed to be a decent man. 
+
+He went around and talked with his soldiers and tried to encourage them. He also helped tending the injured soldiers whenever he could.
+
+Seeing this, the party wondered if there was anything they could do.",35,"冒险者们还观察到了他们的任务目标吉尔伯特·格雷霍恩。  
+从他们的观察来看，他似乎是个不错的人。
+
+他四处走动，与士兵们交谈，试图鼓励他们。他还在有可能的情况下帮助照顾受伤的士兵。
+
+看到这一幕，队伍想知道他们能做些什么。"
+1834453684883462,WORLDEVENT35_DECISION1,Help tending to the injured.,35,帮助照顾受伤者。
+1834453684883463,WORLDEVENT35_DECISION1RESULT0_PAGE1,"The adventurers started to help tending the injured. They went around exchanging bandages and applying any of their healing knowledge they had.
+It seems like, that, thanks to the adventurers, some injured soldiers recovered enough to be able to hold a weapon again.
+
+Gilbert who saw this, thanked the adventurers and lowered his head to them.",35,"冒险者们开始帮助照顾受伤者。他们四处走动，交换绷带，并运用他们所掌握的任何治疗知识。  
+似乎多亏了冒险者，一些受伤的士兵恢复得足够可以再次握住武器。
+
+吉尔伯特看到这一幕，感谢冒险者们，并向他们低下了头。"
+1834453689077760,WORLDEVENT35_DECISION2,Just rest and recover their strength.,35,只是休息，恢复体力。
+1834453689077761,WORLDEVENT35_DECISION2RESULT0_PAGE1,"The party decided that their best course of action would be to rest. 
+
+Seeing the state of the soldiers, it was clear that in a fight they could only rely on themselves.
+",35,"队伍决定他们最好的行动方案是休息。
+
+看到士兵们的状态，很明显在战斗中他们只能依靠自己。"
+1834453689077762,WORLDEVENT36_PAGE1,"After a long wait Gilbert's scouts have finally returned and they carried good news.
+
+They found a path that seemed to be completely left open by the bandits and from which they could get into safe territories. Hearing that Gilbert Greyhorn gave the command to move out.
+
+The adventurers  made themselves ready to accompany them.",36,"经过漫长的等待，吉尔伯特的侦察兵终于返回，并带来了好消息。
+
+他们找到了一条似乎完全被强盗遗弃的道路，可以进入安全区域。听到这个消息后，吉尔伯特·格雷霍恩下达了出发的命令。
+
+冒险者们准备好陪同他们。"
+1834453689077763,WORLDEVENT37_PAGE1,"It was a long and harsh march. Tension was high amongst the soldiers and everyone was on the lookout for bandits.
+No torches were lit to prevent them getting spotted by the bandit's search parties. But that also meant that they had to march in complete darkness. 
+
+Only by everyone sticking uncomfortably close, could they prevent people from getting lost in the dark.",37,"这是一段漫长而艰苦的行军。士兵们紧张不已，大家都在警惕强盗的出现。  
+没有点燃火把，以防被强盗的搜索队发现。但这也意味着他们必须在完全黑暗中行军。
+
+只有大家紧紧挨在一起，才能防止在黑暗中迷路。"
+1834453689077764,WORLDEVENT37RESULT0_PAGE1,"Despite all that, the long march seemed uneventful and they were close to getting into safe territories where they could finally escape the bandits.
+
+The adventurers hoped for it to be over soon, for the march has been quite stressful to them.",37,"尽管如此，漫长的行军似乎没有发生什么特别的事情，他们接近安全区域，终于可以逃离强盗。
+
+冒险者们希望这一切能尽快结束，因为这次行军对他们来说相当紧张。"

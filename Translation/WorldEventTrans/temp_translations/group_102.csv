@@ -1,0 +1,71 @@
+ID,Key,String,EventID,TranslatedString
+1834454360166406,WORLDEVENT319_DECISION1,The jotun warrior unleashes a flurry of attacks,319,巨人战士释放出一阵攻击
+1834454364360704,WORLDEVENT319_DECISION1RESULT0_PAGE1,"As the duel started to reach its crescendo, the jotun warrior unleashed a flurry of lightning-fast attacks upon {CHARACTER1}. The air crackled with the force of each strike, and {CHARACTER1}'s reflexes were put to the ultimate test.
+
+With a blend of agility and instinct, {CHARACTER1} evaded several of the warrior's thunderous blows. Seizing the momentary openings, {CHARACTER1} retaliated with swift slashes, leaving shallow cuts upon the jotun warrior's exposed skin.",319,"当决斗逐渐达到高潮时，巨人战士向 {CHARACTER1} 发起了一阵闪电般的攻击。每一次打击都带着力量，空气中充满了电流的噼啪声，而 {CHARACTER1} 的反应能力被推向了极限。
+
+凭借敏捷和直觉的结合，{CHARACTER1} 躲避了几次战士的雷霆一击。抓住短暂的机会，{CHARACTER1} 迅速反击，留下了浅浅的伤口在巨人战士裸露的皮肤上。"
+1834454364360705,WORLDEVENT319_DECISION1RESULT0_PAGE2,"The jotun warrior intensified his flurry of attacks but {CHARACTER1}'s reflexes were honed to perfection, allowing {GENDER1:cond:=1?him|=0?her} to anticipate the warrior's movements and retaliating with lightning-fast counterattacks with each evasive maneuver.
+
+It wasn't long until blood started to cover most of the jotuns massive frame, seeping through the wounds {CHARACTER1} has inflicted on him.
+
+The jotun warrior, despite his immense strength and resilience, started to falter.",319,"巨人战士加大了攻击的力度，但 {CHARACTER1} 的反应能力已经磨练得近乎完美，使得 {GENDER1:cond:=1?他|=0?她} 能够预判战士的动作，并在每次闪避中迅速反击。
+
+不久，鲜血开始覆盖巨人庞大的身躯，从 {CHARACTER1} 造成的伤口中渗出。
+
+尽管巨人战士拥有巨大的力量和韧性，但他开始显得力不从心。"
+1834454364360706,WORLDEVENT319_DECISION1ALTRESULT0_PAGE1,"As the duel started to reach its crescendo, the jotun warrior unleashed a flurry of lightning-fast attacks upon {CHARACTER1}. The air crackled with the force of each strike, and {CHARACTER1}'s reflexes were put to the ultimate test.
+
+With a blend of agility and instinct, {CHARACTER1} evaded several of the warrior's thunderous blows. Seizing the momentary openings, {CHARACTER1} retaliated with swift slashes, leaving shallow cuts upon the jotun warrior's exposed skin.",319,"当决斗逐渐达到高潮时，巨人战士向 {CHARACTER1} 发起了一阵闪电般的攻击。每一次打击都带着力量，空气中充满了电流的噼啪声，而 {CHARACTER1} 的反应能力被推向了极限。
+
+凭借敏捷和直觉的结合，{CHARACTER1} 躲避了几次战士的雷霆一击。抓住短暂的机会，{CHARACTER1} 迅速反击，留下了浅浅的伤口在巨人战士裸露的皮肤上。"
+1834454364360707,WORLDEVENT319_DECISION1ALTRESULT0_PAGE2,"But as the duel intensified, the jotun warrior's relentless assault began to wear down {CHARACTER1}'s defenses. {GENDER1:cond:=1?his|=0?her} movements became less precise, {GENDER1:cond:=1?his|=0?her} dodges less fluid. 
+
+In a moment of vulnerability, as {CHARACTER1} attempted to evade a particularly powerful swing, the jotun warrior capitalized on the opening. His battle axe crashed down with devastating force, finding its mark upon {CHARACTER1}'s exposed flank.",319,"但随着决斗的加剧，巨人战士的无情攻击开始削弱 {CHARACTER1} 的防御。{GENDER1:cond:=1?他|=0?她} 的动作变得不那么精确，{GENDER1:cond:=1?他的|=0?她的}闪避也不再流畅。
+
+在一个脆弱的时刻，当 {CHARACTER1} 试图躲避一次特别强力的挥击时，巨人战士抓住了这个机会。他的战斧以毁灭性的力量砸下，正中 {CHARACTER1} 裸露的侧腹。"
+1834454364360708,WORLDEVENT319_DECISION1ALTRESULT0_PAGE3,"Pain erupted through the {CHARACTER1}'s body as the blow landed, driving {GENDER1:cond:=1?him|=0?her} to the ground. The force of impact sent shockwaves of agony coursing through {GENDER1:cond:=1?his|=0?her} being. Blood stained the snow beneath, underlining the severity of the situation.",319,当这一击落下时，剧痛席卷了 {CHARACTER1} 的身体，令 {GENDER1:cond:=1?他|=0?她} 倒在地上。冲击的力量让痛苦的波动在 {GENDER1:cond:=1?他|=0?她} 的全身蔓延。鲜血染红了雪地，突显了局势的严重性。
+1834454364360709,WORLDEVENT320_DECISION1,{CHARACTER1} goes in for the kill,320,{CHARACTER1} 进行致命一击
+1834454364360710,WORLDEVENT320_DECISION1RESULT0_PAGE1,"As the fierce duel raged on, {CHARACTER1}'s daggers moved with blinding speed, inflicting a flurry of cuts and wounds upon the jotun warrior. Each strike found its mark, carving a path of crimson across the warrior's body. Blood stained the snow beneath them, a vivid testament to {CHARACTER1}'s relentless onslaught.
+
+Sensing the opportunity for a final, decisive strike, {CHARACTER1} closed in on the wounded warrior with focused determination. The wind seemed to hold its breath, as if anticipating the climactic moment about to unfold.",320,"当激烈的决斗继续进行时，{CHARACTER1} 的匕首以令人眼花缭乱的速度移动，给巨人战士带来了无数的割伤和创伤。每一次攻击都准确命中，在战士的身体上划出一条鲜红的痕迹。鲜血染红了他们脚下的雪，生动地证明了 {CHARACTER1} 的无情攻击。
+
+感受到最后致命一击的机会，{CHARACTER1} 以专注的决心逼近受伤的战士。风似乎屏住了呼吸，仿佛在期待即将展开的高潮时刻。"
+1834454364360711,WORLDEVENT320_DECISION1RESULT0_PAGE2,"{CHARACTER1}'s daggers sliced through the air with deadly grace, aiming  for the warrior's exposed neck. The jotun warrior's eyes widened in shock as the blades sank deep into their throat, severing the vital arteries within.
+
+A profound stillness settled over the tundra, the silence broken only by the soft last whispers of the jotun. The jotun warrior's body slumped to the ground, lifeless and defeated. ",320,"{CHARACTER1} 的匕首以致命的优雅划过空气，瞄准战士裸露的脖子。巨人战士的眼睛因震惊而睁大，当刀刃深深刺入其喉咙，割断了内部的重要动脉。
+
+一阵深沉的寂静笼罩了冻土，只有巨人的最后低语打破了沉默。巨人战士的身体无力地倒在地上，死去而被击败。"
+1834454368555008,WORLDEVENT320_DECISION1RESULT0_PAGE3,"{CHARACTER1} stood over {GENDER1:cond:=1?his|=0?her} fallen foe, {GENDER1:cond:=1?his|=0?her} breath ragged and heart pounding. {GENDER1:cond:=1?he|=0?she} wondered if the jotun's last words were those of gratitude.",320,{CHARACTER1} 站在 {GENDER1:cond:=1?他|=0?她} 的倒下的敌人身旁，{GENDER1:cond:=1?他|=0?她} 的呼吸急促，心跳加速。{GENDER1:cond:=1?他|=0?她} 不禁想知道巨人的最后一句话是否是感激。
+1834454368555009,WORLDEVENT320_DECISION1ALTRESULT0_PAGE1,"As the fierce duel raged on, {CHARACTER1}'s daggers moved with blinding speed, inflicting a flurry of cuts and wounds upon the jotun warrior. Each strike found its mark, carving a path of crimson across the warrior's body. Blood stained the snow beneath them, a vivid testament to {CHARACTER1}'s relentless onslaught.
+
+Sensing the opportunity for a final, decisive strike, {CHARACTER1} closed in on the wounded warrior with focused determination. The wind seemed to hold its breath, as if anticipating the climactic moment about to unfold.",320,"当激烈的决斗继续进行时，{CHARACTER1} 的匕首以令人眼花缭乱的速度移动，给巨人战士带来了无数的割伤和创伤。每一次攻击都准确命中，在战士的身体上划出一条鲜红的痕迹。鲜血染红了他们脚下的雪，生动地证明了 {CHARACTER1} 的无情攻击。
+
+感受到最后致命一击的机会，{CHARACTER1} 以专注的决心逼近受伤的战士。风似乎屏住了呼吸，仿佛在期待即将展开的高潮时刻。"
+1834454368555010,WORLDEVENT320_DECISION1ALTRESULT0_PAGE2,"However, to {CHARACTER1}'s surprise, the jotun warrior managed to evade the blow with a sudden burst of agility. With a swift sidestep, the warrior deftly avoided the daggers' deadly trajectory.
+
+Before {CHARACTER1} could react, the jotun warrior seized the opportunity and launched a devastating counterattack. His massive battle axe collided with {CHARACTER1}'s torso, unleashing a powerful impact that sent {GENDER1:cond:=1?him|=0?her} sprawling backward through the snow. Pain seared through {CHARACTER1}'s body as the air was forcibly expelled from {GENDER1:cond:=1?his|=0?her} lungs.",320,"然而，让 {CHARACTER1} 惊讶的是，巨人战士凭借突然的敏捷成功躲过了这一击。战士迅速侧身，巧妙地避开了匕首致命的轨迹。
+
+在 {CHARACTER1} 还未反应过来之前，巨人战士抓住机会发起了毁灭性的反击。他那巨大的战斧撞击在 {CHARACTER1} 的躯干上，释放出强大的冲击力，将 {GENDER1:cond:=1?他|=0?她} 撞得在雪地上向后翻滚。剧痛穿透了 {CHARACTER1} 的身体，空气被强行从 {GENDER1:cond:=1?他的|=0?她的} 肺部挤出。"
+1834454368555011,WORLDEVENT320_DECISION1ALTRESULT0_PAGE3,"The Rest of the party couldn't stand idly by anymore and rushed in to help {CHARACTER1}. Enraged by the disruption, the jotun warrior started to attack the party indiscriminately.
+
+The jotun fought with a ferocity that belied his wounded body and only with great cost were they finally able to put him down in the end.",320,"其他队员再也无法袖手旁观，冲上前去帮助 {CHARACTER1}。愤怒于干扰，巨人战士开始无差别地攻击队伍。
+
+尽管巨人受了伤，但他以一种令人震惊的凶猛作战，最终他们付出了巨大的代价才将他击倒。"
+1834454368555012,WORLDEVENT321_DECISION1,The jotun intensifies his attacks.,321,巨人加大了攻击的力度。
+1834454368555013,WORLDEVENT321_DECISION1RESULT0_PAGE1,"As the battle between {CHARACTER1} and the jotun warrior escalated, the warrior's attacks grew increasingly ferocious. Swinging his battle axe with unyielding strength, the jotun warrior aimed to break through his opponent's defenses. {CHARACTER1}, {GENDER1:cond:=1?his|=0?her} senses heightened, focused on evading the onslaught while seeking opportunities to counter.
+
+The jotun warrior's strikes came in relentless waves, each swing carrying the weight of their formidable might. {CHARACTER1}'s agile movements allowed them to dodge and weave, narrowly avoiding the deadly arcs of the battle axe. ",321,"随着 {CHARACTER1} 和巨人战士之间的战斗升级，战士的攻击变得愈加凶猛。巨人战士挥舞着他的战斧，力求突破对手的防御。{CHARACTER1} 的感官变得敏锐，专注于躲避攻击，同时寻找反击的机会。
+
+巨人战士的攻击如潮水般涌来，每一次挥击都带着强大的力量。{CHARACTER1} 的灵活动作使得他们能够躲避和闪避，勉强避开战斧致命的弧线。"
+1834454368555014,WORLDEVENT321_DECISION1RESULT0_PAGE2,"In a moment of perfect timing and precision, {CHARACTER1} saw an opening. With a lightning-quick strike, {GENDER1:cond:=1?he|=0?she} landed a powerful blow, stunning the jotun warrior momentarily. The resounding impact echoed across the tundra as the warrior's momentum faltered.",321,在一个完美的时机和精准的瞬间，{CHARACTER1} 看到了一丝机会。以闪电般的速度，{GENDER1:cond:=1?他|=0?她} 施出了一记强有力的打击，暂时震惊了巨人战士。震耳欲聋的撞击声在冻土上回荡，战士的势头因此受到阻碍。
+1834454372749312,WORLDEVENT321_DECISION1ALTRESULT0_PAGE1,"As the battle between {CHARACTER1} and the jotun warrior escalated, the warrior's attacks grew increasingly ferocious. Swinging his battle axe with unyielding strength, the jotun warrior aimed to break through his opponent's defenses. {CHARACTER1}, {GENDER1:cond:=1?his|=0?her} senses heightened, focused on evading the onslaught while seeking opportunities to counter.
+
+The jotun warrior's strikes came in relentless waves, each swing carrying the weight of their formidable might. {CHARACTER1}'s agile movements allowed them to dodge and weave, narrowly avoiding the deadly arcs of the battle axe. ",321,"随着 {CHARACTER1} 和巨人战士之间的战斗升级，战士的攻击变得愈加凶猛。巨人战士挥舞着他的战斧，力求突破对手的防御。{CHARACTER1} 的感官变得敏锐，专注于躲避攻击，同时寻找反击的机会。
+
+巨人战士的攻击如潮水般涌来，每一次挥击都带着强大的力量。{CHARACTER1} 的灵活动作使得他们能够躲避和闪避，勉强避开战斧致命的弧线。"
+1834454372749313,WORLDEVENT321_DECISION1ALTRESULT0_PAGE2,"However, the jotun warrior's determination intensified. His attacks became more calculated and forceful, each swing aimed to exploit any lapse in {CHARACTER1}'s defenses. {CHARACTER1} was put to {GENDER1:cond:=1?his|=0?her} physical limit, evading with deft footwork and agile maneuvers.
+
+In a moment of misjudgment or perhaps a lapse in focus, {CHARACTER1} found {GENDER1:cond:=1?himself|=0?herself} unable to evade a particularly devastating blow. The jotun warrior's battle axe crashed against {CHARACTER1}'s body with bone-crushing force. The impact reverberated through {GENDER1:cond:=1?his|=0?her} body, sending {GENDER1:cond:=1?him|=0?her} sprawling backward, pain radiating from the point of impact.",321,"然而，巨人战士的决心愈发强烈。他的攻击变得更加精准和有力，每一次挥击都旨在利用 {CHARACTER1} 防御中的任何漏洞。{CHARACTER1} 被逼到了 {GENDER1:cond:=1?他的|=0?她的} 体力极限，凭借灵巧的步伐和敏捷的动作进行闪避。
+
+在一个判断失误或许是注意力不集中之际，{CHARACTER1} 发现 {GENDER1:cond:=1?自己|=0?自己} 无法躲避一次特别致命的打击。巨人战士的战斧以粉碎骨头的力量撞击在 {CHARACTER1} 的身体上。冲击的力量在 {GENDER1:cond:=1?他|=0?她} 的身体中回荡，令 {GENDER1:cond:=1?他|=0?她} 向后翻滚，痛苦从冲击点蔓延开来。"

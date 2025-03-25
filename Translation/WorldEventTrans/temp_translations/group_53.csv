@@ -1,0 +1,52 @@
+ID,Key,String,EventID,TranslatedString
+1834454012039168,WORLDEVENT165_PAGE1,"The Party surprisingly met a familiar face on the field, in form of Me'Can the mysterious merchant. When he saw the party he heartily greeted them.
+""Hello my dear adventurers. What a coincidence to meet  you here. I assume you're here because of a quest? Of course you are!
+Then don't let little old me keep you from doing whatever you're currently doing.
+...Unless you're in the mood of playing a little game with me.""",165,"队伍在野外意外遇到了一个熟悉的面孔，神秘商人梅卡（Me'Can）。当他看到队伍时，热情地向他们打招呼。  
+""你好，我亲爱的冒险者们。真是个巧合，居然在这里遇见你们。我想你们是因为任务而来的？当然是了！  
+那么就别让这个小老头妨碍你们做任何事情。  
+……除非你们想和我玩个小游戏。"""
+1834454012039169,WORLDEVENT165_PAGE2,"""You see, I'm really fond of riddles but there aren't that many people who share my enthusiasm. And I really have some wonderful riddles in my head I'd love to share with somebody.
+If you play with me I'd be even willing to give you some items free of charge whenever you guess right. How about it?",165,"""你看，我真的很喜欢谜语，但很少有人和我有同样的热情。我脑海中有一些非常精彩的谜语，想和人分享。  
+如果你们和我玩，我甚至愿意在你们猜对时免费给你们一些物品。怎么样？"""
+1834454012039170,WORLDEVENT165_DECISION1,The Party agrees to play riddles with Me'can.,165,队伍同意和梅卡玩谜语。
+1834454012039171,WORLDEVENT165_DECISION1RESULT0_PAGE1,"""Wonderful! You won't regret it! Sometimes you just have to take the time and have some fun for a change."" Me'can happily exclaimed.
+
+""Now give me a moment to think what could best serve as my first riddle."" He paused for a moment and then he started to speak.",165,"""太好了！你们不会后悔的！有时候，你只需要花点时间，换换心情，享受一下乐趣。""梅卡高兴地说道。  
+""现在给我一点时间想想，什么可以作为我的第一个谜语。""他停顿了一下，然后开始说。"
+1834454012039172,WORLDEVENT165_DECISION2,The Party tells Me'can that they don't have time for games.,165,队伍告诉梅卡他们没有时间玩游戏。
+1834454012039173,WORLDEVENT165_DECISION2RESULT0_PAGE1,"""How unfortunate."" Me'can sounded disappointed.
+""Well, then don't let me delay you any longer. I wish you good luck on your Quest, my friends.""
+With that Me'can bid them goodbye and both sides continued on with their journey.",165,"""真不幸。""梅卡听起来有些失望。  
+""那么，就别让我再耽误你们的时间了。祝你们在任务中好运，我的朋友们。""  
+说完，梅卡向他们告别，双方继续各自的旅程。"
+1834454012039174,WORLDEVENT166_PAGE1,"""I have towns with no people, forest with no woods and rivers without water. What am I?""",166,"""我有没有人居住的城镇，没有树林的森林和没有水的河流。我是什么？"""
+1834454012039175,WORLDEVENT166_DECISION1,The Party takes some time to think about it...,166,队伍花了一些时间思考这个问题……
+1834454012039176,WORLDEVENT166_DECISION1RESULT0_PAGE1,"""The answer is a map."" {CHARACTER1} proclaims.
+
+""Corrrect!"" Me'can applauded. ""How wonderful. I was afraid that matters of the mind might not be the forte of adventurers but you certainly proved me wrong. Let's see if you can also guess the next riddle.
+
+But before that..."" Me'can took a few bottle of potions from his bag.
+""As promised, a reward for guessing it right."" ",166,"""答案是地图。""{CHARACTER1} 宣布道。  
+""正确！""梅卡鼓掌道。""太棒了。我原本担心冒险者的思维能力可能不太强，但你们确实让我刮目相看。让我们看看你们是否也能猜出下一个谜语。  
+但在此之前……""梅卡从他的包里拿出几瓶药水。  
+""如约而至，猜对的奖励。"""
+1834454012039177,WORLDEVENT166_DECISION1ALTRESULT0_PAGE1,"""Is it perhaps...ruins?"" {CHARACTER1} asked hesitantly. 
+
+""BZZZZT, Wrong!"" Me'can said, sounding slightly disappointed. ""Maybe I started a bit too strong. Let's try with the next one. Maybe this time you get the answer!""",166,"""难道是……废墟？"" {CHARACTER1} 犹豫地问道。  
+""叮叮叮，错了！""梅卡说道，听起来有些失望。""也许我一开始就出得太难了。让我们试试下一个谜语。也许这次你们能猜对！"""
+1834454016233472,WORLDEVENT167_PAGE1,"""As long as I consume I grow. The moment I stop, I shrink and die but I was never and will never be truly alive. What am I?""",167,"""只要我被消耗就会成长。停止的那一刻，我就会缩小并消亡，但我从来没有，也永远不会真正活着。我是什么？"""
+1834454016233473,WORLDEVENT167_DECISION1,The Party takes some time to think about it...,167,队伍花了一些时间思考这个问题……
+1834454016233474,WORLDEVENT167_DECISION1RESULT0_PAGE1,"""The answer is Fire!"" {CHARACTER1} said confidently.
+
+""Correct!"" Me'can seemed to happy about the answer. ""Color me impressed my dear adventurers. Maybe one day adventurers will be also known for their puzzle solving skills!""
+While saying that Me'can started to pull out some daggers from his bag.
+""This is for you. I'm sure somebody at the Guild will make good use of these.""",167,"""答案是火！"" {CHARACTER1} 自信地说道。  
+""正确！""梅卡似乎对这个答案感到很高兴。""让我对你们刮目相看，我亲爱的冒险者们。也许有一天，冒险者们也会因解谜能力而闻名！""  
+说着，梅卡开始从包里拿出一些匕首。  
+""这是给你们的。我相信公会里会有人好好利用这些。"""
+1834454016233475,WORLDEVENT167_DECISION1ALTRESULT0_PAGE1,"""Is the answer...a troll?"" {CHARACTER1} asked? It was the best answer {GENDER1:cond:=1?he|=0?she} could come up with.
+""How unfortunate, but no. The answer is wrong.
+Hey, don't look so disappointed, my friends. Maybe riddles aren't just your thing. It's not like puzzle solving will save your lifes one day, right?""",167,"""答案是……巨魔吗？"" {CHARACTER1} 问道。这是 {GENDER1:cond:=1?他|=0?她} 能想到的最佳答案。  
+""真不幸，但不对。答案是错的。  
+嘿，别看起来这么失望，我的朋友们。也许谜语并不是你们的强项。毕竟，解谜能力不会在某一天拯救你们的生命，对吧？"""

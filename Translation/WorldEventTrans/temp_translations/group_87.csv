@@ -1,0 +1,46 @@
+ID,Key,String,EventID,TranslatedString
+1834454259503108,WORLDEVENT271_PAGE1,"The adventurers trudged wearily through the forest, their boots squelching in the mud beneath their feet. They had finally arrived at the base of the mountain, the very peak where their target, the dreaded Storm Talon, awaited them. Rain poured relentlessly from the sky followed by streaks of lightning, illuminating the landscape in rhythmic intervals.
+
+The adventurers stood in front of the sheer cliff face and knew that they had to climb it if they want to reach their target. It would be a treacherous ascendance with the weather completely against them.",271,"冒险者们疲惫地跋涉在森林中，脚下的泥土发出嘶嘶声。他们终于到达了山脚，目标正是可怕的风暴爪。天空中倾盆大雨，闪电划破天际，时而照亮周围的景色。
+
+冒险者们站在陡峭的 cliff 面前，知道如果想要到达目标，就必须攀爬上去。这将是一段艰难的攀登，天气完全不利于他们。"
+1834454259503109,WORLDEVENT271_DECISION1,Begin the Climb,271,开始攀登
+1834454259503110,WORLDEVENT271_DECISION1RESULT0_PAGE1,"At the base of the cliff, they examined their surroundings, searching for any footholds or handholds to aid their climb. They spotted a series of narrow ledges that jutted out, offering the first potential footholds.
+
+They started their ascent, climbing from ledge to ledge amidst the pouring rain. The climb was arduous and physically demanding. Nonetheless, the adventurers were undeterred and continued their climb. Gradually, their efforts began to yield progress. 
+
+As they climbed higher, the ledges narrowed, leaving less room for error. They had reached a critical point where retreat was no longer an option.",271,"在 cliff 的脚下，他们仔细检查周围，寻找任何可以帮助他们攀爬的脚踏点或手抓点。他们发现了一系列突出的狭窄岩 ledges，提供了第一个潜在的脚踏点。
+
+他们开始攀登，在倾盆大雨中从 ledge 攀爬到 ledge。攀登的过程艰难且需要体力。然而，冒险者们毫不气馁，继续攀登。渐渐地，他们的努力开始见到成效。
+
+随着他们的攀登， ledges 变得越来越窄，留给他们的错误空间越来越小。他们已经到达了一个关键点，退路已不再是一个选项。"
+1834454263697408,WORLDEVENT271_DECISION1ALTRESULT0_PAGE1,"At the base of the cliff, they examined their surroundings, searching for any footholds or handholds to aid their climb. They spotted a series of narrow ledges that jutted out, offering the first potential footholds.
+
+They started their ascent, climbing from ledge to ledge amidst the pouring rain. The climb was arduous and physically demanding. Several times, members of the party lost their footing, causing them to slip and tumble down a short distance before catching themselves on the ledges. Though not life-threatening, the falls were enough to cause discomfort and bruises.",271,"在 cliff 的脚下，他们仔细检查周围，寻找任何可以帮助他们攀爬的脚踏点或手抓点。他们发现了一系列突出的狭窄岩 ledges，提供了第一个潜在的脚踏点。
+
+他们开始攀登，在倾盆大雨中从 ledge 攀爬到 ledge。攀登的过程艰难且需要体力。几次，队伍中的成员失去了脚步，导致他们滑倒并短暂跌落，随后在 ledges 上抓住自己。虽然没有生命危险，但跌落足以造成不适和淤伤。"
+1834454263697409,WORLDEVENT271_DECISION1ALTRESULT0_PAGE2,"Nonetheless, the adventurers were undeterred and continued their climb. Gradually, their efforts began to yield progress. They learned from their mistakes and adapted their techniques, finding more secure holds and cautiously navigating the treacherous terrain.
+
+As they climbed higher, the ledges narrowed, leaving less room for error. They had reached a critical point where retreat was no longer an option.",271,"然而，冒险者们毫不气馁，继续攀登。渐渐地，他们的努力开始见到成效。他们从错误中吸取教训，调整技术，找到更安全的抓点，小心翼翼地穿越危险的地形。
+
+随着他们的攀登， ledges 变得越来越窄，留给他们的错误空间越来越小。他们已经到达了一个关键点，退路已不再是一个选项。"
+1834454263697410,WORLDEVENT272_PAGE1,"The relentless rain cascaded down upon the adventurers' faces as they steadily climbed the cliff face. The wetness of the rain made it difficult for them to secure a firm grip on the narrow ledges. Each movement required utmost care, as they navigated the slippery surfaces.
+
+With each upward step, the air grew thinner, the mountain's altitude taking its toll on their bodies. Breathing became labored, and their chests heaved in an effort to draw in enough oxygen.The physical strain on the adventurers was immense, testing their endurance and resolve. Muscles screamed in protest, and fatigue threatened to weigh them down.",272,"不断的雨水倾泻在冒险者们的脸上，他们稳步攀爬 cliff 的面。雨水的湿滑使他们很难在狭窄的 ledges 上抓住稳固的支撑。每一个动作都需要极大的小心，因为他们在滑腻的表面上行走。
+
+随着每一步向上，空气变得稀薄，山的高度对他们的身体造成了影响。呼吸变得困难，他们的胸膛努力地吸入足够的氧气。冒险者们承受着巨大的身体压力，考验着他们的耐力和决心。肌肉在抗议，疲惫感威胁着将他们压垮。"
+1834454263697411,WORLDEVENT272_DECISION1,"Despite all that, all they could do was to grit their teeth.",272,尽管如此，他们所能做的就是咬紧牙关。
+1834454263697412,WORLDEVENT273_PAGE1,"As the adventurers continued their climb, they could see that they almost reached the top of the mountain. They were so close to confronting the Storm Talon. But as their eyes scanned the rocky terrain, they also noticed a nearby cave nestled within the mountain's imposing wall.
+
+
+The cave offered a chance to catch their breath, tend to their wounds, and fortify themselves for the final confrontation. However, reaching it posed a considerable challenge, as there was no clear or obvious path leading to its shelter.",273,"当冒险者们继续攀登时，他们看到自己几乎到达了山顶。他们离面对风暴爪只有一步之遥。但当他们的目光扫过崎岖的地形时，他们也注意到山壁上有一个附近的洞穴。
+
+这个洞穴提供了一个喘息的机会，可以处理伤口，恢复体力，为最终的对抗做好准备。然而，要到达那里却面临着相当大的挑战，因为没有清晰或明显的路径通往这个庇护所。"
+1834454263697413,WORLDEVENT273_DECISION1,Have someone try to find a path,273,让某人尝试寻找路径
+1834454263697414,WORLDEVENT273_DECISION1RESULT0_PAGE1,"{CHARACTER1}'s keen eyes were able to spot some hidden footholds that led to the cave. Taking the lead, {CHARACTER1} guided the party towards the shelter. 
+
+Inside the cave's cool embrace, the adventurers let out a collective sigh of relief, their muscles finally finding a momentary reprieve from the strain of the arduous climb. In the sheltered cave, they took a moment to rest and recuperate, collecting their strength for the upcoming battle. The storm outside showed no sign of abating; a constant reminder of the presence of the Storm Talon.",273,"{CHARACTER1} 的敏锐目光发现了一些通往洞穴的隐秘脚踏点。{CHARACTER1} 率先带领队伍朝着庇护所前进。
+
+在洞穴的凉爽怀抱中，冒险者们齐声松了一口气，肌肉终于从艰难的攀登中得到片刻的缓解。在这个庇护的洞穴里，他们稍作休息和恢复，为即将到来的战斗积蓄力量。外面的暴风雨没有减弱的迹象，时刻提醒着他们风暴爪的存在。"
+1834454267891712,WORLDEVENT273_DECISION1RESULT0_PAGE2,"With renewed vigor and steeled resolve, the adventurers departed the sanctuary of the cave and resumed their climb. They were ready to face their target.",273,充满新生的活力和坚定的决心，冒险者们离开洞穴的庇护，继续攀登。他们准备好面对目标。
+1834454267891713,WORLDEVENT273_DECISION1ALTRESULT0_PAGE1,"Unfortunately, none of the adventurers were able to find a path towards the cave. They had no choice but to challenge the Storm Talon in the condition they currently were in.",273,不幸的是，冒险者们没有一个人能够找到通往洞穴的路径。他们别无选择，只能在目前的状态下挑战风暴爪。

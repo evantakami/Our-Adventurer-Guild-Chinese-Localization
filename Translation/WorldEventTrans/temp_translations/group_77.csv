@@ -1,0 +1,64 @@
+ID,Key,String,EventID,TranslatedString
+1834454179811331,WORLDEVENT239_PAGE1,Don't translate,239,Don't translate
+1834454179811332,WORLDEVENT239_DECISION1,Don't translate,239,Don't translate
+1834454179811333,WORLDEVENT239_DECISION1RESULT0_PAGE1,Don't translate,239,Don't translate
+1834454179811334,WORLDEVENT239_DECISION1RESULT0_PAGE2,Don't translate,239,Don't translate
+1834454184005632,WORLDEVENT239_DECISION1CONDRESULT1_PAGE1,Don't translate,239,Don't translate
+1834454184005633,WORLDEVENT239_DECISION1CONDRESULT1_PAGE2,Don't translate,239,Don't translate
+1834454184005634,WORLDEVENT239_DECISION1CONDRESULT2_PAGE1,Don't translate,239,Don't translate
+1834454184005635,WORLDEVENT239_DECISION1CONDRESULT2_PAGE2,Don't translate,239,Don't translate
+1834454184005636,WORLDEVENT239_DECISION1CONDRESULT3_PAGE1,Don't translate,239,Don't translate
+1834454184005637,WORLDEVENT239_DECISION1CONDRESULT3_PAGE2,Don't translate,239,Don't translate
+1834454184005638,WORLDEVENT239_DECISION1CONDRESULT4_PAGE1,Don't translate,239,Don't translate
+1834454188199936,WORLDEVENT239_DECISION1CONDRESULT4_PAGE2,Don't translate,239,Don't translate
+1834454188199937,WORLDEVENT239_DECISION1CONDRESULT5_PAGE1,Don't translate,239,Don't translate
+1834454188199938,WORLDEVENT239_DECISION1CONDRESULT5_PAGE2,Don't translate,239,Don't translate
+1834454188199939,WORLDEVENT239_DECISION1CONDRESULT6_PAGE1,Don't translate,239,Don't translate
+1834454188199940,WORLDEVENT239_DECISION1CONDRESULT6_PAGE2,Don't translate,239,Don't translate
+1834454188199941,WORLDEVENT239_DECISION2,Don't translate,239,Don't translate
+1834454188199942,WORLDEVENT239_DECISION2RESULT0_PAGE1,Don't translate,239,Don't translate
+1834454192394240,WORLDEVENT240_PAGE1,"The party spots a dark-robed figure carrying a corpse with him.
+
+Curious about who the figure might be and what he was doing, they started to observe him from a safe distance. The robed figure carried the corpse to a spot where a red pentagram was crudely drawn on the stone floor. He placed the corpse on the pentagram and took out a black book. From a distance, the party could tell that the book looked ancient, and even those without arcane knowledge could feel that there was some dark power behind it. The figure opened the book and, after reading it for a moment, began to chant something that sounded like a spell.",240,"队伍发现一个身穿黑袍的身影，正携带着一具尸体。  
+
+出于好奇，他们想知道这个身影是谁以及他在做什么，于是开始从安全的距离观察他。这个黑袍人将尸体带到一个在石地上粗糙画出的红色五角星上。他把尸体放在五角星上，拿出一本黑色的书。从远处看，队伍可以判断这本书看起来非常古老，甚至那些没有奥术知识的人也能感受到书中蕴含着某种黑暗力量。这个身影打开书本，读了一会儿后，开始念出听起来像咒语的东西。"
+1834454192394241,WORLDEVENT240_PAGE2,"Nothing happened.
+
+Everyone in the party expected the corpse to rise up, but instead, it still lay motionless on the ground. This wasn't the result they were expecting, and it seems neither did the robed figure, who started to curse and flip the pages of the book.",240,"什么也没有发生。  
+
+队伍中的每个人都期待尸体会复活，但它却仍然静静地躺在地上。这不是他们所期待的结果，似乎黑袍人也没有料到，开始咒骂并翻动书页。"
+1834454192394242,WORLDEVENT240_DECISION1,Approach the hooded figure.,240,接近那个黑袍人。
+1834454192394243,WORLDEVENT240_DECISION1RESULT0_PAGE1,"The party decided they would confront the hooded figure. It was likely that they were attempting necromancy, and if they were, the party had to intervene. They began to approach the hooded figure, who initially did not notice their presence. It was only when they were at sprinting distance that the hooded figure finally realized they were not alone. Upon noticing them, the robed person started to scream and attempted to run away. However, not paying attention, they stumbled over the corpse they had been carrying and fell down. Probably sensing that they had missed their chance to escape, the hooded figure started to yell, 'PLEASE! DON'T HURT ME! LET'S TALK!",240,队伍决定 confront 黑袍人。他们很可能在尝试死灵法术，如果是这样，队伍必须介入。他们开始接近黑袍人，最初他并没有注意到他们的存在。直到他们接近到可以冲刺的距离，黑袍人才终于意识到他们并不孤单。注意到他们后，黑袍人开始尖叫并试图逃跑。然而，因不注意，他绊倒在自己携带的尸体上，摔倒在地。可能意识到自己错过了逃跑的机会，黑袍人开始大喊：“请！不要伤害我！我们可以谈谈！”
+1834454192394244,WORLDEVENT240_DECISION2,The Party decides to sneak attack the hooded figure.,240,队伍决定偷袭黑袍人。
+1834454192394245,WORLDEVENT240_DECISION2RESULT0_PAGE1,"It was obvious that the person before them was a necromancer or at least some who tries to be one. If left alone who knows what harm they could cause. So they decided to attack the figure from behind and end them before they could do anything. {CHARACTER1} started to sneak up on the robed figure whose attention was still on the book. They didn't even notice {GENDER1:cond:=1?him|=0?her} when {GENDER1:cond:=1?he|=0?she} was already behind them. 
+
+In one swift movement {CHARACTER1} took out a dagger and slit the figure's throat before they could even react.  It was over in an instant.",240,"显然，眼前的人是一个死灵法师，或者至少是一个试图成为死灵法师的人。如果放任不管，谁知道他们会造成什么伤害。因此，他们决定从背后攻击这个身影，在他能做任何事情之前结束他。{CHARACTER1}开始悄悄接近那个黑袍人，他的注意力仍然集中在书本上。当{GENDER1:cond:=1?他|=0?她}已经在他身后时，他甚至没有注意到。  
+
+{CHARACTER1}迅速抽出一把匕首，在黑袍人反应过来之前割断了他的喉咙。事情在瞬间结束。"
+1834454192394246,WORLDEVENT240_DECISION2RESULT0_PAGE2,"The figure dropped the book and grasped for their throat but it was already too late. The figure could only give a last gurgle and fell down forwards into their own pool of blood.
+Curious about the necromancer {CHARACTER1} rolled the figure over. {GENDER1:cond:=1?his|=0?her} eyes widened in surprise when {GENDER1:cond:=1?he|=0?she} saw their face.
+...It was a young girl. Hardly old enough to be considered an adult. Watching the expression of the dead girl, {CHARACTER1} wondered what could have pushed her to this path.",240,"这个身影掉下了书本，抓着自己的喉咙，但一切已经太晚。这个身影只能发出最后的咕哝声，向前倒入自己的血泊中。出于对死灵法师的好奇，{CHARACTER1}将这个身影翻了过来。{GENDER1:cond:=1?他|=0?她}看到她的脸时，眼睛睁大了，惊讶不已。  
+……她是一个年轻女孩，几乎还不够被认为是成年人。看着死去女孩的表情，{CHARACTER1}不禁想知道是什么让她走上了这条道路。"
+1834454196588544,WORLDEVENT240_DECISION2ALTRESULT0_PAGE1,"It was obvious that the person before them was a necromancer, or at least someone attempting to become one. If left alone, who knows what harm they could cause. So, they decided to attack the figure from behind and end their actions before they could do anything.. {CHARACTER1} started to sneak up on the robed figure whose attention was still on the book.
+
+Unfortunately the hooded figure noticed {CHARACTER1} before {GENDER1:cond:=1?he|=0?she} got close enough. They turned their head and immediately screamed when they saw {CHARACTER1}, jumping away. The rest of the Party who heard the scream immediately rushed in. The Party prepared for battle but the hooded figure screamed ""STOP! PLEASE STOP!"".",240,"显然，眼前的人是一个死灵法师，或者至少是一个试图成为死灵法师的人。如果放任不管，谁知道他们会造成什么伤害。因此，他们决定从背后攻击这个身影，在他能做任何事情之前结束他的行为。{CHARACTER1}开始悄悄接近那个黑袍人，他的注意力仍然集中在书本上。  
+
+不幸的是，黑袍人注意到了{CHARACTER1}，在{GENDER1:cond:=1?他|=0?她}靠近之前就转过头来，看到{CHARACTER1}后立刻尖叫，跳开。听到尖叫声的队伍立刻冲了过来。队伍准备战斗，但黑袍人尖叫道：“停下！请停下！”"
+1834454196588545,WORLDEVENT240_DECISION3,The Party decides to leave the figure alone.,240,队伍决定不去打扰这个身影。
+1834454196588546,WORLDEVENT240_DECISION3RESULT0_PAGE1,"The Party decides to leave the strange figure alone. While it seemed obvious that this person was trying their hands on necromancy it was obvious that they were no good at it. With that said the party left the would-be-necromancer alone, who kept cursing in frustration.",240,队伍决定不去打扰这个奇怪的身影。虽然显然这个人正在尝试死灵法术，但显然他们并不擅长。话虽如此，队伍还是让这个想成为死灵法师的人独自呆着，他依旧在沮丧中咒骂。
+1834454196588547,WORLDEVENT241_PAGE1,"The Party finally got a good look at the hooded figure. It was a young girl. Hardly old enough to be considered an adult. ""T-this isn't what it looks like. I-I -I..."" she stammered. It seemed like she couldn't figure out a response that could in any way explain her behaviour other than what they all were already thinking. She started sobbing ""Please, don't hurt me!"" Necromancy was a heavy crime, for which the lightest punishment would be death. It seems like the girl realized that and was afraid of the consequences of her action.
+
+""I will never do it again! Please just let me go!"" she begged. ""You can even have the book. Even if it's not a real magic book it's surely worth something!"". When asked where she got the book, she answered: ""S-some man gave it to me. He said it would give me power but now I know he was just lying."" ",241,"队伍终于看清了黑袍人。她是一个年轻女孩，几乎还不够被认为是成年人。“这……不是你们想的那样。我……我……”她结结巴巴地说。看来她无法想出任何能解释她行为的回应，除了他们所想的那样。她开始哭泣：“请，不要伤害我！”死灵法术是一项重罪，最轻的惩罚就是死刑。看来这个女孩意识到了这一点，并且害怕自己行为的后果。  
+
+“我再也不会这样做了！请放我走！”她恳求道。“你们甚至可以拿走这本书。即使这不是一本真正的魔法书，它肯定也值点钱！”当被问到她从哪里得到这本书时，她回答：“有个男人给我的。他说这会给我力量，但现在我知道他只是撒谎。”"
+1834454196588548,WORLDEVENT241_PAGE2,The Party looked at the book that was lying on the floor after the girl has dropped it. They were sure that the book had some sort of power and it was only because of the girl's inability to use it that it appears to be a normal book. But something about the book made the Party feel uneasy. It surely would be a powerful book to have but it was a book about necromancy. There are many stories about the dangers of having a grimoire of a necromancer. Should they really use it?,241,队伍看着掉在地上的书，正是女孩掉下的。他们确信这本书有某种力量，正是因为女孩无法使用它，它才看起来像一本普通的书。但这本书的某些东西让队伍感到不安。这肯定是一本强大的书，但它是一本关于死灵法术的书。关于拥有死灵法师的魔法书的危险有很多故事。他们真的应该使用它吗？
+1834454196588549,WORLDEVENT241_DECISION1,Let the girl go and take the book.,241,放女孩离开，拿走书。
+1834454196588550,WORLDEVENT241_DECISION1RESULT0_PAGE1,"The Party let the girl go. After all nothing has happened and it wasn't their job to uphold the law. The girl thanked the adventurers and ran as soon as she was allowed to, probably afraid that the adventurers might change their mind. 
+
+The adventurers took the book from the floor and gave it a look. After studying it for a bit, it was no surprise to them that the girl wasn't able to make use of the book. This book was full of complex arcane knowledge which not everybody could make use of. If they themselves want to make use of this book, they would need someone genius enough to understand all the knowledge contained in it. ",241,"队伍放走了女孩。毕竟什么也没有发生，这不是他们的职责去维护法律。女孩感谢冒险者，在被允许后立刻跑开，可能是害怕冒险者会改变主意。  
+
+冒险者从地上拿起书，仔细看了看。经过一番研究，他们并不感到惊讶，女孩无法使用这本书。这本书充满了复杂的奥术知识，并不是每个人都能使用。如果他们自己想要使用这本书，他们需要一个足够聪明的人来理解其中的所有知识。"
+1834454200782848,WORLDEVENT241_DECISION2,Let the girl go and burn the book.,241,放女孩离开，烧掉书。
+1834454200782849,WORLDEVENT241_DECISION2RESULT0_PAGE1,"The Party let the girl go. After all nothing has happened and it wasn't their job to uphold the law. The girl thanked the adventurers and ran as soon as she was allowed to, probably afraid that the adventurers might change their mind. The adventurers took the book from the floor and gave it a look. After studying it for a bit, it was no surprise to them that the girl wasn't able to make use of the book. This book was full of complex arcane knowledge which not everybody would be able to understand.
+But that won't matter much now because the Party decided to destroy the book. It contained dangerous knowledge that's not supposed to be in the hands of men. They built a fire and burned it until there was nothing left of it.",241,"队伍放走了女孩。毕竟什么也没有发生，这不是他们的职责去维护法律。女孩感谢冒险者，在被允许后立刻跑开，可能是害怕冒险者会改变主意。冒险者从地上拿起书，仔细看了看。经过一番研究，他们并不感到惊讶，女孩无法使用这本书。这本书充满了复杂的奥术知识，并不是每个人都能理解。  
+但现在这并不重要，因为队伍决定销毁这本书。它包含了不应该落入人类之手的危险知识。他们生起火来，直到将其烧成灰烬。"

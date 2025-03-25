@@ -1,0 +1,42 @@
+ID,Key,String,EventID,TranslatedString
+1834453760380933,WORLDEVENT69_PAGE1,"From the two possible paths in front of {CHARACTER1}, {GENDER1:cond:=1?he|=0?she} decided to follow the right path. However, {CHARACTER1} was still wondering if that was the right decision.",69,在{CHARACTER1}面前的两条道路中，{GENDER1:cond:=1?他|=0?她}决定选择右边的道路。然而，{CHARACTER1}仍在思考这是否是正确的决定。
+1834453760380934,WORLDEVENT69_DECISION1,{DECISIONCHARACTER1} sticks to {GENDER1:cond:=1?his|=0?her} decision.,69,{DECISIONCHARACTER1}坚持{GENDER1:cond:=1?他的|=0?她的}决定。
+1834453760380935,WORLDEVENT69_DECISION1RESULT0_PAGE1,{CHARACTER1} went through with {GENDER1:cond:=1?his|=0?her} decision and followed the right path.,69,{CHARACTER1}坚持了{GENDER1:cond:=1?他的|=0?她的}决定，选择了右边的道路。
+1834453760380936,WORLDEVENT70_PAGE1,"Despite the slight setback with the traveler, {CHARACTER1} continued to follow the path. The Road Slasher will appear eventually, {GENDER1:cond:=1?he|=0?she} thought.",70,尽管与旅行者有些小插曲，{CHARACTER1}仍然继续沿着道路前行。道路屠夫最终会出现，{GENDER1:cond:=1?他|=0?她}想。
+1834453760380937,WORLDEVENT71_PAGE1,"As {CHARACTER1} continued to travel the path, {GENDER1:cond:=1?he|=0?she} spotted a lonesome figure coming from the opposite side. {CHARACTER1}'s grip tightened around {GENDER1:cond:=1?his|=0?her} weapon. Was this the infamous Road Slasher?
+
+{CHARACTER1}'s heart pounded and {GENDER1:cond:=1?his|=0?her} guard was up. {GENDER1:cond:=1?He|=0?She} continued to travel down the path, just like the traveler before {GENDER1:cond:=1?him|=0?her}.
+
+As the two figures drew nearer, {CHARACTER1} sneaked a glimpse at the other man. The man's face showed no interest in {CHARACTER1} and it seemed like he completely disregarded {GENDER1:cond:=1?him|=0?her}. Finally, they passed each other...and nothing happened. It seemed like the traveler was not {GENDER1:cond:=1?his|=0?her} target.",71,"当{CHARACTER1}继续沿着道路旅行时，{GENDER1:cond:=1?他|=0?她}发现了一个孤独的身影从对面走来。{CHARACTER1}握紧了{GENDER1:cond:=1?他的|=0?她的}武器。这是臭名昭著的道路屠夫吗？
+
+{CHARACTER1}的心跳加速，{GENDER1:cond:=1?他|=0?她}的警惕性提高。{GENDER1:cond:=1?他|=0?她}继续沿着道路前行，就像之前的旅行者一样。
+
+随着两个人影逐渐靠近，{CHARACTER1}偷偷瞥了一眼对方。那人的脸上没有对{CHARACTER1}的兴趣，似乎完全无视了{GENDER1:cond:=1?他|=0?她}。最终，他们擦肩而过……什么也没发生。看起来旅行者并不是{GENDER1:cond:=1?他的|=0?她的}目标。"
+1834453764575232,WORLDEVENT71_PAGE2,"However, just as {CHARACTER1}'s muscles started to relax, a sense of danger suddenly overwhelmed {GENDER1:cond:=1?him|=0?her}. {CHARACTER1} turned {GENDER1:cond:=1?his|=0?her} head, only to see the traveler, his face contorted with a sinister grin, unleashing a hidden blade and swinging it towards {GENDER1:cond:=1?him|=0?her}.",71,然而，就在{CHARACTER1}的肌肉开始放松时，一种危险感突然涌上心头。{CHARACTER1}转过{GENDER1:cond:=1?他的|=0?她的}头，看到旅行者面露阴险的微笑，释放出一把隐藏的刀刃，朝着{GENDER1:cond:=1?他|=0?她}挥来。
+1834453764575233,WORLDEVENT71_DECISION1,{DECISIONCHARACTER1} leaps backward.,71,{DECISIONCHARACTER1}向后跳。
+1834453764575234,WORLDEVENT71_DECISION1RESULT0_PAGE1,"{CHARACTER1} narrowly evaded the blade and immediately jumped back to put some distance between {GENDER1:cond:=1?him|=0?her} and the traveler, who turned out to be the Road Slasher.
+
+For a moment, the Slasher seemed to be lost for words after seeing his killing blow so easily evaded. But then he started to let out a sinister laugh.
+""Not bad! I was sure that would kill you, but it seems like you're not just an ordinary traveler."" He started to smirk, his face distorted with madness.
+""It will be my pleasure to skin your flesh from your body. HAHAHAHAHA!""
+
+{CHARACTER1} drew {GENDER1:cond:=1?his|=0?her} weapon and charged in.
+",71,"{CHARACTER1}险些躲过了刀刃，立刻跳回去与旅行者保持距离，而旅行者竟然是道路屠夫。
+
+一瞬间，屠夫在看到他的致命一击被轻易躲过后似乎失去了言语。但随后他开始发出阴险的笑声。  
+“不错！我本以为这会杀了你，但看起来你并不是普通的旅行者。”他开始露出得意的微笑，脸上扭曲着疯狂的神情。  
+“剥下你的皮肤将是我的乐趣。哈哈哈哈！”
+
+{CHARACTER1}拔出了{GENDER1:cond:=1?他的|=0?她的}武器，冲了上去。"
+1834453764575235,WORLDEVENT71_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} tried to evade the blade but was too slow. {GENDER1:cond:=1?he|=0?she} managed to avoid a lethal blow but still {CHARACTER1} suffered a deep cut and started to bleed. {GENDER1:cond:=1?he|=0?she} realized that if {GENDER1:cond:=1?he|=0?she} didn't stop the bleeding soon, then it could become a serious problem.
+
+The traveler who turned out to be the Slasher started to laugh and swung his weapon around like a madman. 
+""Not bad! I was sure that would kill you, but it seems like you're not just an ordinary traveler."" He licked the blood from his blade. ""Let's have some fun, shall we?""
+
+{CHARACTER1} drew {GENDER1:cond:=1?his|=0?her} weapon and charged in.
+",71,"{CHARACTER1}试图躲避刀刃，但反应太慢。{GENDER1:cond:=1?他|=0?她}成功避开了致命一击，但仍然{CHARACTER1}受了重伤，开始流血。{GENDER1:cond:=1?他|=0?她}意识到，如果不尽快止血，这可能会变成严重的问题。
+
+那个原来是屠夫的旅行者开始大笑，像个疯子一样挥舞着武器。  
+“不错！我本以为这会杀了你，但看起来你并不是普通的旅行者。”他舔了舔刀刃上的血。“我们来点乐子吧，如何？”
+
+{CHARACTER1}拔出了{GENDER1:cond:=1?他的|=0?她的}武器，冲了上去。"

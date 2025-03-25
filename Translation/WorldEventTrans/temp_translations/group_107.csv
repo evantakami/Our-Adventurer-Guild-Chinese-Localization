@@ -1,0 +1,165 @@
+ID,Key,String,EventID,TranslatedString
+1834454406303750,WORLDEVENT334_PAGE1,"As the adventurers continued their journey, an arrow suddenly flew right past them, embedding itself into the ground nearby. They scanned the area for the shooter but couldn't find anyone nearby.
+
+Upon closer inspection, the adventurers noticed that there was a message attached to the arrow. They retrieved it and read:
+",334,"当冒险者们继续他们的旅程时，一支箭矢突然飞过他们身边，嵌入附近的地面。他们扫视四周寻找射手，但附近并没有人。
+
+仔细一看，冒险者们注意到箭上附着了一条信息。他们取下箭矢，阅读道："
+1834454410498048,WORLDEVENT334_PAGE2,"""A group of beasts nearby has grown too strong and threatens the balance of these lands. Hunt them down, and a reward will be yours.""
+
+
+It was then that they also noticed the arrow had embedded itself close to what appeared to be bear tracks. It was reasonable to believe that these tracks belonged to the group of beasts the message was referring to.",334,"""附近一群野兽变得过于强大，威胁到这片土地的平衡。猎杀它们，奖励将属于你们。""
+
+此时，他们还注意到箭矢嵌入的位置靠近一条看似是熊的足迹。合理推测，这些足迹很可能属于信息中提到的那群野兽。"
+1834454410498049,WORLDEVENT334_DECISION1,Hunt the beasts.,334,猎杀野兽。
+1834454410498050,WORLDEVENT334_DECISION1RESULT0_PAGE1,"The adventurers followed the tracks and soon came upon a sizable group of bear. As they approached, the keen senses of the beasts caught wind of their presence, prompting them to growl at the adventurers threateningly.
+
+Prepare for battle!",334,"冒险者们沿着足迹追踪，很快发现了一大群熊。当他们靠近时，野兽们敏锐的感官察觉到了他们的存在，开始对冒险者们低吼，显得十分威胁。
+
+准备战斗！"
+1834454410498051,WORLDEVENT334_DECISION2,Ignore the message.,334,忽视这条信息。
+1834454410498052,WORLDEVENT334_DECISION2RESULT0_PAGE1,The adventurers  ignored the message and simply moved on. They would not do a task for somebody whose face they didn't know.,334,冒险者们忽视了这条信息，继续前行。他们不会为一个陌生人的任务而冒险。
+1834454410498053,WORLDEVENT335_PAGE1,"The adventurers successfully dispatched all of the bears, though the battle had not been easy. As they surveyed the aftermath of the skirmish, another arrow flew by but this time something else was attached to it.
+
+It was their reward.",335,"冒险者们成功击败了所有的熊，尽管战斗并不轻松。当他们查看小冲突的后果时，又一支箭飞过，但这次附着了别的东西。
+
+那是他们的奖励。"
+1834454410498054,WORLDEVENT336_PAGE1,"Ahead of the adventurers were a group of bandits blocking the road. It seemed like they were waiting for their next group of victims.
+The adventurers could see that the bandits slightly outnumbered them. A fight was therefore not in their best interest. The party remembered what their Guild Master said to them and started to think about alternate ways to get past them.",336,"在冒险者们面前，一群强盗挡住了道路。他们似乎在等待下一个受害者。  
+冒险者们看到强盗人数略多于他们，因此与其交战并不明智。队伍想起了公会会长对他们说过的话，开始考虑其他通过的方式。"
+1834454410498055,WORLDEVENT336_DECISION1,Try to intimidate the bandits to let the party through.,336,尝试威吓强盗让队伍通过。
+1834454410498056,WORLDEVENT336_DECISION1RESULT0_PAGE1,"{CHARACTER1} suggested that they should just walk towards the bandits confidently. {GENDER1:cond:=1?He|=0?She} argues that if they seem intimidating enough, they might just let them through without a fight. The others agreed to the plan and together they walked towards the bandits.",336,{CHARACTER1}建议他们应该自信地走向强盗。{GENDER1:cond:=1?他|=0?她}认为如果他们看起来足够威吓，强盗可能就会让他们通过，而不需要打斗。其他人同意了这个计划，大家一起走向强盗。
+1834454414692352,WORLDEVENT336_DECISION1RESULT0_PAGE2,"As the party approached, the bandits appeared taken aback by their lack of fear.
+{CHARACTER1} adopted a fierce expression on {GENDER1:cond:=1?his|=0?her} face, hoping to intimidate the bandits.
+
+The bandits huddled together, murmuring in hushed tones, seemingly considering the group's approach. The adventurers were already amidst the bandits and just continued walking. If the bandits wanted to attack then this was their best opportunity.
+",336,"当队伍接近时，强盗们似乎对他们缺乏恐惧感到惊讶。  
+{CHARACTER1}在{GENDER1:cond:=1?他|=0?她}的脸上摆出凶狠的表情，希望能威吓强盗。
+
+强盗们聚在一起，低声交谈，似乎在考虑这个队伍的接近。冒险者们已经走到强盗中间，继续前行。如果强盗想要攻击，那么这是他们最好的机会。"
+1834454414692353,WORLDEVENT336_DECISION1RESULT0_PAGE3,"However, surprisingly the bandits just let the adventurers through without doing anything. It seems like none of them had the guts to attack.
+
+The Guild Master silently asked themselves, 'How did that plan work?'",336,"然而，令人惊讶的是，强盗们竟然什么也没做就让冒险者们通过。看来他们没有一个人敢于攻击。
+
+公会会长默默地问自己，‘这个计划怎么会成功？’"
+1834454414692354,WORLDEVENT336_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} suggested that they should just walk towards the bandits confidently. {GENDER1:cond:=1?He|=0?She} argues that if they seem intimidating enough, they might just let them through without a fight. The others agreed to the plan and together they walked towards the bandits.
+",336,{CHARACTER1}建议他们应该自信地走向强盗。{GENDER1:cond:=1?他|=0?她}认为如果他们看起来足够威吓，强盗可能就会让他们通过，而不需要打斗。其他人同意了这个计划，大家一起走向强盗。
+1834454414692355,WORLDEVENT336_DECISION1ALTRESULT0_PAGE2,"As the party approached, the bandits appeared taken aback by their lack of fear.
+{CHARACTER1} adopted a fierce expression on {GENDER1:cond:=1?his|=0?her} face, hoping to intimidate the bandits.
+
+The bandits huddled together, murmuring in hushed tones, seemingly considering the group's approach. For an instant, it seemed as though the plan was effective.
+
+",336,"当队伍接近时，强盗们似乎对他们缺乏恐惧感到惊讶。  
+{CHARACTER1}在{GENDER1:cond:=1?他|=0?她}的脸上摆出凶狠的表情，希望能威吓强盗。
+
+强盗们聚在一起，低声交谈，似乎在考虑这个队伍的接近。片刻之间，似乎计划有效。"
+1834454414692356,WORLDEVENT336_DECISION1ALTRESULT0_PAGE3,"Their Guild Master, who watched the adventurers knew that the plan didn't work as they adventurers would like to believe. To them, the adventurers appeared like harmless kittens making faces before the bandits - endearing yet ultimately defenseless. The Guild Master was sure that the bandits were actually whispering ""Easy preys!"" to each other.
+
+To nobody's surprise but the adventurers', the bandits attacked them.
+
+",336,"他们的公会会长，目睹了冒险者们，知道这个计划并没有如他们所愿那样成功。在他们看来，冒险者就像是无害的小猫在强盗面前做鬼脸——可爱却终究无助。公会会长确信强盗们实际上在互相低声说着“轻松的猎物！”
+
+对于除了冒险者之外的任何人来说，强盗们的攻击并不令人意外。"
+1834454414692357,WORLDEVENT336_DECISION2,Have one of them try to lure the bandits away.,336,让其中一个人试图引开强盗。
+1834454414692358,WORLDEVENT336_DECISION2RESULT0_PAGE1,"{CHARACTER1} suggested that {GENDER1:cond:=1?he|=0?she} would lure the bandits away. {GENDER1:cond:=1?He|=0?She} was confident in {GENDER1:cond:=1?his|=0?her} speed and believed that {GENDER1:cond:=1?he|=0?she} could outrun them and shake them somewhere off. Afterwards {GENDER1:cond:=1?he|=0?she} would catch up to them.
+
+The others agreed to the plan.",336,"{CHARACTER1}建议{GENDER1:cond:=1?他|=0?她}会引开强盗。{GENDER1:cond:=1?他|=0?她}对{GENDER1:cond:=1?他|=0?她}的速度很有信心，并相信{GENDER1:cond:=1?他|=0?她}能够跑得比他们快，并在某个地方甩掉他们。之后{GENDER1:cond:=1?他|=0?她}会追上他们。
+
+其他人同意了这个计划。"
+1834454414692359,WORLDEVENT336_DECISION2RESULT0_PAGE2,"{CHARACTER1} started to stretch a bit and walked towards the bandits. The bandits were initially confused to see someone just brazenly walk towards them. That was not exactly how they pictured the day to go.
+
+But that initial confusion lasted only for a moment, after {CHARACTER1} started to hurl insults at them, that would make even a sailor blush.
+
+Just as planned the bandits started to chase after {CHARACTER1} in a fit of rage.",336,"{CHARACTER1}开始伸展了一下，走向强盗。强盗们起初对看到有人如此大胆地走向他们感到困惑。这并不是他们想象中的一天。
+
+但这种初始的困惑只持续了片刻，{CHARACTER1}开始朝他们大声辱骂，连水手听了都会脸红。
+
+正如计划那样，强盗们愤怒地开始追逐{CHARACTER1}。"
+1834454418886656,WORLDEVENT336_DECISION2RESULT0_PAGE3,"The party waited for a while for {CHARACTER1} to return. They weren't sure when {CHARACTER1} would return. 
+Or if {GENDER1:cond:=1?he|=0?she} would return at all...A thought none of them said out aloud but harbored nonetheless. 
+
+At some point the Guild Master wondered if they should just tell the adventurers to move on and consider {CHARACTER1} lost for now.",336,"队伍等了一会儿，等待{CHARACTER1}的归来。他们不确定{CHARACTER1}何时会回来。  
+或者{GENDER1:cond:=1?他|=0?她}是否会回来……这是他们心中默默想却没有说出口的想法。
+
+在某个时刻，公会会长想知道是否应该告诉冒险者们继续前进，并考虑暂时将{CHARACTER1}视为失踪。"
+1834454418886657,WORLDEVENT336_DECISION2RESULT0_PAGE4,"Just as the Guild Master was about to say their thoughts, a hand reached out and grabbed them from behind. It was {CHARACTER1}, wearing a triumphant expression.
+
+
+The Guild Master thought to themself, <i>Perhaps these adventurers have what it takes after all</i>, and smiled inwardly.",336,"就在公会会长准备说出自己的想法时，一只手从背后伸出抓住了他们。是{CHARACTER1}，脸上带着胜利的表情。
+
+公会会长心想，<i>也许这些冒险者果然有能力</i>，内心微笑。"
+1834454418886658,WORLDEVENT336_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} suggested that {GENDER1:cond:=1?he|=0?she} would lure the bandits away. {GENDER1:cond:=1?He|=0?She} was confident in {GENDER1:cond:=1?his|=0?her} speed and believed that {GENDER1:cond:=1?he|=0?she} could outrun them and shake them somewhere off. Afterwards {GENDER1:cond:=1?he|=0?she} would catch up to them.
+
+The others agreed to the plan.",336,"{CHARACTER1}建议{GENDER1:cond:=1?他|=0?她}会引开强盗。{GENDER1:cond:=1?他|=0?她}对{GENDER1:cond:=1?他|=0?她}的速度很有信心，并相信{GENDER1:cond:=1?他|=0?她}能够跑得比他们快，并在某个地方甩掉他们。之后{GENDER1:cond:=1?他|=0?她}会追上他们。
+
+其他人同意了这个计划。"
+1834454418886659,WORLDEVENT336_DECISION2ALTRESULT0_PAGE2,"{CHARACTER1} started to stretch a bit and walked towards the bandits. The bandits were initially confused to see someone just brazenly walk towards them. That was not exactly how they pictured the day to go.
+
+But that initial confusion lasted only for a moment, after {CHARACTER1} started to hurl insults at them, that would make even a sailor blush.
+
+Just as planned the bandits started to chase after {CHARACTER1} in a fit of rage.",336,"{CHARACTER1}开始伸展了一下，走向强盗。强盗们起初对看到有人如此大胆地走向他们感到困惑。这并不是他们想象中的一天。
+
+但这种初始的困惑只持续了片刻，{CHARACTER1}开始朝他们大声辱骂，连水手听了都会脸红。
+
+正如计划那样，强盗们愤怒地开始追逐{CHARACTER1}。"
+1834454418886660,WORLDEVENT336_DECISION2ALTRESULT0_PAGE3,"The party waited for a while for {CHARACTER1} to return. They weren't sure when {CHARACTER1} would return. 
+Or if {GENDER1:cond:=1?he|=0?she} would return at all...A thought none of them said out aloud but harbored nonetheless. 
+
+However, before they could worry too much, they finally heard {CHARACTER1}'s voice, shouting for them.
+",336,"队伍等了一会儿，等待{CHARACTER1}的归来。他们不确定{CHARACTER1}何时会回来。  
+或者{GENDER1:cond:=1?他|=0?她}是否会回来……这是他们心中默默想却没有说出口的想法。
+
+然而，在他们还没担心太多之前，他们终于听到了{CHARACTER1}的声音，正在大声呼喊着他们。"
+1834454418886661,WORLDEVENT336_DECISION2ALTRESULT0_PAGE4,"A feeling of relief spread through the party.
+
+Only to be replaced by disbelief when they saw that the bandits were still chasing after {CHARACTER1} with the same look of rage they had at the start of the chase. It seems {CHARACTER1}'s provocations were too effective.
+
+The Guild Master sighed.   ",336,"一种松了一口气的感觉在队伍中蔓延。
+
+却在看到强盗们仍然愤怒地追着{CHARACTER1}时，被不敢置信的情绪取代。看来{CHARACTER1}的挑衅太有效了。
+
+公会会长叹了口气。"
+1834454418886662,WORLDEVENT336_DECISION3,Pretend to be bandits.,336,假装成强盗。
+1834454418886663,WORLDEVENT336_DECISION3RESULT0_PAGE1,"{CHARACTER1} put forth the idea that they could masquerade as bandits and attempt to negotiate their way through. Since adventurers were often mistaken for bandits, there was a chance they could pull it off. After all, bandits wouldn't just rob other bandits, would they?
+
+
+The Guild Master shared their reservations, but the rest of the party seemed willing to give the plan a try.",336,"{CHARACTER1}提出了一个主意，他们可以伪装成强盗，试图通过谈判来通过。由于冒险者常常被误认为是强盗，他们有可能成功。毕竟，强盗不会抢劫其他强盗吧？
+
+公会会长对此表示怀疑，但其余的队伍似乎愿意尝试这个计划。"
+1834454423080960,WORLDEVENT336_DECISION3RESULT0_PAGE2,"Together, they brazenly walked towards the bandits, their movements purposefully rough and sketchy. At first, the bandits seemed wary of the approaching group, but {CHARACTER1} quickly diffused the tension by claiming they too were bandits.
+
+{CHARACTER1} played the role of a seasoned bandit rather convincingly and started to rant about the difficulties of their chosen lifestyle. To the Guild Master's surprise, the bandits readily agreed and shared their own complaints. {CHARACTER1} lightened the mood with a clever quip, and they all erupted into laughter. ",336,"他们一起大胆地走向强盗，故意让动作显得粗暴而随意。起初，强盗们似乎对这个接近的队伍感到警惕，但{CHARACTER1}迅速通过声称他们也是强盗来缓解了紧张气氛。
+
+{CHARACTER1}相当成功地扮演了一个老练的强盗，开始抱怨他们所选择的生活方式的困难。令公会会长惊讶的是，强盗们很快就同意了，并分享了他们自己的抱怨。{CHARACTER1}用一个聪明的玩笑缓和了气氛，大家都笑了起来。"
+1834454423080961,WORLDEVENT336_DECISION3RESULT0_PAGE3,"At one point during their conversation, emotions began to run high, and everyone started crying for some inexplicable reason. One of the bandits spoke about his ailing grandmother, while another listed off the names of his twelve starving children. {CHARACTER1}, in turn, began to recount a sorrowful tale about {GENDER1:cond:=1?his|=0?her} disapproving parents, leaving the Guild Master uncertain as to whether anything {GENDER1:cond:=1?he|=0?she} said was actually true.",336,在他们交谈的某个时刻，情绪开始高涨，大家出乎意料地开始哭泣。一个强盗提到他生病的祖母，而另一个则列举了他十二个饥饿孩子的名字。{CHARACTER1}则开始讲述一个关于{GENDER1:cond:=1?他|=0?她}不被父母认可的悲伤故事，让公会会长不确定{GENDER1:cond:=1?他|=0?她}所说的是否真的。
+1834454423080962,WORLDEVENT336_DECISION3RESULT0_PAGE4,"The bandits and adventurers bid each other farewell and were allowed to pass. As they parted ways, {CHARACTER1} reassured the bandits that they were all capable of overcoming any obstacle in life, which moved the bandits to tears.
+
+Observing the emotional scene, the Guild Master remained silent, wondering if they had possibly hallucinated the encounter due to a head injury.",336,"强盗和冒险者们互道再见，并被允许通过。当他们分开时，{CHARACTER1}安慰强盗们说他们都能够克服生活中的任何障碍，这让强盗们感动得泪流满面。
+
+观察着这一情感场景，公会会长保持沉默，心中怀疑自己是否因为头部受伤而产生了幻觉。"
+1834454423080963,WORLDEVENT336_DECISION3ALTRESULT0_PAGE1,"{CHARACTER1} put forth the idea that they could pretend to be bandits and attempt to negotiate their way through. Since adventurers were often mistaken for bandits anyway, there was a chance they could pull it off. After all, bandits wouldn't just rob other bandits, would they?
+
+
+The Guild Master was doubtful, but the rest of the party seemed willing to give the plan a try.",336,"{CHARACTER1}提出了一个主意，他们可以假装成强盗，试图通过谈判来通过。由于冒险者常常被误认为是强盗，他们有可能成功。毕竟，强盗不会抢劫其他强盗吧？
+
+公会会长对此表示怀疑，但其余的队伍似乎愿意尝试这个计划。"
+1834454423080964,WORLDEVENT336_DECISION3ALTRESULT0_PAGE2,"Together, they brazenly walked towards the bandits, their movements purposefully rough and sketchy. At first, the bandits seemed wary of the approaching group, but {CHARACTER1} quickly diffused the tension by claiming they too were bandits.
+
+As they engaged in conversation, {CHARACTER1} played the role of a seasoned bandit rather convincingly and started to rant about the difficulties of their chosen lifestyle. To the Guild Master's surprise, the bandits readily agreed and shared their own complaints. {CHARACTER1} lightened the mood with a clever quip, and they all erupted into laughter. For a brief moment, the Guild Master entertained the possibility that the adventurers' absurd plan might just work.",336,"他们一起大胆地走向强盗，故意让动作显得粗暴而随意。起初，强盗们似乎对这个接近的队伍感到警惕，但{CHARACTER1}迅速通过声称他们也是强盗来缓解了紧张气氛。
+
+在交谈中，{CHARACTER1}相当成功地扮演了一个老练的强盗，开始抱怨他们所选择的生活方式的困难。令公会会长惊讶的是，强盗们很快就同意了，并分享了他们自己的抱怨。{CHARACTER1}用一个聪明的玩笑缓和了气氛，大家都笑了起来。公会会长一度 entertained 了冒险者们荒谬计划可能成功的可能性。"
+1834454423080965,WORLDEVENT336_DECISION3ALTRESULT0_PAGE3,"{CHARACTER1} declared that they needed to move on and find some potential targets. However, as {GENDER1:cond:=1?he|=0?she} was about to leave, {GENDER1:cond:=1?his|=0?her} newly found bandit friends blocked {GENDER1:cond:=1?his|=0?her} way. {CHARACTER1}'s expression fell, as if the world had just come to an end.
+
+""It's not personal...you understand, right?"" muttered one of the bandits, avoiding {CHARACTER1}'s gaze. Suddenly, the bandits drew their weapons, and the other adventurers followed suit.
+
+Just before the inevitable brawl broke out, {CHARACTER1} let out a desperate cry: ""I thought we were friends!""",336,"{CHARACTER1}宣称他们需要继续前进，寻找潜在的目标。然而，当{GENDER1:cond:=1?他|=0?她}准备离开时，{GENDER1:cond:=1?他|=0?她}新交的强盗朋友们挡住了{GENDER1:cond:=1?他|=0?她}的去路。{CHARACTER1}的表情瞬间变得沮丧，仿佛世界刚刚结束。
+
+“这不是个人恩怨……你明白的，对吧？”一个强盗低声说，避开了{CHARACTER1}的目光。突然，强盗们拔出了武器，其他冒险者们也跟着行动。
+
+就在即将爆发的冲突前，{CHARACTER1}发出绝望的呐喊：“我以为我们是朋友！”"
+1834454423080966,WORLDEVENT336_DECISION4,Attack the bandits.,336,攻击强盗。
+1834454427275264,WORLDEVENT336_DECISION4RESULT0_PAGE1,"The adventurers put their heads together for a solution but couldn't come up with a creative solution to their problem. They just shrugged their shoulders and did the one thing they knew how to do.
+
+They charged at the surprised bandits yelling and started a fight. Leaving behind their Guild Master, who could only facepalm in response to their actions.",336,"冒险者们集思广益寻找解决方案，却无法想出创造性的办法来解决他们的问题。他们只是耸了耸肩，做了他们唯一知道的事情。
+
+他们朝惊讶的强盗们冲去，喊叫着开始了战斗。留下他们的公会会长，只能无奈地捂脸以回应他们的行为。"

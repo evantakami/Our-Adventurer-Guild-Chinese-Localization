@@ -1,0 +1,61 @@
+ID,Key,String,EventID,TranslatedString
+1834454385332225,WORLDEVENT325_DECISION1,{CHARACTER1} is confident in {GENDER1:cond:=1?his|=0?her} stamina.,325,{CHARACTER1} 对 {GENDER1:cond:=1?他的|=0?她的} 耐力充满信心。
+1834454385332226,WORLDEVENT325_DECISION1RESULT0_PAGE1,"{CHARACTER1} steeled {GENDER1:cond:=1?him|=0?her}self against the relentless onslaught of the storm. Through sheer endurance, {GENDER1:cond:=1?he|=0?she} pushed forward, each step another battle on its own.
+
+The howling winds whipped against {CHARACTER1}'s face, biting at {GENDER1:cond:=1?his|=0?her} skin with icy fangs. The elements conspired to test {GENDER1:cond:=1?his|=0?her} limits, to break {GENDER1:cond:=1?him|=0?her} down and force {GENDER1:cond:=1?him|=0?her} to retreat. But {CHARACTER1}'s resilience burned brighter than the fiercest blizzard.",325,"{CHARACTER1} 坚定地抵御着风暴的无情冲击。凭借顽强的毅力，{GENDER1:cond:=1?他|=0?她}不断向前，每一步都是一场独立的战斗。  
+
+呼啸的狂风抽打着 {CHARACTER1} 的脸庞，像冰冷的尖牙一样撕咬着 {GENDER1:cond:=1?他的|=0?她的} 皮肤。自然元素阴险地试探着 {GENDER1:cond:=1?他的|=0?她的} 极限，想要击垮 {GENDER1:cond:=1?他|=0?她}，迫使 {GENDER1:cond:=1?他|=0?她} 退却。但 {CHARACTER1} 的韧性比最猛烈的暴风雪更为耀眼。"
+1834454385332227,WORLDEVENT325_DECISION1RESULT0_PAGE2,"As {CHARACTER1} finally neared the figure, completely battered by the weather, every limb frostbitten and tethering at the border of life and death, details began to emerge from the swirling white. 
+
+Finally, {GENDER1:cond:=1?he|=0?she} stood face to face with the mysterious being amidst the tumultuous storm.",325,"当 {CHARACTER1} 终于接近那个身影时，完全被恶劣天气摧残得体无完肤，四肢冻伤，濒临生死边缘，细节开始从旋转的白色中浮现。  
+
+最终，{GENDER1:cond:=1?他|=0?她}与这个神秘的存在在狂风暴雨中面对面。"
+1834454385332228,WORLDEVENT325_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} steeled {GENDER1:cond:=1?him|=0?her}self against the relentless onslaught of the storm. Through sheer endurance, {GENDER1:cond:=1?he|=0?she} pushed forward, each step another battle on its own.
+
+The howling winds whipped against {CHARACTER1}'s face, biting at {GENDER1:cond:=1?his|=0?her} skin with icy fangs. The elements conspired to test {GENDER1:cond:=1?his|=0?her} limits, to break {GENDER1:cond:=1?him|=0?her} down and force {GENDER1:cond:=1?him|=0?her} to retreat. ",325,"{CHARACTER1} 坚定地抵御着风暴的无情冲击。凭借顽强的毅力，{GENDER1:cond:=1?他|=0?她}不断向前，每一步都是一场独立的战斗。  
+
+呼啸的狂风抽打着 {CHARACTER1} 的脸庞，像冰冷的尖牙一样撕咬着 {GENDER1:cond:=1?他的|=0?她的} 皮肤。自然元素阴险地试探着 {GENDER1:cond:=1?他的|=0?她的} 极限，想要击垮 {GENDER1:cond:=1?他|=0?她}，迫使 {GENDER1:cond:=1?他|=0?她} 退却。"
+1834454385332229,WORLDEVENT325_DECISION1ALTRESULT0_PAGE2,"Each step started become harder and harder. {CHARACTER1} could hardly feel {GENDER1:cond:=1?his|=0?her} limbs anymore. And despite all that, the distance to the figure seemed to be even farther than it was before. {CHARACTER1} started to question {GENDER1:cond:=1?his|=0?her} decision and wondered if this were the place where they would die.
+
+Finally {CHARACTER1}'s consicousness started to fade away.",325,"每一步变得越来越艰难。{CHARACTER1} 几乎感受不到 {GENDER1:cond:=1?他的|=0?她的} 四肢了。尽管如此，通往那个身影的距离似乎比之前更远。{CHARACTER1} 开始质疑 {GENDER1:cond:=1?他的|=0?她的} 决定，并想知道这是否是他们将要死去的地方。  
+
+最终，{CHARACTER1} 的意识开始渐渐模糊。"
+1834454385332230,WORLDEVENT325_DECISION1ALTRESULT0_PAGE3,"As {CHARACTER1} slowly regained consciousness, {GENDER1:cond:=1?he|=0?she} saw the worried faces of {GENDER1:cond:=1?his|=0?her} comrades standing around {GENDER1:cond:=1?him|=0?her}. The relentless storm has finally stopped and that might be the only reason {CHARACTER1} was still alive. {GENDER1:cond:=1?his|=0?her} body was a mess and it proved even difficult to stand up with the help of {GENDER1:cond:=1?his|=0?her} comrades.
+
+{CHARACTER1} felt stupid for the decision {GENDER1:cond:=1?he|=0?she} has made. But at least none of the other party members decided to called {GENDER1:cond:=1?him|=0?her} out on it. {GENDER1:cond:=1?his|=0?her} current state was punishment enough.",325,"当 {CHARACTER1} 慢慢恢复意识时，{GENDER1:cond:=1?他|=0?她} 看到了 {GENDER1:cond:=1?他|=0?她} 的同伴们围绕着 {GENDER1:cond:=1?他|=0?她} 露出的担忧神情。无情的风暴终于停息，这也许是 {CHARACTER1} 仍然活着的唯一原因。{GENDER1:cond:=1?他的|=0?她的} 身体一片狼藉，甚至在同伴的帮助下站起来都显得困难。  
+
+{CHARACTER1} 对自己做出的决定感到愚蠢。但至少没有其他队员指责 {GENDER1:cond:=1?他|=0?她}。{GENDER1:cond:=1?他|=0?她} 目前的状态已经是足够的惩罚。"
+1834454389526528,WORLDEVENT325_DECISION2,{CHARACTER1} will not yield against the weather,325,{CHARACTER1} 不会向恶劣天气屈服
+1834454389526529,WORLDEVENT326_PAGE1,"The figure before {GENDER1:cond:=1?him|=0?her} revealed itself to be a magnificent wolf of extraordinary size. Its coat, a mesmerizing hue of white, radiated an ethereal blue glow, captivating {CHARACTER1}'s fading consciousness.
+
+Despite {GENDER1:cond:=1?his|=0?her} battered state, a surge of indescribable admiration coursed through {CHARACTER1}'s frigid veins. The wolf exuded an unearthly beauty that transcended mortal comprehension, igniting a profound sense of wonder and reverence within {CHARACTER1}'s dwindling spirit.
+
+As darkness started to cloud {CHARACTER1}'s vision, the wolf extended its regal head toward {CHARACTER1}. A flashing bright light and sense of warmth were the last sensations {CHARACTER1} felt, before {GENDER1:cond:=1?he|=0?she} finally slipped into the depths of unconsciousness.",326,"{GENDER1:cond:=1?他|=0?她} 面前的身影显露出一只非凡大小的华丽狼。它的毛发呈现出迷人的白色光泽，散发着超凡的蓝色光辉，吸引着 {CHARACTER1} 渐渐模糊的意识。  
+
+尽管 {GENDER1:cond:=1?他|=0?她} 的状态很糟糕，但一股难以形容的敬畏之情在 {CHARACTER1} 冰冷的血管中涌动。这只狼散发出一种超凡的美，超越了凡人的理解，点燃了 {CHARACTER1} 渐弱的灵魂中的深刻敬畏感。  
+
+当黑暗开始笼罩 {CHARACTER1} 的视线时，狼向 {CHARACTER1} 伸出了它高贵的头颅。闪烁的明亮光芒和温暖的感觉是 {CHARACTER1} 感受到的最后一丝感官，随后 {GENDER1:cond:=1?他|=0?她} 最终沉入了无意识的深渊。"
+1834454389526530,WORLDEVENT326RESULT0_PAGE1,"As {CHARACTER1} slowly regained consciousness, {GENDER1:cond:=1?he|=0?she} saw the worried faces of {GENDER1:cond:=1?his|=0?her} comrades standing around {GENDER1:cond:=1?him|=0?her}. The relentless storm had abated and astonishingly, {CHARACTER1} felt revitalized, {GENDER1:cond:=1?his|=0?her} body restored to a state of perfect health. 
+
+{CHARACTER1} started to inquire about the giant wolf, {GENDER1:cond:=1?he|=0?she} had seen, but none of {GENDER1:cond:=1?his|=0?her} comrades could answer. When they found {GENDER1:cond:=1?him|=0?her} {GENDER1:cond:=1?he|=0?she} was all alone.
+
+Uncertain if it all has just been a vivid dream, {CHARACTER1} decided to not press the matter any further. As {GENDER1:cond:=1?he|=0?she} rose to {GENDER1:cond:=1?his|=0?her} feet, {CHARACTER1} realized something strange. {GENDER1:cond:=1?he|=0?she} didn't feel cold in any way.",326,"当 {CHARACTER1} 慢慢恢复意识时，{GENDER1:cond:=1?他|=0?她} 看到了 {GENDER1:cond:=1?他|=0?她} 的同伴们围绕着 {GENDER1:cond:=1?他|=0?她} 露出的担忧神情。无情的风暴已经平息，令人惊讶的是，{CHARACTER1} 感到焕然一新，{GENDER1:cond:=1?他的|=0?她的} 身体恢复到了完美的健康状态。  
+
+{CHARACTER1} 开始询问关于那只巨狼的事情，{GENDER1:cond:=1?他|=0?她} 见过，但没有任何同伴能够回答。当他们找到 {GENDER1:cond:=1?他|=0?她} 时，{GENDER1:cond:=1?他|=0?她} 是孤身一人。  
+
+不确定这一切是否只是一个生动的梦，{CHARACTER1} 决定不再追究。当 {GENDER1:cond:=1?他|=0?她} 站起身来时，{CHARACTER1} 意识到了一些奇怪的事情。{GENDER1:cond:=1?他|=0?她} 完全没有感到寒冷。"
+1834454389526531,WORLDEVENT327_DECISION1,The party has to weather through the storm,327,队伍必须在风暴中坚持下去
+1834454389526532,WORLDEVENT327_DECISION1RESULT0_PAGE1,"For hours on end, the party battled against the merciless onslaught of the snowstorm. The howling winds whipped through the air, biting at their exposed skin and stealing away their warmth.
+
+Yet, they pressed on.
+
+The passage of time became immeasurable as they persevered through the whiteout. Each minute felt like an eternity, their progress measured in inches rather than miles.",327,"数小时以来，队伍与无情的暴风雪进行了激烈的斗争。呼啸的狂风穿透空气，撕扯着他们暴露的肌肤，夺走了他们的温暖。  
+
+然而，他们依然坚持着。  
+
+时间的流逝变得无法衡量，他们在白色的狂暴中坚持着。每一分钟都像是一个世纪，他们的进展以英寸而非英里来衡量。"
+1834454389526533,WORLDEVENT327_DECISION1RESULT0_PAGE2,"Then, just as fast as it started, the snow storm began to finally wane.
+
+The Party has endured the storm.",327,"然后，就在暴风雪开始的那一刻，雪暴终于开始减弱。  
+
+队伍成功地忍耐了这场风暴。"

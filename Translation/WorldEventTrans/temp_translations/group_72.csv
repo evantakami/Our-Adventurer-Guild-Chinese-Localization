@@ -1,0 +1,41 @@
+ID,Key,String,EventID,TranslatedString
+1834454133673986,WORLDEVENT224_PAGE1,"""The first thing I like you to do is to chop some firewood for me. I don't have much more left. How much you ask?...How about enough to completely fill up my storage room?"" the old woman said and pointed to a little house big enough to probably fit two whole trolls in it.",224,"""我希望你们做的第一件事就是为我劈一些柴火。我剩下的可不多了。你问我需要多少？……那就足够填满我的储藏室吧？""老妇人说道，并指向一间小房子，里面大概能容纳两个完整的巨魔。"
+1834454133673987,WORLDEVENT224_DECISION1,"The Party goes chop, chop.",224,队伍开始劈柴。
+1834454133673988,WORLDEVENT224_DECISION1RESULT0_PAGE1,"The adventurers started to chop down the nearby trees and splitting the wood with a wedge. It was hard work, but none of the adventurers had any trouble with the physically demanding work, and it didn't take long until they chopped enough wood to last for a lifetime. Despite the good work the party did, the old woman looked slightly dissappointed.",224,冒险者们开始砍伐附近的树木，并用楔子劈开木材。这是一项艰苦的工作，但没有一个冒险者对这种体力劳动感到困难，不久他们就劈出了足够一辈子用的柴火。尽管队伍的工作做得很好，老妇人看起来还是有些失望。
+1834454133673989,WORLDEVENT224_DECISION1ALTRESULT0_PAGE1,"The adventurers started to chop down the nearby trees and splitting the wood with a wedge. It was hard work, and not everyone of them was made for it. It was hard keeping a flow, and so it took them a very long time until they finally managed to chop enough wood to last for a lifetime. Or at least what little lifetime the old woman had left, thought one of them.",224,冒险者们开始砍伐附近的树木，并用楔子劈开木材。这是一项艰苦的工作，并不是每个人都适合。保持节奏很困难，因此他们花了很长时间才终于劈出足够一辈子用的柴火。或者至少是老妇人剩下的那一点点生命，队伍中的一人这样想。
+1834454133673990,WORLDEVENT224_DECISION2,The Party changed their mind. They don't want to do chores.,224,队伍改变了主意。他们不想做杂务。
+1834454133673991,WORLDEVENT224_DECISION2RESULT0_PAGE1,"""I guess the woes of an old lady like me is just not worth the time of noble adventurers like you."" said the old woman with a gleeful smile on her face. The party could nearly taste the sarcasm in her voice.
+They left the old lady with mixed feelings while the  old lady herself waved the party goodbye with a satisfied smile on her face.",224,"""我想，一个像我这样的老人的烦恼根本不值得你们这些高贵的冒险者花时间。""老妇人面带愉快的微笑说道。队伍几乎能在她的声音中品尝到讽刺的味道。  
+他们带着复杂的心情离开了老妇人，而老妇人则满意地向队伍挥手告别。"
+1834454137868288,WORLDEVENT225_PAGE1,"""That was great work everyone! With this, I don't have to worry about firewood for quite a while! But, I hope you're not done just yet. There are still a few things I'd like you to do.""
+
+""Now, I'd like you to check on my traps. I put a lot of them in an area where there is usually a high amount of critters. It would be a great help if you could check if they caught anything. 
+But be careful! I don't want to brag, but I'm pretty good in setting up hard-to-spot traps. So, you need to be careful while searching. They're meant for small sized critters, so you don't have to worry too much about any lasting injuries.""",225,"""大家的工作真棒！有了这些，我就不用担心柴火一段时间了！不过，我希望你们还没有完成。还有一些事情我希望你们能帮我做。""
+
+""现在，我希望你们去检查一下我的陷阱。我在一个通常有很多小动物的地方放了很多陷阱。如果你们能检查一下有没有捕到什么，那将是个很大的帮助。  
+但要小心！我不想自夸，但我在设置难以发现的陷阱方面相当不错。所以，你们在寻找时要小心。它们是为小型动物准备的，所以你们不必太担心会造成什么严重的伤害。"""
+1834454137868289,WORLDEVENT225_PAGE2,"""I'd like to tell you where exactly the traps are placed, but alas, my memory isn't what it used to be. So, you just have to keep your eyes open!""
+
+The party started to suspect that the old lady had it out for them.",225,"""我想告诉你们陷阱具体放在哪里，但可惜，我的记忆不如从前了。所以，你们只能睁大眼睛！""
+
+队伍开始怀疑老妇人是不是在故意为难他们。"
+1834454137868290,WORLDEVENT225_DECISION1,The Party went to check on the traps.,225,队伍去检查陷阱。
+1834454137868291,WORLDEVENT225_DECISION1RESULT0_PAGE1,"The old woman wasn't kidding when she said that the traps were hard to spot. They were skillfully laid in a way where they perfectly blended with their environment. It wouldn't be that surprising to accidentally set off a trap even if you did know where the traps were laid. But thanks to {CHARACTER1}'s perceptive eyes, the party was able to identify all the traps without any harm.
+
+After collecting all the critters that got caught in the traps, they returned to the old woman who looked at the adventurers and gave a silent sigh.",225,"当老妇人说陷阱难以发现时，她并不是在开玩笑。它们被巧妙地布置，完美地融入了环境中。即使你知道陷阱放在哪里，意外触发陷阱也并不奇怪。但多亏了{CHARACTER1}敏锐的眼睛，队伍能够在没有任何伤害的情况下识别出所有陷阱。
+
+在收集到所有被捕的小动物后，他们回到了老妇人面前，她看着冒险者们，默默叹了口气。"
+1834454137868292,WORLDEVENT225_DECISION1ALTRESULT0_PAGE1,"The old woman wasn't kidding when she said that the traps were hard to spot. They were skillfully laid in a way where they perfectly blended with their environment. It wouldn't be that surprising to accidentally set off a trap even if you did know where the traps were laid. Unfortunately for the party they didn't know and it wasn't too surprising that during their checkup they've accidentally triggered several traps.
+
+When they finally arrived back to the old lady many of them were battered and bruised. A sorry sight for most but apparently a delightful one for the old lady, who had to hide a big grin.",225,"当老妇人说陷阱难以发现时，她并不是在开玩笑。它们被巧妙地布置，完美地融入了环境中。即使你知道陷阱放在哪里，意外触发陷阱也并不奇怪。不幸的是，队伍并不知道，结果在检查过程中他们意外触发了几个陷阱。
+
+当他们终于回到老妇人身边时，许多人都满身是伤。对大多数人来说这是个可怜的景象，但对老妇人来说却显得格外愉快，她不得不掩饰自己脸上的大笑容。"
+1834454137868293,WORLDEVENT225_DECISION2,No more chores!,225,不再做杂务！
+1834454137868294,WORLDEVENT226_PAGE1,"""Now I've only got one last task for you all, and it's an easy one this time,"" said the old woman. ""There is a certain herb I found a liking to, and I'd like you to collect them for me. No, don't worry, I can tell you exactly where to find them, and this time, there won't be any traps nearby.""
+
+""Buuuuut, it might be a little far away."" She gave them a brief description of the place they're supposed to go to, and the party realized it would be a long march.",226,"""现在我只剩下最后一个任务要交给你们，这次是个简单的任务，""老妇人说道。""我发现了一种我很喜欢的草药，希望你们能为我采集一些。不用担心，我可以告诉你们确切的地点，这次附近不会有任何陷阱。""
+
+""不过，可能有点远。""她给了他们一个简短的描述，队伍意识到这将是一次漫长的行军。"
+1834454137868295,WORLDEVENT226_DECISION1,Do the last task.,226,做最后一个任务。
+1834454142062592,WORLDEVENT226_DECISION1RESULT0_PAGE1,"The party had already invested too much time to leave things unfinished, so they went on their way to the place where the herbs were supposed to be.",226,队伍已经投入了太多时间，无法将事情留到未完成，所以他们朝着草药应该在的地方出发了。
+1834454142062593,WORLDEVENT226_DECISION2,Enough is enough! The old woman can do her own damn chores!,226,够了！老妇人自己可以做她的杂务！

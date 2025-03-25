@@ -1,0 +1,83 @@
+ID,Key,String,EventID,TranslatedString
+1834453626163210,WORLDEVENT7_PAGE1,"The Party didn't have to wait for long until the bandits finally showed up. 
+
+They were great in numbers with some of them carrying explosives. It was clear that they were intending to raze the whole village to the ground.
+
+When they saw the adventurers, they started to laugh.",7,"队伍没有等太久，强盗们终于出现了。  
+
+他们人数众多，其中一些人还携带着炸药。显然，他们打算将整个村庄夷为平地。  
+
+当他们看到冒险者时，开始大笑起来。"
+1834453630357504,WORLDEVENT7_PAGE2,"""Those damn villagers actually hired people to protect them! Hah!"" one of them said to his comrades. ""But look at them! It seemed like they couldn't afford much!"" the bandits around him started laughing even more.
+
+""Do you people have any idea who you're dealing with? We're part of the Bandit King's army!"" another one shouted. 
+
+""You should just run away while you still have the chance!""",7,"“这些该死的村民居然雇人来保护他们！哈哈！”其中一个对他的同伴说道。“但看看他们！似乎没花多少钱！”他周围的强盗们笑得更大声了。  
+
+“你们知道自己在和谁打交道吗？我们是强盗王军队的一部分！”另一个人喊道。  
+
+“你们最好趁现在还有机会赶紧逃跑！”"
+1834453630357505,WORLDEVENT7_DECISION1,Enough! The Party will fight the bandits to protect the village!,7,够了！队伍将与强盗作斗争以保护村庄！
+1834453630357506,WORLDEVENT7_DECISION1RESULT0_PAGE1,"The Party readied themselves. It was time to decide the fate of the village.
+
+Prepare for Battle!",7,"队伍做好了准备。是时候决定村庄的命运了。  
+
+准备战斗！"
+1834453630357507,WORLDEVENT7_DECISION1CONDRESULT1_PAGE1,"The Party readied themselves. It was time to decide the fate of the village.
+
+Prepare for Battle!",7,"队伍做好了准备。是时候决定村庄的命运了。  
+
+准备战斗！"
+1834453630357508,WORLDEVENT7_DECISION1CONDRESULT2_PAGE1,"The Party readied themselves. It was time to decide the fate of the village.
+
+Prepare for Battle!",7,"队伍做好了准备。是时候决定村庄的命运了。  
+
+准备战斗！"
+1834453630357509,WORLDEVENT7_DECISION1CONDRESULT3_PAGE1,"The Party readied themselves. It was time to decide the fate of the village.
+
+Prepare for Battle!",7,"队伍做好了准备。是时候决定村庄的命运了。  
+
+准备战斗！"
+1834453630357510,WORLDEVENT8_PAGE1,"After losing their leader and the majority of their forces, the remaining bandits fled from the battlefield. With the threat defeated, the villagers poured out of their homes and rushed to thank the brave adventurers who had saved them. They lifted the adventurers onto their shoulders, chanting their names in praise and gratitude.
+
+Today they were going to hold a feast in their honor!",8,"在失去他们的首领和大部分力量后，剩下的强盗从战场上逃跑了。威胁被消灭后，村民们涌出家门，急忙向拯救他们的勇敢冒险者们表示感谢。他们将冒险者们抬上肩头，齐声高唱他们的名字以示赞美和感激。  
+
+今天他们将为冒险者们举行盛宴！"
+1834453630357511,WORLDEVENT9_PAGE1,"The Party saw a group of children playing around on the field while a mother was calling out to them to get back into the house without much success.
+
+When the children saw the adventurers, they ran back towards their mother and hid behind her back.",9,"队伍看到一群孩子在田野上玩耍，而一位母亲则在呼唤他们回家，但并没有成功。  
+
+当孩子们看到冒险者时，他们跑回母亲身边，躲在她的背后。"
+1834453630357512,WORLDEVENT9_PAGE2,"The mother approached the adventurers and asked nervously:
+
+""Are you the adventurers from the Guild?""
+
+The adventurers confirmed that they were indeed the adventurers from the Adventurer Guild. Hearing that the woman seemingly relaxed a bit.",9,"母亲走近冒险者，紧张地问道：  
+
+“你们是公会的冒险者吗？”  
+
+冒险者们确认他们确实是来自冒险者公会的冒险者。听到这个，女人似乎放松了一些。"
+1834453630357513,WORLDEVENT9_PAGE3,"""Thank you very much for coming! If you're here for the elder, he should be in the middle of the village."" 
+
+The children, who initially hid from the adventurers, started to cautiously show themselves. They whispered something to their mother and ran back into their house.
+
+""I'm sorry but would you mind waiting a bit before going on? The children have something for you.""",9,"“非常感谢你们的到来！如果你们是来找长老的，他应该在村子的中央。”  
+
+那些最初躲避冒险者的孩子们开始小心翼翼地显露出来。他们对母亲低声说了些什么，然后又跑回了他们的家。  
+
+“抱歉，但你们能等一下再走吗？孩子们有东西要给你们。”"
+1834453634551808,WORLDEVENT9_DECISION1,The Party waits.,9,队伍等待。
+1834453634551809,WORLDEVENT9_DECISION1RESULT0_PAGE1,"The children came back and timidly gave them some very roughly made dolls out of cloth and grass stuffings. One for each of the adventurers
+
+""Those are guardian dolls."" the woman told the adventurers. ""These dolls are said to protect their owners by taking the harm for them. After the children heard that there were adventurers coming to help us they stayed up all night to make them for you.""",9,"孩子们回来了，害羞地递给他们一些用布和草做的非常粗糙的玩偶。每个冒险者都有一个。  
+
+“这些是守护玩偶。”女人告诉冒险者们。“这些玩偶据说可以通过替主人承受伤害来保护他们。在孩子们听说有冒险者来帮助我们后，他们整夜都没睡，做了这些给你们。”"
+1834453634551810,WORLDEVENT9_DECISION1RESULT0_PAGE2,"The adventurers knew that this was probably just some local superstition and the dolls probably don't do anything. Nevertheless they had to admit that they had a certain charm.
+
+They took the dolls and thanked the children.
+
+The mother and the children wished the adventurers good luck and went inside their house.",9,"冒险者们知道这可能只是一些地方迷信，玩偶可能并没有什么用处。尽管如此，他们不得不承认这些玩偶确实有一种独特的魅力。  
+
+他们接过玩偶，感谢孩子们。  
+
+母亲和孩子们祝愿冒险者们好运，然后回到了他们的家中。"

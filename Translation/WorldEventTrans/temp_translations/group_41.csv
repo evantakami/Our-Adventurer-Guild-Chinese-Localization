@@ -1,0 +1,71 @@
+ID,Key,String,EventID,TranslatedString
+1834453902987268,WORLDEVENT128_PAGE1,"<i>Find the truth of the rallying cry of your ancestors.
+
+Rally glorious abyss!
+Abandoned, belittled, battered thy!
+Abide less liars!
+All arise prestigiously!</i>",128,"<i>寻找你祖先呐喊的真相。
+
+荣耀的深渊，集结吧！  
+被遗弃、被轻视、被摧残的你！  
+不再容忍谎言！  
+所有人都要荣耀地崛起！</i>"
+1834453902987269,WORLDEVENT129_PAGE1,It sounds like the next round is about to begin.,129,听起来下一轮即将开始。
+1834453902987270,WORLDEVENT129_DECISION1,Enter the Arena,129,进入竞技场
+1834453902987271,WORLDEVENT129_DECISION1RESULT0_PAGE1,The adventurers entered the arena.,129,冒险者们进入了竞技场。
+1834453902987272,WORLDEVENT129_DECISION2,Prepare First,129,先做好准备
+1834453902987273,WORLDEVENT129_DECISION2RESULT0_PAGE1,The adventurers weren't ready yet.,129,冒险者们还没有准备好。
+1834453907181568,WORLDEVENT130_PAGE1,"However, the unfortunate target of the bolt was not Eden, but Nora, who instinctively threw herself in front of him just in time. The bolt struck her chest, and she crumpled to the ground.
+
+A chilling scream pierced the air, belonging to Eden, who rushed immediately to the fallen Nora. ""No, no, no, no! This can't be happening!"" he exclaimed, cradling her in his arms. Nora's eyes struggled to stay open, her breath erratic as she coughed up a sudden burst of blood.
+
+""Stay with me, Nora! I'll heal you! Don't worry! I'm here! I'm here with you!"" Eden tried to sound reassuring, but the panic in his voice betrayed him. ""I should have always been there,"" he lamented, tears streaming down his face.
+
+""I'm tired of this,"" the Bandit leader declared, and with another wave of his hand, another bolt flew towards Eden.",130,"然而，不幸的是，箭矢的目标并不是伊登，而是诺拉，她本能地及时冲到他面前。箭矢击中了她的胸口，她瘫倒在地。
+
+一声刺耳的尖叫划破了空气，属于伊登，他立刻冲向倒下的诺拉。“不，不，不，不！这不可能发生！”他惊呼着，将她抱在怀里。诺拉的眼睛努力保持睁开，呼吸急促，突然咳出一口鲜血。
+
+“和我在一起，诺拉！我会治愈你！别担心！我在这里！我和你在一起！”伊登试图让自己听起来令人安心，但他声音中的恐慌出卖了他。“我应该一直在你身边，”他悲叹着，泪水顺着脸颊流下。
+
+“我厌倦了这一切，”盗贼首领宣称，随后又挥手，另一支箭矢飞向伊登。"
+1834453907181569,WORLDEVENT130_DECISION1,<color=#2aa136>[Shield]</color>Could any of the adventurers react in time?,130,<color=#2aa136>[盾牌]</color>冒险者们能及时反应吗？
+1834453907181570,WORLDEVENT130_DECISION1RESULT0_PAGE1,"Before the bolt could reach Eden, {CHARACTER1}, swiftly intervened, raising {GENDER1:cond:=1?his|=0?her} shield to block the incoming projectile.
+
+The Bandit leader clicked his tongue in frustration, then barked orders for his men to charge the group.
+
+Sprinting toward Eden and the injured Nora, the Guild Master shouted, ""Focus, Eden! You can still save her, but you need to concentrate. Just try to focus on healing her."" The Guild Master then turned to the other adventurers, instructing them to shield the two from the impending bandit onslaught.
+
+The adventurers acknowledged the order, quickly assuming defensive positions and readying themselves for the impending battle against the charging bandits.",130,"在箭矢到达伊登之前，{CHARACTER1}迅速出手，举起{GENDER1:cond:=1?他的|=0?她的}盾牌，挡住了来袭的箭矢。
+
+盗贼首领恼怒地咂了咂舌，然后对他的手下发出命令，冲向队伍。
+
+冲向伊登和受伤的诺拉，公会会长大喊：“集中注意力，伊登！你仍然可以救她，但你需要专注。只需专注于治愈她。”公会会长随后转向其他冒险者，指示他们保护两人，抵御即将到来的盗贼攻击。
+
+冒险者们接受了命令，迅速采取防御姿势，准备迎接即将到来的与冲来的盗贼的战斗。"
+1834453907181571,WORLDEVENT130_DECISION1ALTRESULT0_PAGE1,"Unfortunately, nobody could react in time, and the bolt found its mark in Eden's back as he tried desperately to shield Nora from further harm. . Fortunately, it seemed like Eden was fast enough to chant a defensive spell, preventing the bolt from penetrating too deeply. Before more bolts could be fired, {CHARACTER1} positioned {GENDER1:cond:=1?himself|=0?herself} between Eden and the oncoming bandits, raising {GENDER1:cond:=1?his|=0?her} shield in a staunch defense.
+
+The Bandit leader clicked his tongue in frustration, then barked orders for his men to charge the group.
+
+Sprinting toward Eden and the injured Nora, the Guild Master shouted, ""Focus, Eden! You can still save her, but you need to concentrate. Just try to focus on healing her."" The Guild Master then turned to the other adventurers, instructing them to shield the two from the impending bandit onslaught.
+
+The adventurers acknowledged the order, quickly assuming defensive positions and readying themselves for the impending battle against the charging bandits.",130,"不幸的是，没有人能及时反应，箭矢在伊登试图拼命保护诺拉不受进一步伤害时击中了他的背部。幸运的是，似乎伊登足够快，念出了防御咒语，阻止了箭矢深入。还没等更多箭矢发射，{CHARACTER1}便站在伊登与来袭的盗贼之间，举起{GENDER1:cond:=1?他的|=0?她的}盾牌，坚定地防御。
+
+盗贼首领恼怒地咂了咂舌，然后对他的手下发出命令，冲向队伍。
+
+冲向伊登和受伤的诺拉，公会会长大喊：“集中注意力，伊登！你仍然可以救她，但你需要专注。只需专注于治愈她。”公会会长随后转向其他冒险者，指示他们保护两人，抵御即将到来的盗贼攻击。
+
+冒险者们接受了命令，迅速采取防御姿势，准备迎接即将到来的与冲来的盗贼的战斗。"
+1834453907181572,WORLDEVENT130_DECISION2,There was nothing they could do.,130,他们无能为力。
+1834453911375872,WORLDEVENT130_DECISION2RESULT0_PAGE1,"Unfortunately, nobody could do anything in time, and the bolt found its mark in Eden's back as he tried desperately to shield Nora from further harm. . Fortunately, it seemed like Eden was fast enough to chant a defensive spell, preventing the bolt from penetrating too deeply. Before more bolts could be fired, the party surrounded the Eden to protect him and Nora.
+
+The Bandit leader clicked his tongue in frustration, then barked orders for his men to charge the group.
+
+Sprinting toward Eden and the injured Nora, the Guild Master shouted, ""Focus, Eden! You can still save her, but you need to concentrate. Just try to focus on healing her."" The Guild Master then turned to the other adventurers, instructing them to shield the two from the impending bandit onslaught.
+
+The adventurers acknowledged the order, quickly assuming defensive positions and readying themselves for the impending battle against the charging bandits.",130,"不幸的是，没有人能及时做出反应，箭矢在伊登试图拼命保护诺拉不受进一步伤害时击中了他的背部。幸运的是，似乎伊登足够快，念出了防御咒语，阻止了箭矢深入。还没等更多箭矢发射，队伍围住了伊登，以保护他和诺拉。
+
+盗贼首领恼怒地咂了咂舌，然后对他的手下发出命令，冲向队伍。
+
+冲向伊登和受伤的诺拉，公会会长大喊：“集中注意力，伊登！你仍然可以救她，但你需要专注。只需专注于治愈她。”公会会长随后转向其他冒险者，指示他们保护两人，抵御即将到来的盗贼攻击。
+
+冒险者们接受了命令，迅速采取防御姿势，准备迎接即将到来的与冲来的盗贼的战斗。"

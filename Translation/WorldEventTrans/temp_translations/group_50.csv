@@ -1,0 +1,83 @@
+ID,Key,String,EventID,TranslatedString
+1834453974290439,WORLDEVENT156_PAGE1,"On their way the Party started to hear a voice calling out for them in the distance. Looking out for the source of the voice the Party spotted something strange: A sword buried into a stone.
+""Greetings travellers! Would you be so kind and help someone in need?"" The Party tried to locate the owner of the voice but from what they could tell there was nobody around. There was just them and...",156,"在路上，队伍开始听到远处传来的声音在呼唤他们。队伍寻找声音的来源，发现了一件奇怪的事物：一把剑插在石头里。  
+“旅人们，您好！您能否施以援手，帮助一个需要帮助的人？”队伍试图找到声音的主人，但从他们的观察来看，周围似乎没有人。只有他们和..."
+1834453974290440,WORLDEVENT156_PAGE2,"The Party immediately turned their heads to the sword in the stone.
+""Yes! That's right. It is I who has been speaking to you. As outlandish as it might sound, I am an articulate Sword. Ferdinand is the name or at least that's what I like to believe my name is."" ",156,"队伍立刻转头看向石中的剑。  
+“没错！正是我在和你们说话。虽然听起来有些离奇，但我是一把会说话的剑。费迪南德是我的名字，或者至少我喜欢相信这是我的名字。”"
+1834453974290441,WORLDEVENT156_PAGE3,"Somewhat overwhelmed by the situation the Party had no idea how to react and were in a loss for words. Contrary to them, the talking sword started to speak like it hadn't had a decent conversation in ages. ",156,队伍有些不知所措，不知道该如何反应，陷入了沉默。与他们相反，这把会说话的剑开始滔滔不绝，仿佛很久没有进行过体面的对话。
+1834453978484736,WORLDEVENT156_PAGE4,"""You see my friends; I hope you don't mind if I call you friends; I'm in a very particular situation. Life as a sentient sword is already something I cannot recommend, but I cannot stress how much worse it is being stuck in a dumb stone far away from any decent conversation partner.  So if you don't mind, would you be so kind to free me from this godsforsaken rock? If you do I'd be happy to be part of your entourage.""",156,“你们看，我的朋友们；我希望你们不介意我称呼你们为朋友；我正处于一种非常特殊的境地。作为一把有意识的剑，我的生活已经不值得推荐，但我无法强调被困在一块愚蠢的石头里，远离任何体面对话伙伴是多么糟糕。所以，如果你们不介意，能否好心地把我从这块被诅咒的岩石中解救出来？如果你们愿意，我将乐意成为你们的随行者。”
+1834453978484737,WORLDEVENT156_DECISION1,Ask the sword to tell about themself.,156,让剑讲讲它自己。
+1834453978484738,WORLDEVENT156_DECISION1RESULT0_PAGE1,"""I'm honored to have garnered your interest, but I'm afraid you might be disappointed to learn that my origins are a mystery to me as well. I do not know how many months it has been since I awoke like this, stuck in this humiliating prison made of rocks. Was I once a man? Or have I always been a sword and just gained sentience? I do not know. However, for the sake of my sanity I decided to believe that I always have been a sword.""",156,“我很荣幸能引起你们的兴趣，但恐怕你们会失望地发现，我的起源对我来说也是个谜。我不知道自从我像这样醒来，被困在这块令人羞愧的岩石监狱里已经过去了多少个月。我曾经是一个人吗？还是我一直都是一把剑，只是获得了意识？我不知道。然而，为了我的理智，我决定相信我一直都是一把剑。”
+1834453978484739,WORLDEVENT156_DECISION1RESULT0_PAGE2,"""I mean could you even imagine the nightmare if you knew you were once a person with four limbs, able to walk wherever you wished to, and were now reduced to an unmoving object with nothing more to yourself than your own thoughts? That would be quite frankly hell. HAHAHAHA"" 
+
+The sword laughed as if he just made a lighthearted joke instead of mentioning the possibility of an existential crisis.",156,"“我意思是，如果你知道自己曾经是一个有四肢的人，能够随心所欲地走动，而现在却沦落为一个没有任何其他东西的静止物体，只有自己的思想，那简直就是噩梦。坦白说，那将是地狱。哈哈哈哈！”  
+这把剑笑着，仿佛刚刚说了个轻松的笑话，而不是提到可能的存在危机。"
+1834453978484740,WORLDEVENT156_DECISION1RESULT0_PAGE3,"One of the Adventurers asked the sword if he had some sort of Ability. After hearing that, the sword uncharacteristically went silent for a while. ""...Well, considering the fact that I am very likely magical in nature and have a mysterious past, it's probably safe to assume that I am an outstanding weapon.""
+
+<i>Probably?</i> One of them remarked.
+
+""Well.., I do not think I can shoot fireballs or anything like that but I'm sure that I'm at least sharper than the average sword!"" The Party studied the blade but from what they can tell it didn't seem sharper than any other swords. ""M-Maybe there is some hidden ability inside me? Maybe you just have to unlock it?"" The party looked doubtful.",156,"一位冒险者问剑是否有某种能力。听到这个问题后，剑不寻常地沉默了一会儿。“...好吧，考虑到我很可能是魔法性质的，并且有一个神秘的过去，可能可以安全地假设我是一个杰出的武器。”  
+<i>可能？</i> 其中一人评论道。  
+“好吧，我不认为我能发射火球或其他类似的东西，但我敢肯定我至少比普通的剑锋利！”队伍观察着剑刃，但从他们的判断来看，它似乎并没有比其他剑更锋利。“也许我体内有某种隐藏的能力？也许你们只需要解锁它？”队伍对此表示怀疑。"
+1834453978484741,WORLDEVENT156_DECISION2,Try to pull the sword out of the stone.,156,尝试将剑拔出石头。
+1834453978484742,WORLDEVENT156_DECISION2RESULT0_PAGE1,"{CHARACTER1} rubs {GENDER1:cond:=1?his|=0?her} hands and put {GENDER1:cond:=1?his|=0?her} hands on the handle. {CHARACTER1} could tell that Ferdinand was stuck very deep in the stone. Anyone weaker than {GENDER1:cond:=1?him|=0?her} would have a hard time getting the sword out of the stone. But not {CHARACTER1}!
+{CHARACTER1} pulled with all {GENDER1:cond:=1?his|=0?her} might. The rock tried to resist, holding its prisoner as tight as it could, but with every pull, Ferdinand got a little bit looser. 
+Until eventually with one final pull, {CHARACTER1} managed to pull the sword out of the stone.
+""Well done! I knew from the moment I saw you that you would be my saviours! As promised, I will follow you until the end of times!"" Ferdinand proclaimed happily. ""Now who amongst you is going to wield me?"".
+
+The Party looked at each other. A good question indeed...",156,"{CHARACTER1}搓了搓{GENDER1:cond:=1?他的|=0?她的}手，握住了剑柄。{CHARACTER1}能感受到费迪南德深深地卡在石头里。任何比{GENDER1:cond:=1?他|=0?她}弱的人都很难将剑拔出石头。但{CHARACTER1}不怕！  
+{CHARACTER1}使出全力拉扯。岩石试图抵抗，尽可能紧紧抓住它的囚徒，但随着每一次拉扯，费迪南德变得越来越松动。  
+直到最终，在最后一次用力拉扯下，{CHARACTER1}成功将剑拔出石头。  
+“做得好！我从第一次见到你就知道你们会是我的救星！如承诺的那样，我将跟随你们直到时间的尽头！”费迪南德高兴地宣告。“那么，谁来使用我呢？”  
+队伍互相看着。这确实是个好问题..."
+1834453982679040,WORLDEVENT156_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} rubs {GENDER1:cond:=1?his|=0?her} hands and put {GENDER1:cond:=1?his|=0?her} hands on the handle. {CHARACTER1} could tell that Ferdinand was stuck very deeply in the stone. {CHARACTER1} attempted to pull the sword and put all {GENDER1:cond:=1?his|=0?her} weight into it. But Ferdinand wouldn't budge. {CHARACTER1} tried even harder but to no avail. {GENDER1:cond:=1?he|=0?she} just wasn't strong enough to pull the sword.
+""How unfortunate..."" Ferdinand said. For the first time they heard him sounding disheartened. ""W-well, it's nothing to fret about. I've already spent months stuck like this so waiting for a bit longer until I'm free is not something you should feel sorry about!"" he said, trying his best to sound cheerful again. The Adventurers promised that they would ask the Guild to send other people to come and help. ",156,"{CHARACTER1}搓了搓{GENDER1:cond:=1?他的|=0?她的}手，握住了剑柄。{CHARACTER1}能感受到费迪南德深深地卡在石头里。{CHARACTER1}尝试用尽全力拉扯剑，但费迪南德丝毫不动。{CHARACTER1}更加努力地尝试，但无济于事。{GENDER1:cond:=1?他|=0?她}就是没有足够的力量将剑拔出。  
+“真可惜...”费迪南德说道。第一次，他们听到他显得沮丧。“好吧，这没什么好担心的。我已经在这里被困了几个月，所以再等一段时间直到我被解救并不是你们应该感到抱歉的事情！”他努力让自己听起来再次愉快。冒险者们承诺会请求公会派其他人来帮忙。"
+1834453982679041,WORLDEVENT156_DECISION2ALTRESULT0_PAGE2,"""Is that so? Then I will stay here and eagerly arrive for their arrival!  It's not like I have anywhere else to go. HAHAHAHAHA!""
+The Party bid Ferdinand goodbye and with that they left the talking sword. He was now back to being alone with his own thoughts.
+
+
+<b>New assignment available in the Guild</b>",156,"“是吗？那么我就留在这里，期待他们的到来！我也没别的地方可去。哈哈哈哈！”  
+队伍向费迪南德道别，随后离开了这把会说话的剑。他现在又回到了与自己思想独处的状态。  
+
+<b>公会有新任务可接</b>"
+1834453982679042,WORLDEVENT157_PAGE1,"""Oh come on my friends! Do you really believe that if there was a talking sword that it would have no other ability besides the ability to speak? That would be such a pointless existence!""
+The fact that the sword could easily say that despite the possibility that they were that kind of existence made the Party wonder if Ferdinand was very mentally resilient or had already lost their marbles a long time ago.",157,"“哦，来吧，我的朋友们！你们真的相信如果有一把会说话的剑，它除了会说话之外就没有其他能力吗？那将是多么无意义的存在！”  
+剑能如此轻松地说出这句话，尽管他们可能就是那种存在，这让队伍怀疑费迪南德是否非常心理坚韧，或者早已失去理智。"
+1834453982679043,WORLDEVENT158_PAGE1,On their way the Party meets a wandering Bard. She heartily greets the adventurers and offers to play them a song in exchange for a bit of supplies.,158,在路上，队伍遇到了一位流浪的吟游诗人。她热情地向冒险者们问好，并提出以一些补给换取一首歌。
+1834453982679044,WORLDEVENT158_DECISION1,Ask her to play a funny song.(Lose 1 Supply),158,请她演奏一首有趣的歌曲。（损失1个补给）
+1834453982679045,WORLDEVENT158_DECISION1RESULT0_PAGE1,"The Bard took out her lute and started to play ""Alvin the Great"". A song about the Adventurer Alvin who hailed himself as the greatest Adventurer of all time but in reality was anything but that. It recounts his ""deeds"" in a mocking fashion, where it always end with Alvin getting chased by an angry mob.
+At the end of the song the adventurers had huge smiles on their face. They knew that no matter how much they might screw things up, it will never be as bad as how Alvin the Great has screwed up. They thanked the Bard for the song and gave her the supplies they promised her.",158,"吟游诗人拿出她的鲁特琴，开始演奏《伟大的阿尔文》。这是一首关于冒险者阿尔文的歌曲，他自称是有史以来最伟大的冒险者，但实际上却完全不是那样。歌曲以嘲讽的方式叙述了他的“事迹”，每次都以阿尔文被愤怒的人群追赶结束。  
+在歌曲结束时，冒险者们脸上洋溢着灿烂的笑容。他们知道，无论他们可能犯下多少错误，都永远不会像伟大的阿尔文那样糟糕。他们感谢吟游诗人送来的歌曲，并给了她承诺的补给。"
+1834453982679046,WORLDEVENT158_DECISION2,Ask her to play a soothing song.(Lose 1 Supply),158,请她演奏一首舒缓的歌曲。（损失1个补给）
+1834453986873344,WORLDEVENT158_DECISION2RESULT0_PAGE1,"The Bard took out her lute and started to play ""The Golden fields of Wyra"". A slow song describing the beauty of the region Wyra. It praises the majesty of its mountains, the lush green of their forests and most of all the beautiful golden color of the wheat fields in summer. After hearing the song the Adventurer could feel their tiredness getting washed away. Some of them even wished they could one day experience that beauty for themselves.
+They thanked the Bard for the song and gave her the supplies they promised her.",158,"吟游诗人拿出她的鲁特琴，开始演奏《维拉的金色田野》。这是一首缓慢的歌曲，描述了维拉地区的美丽。它赞美了那里的山脉的壮丽、森林的郁郁葱葱，以及夏天小麦田的美丽金色。听完这首歌，冒险者们感到疲惫感被洗净了。其中一些人甚至希望有一天能亲自体验那种美丽。  
+他们感谢吟游诗人送来的歌曲，并给了她承诺的补给。"
+1834453986873345,WORLDEVENT158_DECISION3,Ask her to play a battle song .(Lose 1 Supply),158,请她演奏一首战斗歌曲。（损失1个补给）
+1834453986873346,WORLDEVENT158_DECISION3RESULT0_PAGE1,"The Bard took out her lute and started to play ""For my home"". A marching song about a young soldier bravely going to war to protect his home from invaders. It tells about the fears of the young man who has never held a weapon in his hands before but how he overcame them when thinking of his loved ones. The song ends with the soldier dying of his numerous wounds during the battle which none of were on his back.
+After hearing the song the Adventurers were renewed in their determination to complete the Quest.
+They thanked the Bard for the song and gave her the supplies they promised her.",158,"吟游诗人拿出她的鲁特琴，开始演奏《为了我的家园》。这是一首关于年轻士兵勇敢出征保卫家园免受侵略者侵害的进行曲。它讲述了这个从未握过武器的年轻人的恐惧，但他在想到自己所爱的人时克服了这些恐惧。歌曲以士兵在战斗中因多处受伤而死去结束，而他身上的伤口没有一处是在背后。  
+听完这首歌，冒险者们重新燃起了完成任务的决心。  
+他们感谢吟游诗人送来的歌曲，并给了她承诺的补给。"
+1834453986873347,WORLDEVENT158_DECISION4,Ask her to play a song with their Bard.(Lose 1 Supply),158,请她和他们一起演奏一首歌。（损失1个补给）
+1834453986873348,WORLDEVENT158_DECISION4RESULT0_PAGE1,"The female Bard and {CHARACTER1} had a short exchange and agreed on a song they could both play. They both took out their lutes and started playing ""The Seven to None"", a saga about seven Adventurers who managed to save a town from the demon Nysthax with their heroic sacrifices. 
+Each verse is about how one of them accomplished a heroic deed and ends with how they died to protect their Party. 
+The complex composition of the melody didn't make it easy for {CHARACTER1} to play and it was even harder to keep up with the female Bard who seemed to be much more experienced as a Bard than {GENDER1:cond:=1?him|=0?her}. But by sheer will {CHARACTER1} was able to keep up.  
+In the last verse of the song the leader and last survivor of the Adventurer Party fought in a duel with the demon Nysthax. The tempo of the song increased to underline the ferocity of their duel. ",158,"女吟游诗人与{CHARACTER1}进行了简短的交流，并达成了一首可以共同演奏的歌曲。他们都拿出鲁特琴，开始演奏《七人无敌》，这是关于七位冒险者通过英勇的牺牲拯救一个城镇免受恶魔尼斯塔克斯侵害的传奇。  
+每一节都讲述了其中一位冒险者如何完成英勇的事迹，并以他们为了保护队伍而死去结束。  
+复杂的旋律使得{CHARACTER1}演奏起来并不容易，甚至更难以跟上女吟游诗人，她似乎比{GENDER1:cond:=1?他|=0?她}更有经验。但凭借毅力，{CHARACTER1}还是能够跟上。  
+在歌曲的最后一节，队伍的领袖和最后的幸存者与恶魔尼斯塔克斯进行决斗。歌曲的节奏加快，以强调他们决斗的激烈。"
+1834453986873349,WORLDEVENT158_DECISION4RESULT0_PAGE2,"Both {CHARACTER1} and the female Bard were able to play the fast exchange of notes flawlessly. The songs ends with the climatic end of the battle, punctuated by a single deep note,  representing the leader banishing himself and the demon to hell.
+After their performance the rest of the Party cheered for them. For them this was the best performance they've ever had and they were sure there would never be another one like this. The Party wanted to give the female Bard the supplies like they promised but she refused saying that being able to perform with a talent like {CHARACTER1} was enough of a reward. She looked at {CHARACTER1} and gave {GENDER1:cond:=1?him|=0?her} a dazzling smile, making {GENDER1:cond:=1?him|=0?her} turn red for a second.",158,"{CHARACTER1}和女吟游诗人都能完美地演奏出快速的音符交替。歌曲以战斗的高潮结束，伴随着一个深沉的音符，象征着领袖将自己和恶魔驱逐到地狱。  
+演出结束后，其余的队伍为他们欢呼。对他们来说，这是他们经历过的最佳演出，他们确信再也不会有这样的演出。队伍想要给女吟游诗人承诺的补给，但她拒绝了，表示能与像{CHARACTER1}这样的天才一起演出就是足够的奖励。她看着{CHARACTER1}，给了{GENDER1:cond:=1?他|=0?她}一个灿烂的微笑，让{GENDER1:cond:=1?他|=0?她}瞬间脸红。"
+1834453991067648,WORLDEVENT158_DECISION4ALTRESULT0_PAGE1,"The female Bard and {CHARACTER1} had a short exchange and agreed on a song they could both play. They both took out their lutes and started playing ""The Seven to None"", a saga about seven Adventurers who managed to save a town from the demon Nysthax with their heroic sacrifices. Each verse is about how one of them accomplished a heroic deed and ends with how they died to protect their Party. The complex composition of the melody didn't make it easy to play for {CHARACTER1} and it was even harder to keep up with the female who seemed to much more experienced as a Bard than {GENDER1:cond:=1?him|=0?her}. At several points {GENDER1:cond:=1?he|=0?she} made minor mistakes which were luckily covered up by the female bard with her outstanding performance. In the last verse of the song the leader and last survivor of the Adventurer Party fought in a duel with the demon Nysthax. The tempo of the song increased to underline the ferocity of their duel. ",158,女吟游诗人与{CHARACTER1}进行了简短的交流，并达成了一首可以共同演奏的歌曲。他们都拿出鲁特琴，开始演奏《七人无敌》，这是关于七位冒险者通过英勇的牺牲拯救一个城镇免受恶魔尼斯塔克斯侵害的传奇。每一节都讲述了其中一位冒险者如何完成英勇的事迹，并以他们为了保护队伍而死去结束。复杂的旋律使得{CHARACTER1}演奏起来并不容易，甚至更难以跟上女吟游诗人，她似乎比{GENDER1:cond:=1?他|=0?她}更有经验。在几个地方，{GENDER1:cond:=1?他|=0?她}犯了一些小错误，幸运的是被女吟游诗人的出色表演掩盖了。在歌曲的最后一节，队伍的领袖和最后的幸存者与恶魔尼斯塔克斯进行决斗。歌曲的节奏加快，以强调他们决斗的激烈。
+1834453991067649,WORLDEVENT158_DECISION4ALTRESULT0_PAGE2,"At this point {CHARACTER1} stopped playing to not further damage the song with {GENDER1:cond:=1?his|=0?her} inadequacy.
+The songs ends with the climatic end of the battle, punctuated by a single deep note,  representing the leader banishing himself and the demon to hell.
+After their performance the rest of the Party cheered for them. Even if {CHARACTER1} couldn't keep up until the end it was still a great performance. 
+The Party gave the female Bard the supplies like they promised. Before she left, she looked at {CHARACTER1} and gave {GENDER1:cond:=1?him|=0?her} a dazzling smile, making {GENDER1:cond:=1?him|=0?her} turn red for a second.",158,"此时，{CHARACTER1}停止演奏，以免因{GENDER1:cond:=1?他的|=0?她的}不足进一步损害歌曲。  
+歌曲以战斗的高潮结束，伴随着一个深沉的音符，象征着领袖将自己和恶魔驱逐到地狱。  
+演出结束后，其余的队伍为他们欢呼。即使{CHARACTER1}没有坚持到最后，仍然是一场精彩的演出。  
+队伍给了女吟游诗人承诺的补给。在她离开之前，她看着{CHARACTER1}，给了{GENDER1:cond:=1?他|=0?她}一个灿烂的微笑，让{GENDER1:cond:=1?他|=0?她}瞬间脸红。"
+1834453991067650,WORLDEVENT158_DECISION5,Decline the offer.,158,拒绝这个提议。
+1834453991067651,WORLDEVENT158_DECISION5RESULT0_PAGE1,The Party declined the offer which visibly disappointed the Bard. She bid them farewell and moved on.,158,队伍拒绝了这个提议，这让吟游诗人显得很失望。她向他们道别，继续前行。

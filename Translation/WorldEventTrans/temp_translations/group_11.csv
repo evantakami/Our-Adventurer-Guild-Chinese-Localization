@@ -1,0 +1,55 @@
+ID,Key,String,EventID,TranslatedString
+1834453680689157,WORLDEVENT32_PAGE1,"The adventurers managed to find the requested rainbow flowers nested between the roots of some giant tree. Despite the worries of the Guild Master, the journey had been surprisingly uneventful so far and it seems like they were close to completing the Quest without any issues.",32,冒险者们成功找到了请求的彩虹花，它们藏在一些巨树的根部之间。尽管公会会长对此感到担忧，但到目前为止，这段旅程出乎意料地平静，似乎他们即将顺利完成任务，没有遇到任何问题。
+1834453680689158,WORLDEVENT32_DECISION1,Collect the flower,32,采集花朵
+1834453680689159,WORLDEVENT32_DECISION1RESULT0_PAGE1,"As they reached out to pluck the first flower, the ground suddenly trembled beneath them. Suddenly, the giant tree in front of them came alive, its branches swaying menacingly. More trees started to come alive and approached the adventurers with hostile intent.
+
+The adventurers readied themselves. Their Quest had just taken an expected unexpected turn.",32,"当他们伸手去摘第一朵花时，地面突然在他们脚下颤动。眼前的巨树瞬间活了过来，树枝威胁性地摇摆着。更多的树木开始复苏，朝着冒险者们靠近，带着敌意。
+
+冒险者们做好了准备。他们的任务刚刚经历了一个意料之外的转折。"
+1834453680689160,WORLDEVENT32_DECISION2,Take a step back.,32,后退一步。
+1834453680689161,WORLDEVENT32_DECISION2RESULT0_PAGE1,The adventurers took a step back. Something felt off to them.,32,冒险者们后退了一步。他们感到有些不对劲。
+1834453684883456,WORLDEVENT33_PAGE1,"The adventurers managed to survive the trees' onslaught and sighed in relief. Finally the trees were in the dormant state they're supposed to be.
+
+They started to collect the rainbow flowers, the reason for this mess to begin with. They hoped that, whatever reason Fiola had for making them do this; it better be worth it",33,"冒险者们成功抵挡住了树木的攻击，松了一口气。终于，这些树恢复到了它们应该有的休眠状态。
+
+他们开始收集彩虹花，这也是这一切混乱的起因。他们希望，无论菲奥拉让他们这样做的理由是什么，最好是值得的。"
+1834453684883457,WORLDEVENT34_PAGE1,"The party found the remnants of what was once the subjugation force. Many of the soldiers were injured and many more looked like they've lost all hope.
+
+Some of the soldiers eyed the adventurers nervously and raised their weapons.
+
+Before a fight could break out, a young man in a finely crafted armor, much different from the rest, walked forward and signaled the soldiers to stand down.
+
+It was clear that this man was the leader and the one they were looking for.",34,"队伍发现了曾经征讨部队的残骸。许多士兵受了伤，还有更多的人看起来已经失去了所有的希望。
+
+一些士兵紧张地盯着冒险者们，举起了武器。
+
+在一场战斗爆发之前，一个身穿精美盔甲的年轻人走了上来，他与其他人截然不同，示意士兵们放下武器。
+
+显然，这个人是他们要找的领袖。"
+1834453684883458,WORLDEVENT34_PAGE2,"""I'm Gilbert Greyhorn. Leader of these brave men."" the young man introduced himself. ""You people don't look like bandits. Who are you?""
+
+The adventurers explained to the young lord that they were adventurers and hired to find him.
+
+""So it was Cecil, wasn't it?"" Gilbert said and smiled.
+""I thank you adventurers for coming but I cannot leave without my men.""
+
+Gilbert's response was an inconvenience for the party, whose only goal was to bring the young noble to safety.",34,"“我是吉尔伯特·格雷霍恩。这些勇敢的人的领袖。”年轻人自我介绍道。“你们看起来不像是强盗。你们是谁？”
+
+冒险者们向年轻领主解释说，他们是冒险者，受雇来寻找他。
+
+“原来是塞西尔，是吗？”吉尔伯特微笑着说道。“我感谢你们冒险者的到来，但我不能在没有我的士兵的情况下离开。”
+
+吉尔伯特的回答让队伍感到为难，他们的唯一目标是将这位年轻贵族安全带走。"
+1834453684883459,WORLDEVENT34RESULT0_PAGE1,"""If you want to fullfill your Quest then help me bring my men to safety too."" Gilbert told the adventurers.
+
+""I've sent some scouts to find a path from which we can escape the bandits. Help us with our escape and I consider your Quest fullfilled.""
+
+Seeing as they had no other choice, the adventurers agreed.
+
+Together they waited for the scouts to return. ",34,"“如果你们想完成任务，那就帮我把我的士兵也带到安全的地方。”吉尔伯特对冒险者们说道。
+
+“我派了一些侦察兵去寻找一条可以逃离强盗的道路。帮助我们逃脱，我就视你们的任务完成。”
+
+看到他们别无选择，冒险者们同意了。
+
+他们一起等待侦察兵的归来。"

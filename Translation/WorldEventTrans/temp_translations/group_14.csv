@@ -1,0 +1,55 @@
+ID,Key,String,EventID,TranslatedString
+1834453697466371,WORLDEVENT41_PAGE1,The Party ran away from the battle. There were just too many bandits to deal with at once.,41,队伍从战斗中逃跑了。面对如此多的强盗，他们实在无能为力。
+1834453697466372,WORLDEVENT41_DECISION1,Unfortunately they weren't able to save the soldier.,41,不幸的是，他们没能救下那名士兵。
+1834453697466373,WORLDEVENT41_DECISION1RESULT0_PAGE1,It was very disheartening start to their Quest and doubts of their capability to fullfill this Quests started to eat at them.,41,这对他们的冒险之旅是一个非常令人沮丧的开始，怀疑他们能否完成这个任务的念头开始在他们心中滋生。
+1834453697466374,WORLDEVENT41_DECISION1CONDRESULT1_PAGE1,"It was very disheartening start to their Quest and doubts of their capability to fullfill this Quests started to eat at them.
+
+However, {CHARACTER1} didn't lose heart and told the others that they can't give up now. {GENDER1:cond:=1?his|=0?her} determination started to lift the spririts of the others.",41,"这对他们的冒险之旅是一个非常令人沮丧的开始，怀疑他们能否完成这个任务的念头开始在他们心中滋生。
+
+然而，{CHARACTER1}并没有失去信心，告诉其他人现在不能放弃。{GENDER1:cond:=1?他的|=0?她的}决心开始振奋其他人的精神。"
+1834453697466375,WORLDEVENT41_DECISION2,Fortunately they were able to flee with the soldier alive.,41,幸运的是，他们能够带着活着的士兵逃跑。
+1834453697466376,WORLDEVENT41_DECISION2RESULT0_PAGE1,"In the heat of the moment they were at least able to grab the soldier and fled together with him. He tagged along, probably aware that the adventurers weren't in cahoot with the bandits.
+
+When they finally reached a safe spot the soldier started to talk to the adventurers.",41,"在紧急时刻，他们至少能够抓住那名士兵，并与他一起逃跑。他跟着他们，可能意识到这些冒险者并不是与强盗勾结的。
+
+当他们终于到达一个安全的地方时，士兵开始与冒险者交谈。"
+1834453701660672,WORLDEVENT42_PAGE1,"""Thank you for your help, but who are you guys?"" the soldier asked the adventurers.
+
+They explained that they were adventurers, hired by Lady Cecilia of House Greyhorn to find her older brother Gilbert.",42,"“谢谢你们的帮助，但你们是谁？”士兵问冒险者。
+
+他们解释说，他们是冒险者，被格雷霍恩家族的塞西莉亚女士雇佣来寻找她的哥哥吉尔伯特。"
+1834453701660673,WORLDEVENT42_PAGE2,"""Thank the gods! Finally some help arrived!"" the soldier gave a sigh of relief.
+
+The soldier explained to the adventurers how after the battle, the bandits have been for some reason tenaciously hunting all the fleeing soldiers and capturing them for the last few days. 
+But thanks to the leadership of the young master, most of them were able to escape the pursuing bandits so far.",42,"“感谢诸神！终于有人来帮忙了！”士兵松了一口气。
+
+士兵向冒险者解释，在战斗之后，强盗们出于某种原因，顽强地追捕所有逃跑的士兵，并在过去几天里抓捕了他们。  
+但多亏了年轻主人的领导，大多数士兵到目前为止能够逃脱追捕的强盗。"
+1834453701660674,WORLDEVENT42RESULT0_PAGE1,"Right now they've secured a temporary hideout in the forest. Some soldiers like him were sent out to find a gap in the bandits's search parties.
+
+""I can bring you to Lord Greyhorn."" the soldier offered. ""Our hideout isn't too far from here.""
+
+The adventurers told him to lead the way.
+
+He pointed at the east. ""First we have to go this way.""",42,"现在他们在森林中找到了一个临时藏身之处。一些像他这样的士兵被派出去寻找强盗搜查队的空隙。
+
+“我可以带你们去见格雷霍恩爵士。”士兵提议。“我们的藏身处离这里不远。”
+
+冒险者让他带路。
+
+他指向东方。“首先我们得往这个方向走。”"
+1834453701660675,WORLDEVENT43_PAGE1,The adventurers managed to defeat the bandits. After a short battle none of the bandits were left standing.,43,冒险者们成功击败了强盗。在短暂的战斗后，没有一个强盗站着离开。
+1834453701660676,WORLDEVENT43_DECISION1,Unfortunately the soldier didn't survive the battle.,43,不幸的是，士兵在战斗中没有幸存。
+1834453701660677,WORLDEVENT43_DECISION1RESULT0_PAGE1,"In the heat of the battle the adventurers weren't able to save the soldier, for whom they attacked the bandits.
+
+Despite that initial setback the adventurers had no other choice than to move on. At least they know now that there are survivors and perhaps one of them can lead them to the noble, they were looking for.",43,"在激烈的战斗中，冒险者们没能救下那名士兵，而他们正是为了他而攻击强盗。
+
+尽管遭遇了这样的挫折，冒险者们别无选择，只能继续前进。至少他们现在知道还有幸存者，也许其中一个能带他们找到他们正在寻找的贵族。"
+1834453701660678,WORLDEVENT43_DECISION2,Even the soldier survived.,43,甚至士兵也幸存了下来。
+1834453701660679,WORLDEVENT43_DECISION2RESULT0_PAGE1,"The soldier, who fought besides the party managed to survive the ordeal. He was catching his breath and was eyeing the adventurers suspiciously.
+
+But it didn't take long until the soldier seemingly lowered his guard. 
+It was likely that he realized that the adventurers were here to help. He started to speak to the party.",43,"与队伍并肩作战的士兵成功地活了下来。他正在喘息，并怀疑地打量着冒险者。
+
+但没过多久，士兵似乎放下了戒心。  
+他很可能意识到这些冒险者是来帮助他的。他开始与队伍交谈。"

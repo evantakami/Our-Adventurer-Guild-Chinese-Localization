@@ -1,0 +1,38 @@
+ID,Key,String,EventID,TranslatedString
+1834454095925255,WORLDEVENT210_PAGE1,The Battle was over. The cultists as well as the hobgoblins were defeated.,210,战斗结束了。邪教徒和半身人都被击败了。
+1834454100119552,WORLDEVENT210_DECISION1,"It's unfortunate, that they couldn't save the captives who were taken away.",210,真遗憾，他们没能救回被带走的囚徒。
+1834454100119553,WORLDEVENT210_DECISION1RESULT0_PAGE1,"It was tragic that none of the captives who were taken away could be saved. However, at least the remaining captives were safe and no other unfortunate people will ever be harmed by these cultists and hobgoblins again.
+
+After freeing the remaining captives, the adventurers started their journey back to the Guild.",210,"可悲的是，被带走的囚徒没有一个能够被救回。然而，至少剩下的囚徒是安全的，再也不会有其他无辜的人受到这些邪教徒和半身人的伤害。
+
+在解救了剩下的囚徒后，冒险者们开始了返回公会的旅程。"
+1834454100119554,WORLDEVENT210_DECISION2,"Unfortunately, the adventurers couldn't save everyone.",210,不幸的是，冒险者们没能救下所有人。
+1834454100119555,WORLDEVENT210_DECISION2RESULT0_PAGE1,"It was unfortunate, that not all lifes could be saved that day. However, at least the remaining captives were safe and no other unfortunate people will ever be harmed by these cultists and hobgoblins again. Those who were saved, promised that they reward the Guild for their rescue.
+
+After freeing the remaining captives, the adventurers started their journey back to the Guild.",210,"不幸的是，那天并不是所有的生命都能被拯救。然而，至少剩下的囚徒是安全的，再也不会有其他无辜的人受到这些邪教徒和半身人的伤害。那些被救的人承诺将会为他们的救援奖励公会。
+
+在解救了剩下的囚徒后，冒险者们开始了返回公会的旅程。"
+1834454100119556,WORLDEVENT210_DECISION3,The adventurers managed to save all the captives,210,冒险者们成功救下了所有的囚徒。
+1834454100119557,WORLDEVENT210_DECISION3RESULT0_PAGE1,"The adventurers were able to save everyone's life today. They praised the adventurers and promised to greatly reward them in the future.
+
+After freeing the remaining captives, the adventurers started their journey back to the Guild.",210,"冒险者们今天成功拯救了所有人的生命。他们称赞冒险者，并承诺将来会给予他们丰厚的奖励。
+
+在解救了剩下的囚徒后，冒险者们开始了返回公会的旅程。"
+1834454100119558,WORLDEVENT211_PAGE1,In front of the adventurers was a stone door marked with the symbol of the demon lord Lucifer the Prideful.,211,在冒险者面前是一扇刻有魔王路西法骄傲印记的石门。
+1834454100119559,WORLDEVENT211_DECISION1,Enter,211,进入
+1834454100119560,WORLDEVENT211_DECISION1CONDRESULT1_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",211,一接触到门，冒险者们发现自己被传送到了一个完全不同的地方。
+1834454104313856,WORLDEVENT212_PAGE1,"Majika was drawing some sort of magical circle on the ground. Every so often she would look at the circle, shake her head and start redrawing parts of the circle with new symbols. The Guild Master approached and asked her what she was doing. From close up, they could see the dark circles around Majika's eyes. She looked as if the lack of food was not the only thing affecting her.
+
+""I am attempting to devise a spell that might alleviate the sensation of hunger. Regrettably, my previous attempts, perhaps due to insufficient sleep or proper nutrition, have yielded no success. Nonetheless, there is a glimmer of hope with this latest iteration."" She drew a final mark on the circle and then addressed the adventurers. ""Would any of you be willing to test its effectiveness?""",212,"玛吉卡正在地上画某种魔法阵。她时不时地会看一眼魔法阵，摇摇头，然后用新的符号重新绘制部分魔法阵。公会会长走上前询问她在做什么。近距离观察时，他们可以看到玛吉卡眼睛周围的黑圈。她看起来似乎不仅仅是缺乏食物在影响她。
+
+“我正在尝试设计一个可能缓解饥饿感的法术。不幸的是，我之前的尝试，或许是因为缺乏睡眠或营养不良，未能成功。然而，这个最新的版本让我看到了一丝希望。”她在魔法阵上画下最后一个符号，然后对冒险者们说道：“你们中有人愿意测试它的效果吗？”"
+1834454104313857,WORLDEVENT212_DECISION1,Choose a Character,212,选择一个角色
+1834454104313858,WORLDEVENT212_DECISION1RESULT0_PAGE1,"{CHARACTER1} stepped onto the inscribed circle, and Majika commenced chanting a spell. The magical symbols illuminated, enveloping {CHARACTER1} in a soft glow. After a brief moment, the light subsided.
+
+""And? How do you feel?"" Majika inquired. {CHARACTER1} could tell that {GENDER1:cond:=1?he|=0?she} still felt hungry but was overall less burdened by the feeling. 
+
+""Not exactly the outcome I had envisioned. Nonetheless, it matters little now, as I can discern that I lack the strength for further attempts,"" Majika conceded. ""If you would excuse me, Guild Master,"" she added before suddenly slumping down. Alarmed for a moment, the Guild Master soon realized that Majika had merely fallen asleep. They then asked some of the nearby novice adventurers to carry her to a bed.",212,"{CHARACTER1}踏上了刻有符号的魔法阵，玛吉卡开始吟唱法术。魔法符号闪烁着光芒，将{CHARACTER1}包裹在柔和的光辉中。片刻之后，光芒渐渐消退。
+
+“怎么样？你感觉如何？”玛吉卡询问道。{CHARACTER1}能感觉到{GENDER1:cond:=1?他|=0?她}仍然感到饥饿，但整体上感觉没有那么沉重。
+
+“这并不是我所设想的结果。不过现在这没什么关系，因为我能感受到自己没有力气再进行更多的尝试，”玛吉卡承认道。“如果你能原谅我，公会会长，”她补充道，随后突然瘫倒在地。公会会长一时感到惊慌，但很快意识到玛吉卡只是睡着了。于是他们请附近的一些新手冒险者把她抬到床上。"

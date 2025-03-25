@@ -1,0 +1,76 @@
+ID,Key,String,EventID,TranslatedString
+1834453672300549,WORLDEVENT28_PAGE1,"The woman looked like she was a knight, wearing a set of heavy armor and carrying a mighty greatsword on her back.
+
+""Keep your distance or I will burn you into cinders!"" she said while conjuring a flame in her left hand. Apparently she was also a mage. 
+
+""Who are you? You're clearly not together with these guys."" She eyed the adventurers suspiciously. 
+
+",28,"这位女性看起来像是一名骑士，身穿重型盔甲，背上背着一把强大的巨剑。  
+
+“保持距离，否则我会把你烧成灰烬！”她一边说，一边在左手中召唤出一团火焰。显然，她也是一名法师。  
+
+“你是谁？你显然和这些家伙不在一起。”她怀疑地打量着冒险者们。"
+1834453676494848,WORLDEVENT28_PAGE2,"The adventurers told her that they were here to find Rogue's friend and bring her to safety. After hearing their explanation the woman started to giggle. A reaction that was a strong contrast to their initial impression of the mysterious woman.
+
+""Rogue? Is that what she calls herself now?"" Her expression softened. ""I guess some people never change.""
+
+""You have fullfilled your task. I'm Rogue's friend!"" she told the adventurers.
+
+""Please, take me to her!""",28,"冒险者们告诉她，他们是来寻找Rogue的朋友并将她带到安全地方的。在听完他们的解释后，这位女性开始咯咯地笑。这种反应与他们对这个神秘女性的初步印象形成了强烈对比。  
+
+“Rogue？她现在叫这个名字吗？”她的表情柔和了下来。“我想有些人是永远不会改变的。”  
+
+“你们完成了任务。我是Rogue的朋友！”她对冒险者们说道。  
+
+“请，带我去见她！”"
+1834453676494849,WORLDEVENT29_PAGE1,The Party found a bloodstained table littered with dozen of notes and a book on top of it.,29,队伍发现了一张沾满血迹的桌子，上面散落着数十张便条和一本书。
+1834453676494850,WORLDEVENT29_DECISION1,Read the Notes,29,阅读便条
+1834453676494851,WORLDEVENT29_DECISION1RESULT0_PAGE1,"After reading the notes, {CHARACTER1} quickly realized that these notes contained a lot of scientific knowledge and discoveries made by the necromancer after experimenting on a lot of corpses.
+
+Despite the questionable morality of how this knowledge was obtained, {CHARACTER1} couldn't help but be fascinated by everything that was written here.",29,"在阅读完便条后，{CHARACTER1}迅速意识到这些便条包含了大量的科学知识和死灵法师在对许多尸体进行实验后所做的发现。  
+
+尽管这些知识的获取方式道德上值得怀疑，{CHARACTER1}仍然无法抑制对这里所写一切的好奇。"
+1834453676494852,WORLDEVENT29_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} read the notes but couldn't understand any of it. It was full of unfamiliar words and odd thought experiments with sketches of the human body.
+
+{CHARACTER1} couldn't make any sense of it and quickly gave up reading the rest of the notes.  ",29,"{CHARACTER1}阅读了便条，但无法理解其中的任何内容。里面充满了不熟悉的词汇和奇怪的思想实验，以及人体的草图。  
+
+{CHARACTER1}无法理解这些内容，迅速放弃了继续阅读剩下的便条。"
+1834453676494853,WORLDEVENT29_DECISION2,Read the book.,29,阅读这本书。
+1834453676494854,WORLDEVENT29_DECISION2RESULT0_PAGE1,"The Party opened the book and started to read it. 
+
+The book was in actuality the diary of the necromancer where he describes his life before he dabbled into necromancy.
+
+He was once a scholar who was shunned by the rest of community because of his obsession with the nature of death. He was firmly convinced that death was just like any disease for which a cure had to be found.",29,"队伍打开了这本书，开始阅读。  
+
+这本书实际上是死灵法师的日记，记录了他在涉足死灵法术之前的生活。  
+
+他曾是一名学者，因为对死亡本质的痴迷而被社区其他人排斥。他坚信死亡就像任何一种疾病一样，必须找到治愈的方法。"
+1834453676494855,WORLDEVENT29_DECISION2RESULT0_PAGE2,"The necromancer describes his former colleagues as fools who were bound by their own hypocritical moralities. Not willing to dirty their own hands for the sake of humanity.
+
+Further along the diary describes, how the man eventually had to escape his home after people found out about his experiments on human corpses.",29,"死灵法师将他以前的同事描述为被自己虚伪的道德束缚的愚蠢之人。他们不愿意为了人类的利益而沾染自己的手。  
+
+日记进一步描述了，当人们发现他对人类尸体进行实验后，这名男子最终不得不逃离他的家。"
+1834453676494856,WORLDEVENT29_DECISION2RESULT0_PAGE3,"This was also the point where the man finally turned to necromancy. A magic form, he was convinced, was the closest to the secrets of immortality.
+
+In the end of the diary, the necromancer believed that he was ever so close to defeating death.
+
+But he needed bodies. A lot more bodies.",29,"这也是这名男子最终转向死灵法术的时刻。他坚信这种魔法形式是最接近不朽秘密的。  
+
+在日记的最后，死灵法师相信他离战胜死亡已经非常接近。  
+
+但他需要尸体。更多的尸体。"
+1834453676494857,WORLDEVENT29_DECISION3,Leave.,29,离开。
+1834453680689152,WORLDEVENT29_DECISION3RESULT0_PAGE1,The Party left the table.,29,队伍离开了桌子。
+1834453680689153,WORLDEVENT31_PAGE1,After a short pause following the result of the final challenge the Master of the Arena started to announce the result of the evaluation.,31,在最后挑战结果后的短暂停顿后，竞技场的主持人开始宣布评估结果。
+1834453680689154,WORLDEVENT31_DECISION1,Have the adventurers managed to qualify for the tournament?,31,冒险者们是否成功晋级比赛？
+1834453680689155,WORLDEVENT31_DECISION1RESULT0_PAGE1,"The groups who managed to qualify for the tournament have been announced and unfortunately the adventurers weren't among them.
+
+The adventurers failed to qualify.",31,"成功晋级比赛的队伍已经公布，不幸的是，冒险者们不在其中。  
+
+冒险者们未能晋级。"
+1834453680689156,WORLDEVENT31_DECISION1CONDRESULT1_PAGE1,"The Master of the Arena announced the groups who managed to qualify for the tournament and the adventurers were amongst them.
+
+He then turned his attention to the other participants, offering words of encouragement, ""To everyone else, I extend my gratitude for your participation, and I wish you better luck next time."" With loud voice he then concluded, ""I ask those who have qualified to please return shortly. We will commence preparations for the final phase of the tournament, where the true challenges and glory await.""
+",31,"竞技场的主持人宣布了成功晋级比赛的队伍，冒险者们在其中。  
+
+他随后将注意力转向其他参与者，鼓励地说道：“对其他人，我感谢你们的参与，并祝你们下次好运。”他大声总结道：“我请那些晋级的人请尽快返回。我们将开始为比赛的最后阶段做准备，真正的挑战和荣耀在等待着你们。”"

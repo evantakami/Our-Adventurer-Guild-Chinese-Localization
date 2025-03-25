@@ -1,0 +1,56 @@
+ID,Key,String,EventID,TranslatedString
+1834454142062594,WORLDEVENT227_PAGE1,"Their travel, despite being long, was quite uneventful. Contrary to what the group expected. 
+
+Maybe the old woman meant it when she said it was an easy task?
+
+After a while, the group finally managed to arrived at the place and easily identified the herbs the old woman described. They were basically scattered all over the place.",227,"尽管旅途漫长，但他们的经历却相当平淡。这与小组的预期截然相反。  
+
+也许老妇人说这是一项简单的任务时是认真的？  
+
+过了一会儿，小组终于到达了目的地，并轻松识别出老妇人描述的草药。它们几乎散落在各处。"
+1834454142062595,WORLDEVENT227_DECISION1,The party starts collecting the herb. ,227,小队开始收集草药。
+1834454142062596,WORLDEVENT227_DECISION1RESULT0_PAGE1,"The herb they were supposed to collect was a plant rooted deeply into the ground. As they see it, they had to pull them out of the ground to collect them.
+But when each of them started to pull the very first herb out of the ground they suddenly heard the highest pitched scream they've ever heard. They immediately covered their ears but it did little to nothing.
+
+ {CHARACTER1} immediately realized what herb they were about to collect: Mandrakes. A herb that would scream if you pulled it out of the ground. Luckily {GENDER1:cond:=1?he|=0?she} knew that the screams were by themselves completely harmless. However they still were annoying. Good thing {CHARACTER1} knew exactly how to make them stop.",227,"他们要收集的草药是一种深深扎根于土壤中的植物。看到它们时，他们必须将其拔出土壤才能收集。  
+但当他们每个人开始拔出第一株草药时，突然听到了他们听过的最高音调的尖叫声。他们立刻捂住耳朵，但这几乎没有任何效果。  
+
+{CHARACTER1} 立刻意识到他们要收集的草药是：曼德拉草。这是一种如果被拔出土壤就会尖叫的草药。幸运的是，{GENDER1:cond:=1?他|=0?她} 知道尖叫声本身是完全无害的。然而，它们仍然令人烦恼。好在 {CHARACTER1} 知道如何让它们停止。"
+1834454142062597,WORLDEVENT227_DECISION1RESULT0_PAGE2,"{GENDER1:cond:=1?he|=0?she} stabbed one of the mandrakes in the part which eerily resembled a human face. It gave one last scream and then finally turned silent. The rest of the group immediately did the same to their mandrakes and much to their relief everything was quiet again.
+
+With the mandrakes now collected they returned back to the old lady, who was surprised that she didn't hear the adventurers from ten miles away.",227,"{GENDER1:cond:=1?他|=0?她} 刺了一株曼德拉草，正好刺中了那部分奇怪地像人脸的地方。它发出最后一声尖叫，然后终于安静下来。其他小组成员立即对他们的曼德拉草做了同样的事情，令他们松了一口气，周围又恢复了宁静。  
+
+收集完曼德拉草后，他们回到了老妇人那里，老妇人惊讶地发现自己没有听到十英里外的冒险者们的声音。"
+1834454142062598,WORLDEVENT227_DECISION1ALTRESULT0_PAGE1,"The herb they were supposed to collect was a plant rooted deeply into the ground. As they see it, they had to pull them out of the ground to collect them.
+But when each of them started to pull the very first herb out of the ground they suddenly heard the highest pitched scream they've ever heard. They immediately covered their ears, but it did little to nothing.
+
+It seemed like the screams came from the strange plants. They put all the mandrakes they collected in a bag and covered it completely up, but unfortunately the group could still hear the screams. At least it was somewhat bearable now, but it would be a pain to carry them all the way back and listen to the screams the whole way. However, the group was already committed to the task and carried a bag full of screaming plants back to the old woman. At least the screams didn't seem to have any other effect than being annoying.",227,"他们要收集的草药是一种深深扎根于土壤中的植物。看到它们时，他们必须将其拔出土壤才能收集。  
+但当他们每个人开始拔出第一株草药时，突然听到了他们听过的最高音调的尖叫声。他们立刻捂住耳朵，但这几乎没有任何效果。  
+
+尖叫声似乎来自那些奇怪的植物。他们把收集到的所有曼德拉草放进一个袋子里并完全封住，但不幸的是小组仍然能听到尖叫声。至少现在稍微能忍受，但一路上背着这些尖叫的植物真是个麻烦。然而，小组已经下定决心，背着装满尖叫植物的袋子回到老妇人那里。至少这些尖叫声似乎没有其他影响，只是令人烦恼。"
+1834454146256896,WORLDEVENT227_DECISION1ALTRESULT0_PAGE2,"After a long march they finally arrived back to the house, completely physically and mentally exhausted. Waiting for them was the old woman.
+""I hope it wasn't too much trouble. They're really the sensitive kind of plants. Did I forget to mention that?""
+
+She pulled one of the plants out of the bag before anyone could stop her. Now the group had to listen to the screams at full volume again and were about to complain when the old lady pulled out a dagger. With a swift move, she stabbed the plant in the part that looked eerily like a face, and the plant finally stopped screaming. She did the same with all the remaining plants.",227,"经过长途跋涉，他们终于回到了房子，身心俱疲。等候他们的是老妇人。  
+“我希望这不是太麻烦。它们真的是敏感的植物。我是不是忘了提这一点？”  
+
+在任何人能阻止她之前，她从袋子里抽出一株植物。现在小组又不得不听到尖叫声的全音量，正准备抱怨时，老妇人抽出了一把匕首。她迅速一刺，刺中了那株看起来奇怪像脸的植物，植物终于停止了尖叫。她对所有剩下的植物也做了同样的事情。"
+1834454146256897,WORLDEVENT227_DECISION1ALTRESULT0_PAGE3,"""These things will stop screaming if you stab them in their ugly faces. Did I forget mention that, too? Sorry about that my dears!"" She gave an apologetic look that did little to alleviate the silent rage the party was feeling.",227,“这些东西如果你刺它们丑陋的脸就会停止尖叫。我是不是也忘了提这一点？抱歉，我的亲爱的！”她露出一个歉意的表情，但这并没有缓解小队内心的愤怒。
+1834454146256898,WORLDEVENT228_PAGE1,"""Well, I think I don't have anything else for you to do."" The old woman stayed silent for a while. ""I guess adventurers  have really changed."" She smiled sadly. Without a word she went into a room and came back with an old weapon. ""Here you can have this. I don't need this anymore. I never did any good with it any way."" 
+
+""Now please leave. I don't actually like company."" 
+With this the party finally left the old woman who in the end never even told them her name.",228,"“好吧，我想我没有其他事情让你们做了。”老妇人沉默了一会儿。“我想冒险者们真的变了。”她悲伤地微笑。她没有说话，走进一个房间，拿出一件旧武器。“这是给你的。我不再需要它了。反正我也从来没用好过。”  
+
+“现在请离开。我其实不喜欢有公司。”  
+就这样，小队终于离开了老妇人，最终她甚至没有告诉他们自己的名字。"
+1834454146256899,WORLDEVENT229_PAGE1,The party finds the remains of what seems to be a group of travellers. It seems like this unfortunate group decided to spend the night in this old fortress not aware that this place was haunted by the dead.,229,小队发现了一群旅行者的遗骸。看来这群不幸的人决定在这座古老的堡垒过夜，却不知道这个地方被亡者所困扰。
+1834454146256900,WORLDEVENT229_DECISION1,Ignore the corpses and continue with the journey.,229,忽视尸体，继续旅程。
+1834454146256901,WORLDEVENT229_DECISION1RESULT0_PAGE1,The party ignores the corpses of the travellers and move on. There was no knowing what would happen if they interacted with the remains in a place where the dead didn't necessarily stay dead. ,229,小队忽视了旅行者的尸体，继续前进。没有人知道如果他们与遗骸互动会发生什么，尤其是在这个地方，死者并不一定会保持安息。
+1834454146256902,WORLDEVENT229_DECISION2,Pilfer the remains for anything valuable.,229,从遗骸中搜寻任何有价值的东西。
+1834454146256903,WORLDEVENT229_DECISION2RESULT0_PAGE1,"The party started to sift through the remains of the dead, searching for anything that was valuable or at least could be useful for their ongoing journey. As adventurers they had no problems with stealing from the dead. This wasn't the first time and it certainly wouldn't be the last time. After all the dead wouldn't mind, right?
+
+Well, apparently these ones do, seeing as they suddenly started to rise to life again, seemingly annoyed at what had occured. They immediately started to attack the group.",229,"小队开始筛查死者的遗骸，寻找任何有价值的东西，或者至少对他们的旅程有用的东西。作为冒险者，他们对从死者身上偷东西没有任何问题。这不是第一次，也肯定不会是最后一次。毕竟，死者不会介意，对吧？  
+
+好吧，显然这些死者并不这样想，因为他们突然开始复活，似乎对发生的事情感到恼怒。他们立即开始攻击小组。"
+1834454146256904,WORLDEVENT229_DECISION3,Burn the bodies with their belongings.,229,烧掉尸体及其随身物品。
+1834454150451200,WORLDEVENT229_DECISION3RESULT0_PAGE1,The party decided that the least they could do for these unfortunate souls was to burn them without desecrating them any further. After they did so they felt a little bit better about themselves.,229,小队决定，至少他们能为这些不幸的灵魂做的就是在不亵渎他们的情况下将他们火化。这样做后，他们对自己感觉好了一些。

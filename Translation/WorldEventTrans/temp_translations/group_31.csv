@@ -1,0 +1,48 @@
+ID,Key,String,EventID,TranslatedString
+1834453806518276,WORLDEVENT95_PAGE1,"The Party met a group of young shabbily armed  people who didn't look like Adventurers. They said they were from a nearby village and were looking for a treasure that according to a legend was hidden somewhere here in this cave.
+The Party looked at the villagers and knew that they wouldn't last long in this place if they were to continue.",95,"队伍遇到了一群年轻的、装备简陋的人，他们看起来并不像冒险者。他们说他们来自附近的村庄，正在寻找一个传说中隐藏在这个洞穴某处的宝藏。  
+队伍看着这些村民，知道如果他们继续留在这里，恐怕很难撑多久。"
+1834453806518277,WORLDEVENT95_DECISION1,Try to persuade them to turn back.,95,试着说服他们回去。
+1834453806518278,WORLDEVENT95_DECISION1RESULT0_PAGE1,"{CHARACTER1} told them that they will probably die before they could ever lay their eyes on the treasure. {GENDER1:cond:=1?he|=0?she} counted all the ways they could perish in this place, giving a horrifyingly detailed description for each of them. At the end the villagers became visibly pale and decided that they changed their mind and will go home.
+
+That's probably the best, {CHARACTER1} replied to them.",95,"{CHARACTER1}告诉他们，他们可能在看到宝藏之前就会死去。{GENDER1:cond:=1?他|=0?她}列举了他们在这个地方可能遇到的各种死亡方式，并对每一种方式进行了可怕的详细描述。最后，村民们明显变得苍白，决定改变主意，回家去。  
+“这可能是最好的选择，”{CHARACTER1}对他们说道。"
+1834453806518279,WORLDEVENT95_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} tried to convince them of how dangerous this place is and how it would be better if they just turn back but the villagers didn't believe {GENDER1:cond:=1?him|=0?her}. They accused the Party that they only want the treasure for themselves and pushed their way past them, saying that they will be the first to get to the treasure.
+
+Those poor fools, {CHARACTER1} thought.",95,"{CHARACTER1}试图说服他们这个地方有多危险，以及如果他们回去会更好，但村民们并不相信{GENDER1:cond:=1?他|=0?她}。他们指责队伍只想独占宝藏，强行从他们身边挤过去，声称他们会是第一个找到宝藏的人。  
+“那些可怜的傻瓜，”{CHARACTER1}心想。"
+1834453806518280,WORLDEVENT95_DECISION2,Wish them luck!,95,祝他们好运！
+1834453810712576,WORLDEVENT95_DECISION2RESULT0_PAGE1,"The Party wished them good luck. Surely they knew what they were doing.
+
+No need to stand in their way.",95,"队伍祝他们好运。他们肯定知道自己在做什么。  
+没有必要阻碍他们的路。"
+1834453810712577,WORLDEVENT96_PAGE1,"Before the Party was a strange sight. It seems like someone has left a big pile of chests in the middle of the cave just like that.
+It was something that couldn't be any more suspicious. Most people would probably find the situation too questionable and leave it alone, but Adventurers are usually greedier than that.",96,"在队伍面前是一幅奇怪的景象。似乎有人在洞穴中间随意留下了一大堆箱子。  
+这实在是太可疑了。大多数人可能会觉得这种情况太值得怀疑而选择不去碰，但冒险者通常比这更贪婪。"
+1834453810712578,WORLDEVENT96_DECISION1,Try to go for it anyway.,96,还是试着去拿。
+1834453810712579,WORLDEVENT96_DECISION1RESULT0_PAGE1,Sometimes Adventurers have to take some risks to gain great riches. What could be the worst that could happen?,96,有时候，冒险者必须冒一些风险才能获得巨大的财富。最坏的情况会是什么呢？
+1834453810712580,WORLDEVENT96_DECISION2,Try to see if they can spot anything out of place.,96,试着看看是否能发现任何不寻常的地方。
+1834453810712581,WORLDEVENT96_DECISION2RESULT0_PAGE1,"{CHARACTER1} started inspecting the surroundings trying to find any traps that could have been laid out to get them or at least protect the chests. {CHARACTER1} couldn't find anything but then {GENDER1:cond:=1?he|=0?she} started to inspect the chests themselves. 
+
+At first there didn't seem to be anything out of the ordinary. However {CHARACTER1} could smell a faint suspicious scent surrounding the chests. It was then that {CHARACTER1} realized what was going on.
+The chests were all full with flammable materials. It was very likely a trap where the chests would get ignited if anyone dared to open even one chest. Fortunately the party was able to see the trap before any harm was done and left the pile of chests alone.",96,"{CHARACTER1}开始检查周围，试图找到可能设下的陷阱，或者至少保护箱子的机制。{CHARACTER1}没有发现任何东西，但随后{GENDER1:cond:=1?他|=0?她}开始检查箱子本身。  
+起初似乎没有什么异常。然而，{CHARACTER1}能闻到一股微弱的可疑气味环绕在箱子周围。就在那时，{CHARACTER1}意识到发生了什么。  
+这些箱子里全是易燃材料。很可能这是一个陷阱，如果有人敢打开其中一个箱子，箱子就会被点燃。幸运的是，队伍在没有造成任何伤害之前就发现了这个陷阱，选择了不去碰那堆箱子。"
+1834453810712582,WORLDEVENT96_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} started inspecting the surroundings trying to find any traps that could have been laid out to get them or at least protect the chests.
+After a long while {CHARACTER1} gave up. {GENDER1:cond:=1?he|=0?she} couldn't find anything.",96,"{CHARACTER1}开始检查周围，试图找到可能设下的陷阱，或者至少保护箱子的机制。  
+经过一段时间，{CHARACTER1}放弃了。{GENDER1:cond:=1?他|=0?她}没有找到任何东西。"
+1834453810712583,WORLDEVENT96_DECISION3,Leave it alone.,96,不去碰它。
+1834453814906880,WORLDEVENT96_DECISION3RESULT0_PAGE1,"In the end the Party decided that the whole thing was too suspicious for their liking and decided to leave the chests alone.
+Nothing in life would be this convenient, right?",96,"最终，队伍决定这件事情对他们来说太可疑了，选择不去碰那些箱子。  
+生活中不会有这么方便的事情，对吧？"
+1834453814906881,WORLDEVENT96_DECISION3CONDRESULT1_PAGE1,"The Party decided that it was too suspicious and wanted to leave the chests alone, but {CHARACTER1} protested. 
+{GENDER1:cond:=1?he|=0?she} can not believe how the Party would just leave all that treasure alone. Just the mere chance of it being all real should be worth the risk.
+
+{CHARACTER1} asks everyone if they're reaaaalllly sure they don't want to go for the chests.",96,"队伍决定这太可疑了，想要不去碰那些箱子，但{CHARACTER1}抗议。  
+{GENDER1:cond:=1?他|=0?她}无法相信队伍会就这样放弃所有的宝藏。仅仅是它们可能都是真的，就应该值得冒这个险。  
+{CHARACTER1}问大家是否真的确定不想去拿那些箱子。"
+1834453814906882,WORLDEVENT98_DECISION1,Go for the chests after all.,98,还是去拿箱子。
+1834453814906883,WORLDEVENT98_DECISION2,"Do not to take any risk even if {CHARACTER1} doesn't like it,",98,不冒任何风险，即使{CHARACTER1}不喜欢这样。
+1834453814906884,WORLDEVENT98_DECISION2RESULT0_PAGE1,"{CHARACTER1} could say what {GENDER1:cond:=1?he|=0?she} wants but the Party wouldn't budge on their decision. They didn't want to risk their life for {CHARACTER1}'s greed.
+In the end {CHARACTER1} had no choice but to comply. {GENDER1:cond:=1?he|=0?she} wasn't happy about it. And for a while {GENDER1:cond:=1?he|=0?she} wouldn't shut up about it.",98,"{CHARACTER1}可以说{GENDER1:cond:=1?他|=0?她}想说的，但队伍不会改变他们的决定。他们不想为了{CHARACTER1}的贪婪而冒生命危险。  
+最终，{CHARACTER1}别无选择，只能顺从。{GENDER1:cond:=1?他|=0?她}对此并不高兴。而且一段时间内，{GENDER1:cond:=1?他|=0?她}一直对此喋喋不休。"

@@ -1,0 +1,65 @@
+ID,Key,String,EventID,TranslatedString
+1834454314029061,WORLDEVENT301_PAGE1,"As the group marched further, they suddenly spotted a group of jotun warriors in the distance. The jotuns appeared to be hunting, as if gathering food for a larger group. The Divine Messenger recognized them as the very group they had been tirelessly pursuing. She immediately relayed this to the Guild Master.
+
+The Guild Master asked the Divine Messenger if she was certain. In response, she affirmed that the gods had confirmed their identities, leaving no doubt in her mind.
+
+
+Now, the group faced an important decision - What to do next.",301,"随着队伍继续前进，他们突然在远处发现了一群巨人战士。巨人似乎在狩猎，像是在为一个更大的团体收集食物。神圣的使者认出了他们正是她们不懈追寻的那一群人。她立即将这一消息传达给了公会会长。
+
+公会会长询问神圣的使者是否确定。她回应说，众神已经确认了他们的身份，毫无疑问。
+
+现在，队伍面临一个重要的决定——接下来该怎么做。"
+1834454314029062,WORLDEVENT301_DECISION1,Try to follow them back to their camp,301,尝试跟踪他们回到营地
+1834454318223360,WORLDEVENT301_DECISION1RESULT0_PAGE1,"The group knew that this was their long-awaited chance to locate the captives and confront the jotun warriors. They hid at a concealed position, hidden at a safe distance, patiently waiting for the jotuns to return to their camp.
+
+As the jotuns regrouped, the group followed them, maintaining a careful distance and doing their best to remain unseen. Several times they were close to being discovered but their quick thinking and adaptability saved them each time.
+
+In the end they managed to remain hidden all the way back to their camp, where they found the rest of the jotuns, accompanied by some cultists, and more importantly the captives.",301,"队伍知道这是他们期待已久的机会，可以找到被俘者并与巨人战士对峙。他们藏身于一个隐蔽的位置，安全距离外耐心等待巨人返回营地。
+
+随着巨人们重新集结，队伍跟随他们，保持小心的距离，尽力不被发现。他们几次差点被发现，但凭借快速的反应和适应能力，他们每次都逃过一劫。
+
+最终，他们成功地隐蔽到达了巨人的营地，发现了其余的巨人，身边还有一些邪教徒，更重要的是，找到了被俘者。"
+1834454318223361,WORLDEVENT301_DECISION1ALTRESULT0_PAGE1,"The group knew that this was their long-awaited chance to locate the captives and confront the jotun warriors. They hid at a concealed position, hidden at a safe distance, patiently waiting for the jotuns to return to their camp.
+
+As the jotuns regrouped, the group followed them, maintaining a careful distance and doing their best to remain unseen. For a brief moment, it seemed like their plan was going smoothly. However, one of the jotuns suddenly became suspicious, as if sensing an unseen presence. He started to scan the area, and the group quickly scrambled to hide themselves completely.
+
+Despite their efforts, a glimmer of movement caught the jotun's eye, and the whole group was immediately alerted. They swiftly turned around to face the unexpected intruders.
+
+The Guild Master let out a resigned sigh, knowing that there was no avoiding a confrontation now. The adventurers readied themselves to face them.
+
+
+",301,"队伍知道这是他们期待已久的机会，可以找到被俘者并与巨人战士对峙。他们藏身于一个隐蔽的位置，安全距离外耐心等待巨人返回营地。
+
+随着巨人们重新集结，队伍跟随他们，保持小心的距离，尽力不被发现。短暂的时刻里，他们的计划似乎进展顺利。然而，其中一个巨人突然变得怀疑，似乎感知到了某种看不见的存在。他开始扫描周围，队伍迅速四散躲藏。
+
+尽管他们努力掩藏自己，但一丝动静引起了巨人的注意，整个队伍立即被警觉了。他们迅速转身面对意外的入侵者。
+
+公会会长无奈地叹了口气，知道现在无法避免对峙。冒险者们准备好迎接他们。"
+1834454318223362,WORLDEVENT301_DECISION2,Try to capture them.,301,尝试抓住他们。
+1834454318223363,WORLDEVENT301_DECISION2RESULT0_PAGE1,"The Guild Master decided that this was perfect opportunity to capture the jotuns and interrogate them about the whereabout of the rest of their group. They had the advantage of suprise on their side and the Guild Master was aware that the had to seize it.
+
+The adventurers positioned themselves, hidden among the snow-covered landscape and attacked the jotuns who were caught off-guard by the attack.",301,"公会会长决定这是抓住巨人并审问他们关于其余队伍下落的绝佳机会。他们在出其不意的情况下占据了优势，公会会长意识到必须抓住这个机会。
+
+冒险者们在覆盖着雪的地形中隐蔽起来，向毫无防备的巨人发起了攻击。"
+1834454318223364,WORLDEVENT302_PAGE1,"The battle was won but the group have lost now their only lead to the captives. Once again they have to rely on their own skills to find the jotuns, before it was too late for the captives.",302,战斗获胜，但队伍失去了唯一的线索，无法找到被俘者。为了找到巨人，他们不得不再次依靠自己的技能，趁还不算太晚。
+1834454318223365,WORLDEVENT303_PAGE1,"With the battle won, the group stood amidst the aftermath, regaining their breath. The jotuns had proven to be formidable opponents and capturing any of them alive had proved exceedingly difficult. Only one jotun remained, restrained and silent, as the adventurers attempted to question him about the rest of his group.
+
+The language barrier made communication difficult, and it seemed likely that the jotun didn't understand the adventurers' questions. Even if he did, the Guild Master suspected that the jotun would still remain silent.",303,"随着战斗的胜利，队伍在残骸中站定，恢复呼吸。巨人们证明了是强大的对手，活捉任何一个都极为困难。只有一个巨人被束缚着，沉默不语，冒险者们试图询问他关于其余队伍的情况。
+
+语言障碍使得沟通变得困难，似乎这个巨人并不理解冒险者们的问题。即使他理解，公会会长也怀疑这个巨人仍然会保持沉默。"
+1834454318223366,WORLDEVENT303_DECISION1,Put an end to the warrior.,303,结束这位战士的生命。
+1834454322417664,WORLDEVENT303_DECISION1RESULT0_PAGE1,"Despite their efforts to interrogate the jotun, it became clear that they would gain no useful information from him. With an exhausted look in their eyes, the Guild Master instructed one of the adventurers to end the jotun's life. As the jotun met his end, there was no fear in his eyes. Up until his last moment he stood resolute in the face of death.
+
+With the jotun's life extinguished, the group was still no closer to finding the captives and had to once again rely on their skills to find them.",303,"尽管他们努力审问巨人，但显然无法从他那里获得任何有用的信息。公会会长眼中流露出疲惫的神情，指示一位冒险者结束巨人的生命。当巨人走向死亡时，他的眼中没有恐惧。在最后一刻，他依然坚定地面对死亡。
+
+随着巨人生命的熄灭，队伍依然没有更接近找到被俘者的线索，再次不得不依靠自己的技能去寻找他们。"
+1834454322417665,WORLDEVENT303_DECISION2,"<color=#2aa136>[Sadist]</color>{DECISIONCHARACTER1} asks for some ""alone""-time with their captive.",303,<color=#2aa136>[施虐者]</color>{DECISIONCHARACTER1}要求与他们的俘虏单独相处。
+1834454322417666,WORLDEVENT303_DECISION2RESULT0_PAGE1,"{CHARACTER1} requested to have some private time with the jotun. {GENDER1:cond:=1?he|=0?she} was sure that {GENDER1:cond:=1?he|=0?she} could get the location of the captives with some ""convincing"". The Guild Master knew better than to ask what {CHARACTER1} meant, so they instructed the group to let {CHARACTER1} handle it. 
+
+After a short while, {CHARACTER1} rejoined the group, revealing that {GENDER1:cond:=1?he|=0?she} had managed to get a rough idea of the captives' location. The language barrier made it difficult to be certain, but {GENDER1:cond:=1?he|=0?she} was confident enough to lead them in the right direction. With {CHARACTER1} now in the lead they started to continue their journey. 
+
+No one asked what happened to the jotun.",303,"{CHARACTER1}请求与巨人单独相处。{GENDER1:cond:=1?他|=0?她}相信通过一些“说服”，{GENDER1:cond:=1?他|=0?她}能得到被俘者的位置。公会会长知道最好不要问{CHARACTER1}的意思，于是指示队伍让{CHARACTER1}处理此事。
+
+不久后，{CHARACTER1}重新加入队伍，透露{GENDER1:cond:=1?他|=0?她}已经大致了解了被俘者的位置。语言障碍使得确认变得困难，但{GENDER1:cond:=1?他|=0?她}足够自信，能够带领他们朝正确的方向前进。随着{CHARACTER1}的带领，他们开始继续旅程。
+
+没有人问巨人发生了什么。"

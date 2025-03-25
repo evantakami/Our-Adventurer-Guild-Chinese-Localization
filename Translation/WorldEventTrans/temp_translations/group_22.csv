@@ -1,0 +1,8 @@
+ID,Key,String,EventID,TranslatedString
+1834453756186631,WORLDEVENT66_PAGE1,"Yet again, {CHARACTER1} had not met the Road Slasher and the night was about to end. {GENDER1:cond:=1?He|=0?She} started to wonder if the Road Slasher was even here.",66,又一次，{CHARACTER1}没有遇到路上的撕裂者，夜晚即将结束。{GENDER1:cond:=1?他|=0?她}开始怀疑撕裂者是否真的在这里。
+1834453756186632,WORLDEVENT67_PAGE1,"After travelling the path for a while, nothing noteworthy had happened. The Slasher hasn't revealed himself yet but the night was still young.",67,在这条路上行走了一段时间后，没发生什么值得注意的事情。撕裂者还没有显露身影，但夜晚仍然年轻。
+1834453760380928,WORLDEVENT68_PAGE1,"From the two possible paths in front of {CHARACTER1}, {GENDER1:cond:=1?he|=0?she} decided to follow the left path. However, {CHARACTER1} was still wondering if that was the right decision.",68,在{CHARACTER1}面前的两条可能的道路中，{GENDER1:cond:=1?他|=0?她}决定选择左边的道路。然而，{CHARACTER1}仍在思考这是否是正确的决定。
+1834453760380929,WORLDEVENT68_DECISION1,{DECISIONCHARACTER1} sticks to {DECISIONGENDER1:cond:=1?his|=0?her} decision.,68,{DECISIONCHARACTER1}坚持{DECISIONGENDER1:cond:=1?他的|=0?她的}决定。
+1834453760380930,WORLDEVENT68_DECISION1RESULT0_PAGE1,{CHARACTER1} went through with {GENDER1:cond:=1?his|=0?her} decision and followed the left path.,68,{CHARACTER1}执行了{GENDER1:cond:=1?他的|=0?她的}决定，选择了左边的道路。
+1834453760380931,WORLDEVENT68_DECISION2,{DECISIONCHARACTER1} takes a step back to think.,68,{DECISIONCHARACTER1}退后一步思考。
+1834453760380932,WORLDEVENT68_DECISION2RESULT0_PAGE1,{CHARACTER1} decided to think more carefully about this decision.,68,{CHARACTER1}决定更仔细地考虑这个决定。

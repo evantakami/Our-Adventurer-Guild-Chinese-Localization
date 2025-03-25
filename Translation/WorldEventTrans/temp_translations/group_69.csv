@@ -1,0 +1,136 @@
+ID,Key,String,EventID,TranslatedString
+1834454104313859,WORLDEVENT213_PAGE1,In front of the adventurers was a stone door marked with the symbol of the demon lord Mammon the Greedy.,213,在冒险者面前是一扇刻有魔王贪婪之名马门符号的石门。
+1834454104313860,WORLDEVENT213_DECISION1,Enter,213,进入
+1834454104313861,WORLDEVENT213_DECISION1CONDRESULT1_PAGE1,"Upon making contact with the door, the adventurers found themselves transported to a completely different location.",213,当他们接触到门时，冒险者们发现自己被传送到了一个完全不同的地方。
+1834454108508160,WORLDEVENT214_PAGE1,"Surprisingly, the merchant Me'can was still present, engaged in selling various items to the adventurers around him.
+
+""Hello, Guild Master! Glad to see you!"" he greeted cheerily, seemingly oblivious to the siege. The Guild Master expressed surprise that Me'can hasn't fled before the siege began.
+
+""Why would I? This is the perfect opportunity for business. Nothing makes selling easier than a crisis,"" Me'can responded. ""I'm actually completely out of stock of anything, truth be told."" He raised a finger, adding, ""However, I do have some items set aside for you and you only, Guild Master."" He then pulled out three strange items that the Guild Master had never seen before.
+",214,"令人惊讶的是，商人梅卡恩依然在场，正在向周围的冒险者们出售各种物品。  
+
+“你好，公会会长！见到你真高兴！”他愉快地打招呼，似乎对围攻毫无察觉。公会会长对此感到惊讶，梅卡恩居然没有在围攻开始前逃跑。  
+
+“我为什么要逃？这是做生意的绝佳机会。没有什么比危机更能促进销售了，”梅卡恩回应道。“说实话，我实际上已经没有任何库存了。”他抬起一根手指，补充道：“不过，我确实为你准备了一些物品，公会会长，只有你能得到。”然后他拿出了三件公会会长从未见过的奇怪物品。"
+1834454108508161,WORLDEVENT214_PAGE2,"""You can have one of these, free of charge,"" Me'can offered.
+
+""Only one?"" the Guild Master raised an eyebrow.
+
+Me'can chuckled under his mask. ""Of course. I'm still a businessman after all. One gift is enough.""",214,"“你可以免费选择其中一件，”梅卡恩提议。  
+
+“只有一件？”公会会长扬起了眉毛。  
+
+梅卡恩在面具下轻声笑了。“当然。我毕竟还是个商人。一份礼物就足够了。”"
+1834454108508162,WORLDEVENT214_DECISION1,Take the Frozen Bomb,214,选择冰冻炸弹
+1834454108508163,WORLDEVENT214_DECISION1RESULT0_PAGE1,"Me'can handed over the item.
+
+""A good choice, Guild Master!"" said Me'can. ""I wish you good luck in the upcoming battles.""",214,"梅卡恩把物品递了过来。  
+
+“好选择，公会会长！”梅卡恩说道。“祝你在即将到来的战斗中好运。”"
+1834454108508164,WORLDEVENT214_DECISION2,Take the Wing of Hope,214,选择希望之翼
+1834454108508165,WORLDEVENT214_DECISION2RESULT0_PAGE1,"Me'can handed over the item.
+
+""A good choice, Guild Master!"" said Me'can. ""I wish you good luck in the upcoming battles.""",214,"梅卡恩把物品递了过来。  
+
+“好选择，公会会长！”梅卡恩说道。“祝你在即将到来的战斗中好运。”"
+1834454108508166,WORLDEVENT214_DECISION3,Take the Love Potion,214,选择爱情药水
+1834454108508167,WORLDEVENT214_DECISION3RESULT0_PAGE1,"Me'can handed over the item.
+
+""A good choice, Guild Master!"" said Me'can. ""I wish you good luck in the upcoming battles.""",214,"梅卡恩把物品递了过来。  
+
+“好选择，公会会长！”梅卡恩说道。“祝你在即将到来的战斗中好运。”"
+1834454108508168,WORLDEVENT214_DECISION4,Ask Me'can what those items do,214,问梅卡恩那些物品的作用
+1834454108508169,WORLDEVENT214_DECISION4RESULT0_PAGE1,"""These are all unique consumables with powerful effects.""
+
+This is the Frozen Bomb. It will freeze anybody in a 2x2 area for two turns without any chance to resist the effect.
+
+This is the Wing of Hope. It can completely remove the Shaken status of any person and recovers even 50 BP.
+
+And lastly this is the love potion. Throw this at any enemy and they'll get charmed for two rounds, unable to target the user and with a good chance to turn on their allies during their turn.
+
+The Guild Master had no idea what Me'can was talking about but knew better than to ask questions.",214,"“这些都是具有强大效果的独特消耗品。”  
+
+这是冰冻炸弹。它会在2x2范围内冻结任何人两回合，且没有抵抗效果的机会。  
+
+这是希望之翼。它可以完全消除任何人的震惊状态，并恢复50点BP。  
+
+最后，这是爱情药水。将其扔向任何敌人，他们将在两轮内被迷惑，无法以你为目标，并且在他们的回合中有很大机会转而攻击他们的盟友。  
+
+公会会长对梅卡恩所说的内容一无所知，但知道最好不要问问题。"
+1834454112702464,WORLDEVENT217_PAGE1,"As she drew near, the shrine began to emanate a sinister red glow, and a chilling mist rose from its surface. Suddenly, a ghastly visage materialized before them, its twisted grin sending shivers down their spines.
+
+""How delightful to encounter one who bears my mark,"" the visage spoke in a friendly tone but somehow still dripping with mockery. ""But it seems you're experiencing a bit of buyer's remorse. How unfortunate.""
+",217,"当她靠近时，神殿开始散发出阴险的红色光芒，寒冷的雾气从其表面升起。突然，一个可怕的面孔在他们面前显现出来，扭曲的笑容让他们感到毛骨悚然。  
+
+“遇到一个带有我印记的人真是太令人愉快了，”那个面孔用友好的语气说道，但听起来却充满了嘲讽。“但看来你正在经历一些买家的悔恨。真不幸。”"
+1834454112702465,WORLDEVENT217_PAGE2,"""I never wanted this,"" Misasa cried. ""I didn't know what I was getting myself into. It's not fair!"" Misasa's voice quivered with desperation as she yelled those words.
+
+""It isn't. But I don't care!"", the visage started to laugh viciously. It became clear that Belephegor had no empathy for humans. No, he enjoyed their suffering.
+
+""Now, now, don't look at me like that."" Belephegor continued after finishing laughing. ""It would be rude if I were to just come here without at least offering you a way out.""",217,"“我从来不想要这个，”米萨萨哭喊道。“我不知道自己在做什么。这太不公平了！”米萨萨的声音因绝望而颤抖。  
+
+“确实不公平。但我不在乎！”那个面孔开始恶狠狠地笑。显然，贝勒菲戈尔对人类没有同情心。不，他享受他们的痛苦。  
+
+“好了，别那样看着我。”贝勒菲戈尔在笑完后继续说道。“如果我不至少给你提供一个出路，那就太失礼了。”"
+1834454112702466,WORLDEVENT217_PAGE3,"A glimmer of hope flickered in Misasa's eyes as she leaned in, hanging on the demon lord's every word. ""Tell me what I have to do,"" she pleaded. ""I'll do anything.""
+
+
+The visage's grin widened, its features contorting into a grotesque mockery of amusement. ""It's quite simple, really,"" it purred. ""A soul has been promised to me, but it doesn't have to be yours. It can be anyone's. Someone you know, or perhaps a stranger on the street. An elderly person nearing the end of their days, or even an innocent child who has yet to experience the fullness of life.""",217,"当米萨萨倾身向前，紧紧盯着魔王的每一个字时，眼中闪过一丝希望。“告诉我我该怎么做，”她恳求道。“我愿意付出一切。”  
+
+那个面孔的笑容加宽，特征扭曲成一种可怕的嘲弄。“其实很简单，”它低声说道。“一个灵魂已经被承诺给我，但不一定是你的。可以是任何人的。你认识的人，或者街上的陌生人。一个即将走到生命尽头的老人，甚至是一个尚未经历生活完整的无辜孩子。”"
+1834454112702467,WORLDEVENT217_PAGE4,"Misasa's blood ran cold as she recoiled from the demon lord's sinister proposition. ""I-I can't,"" she stammered, her voice barely above a whisper.
+
+
+""Why not?"" the visage taunted, its eyes gleaming with malice. ""You've already spilled blood. What's one more soul to damn? Or perhaps one of your companions here would be willing to trade places with you. Surely there's someone among them who values your life enough to sacrifice their own.""",217,"米萨萨的血液在她听到魔王的阴险提议时变得冰冷。“我……我不能，”她结结巴巴地说，声音几乎低于耳语。  
+
+“为什么不？”那个面孔嘲弄道，眼中闪烁着恶意。“你已经流过血了。再多一个灵魂来诅咒又有什么关系？或者，也许你身边的某个同伴愿意和你交换位置。肯定有一个人会珍视你的生命，愿意牺牲自己的。”"
+1834454112702468,WORLDEVENT217_DECISION1,"""Well is there?"", Belephegor asked facing the other adventurers.",217,“那么，有人愿意吗？”贝勒菲戈尔问，转向其他冒险者。
+1834454112702469,WORLDEVENT217_DECISION1RESULT0_PAGE1,"Misasa's heart felt like lead as she stood alone amidst her companions who averted their eyes from her. In that moment, she realized the bitter truth that had haunted her all her life: she was utterly alone. The facade of friendship she had clung to shattered before her eyes, leaving her exposed and vulnerable in the cold embrace of isolation.
+
+""What a pitiful sight."" Belephegor said with a fake empathic voice. ""Well, you heard my offer, girl. It's up to you now what happens with your soul."" With a heavy heart, Misasa watched as the visage of Belephegor faded into nothingness, leaving behind only the hollow emptiness of her own despair. 
+",217,"米萨萨的心如铅般沉重，她孤身站在避开目光的同伴中。在那一刻，她意识到一直困扰她一生的苦涩真相：她完全孤独。她所依附的友谊的假象在她眼前破碎，让她在孤独的寒冷怀抱中暴露无遗。  
+
+“真是可怜的景象。”贝勒菲戈尔用假装同情的声音说道。“好吧，你听到了我的提议，女孩。现在你决定你的灵魂将会发生什么。”米萨萨沉重地看着贝勒菲戈尔的面孔渐渐消失，只留下她自己绝望的空虚。"
+1834454112702470,WORLDEVENT217_DECISION1RESULT0_PAGE2,"The journey back to the Guild was a silent one. Misasa did not exchange a single word with her companions, nor did they offer her any solace in return. Some of them kept their distance from her, casting wary glances in her direction, afraid of what she might do.",217,回公会的旅程是沉默的。米萨萨没有和同伴们说一句话，他们也没有给她任何安慰。其中一些人保持距离，朝她投去警惕的目光，害怕她会做出什么。
+1834454116896768,WORLDEVENT217_DECISION1CONDRESULT1_PAGE1,"As {CHARACTER1} stepped forward, Misasa's heart dropped. The realization of what was about to transpire sent a chill down her spine. She couldn't bear to see someone else sacrifice themselves for her sake, especially not the person she loved.
+
+""NO! You can't do this! Anyone but you!"" Misasa shouted, her voice trembling with desperation. She couldn't allow another to bear the consequences of her own poor decisions.
+
+""I-I won't do it, Belephegor!"" Misasa's voice quivered with fear, but beneath it lay a steely determination. She refused to let others pay the price for her mistakes.
+
+For a brief moment, the smile on the visage faded, replaced by a look of disgust. But it quickly morphed into a more sinister grin as Belephegor continued to manipulate the situation.",217,"当{CHARACTER1}向前迈步时，米萨萨的心沉了下来。即将发生的事情让她感到一阵寒意。她无法忍受看到其他人为她牺牲，特别是她所爱的人。  
+
+“不要！你不能这样做！除了你以外的任何人！”米萨萨大喊，声音因绝望而颤抖。她不能让其他人为她的错误决定承担后果。  
+
+“我……我不会这样做，贝勒菲戈尔！”米萨萨的声音因恐惧而颤抖，但在其下却隐藏着坚定的决心。她拒绝让他人为她的错误付出代价。  
+
+短暂的时刻，面孔上的笑容消失，取而代之的是一丝厌恶的表情。但很快又变成了更阴险的笑容，贝勒菲戈尔继续操控着局势。"
+1834454116896769,WORLDEVENT217_DECISION1CONDRESULT2_PAGE1,"As {CHARACTER1} stepped forward, Misasa's heart dropped. The realization of what was about to transpire sent a chill down her spine. She couldn't bear to see someone else sacrifice themselves for her sake, especially the closest friend she ever had.
+
+""NO! You can't do this! Anyone but you!"" Misasa shouted, her voice trembling with desperation. She couldn't allow another to bear the consequences of her own poor decisions.
+
+""I-I won't do it, Belephegor!"" Misasa's voice quivered with fear, but beneath it lay a steely determination. She refused to let others pay the price for her mistakes.
+
+For a brief moment, the smile on the visage faded, replaced by a look of disgust. But it quickly morphed into a more sinister grin as Belephegor continued to manipulate the situation.",217,"当{CHARACTER1}向前迈步时，米萨萨的心沉了下来。即将发生的事情让她感到一阵寒意。她无法忍受看到其他人为她牺牲，尤其是她最亲密的朋友。  
+
+“不要！你不能这样做！除了你以外的任何人！”米萨萨大喊，声音因绝望而颤抖。她不能让其他人为她的错误决定承担后果。  
+
+“我……我不会这样做，贝勒菲戈尔！”米萨萨的声音因恐惧而颤抖，但在其下却隐藏着坚定的决心。她拒绝让他人为她的错误付出代价。  
+
+短暂的时刻，面孔上的笑容消失，取而代之的是一丝厌恶的表情。但很快又变成了更阴险的笑容，贝勒菲戈尔继续操控着局势。"
+1834454116896770,WORLDEVENT217_DECISION1CONDRESULT3_PAGE1,"Misasa's heart sank as she beheld the fear in her friends' eyes, knowing that Belephegor had placed them in an impossible situation. She had no doubt of their friendship, but would they be willing to sacrifice their own souls to save hers? The answer seemed clear: they couldn't, and Misasa couldn't fault them for it.
+
+Belephegor's mocking laughter echoed through the halls, a cruel reminder of their failure to strike a deal.
+
+
+""Whoops, it seems like I asked too much from you,"" Belephegor taunted, his voice dripping with malice. ""How terrible of me. I hoped I didn't put any strains on your friendship.""
+His words cut through the silence like a knife, filling the air with a palpable sense of defeat. It echoed in their minds long after they retreated from the place and made their way back to the guild, their shoulders slumped by the weight of their failure.
+
+It was an utter failure.",217,"米萨萨的心沉了下来，她看到朋友们眼中的恐惧，知道贝勒菲戈尔把他们置于一个不可能的境地。她对他们的友谊毫不怀疑，但他们愿意牺牲自己的灵魂来拯救她吗？答案似乎很明显：他们不能，而米萨萨也不能责怪他们。  
+
+贝勒菲戈尔的嘲弄笑声在大厅中回荡，残酷地提醒着他们未能达成交易。  
+
+“哎呀，看来我对你们的要求太高了，”贝勒菲戈尔嘲弄道，声音中充满恶意。“真是太糟糕了。我希望我没有给你们的友谊带来任何压力。”  
+他的话如刀割般划破了沉默，空气中弥漫着明显的失败感。在他们离开那个地方，回到公会的路上，这种感觉在他们的心中回荡，肩膀因失败的重担而下垂。  
+
+这完全是一次失败。"

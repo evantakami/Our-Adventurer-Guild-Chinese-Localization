@@ -1,0 +1,80 @@
+ID,Key,String,EventID,TranslatedString
+1834454372749314,WORLDEVENT322_DECISION1,{CHARACTER1} unleashes a series of powerful blows,322,{CHARACTER1} 发动了一系列强力攻击
+1834454372749315,WORLDEVENT322_DECISION1RESULT0_PAGE1,"Seizing the momentary advantage, {CHARACTER1} unleashed a torrent of devastating strikes upon the stunned jotun warrior. Each blow landed with precision and force, shaking the very air with its impact.
+
+The warrior, caught off guard and unable to mount a defense, could only bear the brunt of {CHARACTER1}'s onslaught. With each successive strike, the jotun warrior's resistance crumbled, his body unable to withstand the overwhelming force behind {CHARACTER1}'s attacks.
+
+The sound of bones breaking to the fury of {CHARACTER1}'s strikes could be heard. The warrior's breath grew labored, and a cough escaped his lips, mingling with the spatters of blood that stained the snow-covered ground.",322,"抓住短暂的优势，{CHARACTER1} 向震惊的巨人战士发起了一阵毁灭性的攻击。每一击都精准有力，震动着空气，带来强烈的冲击。  
+
+这名战士措手不及，无法进行防御，只能承受 {CHARACTER1} 的猛烈攻击。随着每一次的打击，巨人战士的抵抗逐渐崩溃，他的身体无法承受 {CHARACTER1} 攻击背后的巨大力量。  
+
+骨头在 {CHARACTER1} 的攻击下断裂的声音清晰可闻。战士的呼吸变得沉重，喉咙里咳出一声咳嗽，混合着染红雪地的鲜血。"
+1834454372749316,WORLDEVENT322_DECISION1RESULT0_PAGE2,"In a crescendo of power, {CHARACTER1} delivered a final, devastating blow. {GENDER1:cond:=1?his|=0?her} fist connected with the jotun warrior's body, unleashing an explosion of force that seemed to reverberate through the very core of his being. The warrior's eyes widened, and a grimace of pain contorted their face as they coughed out a final breath, filled with blood.",322,在力量的高潮中，{CHARACTER1} 给予了最后一击，造成了毁灭性的打击。{GENDER1:cond:=1?他的|=0?她的}拳头击中了巨人战士的身体，释放出一股似乎能震动他灵魂深处的力量。战士的眼睛睁大，痛苦的表情扭曲着脸庞，咳出最后一口充满鲜血的气息。
+1834454372749317,WORLDEVENT322_DECISION1RESULT0_PAGE3,"Time seemed to stand still for a moment, as the warrior's body teetered on the edge of life and death. Then, with a smile appearing on the warrior's face, the jotun finally succumbed to his wounds. His lifeless form crumpled to the unforgiving ground, the battle axe slipping from his grasp.
+
+The tundra fell silent once more, the only sounds the whispering wind and the fading echoes of the clash. {CHARACTER1} stood amidst the aftermath, {GENDER1:cond:=1?his|=0?her} chest heaving with exertion. The battle was over.",322,"时间似乎在那一刻静止，战士的身体摇摇欲坠，仿佛在生与死的边缘徘徊。然后，战士脸上露出了微笑，巨人终于屈服于他的伤口。他的无生命躯体无力地倒在无情的地面上，战斧从他的手中滑落。  
+
+冻原再次陷入寂静，唯一的声音是低语的风和渐渐消逝的战斗回声。{CHARACTER1} 站在战斗的余波中，{GENDER1:cond:=1?他的|=0?她的}胸膛因疲惫而起伏不定。战斗结束了。"
+1834454376943616,WORLDEVENT322_DECISION1ALTRESULT0_PAGE1,"Seizing the momentary advantage, {CHARACTER1} unleashed a torrent of devastating strikes upon the stunned jotun warrior. Each blow landed with precision and force, shaking the very air with its impact.
+
+The warrior, caught off guard and unable to mount a defense, could only bear the brunt of {CHARACTER1}'s onslaught. With each successive strike, the jotun warrior's resistance crumbled, his body unable to withstand the overwhelming force behind {CHARACTER1}'s attacks.
+
+The sound of bones breaking to the fury of {CHARACTER1}'s strikes could be heard. The warrior's breath grew labored, and a cough escaped his lips, mingling with the spatters of blood that stained the snow-covered ground.",322,"抓住短暂的优势，{CHARACTER1} 向震惊的巨人战士发起了一阵毁灭性的攻击。每一击都精准有力，震动着空气，带来强烈的冲击。  
+
+这名战士措手不及，无法进行防御，只能承受 {CHARACTER1} 的猛烈攻击。随着每一次的打击，巨人战士的抵抗逐渐崩溃，他的身体无法承受 {CHARACTER1} 攻击背后的巨大力量。  
+
+骨头在 {CHARACTER1} 的攻击下断裂的声音清晰可闻。战士的呼吸变得沉重，喉咙里咳出一声咳嗽，混合着染红雪地的鲜血。"
+1834454376943617,WORLDEVENT322_DECISION1ALTRESULT0_PAGE2,"In a crescendo of power, {CHARACTER1} delivered a final, devastating blow. {GENDER1:cond:=1?his|=0?her} fist connected with the jotun warrior's body, unleashing an explosion of force that seemed to reverberate through the very core of his being. The warrior's eyes widened, and a grimace of pain contorted their face as they coughed out a final breath, filled with blood.",322,在力量的高潮中，{CHARACTER1} 给予了最后一击，造成了毁灭性的打击。{GENDER1:cond:=1?他的|=0?她的}拳头击中了巨人战士的身体，释放出一股似乎能震动他灵魂深处的力量。战士的眼睛睁大，痛苦的表情扭曲着脸庞，咳出最后一口充满鲜血的气息。
+1834454376943618,WORLDEVENT322_DECISION1ALTRESULT0_PAGE3,"It was over...or that was what {CHARACTER1} has expected. 
+
+Just as victory seemed assured, the jotun warrior's eyes suddenly flickered with newfound determination. In a display of sheer willpower, the warrior summoned his remaining strength and grasped his battle axe tightly. With a primal roar, he swung the weapon in a swift and devastating arc.
+
+Caught off guard by the warrior's unexpected recovery, {CHARACTER1} found {GENDER1:cond:=1?himself|=0?herself} unable to evade the incoming strike. The battle axe crashed into {GENDER1:cond:=1?his|=0?her} body with brutal force, sending {GENDER1:cond:=1?him|=0?her} flying backwards.  Pain coursed through {GENDER1:cond:=1?his|=0?her} body when {GENDER1:cond:=1?he|=0?she} landed on the ground, gasping for air.",322,"一切都结束了……或者说这是 {CHARACTER1} 所期待的。  
+
+就在胜利似乎已成定局时，巨人战士的眼中突然闪烁着新生的决心。在一场意志的展示中，战士召唤起剩余的力量，紧握住他的战斧。伴随着一声原始的咆哮，他迅速而猛烈地挥动武器。  
+
+被战士意外的恢复所震惊，{CHARACTER1} 发现 {GENDER1:cond:=1?自己|=0?自己} 无法躲避即将到来的攻击。战斧以残酷的力量撞击到 {GENDER1:cond:=1?他的|=0?她的} 身体，令 {GENDER1:cond:=1?他|=0?她} 向后飞去。当 {GENDER1:cond:=1?他|=0?她} 摔落在地时，疼痛在 {GENDER1:cond:=1?他|=0?她} 的身体中蔓延，喘息着空气。"
+1834454376943619,WORLDEVENT322_DECISION1ALTRESULT0_PAGE4,"The Rest of the party couldn't stand idly by anymore and rushed in to help {CHARACTER1}. Enraged by the disruption, the jotun warrior started to attack the party indiscriminately.
+
+The jotun fought with a ferocity that belied his wounds and only with great cost were they finally able to put him down in the end.",322,"其他队员再也无法袖手旁观，冲上前去帮助 {CHARACTER1}。愤怒于干扰，巨人战士开始无差别地攻击队伍。  
+
+尽管受了重伤，巨人依然以狂暴的姿态战斗，最终他们付出了巨大的代价才将其击倒。"
+1834454376943620,WORLDEVENT323_PAGE1,"As the party marched on through the tundra, the weather took a sudden turn for the worse. A sudden snowstorm engulfed the area and took the adventurers by surprise. Visibility plummeted, as the swirling snowflakes obscured their surroundings, leaving only a hazy curtain of white.
+
+Realizing that they were in danger of getting separated, the party started to huddle together and walked in a tight-knit formation.",323,"当队伍在冻原上继续前进时，天气突然变得更糟。突如其来的暴风雪笼罩了整个区域，让冒险者们措手不及。能见度骤降，旋转的雪花遮蔽了他们的视线，只留下模糊的白色帷幕。  
+
+意识到他们有可能会被分开，队伍开始紧紧靠在一起，形成紧密的队形。"
+1834454376943621,WORLDEVENT323_DECISION1,{DECISIONCHARACTER1} spots something in the distance.,323,{DECISIONCHARACTER1} 在远处发现了什么。
+1834454381137920,WORLDEVENT323_DECISION1RESULT0_PAGE1,"In the distance {CHARACTER1}'s eyes caught sight of a shadowy figure. Through the haze of the snowstorm, it was impossible for {GENDER1:cond:=1?him|=0?her} to identify what it was but nevertheless {CHARACTER1} had a strange feeling about it.
+
+{GENDER1:cond:=1?he|=0?she} tried to alert the others to the mysterious being, but none of them could see what seem to have alerted {CHARACTER1}. Focused more on weathering the storm, the others told {CHARACTER1} to just ignore whatever it was.",323,"在远处，{CHARACTER1} 的眼中捕捉到了一个阴影。透过暴风雪的迷雾，{GENDER1:cond:=1?他|=0?她} 无法辨认那是什么，但无论如何，{CHARACTER1} 对此有种奇怪的感觉。  
+
+{GENDER1:cond:=1?他|=0?她} 尝试提醒其他人注意这个神秘的存在，但他们都看不到似乎引起 {CHARACTER1} 注意的东西。其他人更专注于抵御风暴，告诉 {CHARACTER1} 忽略那是什么。"
+1834454381137921,WORLDEVENT323_DECISION1RESULT0_PAGE2,"{CHARACTER1} reluctantly acquiesced to {GENDER1:cond:=1?his|=0?her} companions advice, understanding there were pressing matters for now.
+
+Step by step, they forged ahead through the biting wind and the treacherous terrain. Hours turn into an eternity, as they marched on.",323,"{CHARACTER1} 不情愿地接受了 {GENDER1:cond:=1?他|=0?她} 同伴的建议，意识到目前有更紧迫的事情要处理。  
+
+一步一步，他们在刺骨的寒风和危险的地形中继续前进。几个小时仿佛变成了永恒，他们继续前行。"
+1834454381137922,WORLDEVENT324_PAGE1,"The cold was starting to take a toll on the adventurers. They have been marching for what seemed like an eternity, and still, there the relentless storm showed no sign of subsiding.
+
+In an attempt to find solace or any sign of respite, {CHARACTER1} gazed into the distance, squinting through the swirling snowflakes. And there, amidst the hazy backdrop of the blizzard, {GENDER1:cond:=1?his|=0?her} eyes caught sight of a mysterious figure again. {CHARACTER1} didn't know why but {GENDER1:cond:=1?he|=0?she} was sure that it was the same figure, {GENDER1:cond:=1?he|=0?she} spotted before.",324,"寒冷开始对冒险者们造成影响。他们似乎已经走了一个永恒的时间，而无情的暴风雪依旧没有减弱的迹象。  
+
+为了寻找安慰或任何喘息的迹象，{CHARACTER1} 望向远方，眯起眼睛穿过旋转的雪花。在暴风雪的模糊背景中，{GENDER1:cond:=1?他|=0?她} 再次看到了一个神秘的身影。{CHARACTER1} 不知道为什么，但 {GENDER1:cond:=1?他|=0?她} 确信那是之前看到的同一个身影。"
+1834454381137923,WORLDEVENT324_PAGE2,"{CHARACTER1} didn't bother to tell any of the others of the sight, knowing that they would just dismiss it again. Yet, there was something strange about the figure. A strange feeling overcame {CHARACTER1} everytime it looked at the figure. A feeling {GENDER1:cond:=1?he|=0?she} couldn't describe...",324,{CHARACTER1} 并没有告诉其他人这个发现，知道他们会再次不以为然。然而，这个身影有些奇怪。每当 {CHARACTER1} 看向这个身影时，都会涌起一种奇怪的感觉。那是一种 {GENDER1:cond:=1?他|=0?她} 无法形容的感觉……
+1834454381137924,WORLDEVENT324_DECISION1,{CHARACTER1} goes after the figure,324,{CHARACTER1} 追逐那个身影
+1834454381137925,WORLDEVENT324_DECISION1RESULT0_PAGE1,"Against all reason, {CHARACTER1} felt an inexplicable and irresistible pull towards the mysterious figure. Something deep within {GENDER1:cond:=1?him|=0?her} compelled {GENDER1:cond:=1?him|=0?her} to chase after it, to unravel the mysteries that surrounded its presence.
+
+Without a moment's hesitation, {CHARACTER1} broke into a swift dash, leaving behind {GENDER1:cond:=1?his|=0?her} bewildered comrades. {CHARACTER1} ignored the pleas and warnings of {GENDER1:cond:=1?his|=0?her} comrades and it wasn't long until their voices faded away only to be replaced by the howling of the storm.",324,"违背所有理智，{CHARACTER1} 感到一种无法解释且不可抗拒的吸引力，朝着那个神秘的身影走去。内心深处的某种东西驱使着 {GENDER1:cond:=1?他|=0?她} 去追寻，揭开围绕其存在的谜团。  
+
+毫不犹豫，{CHARACTER1} 迅速冲出，留下 {GENDER1:cond:=1?他|=0?她} 迷惑的同伴。{CHARACTER1} 忽视了 {GENDER1:cond:=1?他|=0?她} 同伴的恳求和警告，不久他们的声音就消失在了风暴的呼啸声中。"
+1834454381137926,WORLDEVENT324_DECISION1RESULT0_PAGE2,"The world around {CHARACTER1} became a muffled haze as {GENDER1:cond:=1?he|=0?she} focused solely on the pursuit of the distant figure. Step by step, {GENDER1:cond:=1?he|=0?she} carved a path through the treacherous tundra, guided only by the faint outlines of {GENDER1:cond:=1?his|=0?her} goal in the distance.
+
+However, despite {CHARACTER1}'s relentless pursuit, the figure seemed to remain frustratingly out of reach.",324,"{CHARACTER1} 周围的世界变得模糊，{GENDER1:cond:=1?他|=0?她} 只专注于追逐远处的身影。一步一步，{GENDER1:cond:=1?他|=0?她} 在危险的冻原上开辟了一条道路，唯一的指引是远处目标的微弱轮廓。  
+
+然而，尽管 {CHARACTER1} 不懈地追逐，那个身影似乎依然令人沮丧地遥不可及。"
+1834454381137927,WORLDEVENT324_DECISION2,{CHARACTER1} resists the urge to go after the figure,324,{CHARACTER1} 抵制了追逐那个身影的冲动
+1834454385332224,WORLDEVENT324_DECISION2RESULT0_PAGE1,"Despite {CHARACTER1} urge to investigate the mistery, a sense of rationality prevailed. Recognizing the importance of staying united with {GENDER1:cond:=1?his|=0?her} comrades in the face of the treacherous snowstorm, {CHARACTER1} resisted the impulse to chase after the figure. Survival took precedence over curiosity.
+
+As time wore on, the storm persisted, battering the adventurers with its icy fury. They fought against the biting winds, their bodies growing numb and their spirits tested. ",324,"尽管 {CHARACTER1} 有探究这个谜团的冲动，但理智最终占了上风。意识到在这场危险的暴风雪中与 {GENDER1:cond:=1?他|=0?她} 的同伴保持团结的重要性，{CHARACTER1} 抵制了追逐那个身影的冲动。生存优先于好奇心。  
+
+随着时间的推移，暴风雪依旧肆虐，冒险者们在冰冷的狂怒中挣扎。他们与刺骨的寒风作斗争，身体逐渐麻木，精神受到考验。"

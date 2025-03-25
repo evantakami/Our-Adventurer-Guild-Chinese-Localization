@@ -1,0 +1,59 @@
+ID,Key,String,EventID,TranslatedString
+1834453634551811,WORLDEVENT10_PAGE1,The Party saw a man barricading his house door with wooden planks. The same has already been done to the windows of the house.,10,队伍看到一个男人正在用木板封住他的房门。房子的窗户也已经被这样处理过。
+1834453634551812,WORLDEVENT10_DECISION1,The Party asks the man what he's doing.,10,队伍问那个男人他在做什么。
+1834453634551813,WORLDEVENT10_DECISION1RESULT0_PAGE1,"""What I'm doing? I'm keeping myself safe! That's what I'm doing."" he snaps at the adventurers.
+""The bandits will have no easy way to break into my house if it isn't obvious enough. I hope you adventurers can fight better than you think. Either way I will be staying safe inside my house.""
+
+The adventurers doubt that simple barricades will be able keep the bandits away.",10,"“我在做什么？我在保护自己！这就是我在做的。”他对冒险者怒吼道。“如果不够明显，强盗就不会轻易闯入我的房子。我希望你们这些冒险者能比你们想象的更能打。不管怎样，我会安全地呆在我的房子里。”
+
+冒险者们怀疑简单的封锁能否阻止强盗。"
+1834453634551814,WORLDEVENT10_DECISION1RESULT0_PAGE2,"
+""Hah! Barricades aren't the only thing I have. I also have some explosive barrels I'll be placing in front of the door. I'll just threaten to detonate them if anybody tries to take down the barricades,"" the man said, and for some reason, the adventurers felt that it probably wasn't an empty threat. He seemed like the kind of guy to set off explosives, no matter how crazy it may seem.",10,“哈！封锁可不是我唯一的手段。我还有一些爆炸桶，我会把它们放在门前。如果有人试图拆掉封锁，我就威胁引爆它们。”那个男人说道，出于某种原因，冒险者们觉得这可能不是空洞的威胁。他看起来像是那种无论多疯狂都会引爆炸药的人。
+1834453634551815,WORLDEVENT10_DECISION1RESULT0_PAGE3,"The man finally finshed hammering the planks onto his door and watched his work with great pride...until a sudden realization hit him.
+
+To get inside the house he had to remove the barricades again. To the Party's surprise the man started to swear profusely.",10,"男人终于把木板钉在了门上，满怀自豪地看着自己的成果……直到一个突然的念头袭来。
+
+为了进屋，他必须再次移除封锁。令队伍惊讶的是，那个男人开始痛骂不已。"
+1834453634551816,WORLDEVENT11_PAGE1,"""Was there anything you want from me or are you just here to waste my time?""",11,“你们有什么事想找我，还是只是来浪费我的时间？”
+1834453634551817,WORLDEVENT11_DECISION1,Ask the man if they can have the explosive barrels.,11,问那个男人是否可以要爆炸桶。
+1834453638746112,WORLDEVENT11_DECISION1RESULT0_PAGE1,"The Party realized that they could use the barrels to set them up at key positions against the bandits.  So they asked the man if they could have them.
+
+""Are you crazy?!"" said the crazy man. ""If I give you the barrels then I have nothing to explode the bandits in front of my house door.""",11,"队伍意识到他们可以利用这些桶在对抗强盗时设置关键位置。于是他们问那个男人是否可以要这些桶。
+
+“你们疯了吗？！”那个疯狂的男人说道。“如果我把桶给你们，那我就没有东西可以在我家门前炸强盗了。”"
+1834453638746113,WORLDEVENT12_DECISION1,Try to persuade him to give up the barrels.,12,试图说服他放弃桶。
+1834453638746114,WORLDEVENT12_DECISION1RESULT0_PAGE1,"{CHARACTER1} tells the man that they could use the barrels in their fight with the bandits. The man wouldn't need the barrels if they successfully drive off the bandits.
+
+Surprisingly, it seemed the logic worked with the man. ""I guess you have a point there. Fine you can have the barrels.""",12,"{CHARACTER1}告诉那个男人，他们可以在与强盗的战斗中使用这些桶。如果他们成功赶走强盗，那个男人就不需要这些桶了。
+
+令人惊讶的是，这个逻辑似乎对那个男人有效。“我想你说得有道理。好吧，你们可以拿走这些桶。”"
+1834453638746115,WORLDEVENT12_DECISION1RESULT0_PAGE2,"""Now go. I need to unbarricade my doors before you can use them barrels"".",12,“现在走吧。在你们能用这些桶之前，我需要解除封锁我的门。”
+1834453638746116,WORLDEVENT12_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} tells the man that they could use the barrels in their fight with the bandits. The man wouldn't need the barrels if they successfully drive off the bandits.
+
+He studied the adventurers. ""Nah. I think I stick to my own plans.""",12,"{CHARACTER1}告诉那个男人，他们可以在与强盗的战斗中使用这些桶。如果他们成功赶走强盗，那个男人就不需要这些桶了。
+
+他打量着冒险者们。“不，我想我还是坚持我的计划。”"
+1834453638746117,WORLDEVENT12_DECISION2,Threaten the man to give up the barrels.,12,威胁那个男人放弃桶。
+1834453638746118,WORLDEVENT12_DECISION2RESULT0_PAGE1,"""You think I'm afraid of you? Try to take the barrels and I will explode all of us!"".
+
+The Party believed the man and decided no to risk getting exploded by a crazy man.",12,"“你以为我怕你吗？试着拿走桶，我就炸掉我们所有人！”
+
+队伍相信这个男人，决定不冒被疯狂的人炸掉的风险。"
+1834453638746119,WORLDEVENT12_DECISION2CONDRESULT1_PAGE1,"""You think I'm afraid of you? Try to take the barrels and I will explode all of us!""
+
+{CHARACTER1} was unfazed by the threat which surprised the man.
+
+""Do you think I won't do it?""",12,"“你以为我怕你吗？试着拿走桶，我就炸掉我们所有人！”
+
+{CHARACTER1}对这个威胁毫不在意，这让那个男人感到惊讶。
+
+“你觉得我不会这么做吗？”"
+1834453638746120,WORLDEVENT12_DECISION2CONDRESULT1_PAGE2,"{CHARACTER1} said that {GENDER1:cond:=1?he|=0?she} wouldn't care either way. The man gazed at {CHARACTER1} menacingly. {CHARACTER1} seemed unimpressed.
+
+Suddenly the man started laughing.
+""You're serious aren't ya? Maybe a crazy person like you can actually make good use my explosive barrels. Okay fine. You can have the barrels.""",12,"{CHARACTER1}说{GENDER1:cond:=1?他|=0?她}无论如何都不会在意。那个男人威胁地盯着{CHARACTER1}。{CHARACTER1}似乎毫不在意。
+
+突然，那个男人开始大笑。“你是认真的吧？也许像你这样的疯子真的能好好利用我的爆炸桶。好吧，你们可以拿走这些桶。”"
+1834453638746121,WORLDEVENT12_DECISION2CONDRESULT1_PAGE3,"""Now go. I need to unbarricade my doors before you can use them barrels"".",12,“现在走吧。在你们能用这些桶之前，我需要解除封锁我的门。”
+1834453638746122,WORLDEVENT12_DECISION3,Leave the man alone.,12,让那个男人自己待着。
+1834453642940416,WORLDEVENT12_DECISION3RESULT0_PAGE1,The Party decided to just leave the man alone.,12,队伍决定就让那个男人自己待着。

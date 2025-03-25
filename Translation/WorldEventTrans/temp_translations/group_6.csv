@@ -1,0 +1,69 @@
+ID,Key,String,EventID,TranslatedString
+1834453647134721,WORLDEVENT16_PAGE1,"A large group of men began setting up what appeared to be an archery range, with targets at a distance that would have seemed unreasonable even for experienced archers.
+
+""Now comes the first challenge of the day my dear contestants. Shoot at the targets and prove to the spectators your archery skills. You will be provided a simple bow and a quiver of arrows, so that no one can say that the result was due to their own equipment.""",16,"一大群人开始搭建一个看起来像是射箭场的地方，远处的靶子即使对于经验丰富的弓箭手来说也显得不切实际。  
+
+“现在，亲爱的参赛者们，今天的第一个挑战来了。射击靶子，向观众证明你们的射箭技巧。你们将获得一把简单的弓和一筐箭矢，这样没人可以说结果是由于他们自己的装备。”"
+1834453647134722,WORLDEVENT16_DECISION1,Choose an adventurer to compete.,16,选择一位冒险者参赛。
+1834453647134723,WORLDEVENT16_DECISION1RESULT0_PAGE1,"{CHARACTER1} nocked an arrow, took careful aim, and released it. Bullseye! With a smirk, {GENDER1:cond:=1?he|=0?she} repeated the process, firing arrow after arrow until only a handful remained. Most of them struck the very center of the target, with a few mere inches away from it.
+
+
+Suddenly, the spectators erupted in cheers. One of the contestants had achieved a perfect bullseye with every single arrow, and it was the female ranger from the standout party.
+
+
+""CHANTAY! CHANTAY!"" the crowd roared.",16,"{CHARACTER1} 上弦，仔细瞄准，然后放箭。正中靶心！带着得意的微笑，{GENDER1:cond:=1?他|=0?她} 重复这个过程，接连射出箭矢，直到只剩下几支。大多数箭矢都击中了靶子的正中心，只有几支离靶心几英寸远。  
+
+突然，观众们爆发出欢呼声。一位参赛者每一支箭都正中靶心，而她正是那支出色队伍中的女游侠。  
+
+“CHANTAY！CHANTAY！”人群欢呼道。"
+1834453647134724,WORLDEVENT16_DECISION1ALTRESULT0_PAGE1,"{CHARACTER1} nocked an arrow, took careful aim, and released it... only to miss the target. Frustrated by the result, {GENDER1:cond:=1?he|=0?she} repeated the process, firing arrow after arrow until {GENDER1:cond:=1?his|=0?her} quiver was empty. In the end, only a handful of arrows found their mark.
+
+
+Meanwhile, the spectators erupted in cheers. One of the contestants achieved a perfect bullseye with every single arrow, and it was the female ranger from the standout party.
+
+
+""CHANTAY! CHANTAY!"" the crowd roared. At least now the adventurers knew one of their adversaries' name.",16,"{CHARACTER1} 上弦，仔细瞄准，然后放箭……却偏离了靶子。对结果感到沮丧，{GENDER1:cond:=1?他|=0?她} 重复这个过程，接连射出箭矢，直到{GENDER1:cond:=1?他的|=0?她的}箭筐空了。最后，只有几支箭找到了目标。  
+
+与此同时，观众们爆发出欢呼声。一位参赛者每一支箭都正中靶心，而她正是那支出色队伍中的女游侠。  
+
+“CHANTAY！CHANTAY！”人群欢呼道。至少现在冒险者们知道了她的名字。"
+1834453647134725,WORLDEVENT17_DECISION1,Ignore the shouts and continue firing,17,忽视欢呼声，继续射箭。
+1834453647134726,WORLDEVENT17_DECISION1RESULT0_PAGE1,"{CHARACTER1} made an effort to tune out the crowd's cheers and fired the remaining arrows at the target. However, with the distraction of the spectators, only one of the remaining arrows found its mark.
+
+
+Nonetheless, observing the performances of the other contestants, {CHARACTER1} knew that they probably have achieved one of the higher scores.",17,"{CHARACTER1} 努力忽略人群的欢呼声，向靶子射出了剩下的箭矢。然而，由于观众的干扰，只有一支箭找到了目标。  
+
+尽管如此，观察其他参赛者的表现，{CHARACTER1} 知道自己可能得到了较高的分数。"
+1834453647134727,WORLDEVENT17_DECISION2,Try to hit Chantay's arrows off the target.,17,尝试将CHANTAY的箭射离靶子。
+1834453651329024,WORLDEVENT17_DECISION2RESULT0_PAGE1,"{CHARACTER1} aimed for Chantay's target. Or more accurately: {GENDER1:cond:=1?he|=0?she} aimed for the spots where the arrows were embedded into the target, intending to knock them all off. 
+
+{GENDER1:cond:=1?he|=0?she} released the arrow.
+
+The crowd gasped as an arrow from someone else struck Chantay's target, dislodging all her arrows. The crowd roared in excitement. They would have undoubtedly cheered {CHARACTER1}'s name if they had known it. Annoyed, Chantay shot a disapproving look at {CHARACTER1}.
+
+The Master of the Arena noticed the unconventional approach and commented, ""Very unorthodox, but I like it! I'll give you extra points for that!"" Filled with pride over {GENDER1:cond:=1?his|=0?her} action, {CHARACTER1} released the remaining arrows at {GENDER1:cond:=1?his|=0?her} target, each striking the very center with precision.
+",17,"{CHARACTER1} 瞄准了CHANTAY的靶子。更准确地说：{GENDER1:cond:=1?他|=0?她} 瞄准了箭矢嵌入靶子的地方，打算将它们全部射掉。  
+
+{GENDER1:cond:=1?他|=0?她} 放箭。  
+
+人群惊呼，另一人的箭射中了CHANTAY的靶子，将她的所有箭矢都击落。人群兴奋地欢呼。如果他们知道{CHARACTER1}的名字，肯定会为他欢呼。CHANTAY不满地朝{CHARACTER1}投去一个不屑的目光。  
+
+竞技场的主持人注意到了这种非常规的做法，并评论道：“非常不寻常，但我喜欢！我会为此给你额外的分数！”因{GENDER1:cond:=1?他的|=0?她的}表现而感到自豪的{CHARACTER1} 向{GENDER1:cond:=1?他的|=0?她的}靶子射出了剩下的箭，每一支都精准地击中了靶心。"
+1834453651329025,WORLDEVENT17_DECISION2ALTRESULT0_PAGE1,"{CHARACTER1} aimed for Chantay's target. Or more accurately: {GENDER1:cond:=1?he|=0?she} aimed for the spots where the arrows were embedded into the target, intending to knock them all off. 
+
+{GENDER1:cond:=1?he|=0?she} released the arrow.
+
+Unfortunately, the arrow missed its intended target and struck the ground. Only a few of the spectators grasped {CHARACTER1}'s intention, and those who did couldn't help but snicker. Consumed by embarrassment over {GENDER1:cond:=1?his|=0?her} own actions, {CHARACTER1} continued to shoot at {GENDER1:cond:=1?his|=0?her} original target, missing all the remaining arrows.",17,"{CHARACTER1} 瞄准了CHANTAY的靶子。更准确地说：{GENDER1:cond:=1?他|=0?她} 瞄准了箭矢嵌入靶子的地方，打算将它们全部射掉。  
+
+{GENDER1:cond:=1?他|=0?她} 放箭。  
+
+不幸的是，箭偏离了目标，射到了地面。只有少数观众理解了{CHARACTER1}的意图，而那些理解的人忍不住窃笑。因{GENDER1:cond:=1?他的|=0?她的}行为而感到尴尬的{CHARACTER1} 继续朝{GENDER1:cond:=1?他的|=0?她的}原始靶子射箭，结果所有箭矢都未能命中。"
+1834453651329026,WORLDEVENT18_PAGE1,"In front of {TARGET1} stands Bai, cracking her knuckles. 
+
+""I hope you're ready. Otherwise you're getting your ass whooped!"" she said confidently. Hearing that one wouldn't think that she was wearing a blindfold.
+
+Prepare for Battle!",18,"在{TARGET1}面前，白正在掰手指。  
+
+“我希望你准备好了。否则你就要被打得体无完肤！”她自信地说道。听到这句话，谁也不会想到她竟然戴着眼罩。  
+
+准备战斗！"

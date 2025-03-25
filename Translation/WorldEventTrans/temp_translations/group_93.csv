@@ -1,0 +1,32 @@
+ID,Key,String,EventID,TranslatedString
+1834454297251840,WORLDEVENT289_PAGE1,"The fourth day of the siege began, and this time the enemy launched a determined assault. Using a makeshift wooden bridge, they connected the stone bridge to the ledges of the cliff supporting the fortress. This allowed them to reach the walls with their ladders. Astrid assumed command of a group of skilled archers positioned on the walls, raining arrows down on the advancing forces. Despite causing numerous casualties, the enemy managed to place several ladders at different points on the wall. The adversaries finally initiated their attack on the walls, but they were met with fierce resistance from the defending adventurers. Instructors took charge of groups, contributing to the defense.
+
+Despite the Adventurer Guild's low numbers, the walls were easy to defend. Climbing enemies had to endure projectiles and face fierce resistance upon landing. It seemed, for a moment, that the walls would hold, and the enemy struggled to gain a foothold.
+
+",289,"包围战的第四天开始了，这一次敌人发起了决心坚定的攻击。他们利用一座临时木桥，将石桥与支撑堡垒的悬崖边缘连接起来。这使得他们能够用梯子抵达城墙。阿斯特丽德指挥着一组熟练的弓箭手，驻守在城墙上，向前进的敌军射下箭雨。尽管造成了大量伤亡，敌人还是在城墙的不同位置架起了几架梯子。对手终于对城墙发起了攻击，但却遭到了防守冒险者的激烈抵抗。教官们负责指挥各组，助力防御。
+
+尽管冒险者公会的人数不多，但城墙的防守依然轻松。攀爬的敌人不得不忍受飞来的投射物，并在落地时面临激烈的抵抗。似乎在那一刻，城墙能够坚守，敌人也在努力争取立足之地。"
+1834454297251841,WORLDEVENT289RESULT0_PAGE1,"However, a wounded runner suddenly approached the Guild Master, reporting a section of the wall in imminent danger of falling to the enemy. Led by a demonic being, the novice adventurers were unable to withstand the onslaught. Without hesitation, the Guild Master and their party swiftly moved towards the threatened location.
+
+There, they witnessed struggling novices facing a giant demonic monster with the upper body of a woman and the lower body of a snake. Wielding a giant glaive, the creature carved a bloody path among the novices with each swing. They wondered how that beast was able to climb the ladder with that kind of body, but it didn't leave them much time to ponder on the question. Upon spotting the Guild Master and their party, the demon's eyes filled with hate. Slithering with unimaginable speed, it attacked them!",289,"然而，一名受伤的信使突然接近公会会长，报告说城墙的一个部分即将被敌人攻陷。在一个恶魔的带领下，新手冒险者们无法抵挡猛攻。公会会长毫不犹豫，迅速带领队伍朝着受威胁的地点赶去。
+
+在那里，他们目睹了挣扎的新手们正面对一只上半身是女人、下半身是蛇的巨大恶魔怪物。这个生物挥舞着一把巨大的戟，每一次挥动都在新手中开辟出一条血腥的道路。他们想知道那种身体的怪物是如何爬上梯子的，但没有给他们太多时间去思考这个问题。当恶魔看到公会会长和他们的队伍时，眼中充满了仇恨。它以难以想象的速度滑行，向他们发起了攻击！"
+1834454297251842,WORLDEVENT290_PAGE1,"As the demonic creature fell beneath the combined might of the party, a surge of renewed determination swept through the defending adventurers. With the monstrous threat neutralized, they rallied against the remaining enemy forces, driving them back from the walls. The clash of steel and the crackling of magic resonated across the fortress as the adventurers reclaimed control.
+
+The fighting persisted throughout the day, the defenders pushing back the enemy with everything they got. As the sun began its descent, casting a warm glow over the battlefield, the attackers, unable to maintain their assault, finally withdrew. A collective cry of victory erupted among the adventurers. Hope, like a seed started to take root in the hearts of the defenders and many started to talk about the future again. Although the situation remained dire, the Guild Master allowed the adventurers to revel in their moment of triumph.
+",290,"当恶魔生物在队伍的联合力量下倒下时，防守的冒险者们感受到了一股重新焕发的决心。随着巨大的威胁被消除，他们开始反击剩余的敌军，将其驱逐出城墙。钢铁的碰撞声和魔法的爆裂声在堡垒上空回荡，冒险者们重新夺回了控制权。
+
+战斗持续了一整天，防守者们用尽全力将敌人逼退。随着太阳开始下沉，温暖的光辉洒在战场上，攻击者们无法维持攻击，最终撤退。冒险者们齐声欢呼，胜利的呐喊响彻云霄。希望如同种子般在防守者的心中扎根，许多人开始再次谈论未来。尽管形势依然严峻，公会会长允许冒险者们享受这一胜利的时刻。"
+1834454297251843,WORLDEVENT291_PAGE1,"Fiola looked slightly pale when the group saw her. The Guild Master, feeling irritated, asked what she did with their food ration they gave to her yesterday.
+
+""I gave it to an adventurer. They can make better use of that energy than me,"" she said in a tone as if she didn't want to hear any complaint from the Guild Master.
+
+The Guild Master was about to say something but gave up. They were too hungry to argue right now.",291,"菲奥拉看到小组时显得有些苍白。公会会长感到恼火，询问她昨天给她的食物配给做了什么。
+
+“我把它给了一个冒险者。他们能比我更好地利用这些能量，”她用一种不想听到公会会长抱怨的语气说道。
+
+公会会长正要说些什么，但最终放弃了。他们现在太饿了，无法争论。"
+1834454301446144,WORLDEVENT291_DECISION1,Take a look around and see what everyone is doing.,291,四处看看，看看大家在做什么。
+1834454301446145,WORLDEVENT291_DECISION1RESULT0_PAGE1,The Guild Master decided that they needed to look around and see how morale was holding up.,291,公会会长决定他们需要四处看看，了解士气的情况。
+1834454301446146,WORLDEVENT291_DECISION2,The Guild Master decided to retire for the day. <color=orange>[This will immediately start the next day.],291,公会会长决定今天就此休息。<color=orange>[这将立即开始下一天。]
+1834454301446147,WORLDEVENT291_DECISION2RESULT0_PAGE1,Feeling tired and hungry the Guild Master decided to go to bed early that day. ,291,感到疲惫和饥饿的公会会长决定那天早早上床睡觉。
